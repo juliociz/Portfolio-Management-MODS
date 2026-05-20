@@ -13,63 +13,79 @@ load_dotenv(dotenv_path=env_path)
 NEWS_API_KEY = os.getenv("MY_NEWS_API_KEY")
 newsapi = NewsApiClient(api_key=NEWS_API_KEY)
 
-# 2. 🗓️ CALCUL DE LA DATE (Max 7 jours en arrière)
+# 2.  CALCUL DE LA DATE (Max 7 jours en arrière)
 date_limite = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
 
-TARGET_STOCK = "Tesla"
+#  LA LISTE DE TES 5 ENTREPRISES
+stocks = [
+    {"name": "Nike", "ticker": "NKE"},
+    {"name": "Target", "ticker": "TGT"},
+    {"name": "Disney", "ticker": "DIS"},
+    {"name": "Starbucks", "ticker": "SBUX"},
+    {"name": "Tesla", "ticker": "TSLA"}
+]
+# Liste noire générale pour éviter les bruits de reviews/comparatifs inutiles
+blacklist = ["review", "unboxing", "versus", "vs"]
 
-# 🌟 LA STRATÉGIE DE FILTRAGE : 
-# On cherche "Tesla" obligatoirement lié au contexte boursier. 
-# On supprime les domaines fermés pour laisser NewsAPI chercher sur tout son index financier de confiance.
-query_finance = '(Tesla OR "TSLA") AND (stock OR earnings OR financial OR shares OR market)'
+print(f"🔄 Lancement de la récupération des articles (7 derniers jours, depuis le {date_limite})...\n")
 
-print(f"🔄 Récupération des 15 articles les plus importants depuis le {date_limite}...")
-
-response = newsapi.get_everything(
-    q=query_finance,
-    language="en",
-    sort_by="relevancy",       # Du plus pertinent au moins pertinent
-    from_param=date_limite,    # 🌟 BLOCAGE STRICT À MAX 7 JOURS
-    page_size=30               # On en demande 30 pour appliquer notre filtre anti-marques après
-)
-
-# 3. Structuration du JSON pour FinBERT
-finbert_ready_data = {
-    "ticker": TARGET_STOCK,
-    "date_filter": f"Last 7 days (since {date_limite})",
-    "articles": []
-}
-
-# Liste noire des mots polluants (Huawei, Hyundai, etc.)
-blacklist = ["huawei", "hyundai", "toyota", "byd", "honda", "nissan", "review"]
-
-for art in response["articles"]:
-    if not art["title"] or not art["description"]:
-        continue
+# 3. BOUCLE SUR CHAQUE ENTREPRISE
+for stock in stocks:
+    name = stock["name"]
+    ticker = stock["ticker"]
     
-    # Sécurité anti-pollution : on vérifie le titre et la description
-    text_content = f"{art['title']} {art['description']}".lower()
-    if any(bad_word in text_content for bad_word in blacklist):
-        continue  # On ignore l'article s'il contient un concurrent
+    print(f"📊 Traitement de {name} ({ticker})...")
     
-    full_text_signal = f"{art['title']}. {art['description']}"
+    # Stratégie de requête ultra-ciblée finance pour chaque entreprise
+    query_finance = f'("{name}" OR "{ticker}") AND (stock OR earnings OR financial OR shares OR market)'
     
-    finbert_ready_data["articles"].append({
-        "source": art["source"]["name"],
-        "date": art["publishedAt"],
-        "text_to_analyze": full_text_signal  
-    })
-    
-    # 🌟 On s'arrête dès qu'on a atteint exactement 15 articles propres
-    if len(finbert_ready_data["articles"]) == 15:
-        break
+    try:
+        response = newsapi.get_everything(
+            q=query_finance,
+            language="en",
+            sort_by="relevancy",
+            from_param=date_limite,
+            page_size=30  # On en prend 30 pour filtrer le bruit ensuite
+        )
+        
+        finbert_ready_data = {
+            "ticker": ticker,
+            "company_name": name,
+            "date_filter": f"Last 7 days (since {date_limite})",
+            "articles": []
+        }
+        
+        for art in response["articles"]:
+            if not art["title"] or not art["description"]:
+                continue
+            
+            # Filtrage anti-pollution
+            text_content = f"{art['title']} {art['description']}".lower()
+            if any(bad_word in text_content for bad_word in blacklist):
+                continue
+                
+            full_text_signal = f"{art['title']}. {art['description']}"
+            
+            finbert_ready_data["articles"].append({
+                "source": art["source"]["name"],
+                "date": art["publishedAt"],
+                "text_to_analyze": full_text_signal  
+            })
+            
+            # On s'arrête à 15 articles max par entreprise
+            if len(finbert_ready_data["articles"]) == 15:
+                break
+        
+        # 4. Sauvegarde du fichier JSON spécifique à l'entreprise
+        output_dir = Path(__file__).resolve().parent
+        output_file = output_dir / f"{ticker.lower()}_for_finbert.json"
+        
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(finbert_ready_data, f, ensure_ascii=False, indent=4)
+            
+        print(f" Fichier '{output_file.name}' généré avec {len(finbert_ready_data['articles'])} articles.\n")
+        
+    except Exception as e:
+        print(f" Erreur lors de la récupération pour {name} : {e}\n")
 
-# 4. Sauvegarde
-output_dir = Path(__file__).resolve().parent
-output_file = output_dir / f"{TARGET_STOCK.lower()}_for_finbert.json"
-
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(finbert_ready_data, f, ensure_ascii=False, indent=4)
-
-print(f"✅ Fichier '{output_file.name}' généré !")
-print(f"📊 {len(finbert_ready_data['articles'])} articles 100% boursiers de moins de 7 jours prêts.")
+print(" Opération terminée ! Tes 5 fichiers JSON sont prêts pour FinBERT.")
