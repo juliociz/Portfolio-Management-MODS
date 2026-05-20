@@ -1,0 +1,101 @@
+{
+    "ticker": "Tesla",
+    "data_format": "Merged Title and Description for NLP",
+    "articles": [
+        {
+            "source": "Bloomberg",
+            "date": "2026-04-30T00:11:50Z",
+            "text_to_analyze": "Hyundai unveils AI-powered infotainment system with Gleo AI voice assistant. Hyundai unveils Pleos Connect with Gleo AI voice assistant, enabling natural commands and OTA updates, as it targets 20 million software-defined vehicles by 2030."
+        },
+        {
+            "source": "Bloomberg",
+            "date": "2026-05-19T07:54:03Z",
+            "text_to_analyze": "Reliance in talks with CATL, others for big battery system parts. Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts."
+        },
+        {
+            "source": "Bloomberg",
+            "date": "2026-04-27T07:43:09Z",
+            "text_to_analyze": "JSW Motors plans to open own showrooms before India car debut. JSW Motors plans to establish four experience centers in major Indian cities like Mumbai, New Delhi, and Ahmedabad before launching its first product in the second half of the year"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-04-22T16:03:04Z",
+            "text_to_analyze": "Tesla set to report first-quarter results after the bell. Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-11T15:54:52Z",
+            "text_to_analyze": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit. Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-13T14:14:20Z",
+            "text_to_analyze": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'. Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\""
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-08T21:03:09Z",
+            "text_to_analyze": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking. Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-06T20:32:33Z",
+            "text_to_analyze": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think. Out of all live events related to Elon Musk, trading activity on his suit against OpenAI is the second highest out of all contracts related to the billionaire."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T17:34:56Z",
+            "text_to_analyze": "Jury rules against Elon Musk in court battle against Sam Altman, OpenAI. The jury returned its verdict in Musk v. Altman three weeks after the trial began featuring two of the most prominent figures in AI."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-07T15:21:45Z",
+            "text_to_analyze": "Trump Accounts could allow direct stock donations down the road: Reports. Trump Accounts could allow direct stock donations, according to reports. Here's what that change could mean for investors."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-15T01:02:39Z",
+            "text_to_analyze": "Closing arguments conclude in Musk v. Altman, jury to deliberate next week. The jury's verdict in Musk v. Altman will be advisory, and deliberations are set to begin on Monday."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T15:00:02Z",
+            "text_to_analyze": "The last century was great for U.S. stocks, but the next decade might be challenging, says investing chief. High valuations and narrow concentration could present challenges for the S&P 500 moving forward, one expert says."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-04-29T12:00:02Z",
+            "text_to_analyze": "OpenAI looms over earnings from tech hyperscalers. Amazon, Alphabet, Meta and Microsoft report quarterly results after the bell, and OpenAI is likely to be a big topic across the board."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-02T12:00:01Z",
+            "text_to_analyze": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'. Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-12T02:47:29Z",
+            "text_to_analyze": "Five things to watch in Asia as Trump prepares to meet China's Xi this week. The U.S. and Chinese presidents are scheduled to gather in Beijing on Thursday and Friday amid a packed week of diplomatic meetings."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-16T11:36:25Z",
+            "text_to_analyze": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit. The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-06T17:56:04Z",
+            "text_to_analyze": "Elon Musk's Terafab chip factory in Texas could cost up to $119 billion, filing shows. Elon Musk's giant Terafab facility in Texas could cost up to $119 billion, with hopes of manufacturing chips for Tesla, SpaceX and xAI"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-07T15:20:59Z",
+            "text_to_analyze": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat. Shivon Zilis, a former OpenAI board member who has four children with Musk, testified that the Tesla CEO wanted the AI startup to join his EV company."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-14T12:22:19Z",
+            "text_to_analyze": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'. Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation."
+        }
+    ]
+}

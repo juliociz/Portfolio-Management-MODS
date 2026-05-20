@@ -1,45 +1,47 @@
 import json
 from newsapi import NewsApiClient
 
-# 1. Connexion
-NEWS_API_KEY = "f78933a29be64254b995b03134f70a7e"  # Mets ta vraie clé
+# 1. Connexion à l'API
+NEWS_API_KEY = "f78933a29be64254b995b03134f70a7e"  # Mets ta vraie clé ici
 newsapi = NewsApiClient(api_key=NEWS_API_KEY)
 
-# 2. Ta liste de médias de confiance (Wall Street Standard)
+# 2. Paramètres de recherche (Médias financiers de premier plan)
+TARGET_STOCK = "Tesla"
 trusted_domains = "bloomberg.com,cnbc.com,reuters.com,wsj.com,ft.com"
 
-# 3. Requête ciblée (On cherche juste l'action dans ces médias précis)
-TARGET_STOCK = "Tesla"
+print(f"🔄 Récupération et préparation des données pour FinBERT ({TARGET_STOCK})...")
 
 response = newsapi.get_everything(
     q=TARGET_STOCK,
-    domains=trusted_domains,  # 🌟 LA MAGIE EST ICI : l'API ignore le reste du web
+    domains=trusted_domains,
     language="en",
-    sort_by="publishedAt",    # 'publishedAt' pour avoir les toutes dernières news, ou 'popularity'
-    page_size=15
+    sort_by="popularity",
+    page_size=20
 )
 
-# 4. Structuration du JSON propre
-cleaned_data = {
+# 3. Structuration du JSON "Prêt pour le NLP"
+finbert_ready_data = {
     "ticker": TARGET_STOCK,
-    "filter": "Top Financial Media Only",
+    "data_format": "Merged Title and Description for NLP",
     "articles": []
 }
 
 for art in response["articles"]:
     if not art["title"] or not art["description"]:
         continue
-        
-    cleaned_data["articles"].append({
-        "source": art["source"]["name"],  # Tu verras s'afficher "Bloomberg", "Reuters"...
+    
+    # 🌟 C'est cette clé 'text_to_analyze' que tu donneras directement à FinBERT
+    full_text_signal = f"{art['title']}. {art['description']}"
+    
+    finbert_ready_data["articles"].append({
+        "source": art["source"]["name"],
         "date": art["publishedAt"],
-        "title": art["title"],
-        "description": art["description"],
-        "url": art["url"]
+        "text_to_analyze": full_text_signal  # Texte dense, nettoyé et sans fioritures
     })
 
-# 5. Sauvegarde
-with open(f"{TARGET_STOCK.lower()}_premium_news.json", "w", encoding="utf-8") as f:
-    json.dump(cleaned_data, f, ensure_ascii=False, indent=4)
+# 4. Sauvegarde
+output_file = f"{TARGET_STOCK.lower()}_for_finbert.json"
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(finbert_ready_data, f, ensure_ascii=False, indent=4)
 
-print(f"Fichier premium créé ! {len(cleaned_data['articles'])} articles récupérés sur les médias du Top Tier.")
+print(f"✅ Fichier '{output_file}' généré et 100% prêt à être analysé !")
