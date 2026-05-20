@@ -1,101 +1,81 @@
 {
     "ticker": "Tesla",
-    "data_format": "Merged Title and Description for NLP",
+    "date_filter": "Last 7 days (since 2026-05-13)",
     "articles": [
         {
-            "source": "Bloomberg",
-            "date": "2026-04-30T00:11:50Z",
-            "text_to_analyze": "Hyundai unveils AI-powered infotainment system with Gleo AI voice assistant. Hyundai unveils Pleos Connect with Gleo AI voice assistant, enabling natural commands and OTA updates, as it targets 20 million software-defined vehicles by 2030."
+            "source": "Yahoo Entertainment",
+            "date": "2026-05-18T16:55:43Z",
+            "text_to_analyze": "SpaceX’s Mega-IPO Puts a Price on the Fear of Missing Out. (Bloomberg) -- Elon Musk has turned science fiction into reality for the better part of two decades, making believers rich and earning the benefit of the..."
         },
         {
-            "source": "Bloomberg",
-            "date": "2026-05-19T07:54:03Z",
-            "text_to_analyze": "Reliance in talks with CATL, others for big battery system parts. Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts."
+            "source": "Business Insider",
+            "date": "2026-05-14T09:08:01Z",
+            "text_to_analyze": "I wanted an adventure after college, so I traveled abroad. Now I feel pressure to match my family's success.. A GenZer left high school early, ice climbed professionally, and interned at Tesla before starting her own company. Now she feels pressure to succeed."
         },
         {
-            "source": "Bloomberg",
-            "date": "2026-04-27T07:43:09Z",
-            "text_to_analyze": "JSW Motors plans to open own showrooms before India car debut. JSW Motors plans to establish four experience centers in major Indian cities like Mumbai, New Delhi, and Ahmedabad before launching its first product in the second half of the year"
+            "source": "Yahoo Entertainment",
+            "date": "2026-05-15T20:06:14Z",
+            "text_to_analyze": "Trump’s More Than 3,700 Trades Astonish Wall Street Insiders. (Bloomberg) -- President Donald Trump’s latest financial disclosures show that he or his investment advisers made more than 3,700 trades in the first quarter..."
         },
         {
-            "source": "CNBC",
-            "date": "2026-04-22T16:03:04Z",
-            "text_to_analyze": "Tesla set to report first-quarter results after the bell. Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market."
+            "source": "Abcnews.com",
+            "date": "2026-05-14T20:33:35Z",
+            "text_to_analyze": "Dow closes above 50,000 as investors eye Trump-Xi summit. Oil prices inched higher on Thursday."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-11T15:54:52Z",
-            "text_to_analyze": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit. Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics."
+            "source": "Business Insider",
+            "date": "2026-05-18T20:28:59Z",
+            "text_to_analyze": "Sam Altman beat Elon Musk in court. Now OpenAI's rivalry with Anthropic takes center stage.. OpenAI and CEO Sam Altman won their lawsuit against Elon Musk, paving the way for a massive IPO and fueling competition with Anthropic."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-13T14:14:20Z",
-            "text_to_analyze": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'. Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\""
+            "source": "Yahoo Entertainment",
+            "date": "2026-05-18T22:23:43Z",
+            "text_to_analyze": "Stock market today: Dow, S&P 500, Nasdaq futures slide as rising yields keep up pressure. US stock futures traded flat as Wall Street weighed inflation concerns and counted down to Nvidia (NVDA) earnings."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-08T21:03:09Z",
-            "text_to_analyze": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking. Samsung, Intel and TSMC are the only three companies in the world capable of manufacturing the most advanced chips needed for AI."
+            "source": "Ritholtz.com",
+            "date": "2026-05-15T19:00:40Z",
+            "text_to_analyze": "Good Quarterly Earnings Behavior. The SEC has proposed moving to semiannual earnings reporting. On Monday, we discussed why eliminating quarterly earnings as a basic premise was a bad idea: it reduces transparency, increases volatility, and is likely to create a surge in insider trading, all …"
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-06T20:32:33Z",
-            "text_to_analyze": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think. Out of all live events related to Elon Musk, trading activity on his suit against OpenAI is the second highest out of all contracts related to the billionaire."
+            "source": "Slashdot.org",
+            "date": "2026-05-13T03:30:00Z",
+            "text_to_analyze": "Sam Altman Testifies That Elon Musk Wanted Control of OpenAI. OpenAI CEO Sam Altman took the stand Tuesday in Elon Musk's trial against the company, testifying that Musk repeatedly sought control of OpenAI before leaving in 2018. Altman said he opposed putting AI \"under the control of any one person,\" while Musk's lawye…"
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-18T17:34:56Z",
-            "text_to_analyze": "Jury rules against Elon Musk in court battle against Sam Altman, OpenAI. The jury returned its verdict in Musk v. Altman three weeks after the trial began featuring two of the most prominent figures in AI."
+            "source": "Ritholtz.com",
+            "date": "2026-05-13T21:00:03Z",
+            "text_to_analyze": "At The Money: Is SpaceX IPO Breaking Capitalism?. ﻿     At The Money: Is SpaceX IPO Breaking Capitalism? (May 13, 2026) Once upon a time, companies went public to raise money. Road shows, pitch decks, investor meetings — and eventually, you’d float some stock and IPO. That’s not the case anymore. Full transc…"
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-07T15:21:45Z",
-            "text_to_analyze": "Trump Accounts could allow direct stock donations down the road: Reports. Trump Accounts could allow direct stock donations, according to reports. Here's what that change could mean for investors."
+            "source": "TheStreet",
+            "date": "2026-05-13T17:47:00Z",
+            "text_to_analyze": "Tesla gets a China win that comes with a warning. Tesla’s (TSLA) worldwide EV story is looking a bit vulnerable. The car company that appeared to be dictating the pace of the electric vehicle market has..."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-15T01:02:39Z",
-            "text_to_analyze": "Closing arguments conclude in Musk v. Altman, jury to deliberate next week. The jury's verdict in Musk v. Altman will be advisory, and deliberations are set to begin on Monday."
+            "source": "Barchart.com",
+            "date": "2026-05-18T17:38:32Z",
+            "text_to_analyze": "Nvidia Stock Hit Record Highs on Huang’s China Visit. Q1 Earnings Could Take NVDA Even Higher.. NVDA stock recently hit record highs, but its upcoming earnings report could be the next major catalyst."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-18T15:00:02Z",
-            "text_to_analyze": "The last century was great for U.S. stocks, but the next decade might be challenging, says investing chief. High valuations and narrow concentration could present challenges for the S&P 500 moving forward, one expert says."
+            "source": "XDA Developers",
+            "date": "2026-05-16T23:00:23Z",
+            "text_to_analyze": "13 years later, the GTX Titan is still the most important GPU Nvidia ever made. Borrowing a $7,000 Tesla and selling it for $1,000 changed everything"
         },
         {
-            "source": "CNBC",
-            "date": "2026-04-29T12:00:02Z",
-            "text_to_analyze": "OpenAI looms over earnings from tech hyperscalers. Amazon, Alphabet, Meta and Microsoft report quarterly results after the bell, and OpenAI is likely to be a big topic across the board."
+            "source": "Yahoo Entertainment",
+            "date": "2026-05-13T22:32:30Z",
+            "text_to_analyze": "Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off. Eyes are on the crucial Trump-Xi summit that has kicked off in Beijing, with trade and AI high on the agenda."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-02T12:00:01Z",
-            "text_to_analyze": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'. Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman."
+            "source": "TheStreet",
+            "date": "2026-05-16T23:23:51Z",
+            "text_to_analyze": "Cathie Wood sells $40.6 million of popular semiconductor stock. Cathie Wood, chief of Ark Investment Management, is known for actively trading her holdings, sometimes selling stocks during sharp market pullbacks..."
         },
         {
-            "source": "CNBC",
-            "date": "2026-05-12T02:47:29Z",
-            "text_to_analyze": "Five things to watch in Asia as Trump prepares to meet China's Xi this week. The U.S. and Chinese presidents are scheduled to gather in Beijing on Thursday and Friday amid a packed week of diplomatic meetings."
-        },
-        {
-            "source": "CNBC",
-            "date": "2026-05-16T11:36:25Z",
-            "text_to_analyze": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit. The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows."
-        },
-        {
-            "source": "CNBC",
-            "date": "2026-05-06T17:56:04Z",
-            "text_to_analyze": "Elon Musk's Terafab chip factory in Texas could cost up to $119 billion, filing shows. Elon Musk's giant Terafab facility in Texas could cost up to $119 billion, with hopes of manufacturing chips for Tesla, SpaceX and xAI"
-        },
-        {
-            "source": "CNBC",
-            "date": "2026-05-07T15:20:59Z",
-            "text_to_analyze": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat. Shivon Zilis, a former OpenAI board member who has four children with Musk, testified that the Tesla CEO wanted the AI startup to join his EV company."
-        },
-        {
-            "source": "CNBC",
-            "date": "2026-05-14T12:22:19Z",
-            "text_to_analyze": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'. Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation."
+            "source": "Barchart.com",
+            "date": "2026-05-16T15:00:02Z",
+            "text_to_analyze": "Ford’s EV Pivot Was Disastrous. Now It’s Trying to Compete with Tesla on Energy Storage.. Ford, which failed to meet its ambitious EV targets, is now betting on the energy storage business. Can the company compete with Tesla there?"
         }
     ]
 }
