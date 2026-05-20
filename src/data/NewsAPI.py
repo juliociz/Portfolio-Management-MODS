@@ -1,55 +1,45 @@
 import json
 from newsapi import NewsApiClient
 
-# 1. Configuration
-NEWS_API_KEY = "f78933a29be64254b995b03134f70a7e"  # Mets ta clé ici
-TARGET_STOCK = "Tesla"
-
+# 1. Connexion
+NEWS_API_KEY = "f78933a29be64254b995b03134f70a7e"  # Mets ta vraie clé
 newsapi = NewsApiClient(api_key=NEWS_API_KEY)
 
-# 2. Construction de la requête multi-sources
-# On cible l'entreprise ET des mots-clés qui forcent le contenu financier/business
-query = f"{TARGET_STOCK} AND (stock OR shares OR earnings OR revenue OR business OR market)"
+# 2. Ta liste de médias de confiance (Wall Street Standard)
+trusted_domains = "bloomberg.com,cnbc.com,reuters.com,wsj.com,ft.com"
 
-# Optionnel : Tu peux lister des domaines précis si tu veux filtrer au maximum
-# exemples : bloomberg.com, cnbc.com, reuters.com, wsj.com
-# Pour ce script, on reste sur 'popularity' qui remonte naturellement ces grands médias.
+# 3. Requête ciblée (On cherche juste l'action dans ces médias précis)
+TARGET_STOCK = "Tesla"
 
-print(f"Recherche d'informations globales sur {TARGET_STOCK}...")
-
-# 3. Appel à l'API
 response = newsapi.get_everything(
-    q=query,
+    q=TARGET_STOCK,
+    domains=trusted_domains,  # 🌟 LA MAGIE EST ICI : l'API ignore le reste du web
     language="en",
-    sort_by="popularity",  # Trie par l'importance du média (Bloomberg, CNBC passeront devant)
-    page_size=30           # On récupère les 30 articles les plus importants
+    sort_by="publishedAt",    # 'publishedAt' pour avoir les toutes dernières news, ou 'popularity'
+    page_size=15
 )
 
-# 4. Nettoyage et structuration des données pour ton projet
-# Au lieu de garder tout le jargon technique de l'API, on extrait un JSON super propre
+# 4. Structuration du JSON propre
 cleaned_data = {
     "ticker": TARGET_STOCK,
-    "total_articles_found": len(response["articles"]),
+    "filter": "Top Financial Media Only",
     "articles": []
 }
 
 for art in response["articles"]:
-    # On ignore les articles sans titre ou sans description
     if not art["title"] or not art["description"]:
         continue
         
-    article_info = {
-        "source_media": art["source"]["name"],        # Ex: "Bloomberg", "CNBC"
-        "date_publication": art["publishedAt"],       # Date et heure
-        "title": art["title"],                        # Le titre de la news
-        "description": art["description"],            # Le résumé de la news
-        "url": art["url"]                             # Lien vers l'article complet
-    }
-    cleaned_data["articles"].append(article_info)
+    cleaned_data["articles"].append({
+        "source": art["source"]["name"],  # Tu verras s'afficher "Bloomberg", "Reuters"...
+        "date": art["publishedAt"],
+        "title": art["title"],
+        "description": art["description"],
+        "url": art["url"]
+    })
 
-# 5. Sauvegarde dans le fichier JSON
-filename = f"{TARGET_STOCK.lower()}_multi_source_news.json"
-with open(filename, "w", encoding="utf-8") as fichier:
-    json.dump(cleaned_data, fichier, ensure_ascii=False, indent=4)
+# 5. Sauvegarde
+with open(f"{TARGET_STOCK.lower()}_premium_news.json", "w", encoding="utf-8") as f:
+    json.dump(cleaned_data, f, ensure_ascii=False, indent=4)
 
-print(f"Succès ! Le fichier '{filename}' a été créé avec {len(cleaned_data['articles'])} articles financiers qualitatifs.")
+print(f"Fichier premium créé ! {len(cleaned_data['articles'])} articles récupérés sur les médias du Top Tier.")

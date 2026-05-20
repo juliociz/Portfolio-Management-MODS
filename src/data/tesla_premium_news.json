@@ -1,0 +1,111 @@
+{
+    "ticker": "Tesla",
+    "filter": "Top Financial Media Only",
+    "articles": [
+        {
+            "source": "CNBC",
+            "date": "2026-05-19T12:44:48Z",
+            "title": "Musk and Altman take their battle from court to Wall Street ahead of landmark IPOs",
+            "description": "Now that the Musk-Altman trial has reached a verdict, the two billionaires can turn their attention to readying their companies for the public market.",
+            "url": "https://www.cnbc.com/2026/05/19/musk-altman-take-their-battle-from-court-to-wall-street-ahead-of-ipos.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-19T12:17:31Z",
+            "title": "Musk loses in court, Home Depot earnings, DOJ's 'lawfare' fund and more in Morning Squawk",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "url": "https://www.cnbc.com/2026/05/19/5-things-to-know-before-the-market-opens.html"
+        },
+        {
+            "source": "Bloomberg",
+            "date": "2026-05-19T07:54:03Z",
+            "title": "Reliance in talks with CATL, others for big battery system parts",
+            "description": "Reliance is negotiating with CATL and others to secure battery system parts for its upcoming Jamnagar facility, boosting renewable energy efforts.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-19/reliance-in-talks-with-catl-others-for-big-battery-system-parts"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-19T01:55:30Z",
+            "title": "CNBC Daily Open: Bonds sell-off, markets dip, oil worries loom — and Trump postpones Iran attack",
+            "description": "Asia markets were mixed ahead of the highly anticipated Trump-Xi talks.",
+            "url": "https://www.cnbc.com/2026/05/19/trump-iran-attack-bonds-stocks-putin-xi-oil-energy.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T23:00:01Z",
+            "title": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting",
+            "description": "The U.S. and Chinese readouts agree on one phrase: constructive strategic stability.",
+            "url": "https://www.cnbc.com/2026/05/18/three-major-shifts-from-the-trump-xi-meeting.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T19:35:33Z",
+            "title": "Nvidia bulls mount uphill battle into earnings",
+            "description": "Call volume outpaced puts by more than double on Monday, though more calls were exchanged at the bid or below, meaning likely sold.",
+            "url": "https://www.cnbc.com/2026/05/18/nvidia-bulls-mount-uphill-battle-into-earnings.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T17:34:56Z",
+            "title": "Jury rules against Elon Musk in court battle against Sam Altman, OpenAI",
+            "description": "The jury returned its verdict in Musk v. Altman three weeks after the trial began featuring two of the most prominent figures in AI.",
+            "url": "https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T15:00:02Z",
+            "title": "The last century was great for U.S. stocks, but the next decade might be challenging, says investing chief",
+            "description": "High valuations and narrow concentration could present challenges for the S&P 500 moving forward, one expert says.",
+            "url": "https://www.cnbc.com/2026/05/18/why-the-next-decade-might-be-challenging-for-us-stocks-investing-chief.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T10:40:52Z",
+            "title": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO",
+            "description": "The chipmaker's stock has soared since the U.S. equity deal in August gave the government 9.9% of the company.",
+            "url": "https://www.cnbc.com/2026/05/18/trump-stake-in-intel.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-18T05:00:01Z",
+            "title": "How Elon Musk and Sam Altman went from besties to bitter rivals",
+            "description": "In the 11 years since Elon Musk and Sam Altman helped start OpenAI, their once tight bond has unwound, leaving the two billionaires fighting it out in court.",
+            "url": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-16T14:22:11Z",
+            "title": "Tesla raises prices of Model Y cars in the US for the first time in two years",
+            "description": "Tesla raises prices of Model Y cars in the US for the first time in two yearscnbc.com",
+            "url": "https://www.cnbc.com/2026/05/16/tesla-raises-prices-of-model-y-cars-in-the-us-for-the-first-time-in-two-years.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-16T11:36:25Z",
+            "title": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit",
+            "description": "The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows.",
+            "url": "https://www.cnbc.com/2026/05/16/a-state-banquet-selfies-and-a-noodle-run-trumps-beijing-visit.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-15T01:02:39Z",
+            "title": "Closing arguments conclude in Musk v. Altman, jury to deliberate next week",
+            "description": "The jury's verdict in Musk v. Altman will be advisory, and deliberations are set to begin on Monday.",
+            "url": "https://www.cnbc.com/2026/05/14/closing-arguments-jury-openai-musk-altman.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-14T23:51:45Z",
+            "title": "Asia markets mostly set to rise as investors watch second day of Trump-Xi summit",
+            "description": "Asia-Pacific markets are set to rise as investors tracked the second day of high-stakes talks between Donald Trump and Xi Jinping.",
+            "url": "https://www.cnbc.com/2026/05/15/asia-markets-live-updates-today-trump-xi-nikkei-225-kospi-hang-seng-index.html"
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-14T16:51:22Z",
+            "title": "Musk lawyer apologizes to OpenAI jury for CEO's China trip during closing arguments",
+            "description": "Musk sued his OpenAI co-founders Sam Altman and Greg Brockman, alleging they had violated a promise to keep their company a nonprofit.",
+            "url": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html"
+        }
+    ]
+}
