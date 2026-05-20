@@ -19,6 +19,8 @@ Portfolio-Management-MODS/
 │   ├── data/
 │   │   ├── fetch_prices.py      # Prix historiques (Yahoo Finance)
 │   │   └── fetch_news.py        # Articles financiers (NewsAPI)
+│   │   └── NewsAPI.py           # Articles finance (code de hugo)
+│   │   └── tesla_multi_source_news.json           # fichier créé par le code de hugo
 │   ├── sentiment/
 │   │   └── finbert.py           # Analyse de sentiment (FinBERT)
 │   ├── momentum/
