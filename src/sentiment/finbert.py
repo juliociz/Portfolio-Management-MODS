@@ -1,7 +1,7 @@
 # src/sentiment/finbert.py
 """
 Module d'analyse de sentiment financier avec FinBERT.
-Responsable : [toi]
+Responsable : Blaiso Blaiso
 
 Pipeline :
     articles (dict) → analyze_sentiment() → compute_ticker_sentiment() → DataFrame
