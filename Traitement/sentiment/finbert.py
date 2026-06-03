@@ -11,6 +11,7 @@ import torch.nn.functional as F     # Fonctions utilitaires (comme softmax)
 import pandas as pd     # Manipulation de données (Dataframe)
 from tqdm import tqdm    # Barre de progression pour les boucles longues
 from transformers import BertTokenizer, BertForSequenceClassification
+import json
 
 # On va chercher le fichier config
 import sys
@@ -166,6 +167,12 @@ if __name__ == "__main__":
         ],
     }
 
-    df = compute_ticker_sentiment(sample_articles)
+    #chargement des textes à partir d'un fichier json externe
+    json_path = os.path.join(root_path, "Data", "AlphaVantage", "alphavantage_merged.json")
+    print(f"Chargement des données depuis : {json_path}")
+    with open(json_path, "r", encoding="utf-8") as f:
+        articles_data = json.load(f)
+
+    df = compute_ticker_sentiment(articles_data)
     print("\n=== Scores de sentiment ===")
     print(df.to_string(index=False))
