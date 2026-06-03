@@ -25,10 +25,20 @@ stocks = [
     {"name": "Tesla", "ticker": "TSLA"}
 ]
 
-# Liste noire générale pour éliminer les blogs de tests ou comparatifs inutiles
-blacklist = ["review", "unboxing", "versus", "vs"]
+# 📰 WHITELIST DES SOURCES FINANCIÈRES LÉGITIMES (Seuls ces médias seront acceptés)
+# Mise à jour de la liste des sources avec 24/7 Wall St.
+financial_sources = [
+    "reuters", "bloomberg", "cnbc", "forbes", "business insider", "the wall street journal", 
+    "wsj", "financial times", "ft", "yahoo finance", "marketwatch", "investing.com", 
+    "seeking alpha", "the motley fool", "benzinga", "barron's", "investor's business daily",
+    "24/7 wall st"  
+]
 
 print(f"Lancement de la récupération des articles (depuis le {date_limite})...\n")
+
+# CRÉATION DU DOSSIER DE DESTINATION SI ABSENT
+output_dir = Path(__file__).resolve().parent / "NewsAPIàtraiter"
+output_dir.mkdir(parents=True, exist_ok=True)
 
 # 3. BOUCLE SUR CHAQUE ENTREPRISE
 for stock in stocks:
@@ -37,16 +47,16 @@ for stock in stocks:
     
     print(f"Traitement de {name} ({ticker})...")
     
-    # Requête de recherche : Nom de la marque OU Ticker boursier + mots-clés financiers obligatoires
-    query_finance = f'("{name}" OR "{ticker}") AND (stock OR earnings OR financial OR shares OR market)'
+    # REQUÊTE FINANCIÈRE : On cible les termes d'analyse d'entreprise et de marché
+    query_finance = f'("{name}" OR "{ticker}") AND (stock OR earnings OR quarterly OR revenue OR profit OR dividend OR inflation)'
     
     try:
         response = newsapi.get_everything(
             q=query_finance,
             language="en",
-            sort_by="relevancy",       # Classement par pertinence financière
-            from_param=date_limite,    # Blocage strict à J-7 maximum
-            page_size=30               # On en prend 30 pour appliquer nos filtres après
+            sort_by="relevancy",       
+            from_param=date_limite,    
+            page_size=100              # On prend large pour filtrer sur les sources après
         )
         
         finbert_ready_data = {
@@ -57,38 +67,43 @@ for stock in stocks:
         }
         
         for art in response["articles"]:
-            # On ignore l'article s'il manque le titre ou la description
             if not art["title"] or not art["description"]:
                 continue
             
-            # Filtrage anti-pollution textuelle
-            text_content = f"{art['title']} {art['description']}".lower()
-            if any(bad_word in text_content for bad_word in blacklist):
+            title_lower = art["title"].lower()
+            source_lower = art["source"]["name"].lower()
+            
+            # FILTRE 1 : Le Nom ou le Ticker DOIT être explicitement dans le TITRE
+            if name.lower() not in title_lower and ticker.lower() not in title_lower:
                 continue
+                
+            # FILTRE 2 : Validation stricte de la source (L'article DOIT provenir d'un média financier de la liste)
+            is_financial_media = any(media in source_lower for media in financial_sources)
+            if not is_financial_media:
+                continue  # Si la source n'est pas fiable/financière, on rejette l'article immédiatement
             
-            # FUSION TITRE + DESCRIPTION : Format parfait pour FinBERT
-            full_text_signal = f"{art['title']}. {art['description']}"
-            
+            # Stockage des informations
             finbert_ready_data["articles"].append({
                 "source": art["source"]["name"],
                 "date": art["publishedAt"],
-                "text_to_analyze": full_text_signal  
+                "title": art["title"],                          
+                "summary": art["description"],                  
+                "text_to_analyze": f"{art['title']}. {art['description']}"  
             })
             
             # Blocage strict à maximum 15 articles par entreprise
             if len(finbert_ready_data["articles"]) == 15:
                 break
         
-        # 4. SAUVEGARDE AUTOMATIQUE DANS LE DOSSIER 'src/data/'
-        output_dir = Path(__file__).resolve().parent
+        # 4. SAUVEGARDE DANS LE DOSSIER 'NewsAPIàtraiter'
         output_file = output_dir / f"{ticker.lower()}_for_finbert.json"
         
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(finbert_ready_data, f, ensure_ascii=False, indent=4)
             
-        print(f"Fichier '{output_file.name}' généré avec {len(finbert_ready_data['articles'])} articles.\n")
+        print(f"Fichier '{output_file.name}' généré avec {len(finbert_ready_data['articles'])} articles validés par les sources.\n")
         
     except Exception as e:
         print(f"Erreur lors de la récupération pour {name} : {e}\n")
 
-print("Opération terminée ! Tes 5 fichiers JSON sont prêts et nettoyés.")
+print(f"Opération terminée ! Vos fichiers JSON contiennent uniquement des articles issus de sources financières validées.")
