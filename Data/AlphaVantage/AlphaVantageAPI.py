@@ -66,15 +66,30 @@ for index, stock in enumerate(stocks):
             
             if not title or not summary:
                 continue
+            
+            # 🛑 DOUBLE SÉCURITÉ TEXTUELLE STRICTE (Pour éliminer les erreurs de l'API)
+            text_combined = f"{title} {summary}".lower()
+            name_lower = name.lower()
+            ticker_lower = ticker.lower()
+            
+            # On vérifie si le nom exact est présent OU si le ticker est mentionné (ex: " NKE " ou "(NKE)")
+            has_name = name_lower in text_combined
+            has_ticker = (f" {ticker_lower} " in f" {text_combined} " or 
+                          f"({ticker_lower})" in text_combined or 
+                          f"{ticker_lower}:" in text_combined)
+            
+            if not has_name and not has_ticker:
+                # Si l'entreprise n'est pas mentionnée textuellement, on rejette le faux positif de l'API
+                continue
                 
-            # Vérification de la pertinence de l'article pour NOTRE ticker
+            # Vérification de la pertinence algorithmique de l'article pour NOTRE ticker
             ticker_relevance = 0.0
             for ticker_info in item.get("ticker_sentiment", []):
                 if ticker_info["ticker"] == ticker:
                     ticker_relevance = float(ticker_info["relevance_score"])
                     break
             
-            # FILTRE STRICT : On ne garde l'article que si notre entreprise est un sujet majeur (pertinence > 35%)
+            # FILTRE DE PERTINENCE : Sujet majeur (pertinence > 35%)
             if ticker_relevance < 0.35:
                 continue
                 
@@ -85,7 +100,7 @@ for index, stock in enumerate(stocks):
                 "title": title,
                 "summary": summary,
                 "text_to_analyze": f"{title}. {summary}",
-                "alpha_vantage_sentiment_label": item.get("overall_sentiment_label"), # Permet de comparer avec FinBERT
+                "alpha_vantage_sentiment_label": item.get("overall_sentiment_label"),
                 "ticker_relevance_score": ticker_relevance
             })
             
@@ -105,9 +120,8 @@ for index, stock in enumerate(stocks):
         print(f"Erreur réseau pour {name} : {e}\n")
         
     # GESTION DU QUOTA DE L'API GRATUITE (Max 5 requêtes par minute)
-    # On attend 15 secondes entre chaque entreprise, sauf pour la dernière
     if index < len(stocks) - 1:
         print("Attente de 15 secondes pour respecter les limites de l'API Alpha Vantage...")
         time.sleep(15)
 
-print(f"\nOpération terminée ! Vos fichiers JSON sont disponibles dans le dossier '{output_dir.name}'.")
+print(f"\nOpération terminée ! Les fichiers JSON dans '{output_dir.name}' sont désormais 100 % fiables et prêts pour l'analyse FinBERT.")

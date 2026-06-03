@@ -3,69 +3,6 @@
     "company_name": "Tesla",
     "articles": [
         {
-            "source": "Benzinga",
-            "date": "20260603T070608",
-            "title": "Rivian's Software Chief Explains Why Apple CarPlay, Android Auto And Even Analogue Buttons Are Destined To Be 'Completely Obsolete'",
-            "summary": "Rivian's Chief Software Officer, Wassym Bensaid, believes that Apple CarPlay, Android Auto, and physical buttons will become obsolete in vehicles due to advanced AI integration. He argues that screen mirroring solutions are problematic and Rivian aims for end-to-end integration with AI agents handling app functionalities. Bensaid notes a decline in customer interest for CarPlay among Rivian owners, from over 70% to under 25%.",
-            "text_to_analyze": "Rivian's Software Chief Explains Why Apple CarPlay, Android Auto And Even Analogue Buttons Are Destined To Be 'Completely Obsolete'. Rivian's Chief Software Officer, Wassym Bensaid, believes that Apple CarPlay, Android Auto, and physical buttons will become obsolete in vehicles due to advanced AI integration. He argues that screen mirroring solutions are problematic and Rivian aims for end-to-end integration with AI agents handling app functionalities. Bensaid notes a decline in customer interest for CarPlay among Rivian owners, from over 70% to under 25%.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.5816
-        },
-        {
-            "source": "VnExpress International",
-            "date": "20260603T023817",
-            "title": "Oracle surge lifts Larry Ellison to world’s second richest billionaire, overtaking Amazon and Google founders",
-            "summary": "Oracle co-founder Larry Ellison has become the world's second-richest person after a 28% surge in Oracle shares over five trading days pushed his net worth to an estimated $296 billion. He now trails only Elon Musk. The increase is attributed to investor enthusiasm for AI infrastructure, with Oracle repositioning itself as a key provider of computing power for advanced AI systems.",
-            "text_to_analyze": "Oracle surge lifts Larry Ellison to world’s second richest billionaire, overtaking Amazon and Google founders. Oracle co-founder Larry Ellison has become the world's second-richest person after a 28% surge in Oracle shares over five trading days pushed his net worth to an estimated $296 billion. He now trails only Elon Musk. The increase is attributed to investor enthusiasm for AI infrastructure, with Oracle repositioning itself as a key provider of computing power for advanced AI systems.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.583143
-        },
-        {
-            "source": "Investopedia",
-            "date": "20260602T203826",
-            "title": "Oracle Stock's Rally Vaults Larry Ellison Past Bezos to World's Third-Richest Person",
-            "summary": "Oracle co-founder Larry Ellison's net worth surged by $21.4 billion to $302 billion, making him the world's third-richest person, primarily due to Oracle's stock rally. This gain pushed him past Jeff Bezos and Sergey Brin, fueled by the market's confidence in Oracle's role in the AI boom. Ellison's wealth is closely tied to Oracle's performance, given his over 40% stake in the company.",
-            "text_to_analyze": "Oracle Stock's Rally Vaults Larry Ellison Past Bezos to World's Third-Richest Person. Oracle co-founder Larry Ellison's net worth surged by $21.4 billion to $302 billion, making him the world's third-richest person, primarily due to Oracle's stock rally. This gain pushed him past Jeff Bezos and Sergey Brin, fueled by the market's confidence in Oracle's role in the AI boom. Ellison's wealth is closely tied to Oracle's performance, given his over 40% stake in the company.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.576356
-        },
-        {
-            "source": "Investing.com Canada",
-            "date": "20260602T194015",
-            "title": "Arrow Electronics stock hits all-time high at 225.03 USD By Investing.com",
-            "summary": "Arrow Electronics (ARW) stock recently hit an all-time high of $225.03, reflecting strong investor confidence and an 84.52% increase over the past year. Despite this surge, InvestingPro analysis suggests the stock remains undervalued with an attractive PEG ratio of 0.17. Recent positive developments include strong Q1 2026 financial results, a new $1 billion share repurchase program, and an upgrade by BofA Securities to Neutral with a revised price target of $233, driven by improving demand and AI advancements.",
-            "text_to_analyze": "Arrow Electronics stock hits all-time high at 225.03 USD By Investing.com. Arrow Electronics (ARW) stock recently hit an all-time high of $225.03, reflecting strong investor confidence and an 84.52% increase over the past year. Despite this surge, InvestingPro analysis suggests the stock remains undervalued with an attractive PEG ratio of 0.17. Recent positive developments include strong Q1 2026 financial results, a new $1 billion share repurchase program, and an upgrade by BofA Securities to Neutral with a revised price target of $233, driven by improving demand and AI advancements.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.606019
-        },
-        {
-            "source": "Simply Wall Street",
-            "date": "20260602T170912",
-            "title": "VinFast Targets Level 4 Autonomy To Reframe Risky Growth Story",
-            "summary": "VinFast Auto has announced a partnership with NVIDIA and Autobrains to develop a cost-efficient and scalable Level 4 autonomous driving platform specifically for Southeast Asia. This strategic move aims to elevate VinFast's technological profile beyond EV manufacturing, focusing on higher-value software features. While the collaboration could shorten development times and enhance competitiveness, investors are advised to monitor execution milestones and potential financial implications given VinFast's current balance sheet challenges.",
-            "text_to_analyze": "VinFast Targets Level 4 Autonomy To Reframe Risky Growth Story. VinFast Auto has announced a partnership with NVIDIA and Autobrains to develop a cost-efficient and scalable Level 4 autonomous driving platform specifically for Southeast Asia. This strategic move aims to elevate VinFast's technological profile beyond EV manufacturing, focusing on higher-value software features. While the collaboration could shorten development times and enhance competitiveness, investors are advised to monitor execution milestones and potential financial implications given VinFast's current balance sheet challenges.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.624959
-        },
-        {
-            "source": "Benzinga",
-            "date": "20260602T150928",
-            "title": "EXCLUSIVE: Top 12 Most-Searched Tickers In May On Benzinga Pro — Micron, SanDisk, Qualcomm Surge Up Leade",
-            "summary": "Micron Technology (NASDAQ: MU) topped Benzinga Pro's most-searched tickers in May, marking its ascent to first place after ranking 11th in January. SanDisk (NASDAQ: SNDK) also saw a significant surge, reaching its highest ranking of 5th in 2026. This exclusive report highlights the top 12 tickers, their year-to-date returns, and changes in search interest, noting a continued strong interest in chip and semiconductor stocks.",
-            "text_to_analyze": "EXCLUSIVE: Top 12 Most-Searched Tickers In May On Benzinga Pro — Micron, SanDisk, Qualcomm Surge Up Leade. Micron Technology (NASDAQ: MU) topped Benzinga Pro's most-searched tickers in May, marking its ascent to first place after ranking 11th in January. SanDisk (NASDAQ: SNDK) also saw a significant surge, reaching its highest ranking of 5th in 2026. This exclusive report highlights the top 12 tickers, their year-to-date returns, and changes in search interest, noting a continued strong interest in chip and semiconductor stocks.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.65512
-        },
-        {
-            "source": "Investing.com",
-            "date": "20260602T141012",
-            "title": "T1 Energy Inc stock hits 52-week high at 11.47 USD",
-            "summary": "T1 Energy Inc (TE) stock has reached a new 52-week high of $11.47, trading at $11.39 with a market capitalization of $3.19 billion, reflecting an impressive 892.98% surge over the past year. This milestone follows T1 Energy's strong fourth-quarter earnings, exceeding analyst expectations, and a successful $160 million convertible senior notes offering for infrastructure development. The company, however, faces allegations regarding compliance with Foreign Entity of Concern regulations.",
-            "text_to_analyze": "T1 Energy Inc stock hits 52-week high at 11.47 USD. T1 Energy Inc (TE) stock has reached a new 52-week high of $11.47, trading at $11.39 with a market capitalization of $3.19 billion, reflecting an impressive 892.98% surge over the past year. This milestone follows T1 Energy's strong fourth-quarter earnings, exceeding analyst expectations, and a successful $160 million convertible senior notes offering for infrastructure development. The company, however, faces allegations regarding compliance with Foreign Entity of Concern regulations.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.589853
-        },
-        {
             "source": "Yahoo Autos",
             "date": "20260602T135148",
             "title": "Tesla trails Waymo in Austin robotaxi rollout, new Texas data shows",
@@ -73,15 +10,6 @@
             "text_to_analyze": "Tesla trails Waymo in Austin robotaxi rollout, new Texas data shows. New Texas data reveals that Tesla's robotaxi fleet in the state significantly lags behind Waymo's. While Tesla operates only 42 robotaxis across Austin, Dallas, and Houston, Waymo has nearly 600 vehicles, with about 300 in Austin alone. This disparity exists despite Elon Musk's ambitious projections for a widespread Tesla robotaxi service.",
             "alpha_vantage_sentiment_label": "Somewhat-Bearish",
             "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "VivoPower",
-            "date": "20260602T133917",
-            "title": "VivoPower Appoints SpaceX Veteran Porter Harris to Support AI Data Center Power and Battery Storage Strategy",
-            "summary": "VivoPower PLC has appointed Porter Harris, a SpaceX veteran known for leading battery system development for Falcon 9 rockets and Dragon spacecraft, to its Advisory Council. Harris will support VivoPower's strategy for AI data center power, battery storage, and thermal management, particularly as the company scales its sovereign AI data center platform across various regions. His expertise is expected to significantly enhance the engineering rigor and operational excellence of VivoPower's energy systems for both its data centers and its electric vehicle business, Tembo.",
-            "text_to_analyze": "VivoPower Appoints SpaceX Veteran Porter Harris to Support AI Data Center Power and Battery Storage Strategy. VivoPower PLC has appointed Porter Harris, a SpaceX veteran known for leading battery system development for Falcon 9 rockets and Dragon spacecraft, to its Advisory Council. Harris will support VivoPower's strategy for AI data center power, battery storage, and thermal management, particularly as the company scales its sovereign AI data center platform across various regions. His expertise is expected to significantly enhance the engineering rigor and operational excellence of VivoPower's energy systems for both its data centers and its electric vehicle business, Tembo.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.605787
         },
         {
             "source": "Reuters",
@@ -99,7 +27,7 @@
             "summary": "Li Auto (NASDAQ: LI) stock has fallen to record lows after a disappointing Q1 earnings report revealed a net loss of RMB 2.3 billion and significantly shrinking profit margins, driven by intense EV price wars and heavy spending. This downturn mirrors broader challenges in the EV market, with even Tesla seeing its stock slide. Despite these financial hurdles, Li Auto continues to report strong delivery numbers and is expanding its charging network, leaving investors to weigh its long-term potential against current market pressures.",
             "text_to_analyze": "Li Auto Stock Plummets to Record Lows as EV Price Wars Intensify. Li Auto (NASDAQ: LI) stock has fallen to record lows after a disappointing Q1 earnings report revealed a net loss of RMB 2.3 billion and significantly shrinking profit margins, driven by intense EV price wars and heavy spending. This downturn mirrors broader challenges in the EV market, with even Tesla seeing its stock slide. Despite these financial hurdles, Li Auto continues to report strong delivery numbers and is expanding its charging network, leaving investors to weigh its long-term potential against current market pressures.",
             "alpha_vantage_sentiment_label": "Bearish",
-            "ticker_relevance_score": 0.846757
+            "ticker_relevance_score": 0.834922
         },
         {
             "source": "Stocktwits",
@@ -129,13 +57,85 @@
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "Investing.com",
-            "date": "20260601T210948",
-            "title": "Covenant Logistics Group EVP Joey Ballard sells $160,586 in stock",
-            "summary": "Covenant Logistics Group's EVP, Chief People & Safety Officer, Joey Ballard, sold 4,000 shares of the company's Class A Common Stock for a total of $160,586. This transaction was conducted as per a Rule 10b5-1 trading plan. The company recently reported strong Q1 2026 earnings, surpassing revenue expectations, and declared a quarterly cash dividend, with TD Cowen also raising its price target, signaling positive momentum for Covenant Logistics Group.",
-            "text_to_analyze": "Covenant Logistics Group EVP Joey Ballard sells $160,586 in stock. Covenant Logistics Group's EVP, Chief People & Safety Officer, Joey Ballard, sold 4,000 shares of the company's Class A Common Stock for a total of $160,586. This transaction was conducted as per a Rule 10b5-1 trading plan. The company recently reported strong Q1 2026 earnings, surpassing revenue expectations, and declared a quarterly cash dividend, with TD Cowen also raising its price target, signaling positive momentum for Covenant Logistics Group.",
+            "source": "Seeking Alpha",
+            "date": "20260601T210849",
+            "title": "Houston, We Have A Problem: SpaceX, Tesla, And The xAI Bailout Nobody Voted On (SPCX)",
+            "summary": "SpaceX is pursuing a $1.75 trillion IPO after absorbing Elon Musk's xAI, which was experiencing significant financial losses and declining app usage, without shareholder approval. The combined entity reports a substantial GAAP loss on its revenue, with xAI contributing significantly to the cash burn. This move, along with potential future merger risks for Tesla shareholders, raises concerns about the IPO's valuation and underlying financial health.",
+            "text_to_analyze": "Houston, We Have A Problem: SpaceX, Tesla, And The xAI Bailout Nobody Voted On (SPCX). SpaceX is pursuing a $1.75 trillion IPO after absorbing Elon Musk's xAI, which was experiencing significant financial losses and declining app usage, without shareholder approval. The combined entity reports a substantial GAAP loss on its revenue, with xAI contributing significantly to the cash burn. This move, along with potential future merger risks for Tesla shareholders, raises concerns about the IPO's valuation and underlying financial health.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.97343
+        },
+        {
+            "source": "TradingView",
+            "date": "20260601T183914",
+            "title": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader",
+            "summary": "A former Lehman Brothers trader, Larry McDonald, warns that the hype surrounding SpaceX's potential IPO, and the broader AI-driven market, mirrors the dot-com bubble of 2000, comparing it to Amazon's overvaluation before its 90% collapse. McDonald is concerned about \"astronomically unrealistic\" valuations and the risk to passive investors and retirement funds due to rapid index inclusion of these new \"AI giants.\" He argues for caution, pointing out that a combined valuation of SpaceX, OpenAI, and Anthropic has tripled in a year, which he deems \"pure madness,\" urging investors to be aware of the potential for a \"deathly overdose\" for 401(k)s.",
+            "text_to_analyze": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader. A former Lehman Brothers trader, Larry McDonald, warns that the hype surrounding SpaceX's potential IPO, and the broader AI-driven market, mirrors the dot-com bubble of 2000, comparing it to Amazon's overvaluation before its 90% collapse. McDonald is concerned about \"astronomically unrealistic\" valuations and the risk to passive investors and retirement funds due to rapid index inclusion of these new \"AI giants.\" He argues for caution, pointing out that a combined valuation of SpaceX, OpenAI, and Anthropic has tripled in a year, which he deems \"pure madness,\" urging investors to be aware of the potential for a \"deathly overdose\" for 401(k)s.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260601T161400",
+            "title": "Tesla sales in Portugal more than quadruple in May",
+            "summary": "Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This growth significantly outpaced the overall 56.1% rise in fully-electric car sales in the country. For the January-May period, Tesla sales increased by 58.4% to 4,392 vehicles, showcasing stronger growth than the 33% increase in all electric car sales.",
+            "text_to_analyze": "Tesla sales in Portugal more than quadruple in May. Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This growth significantly outpaced the overall 56.1% rise in fully-electric car sales in the country. For the January-May period, Tesla sales increased by 58.4% to 4,392 vehicles, showcasing stronger growth than the 33% increase in all electric car sales.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260601T161300",
+            "title": "Tesla sales in Portugal more than quadruple in May",
+            "summary": "Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This increase outpaced the overall 56.1% rise in sales of fully-electric light passenger vehicles, which totaled 6,988 units for the month. For the January-May period, Tesla sales grew 58.4% to 4,392 vehicles, exceeding the 33% increase in all electric car sales.",
+            "text_to_analyze": "Tesla sales in Portugal more than quadruple in May. Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This increase outpaced the overall 56.1% rise in sales of fully-electric light passenger vehicles, which totaled 6,988 units for the month. For the January-May period, Tesla sales grew 58.4% to 4,392 vehicles, exceeding the 33% increase in all electric car sales.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260601T150846",
+            "title": "Why Tesla stock is sinking over 4% today",
+            "summary": "Tesla (TSLA) shares dropped over 4% today due to investor concerns about new competitive threats from OpenAI's advanced robotics ambitions, which could challenge Elon Musk's vision for humanoid robots. Despite this, analysts like Cantor Fitzgerald reiterated an Overweight rating on Tesla, highlighting the company's progress in developing manufacturing infrastructure for its Optimus robot. Additionally, Tesla's core automotive business showed encouraging recovery in European sales, with significant registration increases in several markets.",
+            "text_to_analyze": "Why Tesla stock is sinking over 4% today. Tesla (TSLA) shares dropped over 4% today due to investor concerns about new competitive threats from OpenAI's advanced robotics ambitions, which could challenge Elon Musk's vision for humanoid robots. Despite this, analysts like Cantor Fitzgerald reiterated an Overweight rating on Tesla, highlighting the company's progress in developing manufacturing infrastructure for its Optimus robot. Additionally, Tesla's core automotive business showed encouraging recovery in European sales, with significant registration increases in several markets.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.601373
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Detroit News",
+            "date": "20260601T132831",
+            "title": "Tesla registrations up in several European markets as recovery builds",
+            "summary": "New registrations of Tesla Inc. cars increased across several European markets in May, signaling a continued recovery in the company's regional sales, with significant growth in Sweden, Denmark, Spain, Norway, and France. This surge is attributed to the overall growth of the electric car market, favorable policies, and higher fuel costs, despite Tesla's eroding market share due to increased competition and lack of new models.",
+            "text_to_analyze": "Tesla registrations up in several European markets as recovery builds. New registrations of Tesla Inc. cars increased across several European markets in May, signaling a continued recovery in the company's regional sales, with significant growth in Sweden, Denmark, Spain, Norway, and France. This surge is attributed to the overall growth of the electric car market, favorable policies, and higher fuel costs, despite Tesla's eroding market share due to increased competition and lack of new models.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260601T130841",
+            "title": "Tesla May registrations jump in several European markets as recovery continues",
+            "summary": "Tesla's new car registrations surged in several European markets in May, signaling a continued recovery in the company's regional sales, with increases ranging from 29% in Norway to 655% in France. This growth is occurring despite Tesla's eroding market share as the overall battery electric vehicle market expands, boosted by policy support and escalating fuel costs. Britain and Germany are anticipated to release their registration figures later this week, while Tesla lost nearly half of its European market share in 2025 due to competition and a lack of new models.",
+            "text_to_analyze": "Tesla May registrations jump in several European markets as recovery continues. Tesla's new car registrations surged in several European markets in May, signaling a continued recovery in the company's regional sales, with increases ranging from 29% in Norway to 655% in France. This growth is occurring despite Tesla's eroding market share as the overall battery electric vehicle market expands, boosted by policy support and escalating fuel costs. Britain and Germany are anticipated to release their registration figures later this week, while Tesla lost nearly half of its European market share in 2025 due to competition and a lack of new models.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260601T111200",
+            "title": "New Tesla sales in Spain more than double year-on-year in May",
+            "summary": "New Tesla car sales in Spain more than doubled in May, increasing by 112.8% year-on-year to 1,690 vehicles. For the first five months of the year, Tesla sales rose by 43.8%, contributing to an overall 43.6% growth in electrified vehicle sales in Spain, which includes both fully-electric and hybrid models.",
+            "text_to_analyze": "New Tesla sales in Spain more than double year-on-year in May. New Tesla car sales in Spain more than doubled in May, increasing by 112.8% year-on-year to 1,690 vehicles. For the first five months of the year, Tesla sales rose by 43.8%, contributing to an overall 43.6% growth in electrified vehicle sales in Spain, which includes both fully-electric and hybrid models.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260601T070900",
+            "title": "Tesla registrations in Sweden rise 71% year-on-year in May",
+            "summary": "Tesla registrations in Sweden increased by 71% in May compared to the same period last year, reaching 858 vehicles. This data, reported by Mobility Sweden, highlights significant growth for the electric vehicle manufacturer in the Swedish market.",
+            "text_to_analyze": "Tesla registrations in Sweden rise 71% year-on-year in May. Tesla registrations in Sweden increased by 71% in May compared to the same period last year, reaching 858 vehicles. This data, reported by Mobility Sweden, highlights significant growth for the electric vehicle manufacturer in the Swedish market.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
         }
     ]
 }

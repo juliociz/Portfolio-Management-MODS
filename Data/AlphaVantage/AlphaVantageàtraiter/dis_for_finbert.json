@@ -9,7 +9,7 @@
             "summary": "Westpac Banking Corp significantly increased its stake in The Walt Disney Company by 55.2% in Q4, acquiring an additional 10,109 shares to reach a total of 28,430 shares valued at approximately $3.23 million. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $134.47 for Disney. The entertainment giant recently surpassed earnings expectations, reporting $1.57 EPS and $25.17 billion in revenue.",
             "text_to_analyze": "Westpac Banking Corp Raises Holdings in The Walt Disney Company $DIS. Westpac Banking Corp significantly increased its stake in The Walt Disney Company by 55.2% in Q4, acquiring an additional 10,109 shares to reach a total of 28,430 shares valued at approximately $3.23 million. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $134.47 for Disney. The entertainment giant recently surpassed earnings expectations, reporting $1.57 EPS and $25.17 billion in revenue.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.966009
+            "ticker_relevance_score": 0.953868
         },
         {
             "source": "PR Newswire",
@@ -18,7 +18,7 @@
             "summary": "AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5\" to highlight the importance of connection. This collaboration includes a custom animated commercial, immersive in-store experiences, merchandise, and community movie screenings. The initiative aims to connect families and showcase AT&T's commitment to providing tools and resources for digital family life, such as their amiGO lineup of devices.",
             "text_to_analyze": "AT&T Brings Connection to Life Through New Campaign Inspired by Disney and Pixar's \"Toy Story 5\". AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5\" to highlight the importance of connection. This collaboration includes a custom animated commercial, immersive in-store experiences, merchandise, and community movie screenings. The initiative aims to connect families and showcase AT&T's commitment to providing tools and resources for digital family life, such as their amiGO lineup of devices.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.856235
+            "ticker_relevance_score": 0.883765
         },
         {
             "source": "Stock Titan",
@@ -27,7 +27,7 @@
             "summary": "AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5,\" which premieres on June 19. The campaign includes a custom animated TV spot, immersive in-store experiences in six U.S. markets, themed accessories, and community screenings for families from AT&T Connected Learning Centers. This initiative aims to highlight AT&T's commitment to connecting families through technology and shared experiences, building on their broader strategic efforts like network investments and educational programs.",
             "text_to_analyze": "AT&T turns stores into 'Toy Story 5' worlds for families this summer. AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5,\" which premieres on June 19. The campaign includes a custom animated TV spot, immersive in-store experiences in six U.S. markets, themed accessories, and community screenings for families from AT&T Connected Learning Centers. This initiative aims to highlight AT&T's commitment to connecting families through technology and shared experiences, building on their broader strategic efforts like network investments and educational programs.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.711715
+            "ticker_relevance_score": 0.732787
         },
         {
             "source": "MarketBeat",
@@ -57,15 +57,6 @@
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "GuruFocus",
-            "date": "20260602T183045",
-            "title": "TTWO Initiates Coverage by Piper Sandler -- Rating Set to Overwe",
-            "summary": "Piper Sandler has initiated coverage on Take-Two Interactive (TTWO) with an Overweight rating and a price target of $280.00, citing the company's strong gaming portfolio and growth potential in mobile gaming. Despite this positive analyst outlook, GuruFocus indicates that TTWO is currently 7.0% overvalued based on its GF Value, and insider activity shows significant selling of shares. Investors are advised to consider these mixed signals before making investment decisions.",
-            "text_to_analyze": "TTWO Initiates Coverage by Piper Sandler -- Rating Set to Overwe. Piper Sandler has initiated coverage on Take-Two Interactive (TTWO) with an Overweight rating and a price target of $280.00, citing the company's strong gaming portfolio and growth potential in mobile gaming. Despite this positive analyst outlook, GuruFocus indicates that TTWO is currently 7.0% overvalued based on its GF Value, and insider activity shows significant selling of shares. Investors are advised to consider these mixed signals before making investment decisions.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.582126
-        },
-        {
             "source": "The Walt Disney Company",
             "date": "20260602T131030",
             "title": "'Disney Celebrates America' Ramps Up with a Phenomenal Lineup of Experiences Ahead of the Nation’s 250th Anniversary",
@@ -90,7 +81,7 @@
             "summary": "Disney has announced \"Disney Celebrates America,\" a company-wide initiative for the nation's 250th anniversary. This includes a 24-hour multiplatform broadcast led by David Muir, a primetime special from Disney parks, and a live concert in Nashville. The celebration also features new park experiences like \"Soarin' Across America\" and a \"Seven Natural Wonders of America\" list from National Geographic and ABC News.",
             "text_to_analyze": "'Disney Celebrates America' lineup announced for America's 250th anniversary. Disney has announced \"Disney Celebrates America,\" a company-wide initiative for the nation's 250th anniversary. This includes a 24-hour multiplatform broadcast led by David Muir, a primetime special from Disney parks, and a live concert in Nashville. The celebration also features new park experiences like \"Soarin' Across America\" and a \"Seven Natural Wonders of America\" list from National Geographic and ABC News.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.987963
+            "ticker_relevance_score": 0.981656
         },
         {
             "source": "MarketBeat",
@@ -108,7 +99,7 @@
             "summary": "Netflix has hired Caitlin Conant from Disney as head of U.S. policy communications and external affairs to strengthen its presence in Washington D.C. This move is part of Netflix's strategy to engage more proactively with regulators and policymakers, given its growing influence and increasing scrutiny on its business. Conant brings extensive media and political experience, having managed Disney's crisis with Florida Governor Ron DeSantis and previously serving as political director at CBS News and a communications official for Republican politicians.",
             "text_to_analyze": "Netflix taps Disney's Caitlin Conant for new D.C.-based role. Netflix has hired Caitlin Conant from Disney as head of U.S. policy communications and external affairs to strengthen its presence in Washington D.C. This move is part of Netflix's strategy to engage more proactively with regulators and policymakers, given its growing influence and increasing scrutiny on its business. Conant brings extensive media and political experience, having managed Disney's crisis with Florida Governor Ron DeSantis and previously serving as political director at CBS News and a communications official for Republican politicians.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.722681
+            "ticker_relevance_score": 0.746686
         },
         {
             "source": "Media Play News",
@@ -117,7 +108,7 @@
             "summary": "Starz has appointed Jim Kapenstein, a former Disney executive, as its new Chief Legal and Strategy Officer. Kapenstein, who spent nearly three decades at Disney overseeing numerous high-profile mergers and acquisitions, will be responsible for Starz's strategic direction in business and legal affairs, including content acquisition, distribution, and corporate transactions. He will report directly to Starz president and CEO Jeffrey Hirsch, aiming to guide the company through its next phase of growth and disciplined expansion.",
             "text_to_analyze": "Starz Appoints Former Disney Exec Jim Kapenstein as Chief Legal and Strategy Officer. Starz has appointed Jim Kapenstein, a former Disney executive, as its new Chief Legal and Strategy Officer. Kapenstein, who spent nearly three decades at Disney overseeing numerous high-profile mergers and acquisitions, will be responsible for Starz's strategic direction in business and legal affairs, including content acquisition, distribution, and corporate transactions. He will report directly to Starz president and CEO Jeffrey Hirsch, aiming to guide the company through its next phase of growth and disciplined expansion.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.894659
+            "ticker_relevance_score": 0.885169
         },
         {
             "source": "The Walt Disney Company",
@@ -135,7 +126,16 @@
             "summary": "Papa Johns is launching Pizza Planet pop-up locations in major cities globally, including London, Seoul, Madrid, and Los Angeles, as part of a collaboration with Disney Pixar for Toy Story 5. These pop-ups recreate the iconic sci-fi-themed pizzeria from the movie, offering exclusive Toy Story 5 pizzas, merchandise, and an in-app game for loyalty members. The initiative aims to celebrate the connection between movie nights and pizza, bringing families together in a nostalgic and fun way.",
             "text_to_analyze": "Papa Johns opens Pizza Planet popups for Toy Story collab. Papa Johns is launching Pizza Planet pop-up locations in major cities globally, including London, Seoul, Madrid, and Los Angeles, as part of a collaboration with Disney Pixar for Toy Story 5. These pop-ups recreate the iconic sci-fi-themed pizzeria from the movie, offering exclusive Toy Story 5 pizzas, merchandise, and an in-app game for loyalty members. The initiative aims to celebrate the connection between movie nights and pizza, bringing families together in a nostalgic and fun way.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.716126
+            "ticker_relevance_score": 0.710124
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260601T100727",
+            "title": "Peapack Gladstone Financial Corp Sells 19,346 Shares of The Walt Disney Company $DIS",
+            "summary": "Peapack Gladstone Financial Corp reduced its stake in The Walt Disney Company by 6.0% in the fourth quarter, selling 19,346 shares and ending with 304,597 shares valued at about $34.7 million. Despite this sale, institutional interest in Disney remains high, with many firms either initiating new positions or increasing existing holdings. Disney recently exceeded earnings expectations, posting $1.57 EPS on $25.17 billion in revenue, and analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $134.47.",
+            "text_to_analyze": "Peapack Gladstone Financial Corp Sells 19,346 Shares of The Walt Disney Company $DIS. Peapack Gladstone Financial Corp reduced its stake in The Walt Disney Company by 6.0% in the fourth quarter, selling 19,346 shares and ending with 304,597 shares valued at about $34.7 million. Despite this sale, institutional interest in Disney remains high, with many firms either initiating new positions or increasing existing holdings. Disney recently exceeded earnings expectations, posting $1.57 EPS on $25.17 billion in revenue, and analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $134.47.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
         }
     ]
 }

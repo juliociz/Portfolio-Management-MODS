@@ -3,6 +3,15 @@
     "company_name": "Starbucks",
     "articles": [
         {
+            "source": "Northwest Arkansas Democrat-Gazette",
+            "date": "20260603T070746",
+            "title": "General Mills selling China ice-cream shops to investors",
+            "summary": "General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue retail and food service sales. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, following similar joint ventures by Starbucks and Burger King.",
+            "text_to_analyze": "General Mills selling China ice-cream shops to investors. General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue retail and food service sales. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, following similar joint ventures by Starbucks and Burger King.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.64317
+        },
+        {
             "source": "Stock Titan",
             "date": "20260602T202038",
             "title": "Starbucks chief joins Evercore fireside chat, live webcast June 9",
@@ -12,22 +21,13 @@
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "ABC News - Breaking News, Latest News and Videos",
-            "date": "20260602T170742",
-            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
-            "summary": "General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal allows the buyers to exclusively operate Häagen-Dazs shops and gifting businesses in China, while General Mills will continue to supply ice cream to retail and food service. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, with analysts noting Häagen-Dazs's premium pricing not matching evolving consumer preferences.",
-            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal allows the buyers to exclusively operate Häagen-Dazs shops and gifting businesses in China, while General Mills will continue to supply ice cream to retail and food service. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, with analysts noting Häagen-Dazs's premium pricing not matching evolving consumer preferences.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.596927
-        },
-        {
             "source": "CNBC",
             "date": "20260602T170735",
             "title": "Final Trades: Eversource Energy, Alcoa and Starbucks",
             "summary": "The article features recommendations from \"The Investment Committee\" regarding their top stock picks for the second half of the year. The specific companies highlighted for consideration are Eversource Energy, Alcoa, and Starbucks. The piece implies that this content is part of a \"Halftime Report\" segment, offering investment insights.",
             "text_to_analyze": "Final Trades: Eversource Energy, Alcoa and Starbucks. The article features recommendations from \"The Investment Committee\" regarding their top stock picks for the second half of the year. The specific companies highlighted for consideration are Eversource Energy, Alcoa, and Starbucks. The piece implies that this content is part of a \"Halftime Report\" segment, offering investment insights.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.823428
+            "ticker_relevance_score": 0.840795
         },
         {
             "source": "MarketWatch",
@@ -39,40 +39,13 @@
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "WKMG",
-            "date": "20260602T162052",
-            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
-            "summary": "General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell the Häagen-Dazs brand in ice cream shops and gifting businesses across mainland China, while General Mills will continue to supply its ice cream to Chinese retail and food service operations. The move reflects a trend of foreign businesses shifting ownership to Chinese investors amid stagnating consumer confidence and slowing economic growth in China.",
-            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell the Häagen-Dazs brand in ice cream shops and gifting businesses across mainland China, while General Mills will continue to supply its ice cream to Chinese retail and food service operations. The move reflects a trend of foreign businesses shifting ownership to Chinese investors amid stagnating consumer confidence and slowing economic growth in China.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.626248
-        },
-        {
-            "source": "Oskaloosa Herald",
-            "date": "20260602T162046",
-            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
-            "summary": "General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal allows the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue to supply the ice cream to Chinese retail and food service. The financial terms of the deal were not disclosed, but it is expected to close by the end of the year.",
-            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal allows the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue to supply the ice cream to Chinese retail and food service. The financial terms of the deal were not disclosed, but it is expected to close by the end of the year.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.630976
-        },
-        {
-            "source": "AP News",
-            "date": "20260602T160742",
-            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
-            "summary": "General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to a Chinese investor group led by tea brand Ningji. While General Mills will continue to supply Häagen-Dazs ice cream to Chinese retail and food service, the new owners will exclusively manage the brand's ice cream shops and gifting businesses. This move comes as foreign businesses adjust operations in China due to changing consumer preferences and slowing economic growth, with Häagen-Dazs facing declining appeal for its traditional, high-fat ice cream compared to newer low-fat options.",
-            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to a Chinese investor group led by tea brand Ningji. While General Mills will continue to supply Häagen-Dazs ice cream to Chinese retail and food service, the new owners will exclusively manage the brand's ice cream shops and gifting businesses. This move comes as foreign businesses adjust operations in China due to changing consumer preferences and slowing economic growth, with Häagen-Dazs facing declining appeal for its traditional, high-fat ice cream compared to newer low-fat options.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.648674
-        },
-        {
             "source": "Stock Titan",
             "date": "20260602T111956",
             "title": "Target’s June sale: up to 45% off plus free Starbucks treat",
             "summary": "Target announced its \"Target Circle Deal Days\" sale from June 23–26, offering up to 45% off thousands of items in various categories, with early access for Target Circle 360 members on June 22. The event includes special promotions like 40% off back-to-school essentials and a free Starbucks coffeehouse treat for Target Circle members on June 23. These deals aim to help families save money during summer and back-to-school preparation, reinforcing Target's focus on value and loyalty programs.",
             "text_to_analyze": "Target’s June sale: up to 45% off plus free Starbucks treat. Target announced its \"Target Circle Deal Days\" sale from June 23–26, offering up to 45% off thousands of items in various categories, with early access for Target Circle 360 members on June 22. The event includes special promotions like 40% off back-to-school essentials and a free Starbucks coffeehouse treat for Target Circle members on June 23. These deals aim to help families save money during summer and back-to-school preparation, reinforcing Target's focus on value and loyalty programs.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.649432
+            "ticker_relevance_score": 0.625548
         },
         {
             "source": "MarketBeat",
@@ -93,15 +66,6 @@
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "About Amazon",
-            "date": "20260602T050703",
-            "title": "When is Amazon Prime Day 2026? Shop deals June 23-26",
-            "summary": "Amazon's annual Prime Day 2026 event is scheduled for June 23-26, offering millions of exclusive deals to Prime members across various categories. Early deals and limited-time offers are already available, and members can use Alexa for Shopping to personalize their deal alerts and guides. The event features discounts on Amazon devices, groceries, and products from small businesses, along with special promotions for Prime Visa cardholders and early access to \"Spider-Man: Brand New Day.\"",
-            "text_to_analyze": "When is Amazon Prime Day 2026? Shop deals June 23-26. Amazon's annual Prime Day 2026 event is scheduled for June 23-26, offering millions of exclusive deals to Prime members across various categories. Early deals and limited-time offers are already available, and members can use Alexa for Shopping to personalize their deal alerts and guides. The event features discounts on Amazon devices, groceries, and products from small businesses, along with special promotions for Prime Visa cardholders and early access to \"Spider-Man: Brand New Day.\"",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.562749
-        },
-        {
             "source": "Claims Journal",
             "date": "20260602T043832",
             "title": "Starbucks to Take AI Usage into Account in Tech Workers’ Bonuses",
@@ -109,15 +73,6 @@
             "text_to_analyze": "Starbucks to Take AI Usage into Account in Tech Workers’ Bonuses. Starbucks is linking a quarter of its tech workers' bonuses to their use of artificial intelligence, aiming to improve efficiency and justify its AI investments. The company is tracking AI adoption as part of its \"Back to Starbucks\" strategy, with software developers expected to use an AI assistant multiple times weekly. This initiative reflects a broader corporate trend of integrating and measuring AI usage within workflows to boost productivity and customer experience.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
             "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Simply Wall Street",
-            "date": "20260602T033732",
-            "title": "Assessing Darden Restaurants (DRI) Valuation As Shares Track Mixed Short And Long Term Returns",
-            "summary": "Darden Restaurants (DRI) shares are attracting attention, trading around $201.91 with mixed short-term returns but a 3-year total shareholder return of 38.22%. The company is considered undervalued with a fair value of $222.38, driven by new smaller prototypes for some brands that are expected to accelerate unit growth and enhance revenue and earnings. However, this valuation relies on assumptions that could be affected by shrinking guest counts and consumer spending pressure.",
-            "text_to_analyze": "Assessing Darden Restaurants (DRI) Valuation As Shares Track Mixed Short And Long Term Returns. Darden Restaurants (DRI) shares are attracting attention, trading around $201.91 with mixed short-term returns but a 3-year total shareholder return of 38.22%. The company is considered undervalued with a fair value of $222.38, driven by new smaller prototypes for some brands that are expected to accelerate unit growth and enhance revenue and earnings. However, this valuation relies on assumptions that could be affected by shrinking guest counts and consumer spending pressure.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.607023
         },
         {
             "source": "Law360",
@@ -129,13 +84,58 @@
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "BBN Times",
-            "date": "20260601T190718",
-            "title": "Scott Boatwright: Brunswick Dishwasher, Arby's Operations Master, and Chief Executive Officer of Chipotle Mexican Grill",
-            "summary": "Scott Boatwright, beginning his career as a dishwasher in Brunswick, Georgia, has been appointed Chief Executive Officer of Chipotle Mexican Grill after rising through the ranks. After eighteen years mastering restaurant operations at Arby's, he joined Chipotle in 2017 as its first outside executive post-IPO, playing a critical role in the company's turnaround. His operational leadership led to over 150% revenue growth and an 800% stock price increase, positioning him as the ideal leader to guide Chipotle towards its goal of 7,000 North American restaurants and global brand expansion.",
-            "text_to_analyze": "Scott Boatwright: Brunswick Dishwasher, Arby's Operations Master, and Chief Executive Officer of Chipotle Mexican Grill. Scott Boatwright, beginning his career as a dishwasher in Brunswick, Georgia, has been appointed Chief Executive Officer of Chipotle Mexican Grill after rising through the ranks. After eighteen years mastering restaurant operations at Arby's, he joined Chipotle in 2017 as its first outside executive post-IPO, playing a critical role in the company's turnaround. His operational leadership led to over 150% revenue growth and an 800% stock price increase, positioning him as the ideal leader to guide Chipotle towards its goal of 7,000 North American restaurants and global brand expansion.",
+            "source": "TradingView",
+            "date": "20260601T141850",
+            "title": "Has Starbucks Reached the Turning Point in Its Turnaround Story?",
+            "summary": "Starbucks appears to be reaching a significant inflection point in its turnaround efforts, with its \"Back to Starbucks\" strategy showing progress in revenue and earnings growth for the first time in over two years. The company reported improved comparable-store sales in the U.S. and positive growth across major international markets, signaling a move beyond stabilization into sustainable growth. Despite competition from Dutch Bros and McDonald's, Starbucks' focus on better service, loyalty benefits, and the coffeehouse experience is helping restore its operational excellence and brand appeal.",
+            "text_to_analyze": "Has Starbucks Reached the Turning Point in Its Turnaround Story?. Starbucks appears to be reaching a significant inflection point in its turnaround efforts, with its \"Back to Starbucks\" strategy showing progress in revenue and earnings growth for the first time in over two years. The company reported improved comparable-store sales in the U.S. and positive growth across major international markets, signaling a move beyond stabilization into sustainable growth. Despite competition from Dutch Bros and McDonald's, Starbucks' focus on better service, loyalty benefits, and the coffeehouse experience is helping restore its operational excellence and brand appeal.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.585971
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260601T071135",
+            "title": "Arcadia Investment Management Corp MI Sells 21,387 Shares of Starbucks Corporation $SBUX",
+            "summary": "Arcadia Investment Management Corp MI reduced its stake in Starbucks Corporation by 19.0% in the fourth quarter, selling 21,387 shares and leaving it with 91,415 shares valued at approximately $7.7 million. Despite this, Starbucks reported stronger-than-expected quarterly results with an EPS of $0.50 and revenue of $9.53 billion, both exceeding analyst estimates. The company also affirmed its FY 2026 EPS guidance and is seeing mixed sentiment due to improving afternoon traffic but also concerns regarding a retired AI inventory tool and international issues in South Korea.",
+            "text_to_analyze": "Arcadia Investment Management Corp MI Sells 21,387 Shares of Starbucks Corporation $SBUX. Arcadia Investment Management Corp MI reduced its stake in Starbucks Corporation by 19.0% in the fourth quarter, selling 21,387 shares and leaving it with 91,415 shares valued at approximately $7.7 million. Despite this, Starbucks reported stronger-than-expected quarterly results with an EPS of $0.50 and revenue of $9.53 billion, both exceeding analyst estimates. The company also affirmed its FY 2026 EPS guidance and is seeing mixed sentiment due to improving afternoon traffic but also concerns regarding a retired AI inventory tool and international issues in South Korea.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Campaign Asia",
+            "date": "20260601T061936",
+            "title": "'Familiarity does not equal immunity': Outrage over Starbucks Korea's 'Tank Day' campaign refuses to quell",
+            "summary": "Starbucks Korea is facing a severe backlash and significant financial losses due to its \"Tank Day\" campaign, which offensively coincided with May 18, the anniversary of the 1980 Gwangju Uprising. The campaign, promoting \"Tank Series\" tumblers, was widely perceived as disrespectful to a day of national trauma, leading to boycotts, condemnations from government officials and delivery unions, and a public apology from parent company Shinsegae. Brand experts emphasize that the incident highlights a failure by Starbucks to genuinely understand Korean culture, suggesting that while the situation is not irreversible, regaining trust requires demonstrating a deeper understanding of the mistake's cultural impact.",
+            "text_to_analyze": "'Familiarity does not equal immunity': Outrage over Starbucks Korea's 'Tank Day' campaign refuses to quell. Starbucks Korea is facing a severe backlash and significant financial losses due to its \"Tank Day\" campaign, which offensively coincided with May 18, the anniversary of the 1980 Gwangju Uprising. The campaign, promoting \"Tank Series\" tumblers, was widely perceived as disrespectful to a day of national trauma, leading to boycotts, condemnations from government officials and delivery unions, and a public apology from parent company Shinsegae. Brand experts emphasize that the incident highlights a failure by Starbucks to genuinely understand Korean culture, suggesting that while the situation is not irreversible, regaining trust requires demonstrating a deeper understanding of the mistake's cultural impact.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Finviz",
+            "date": "20260530T140822",
+            "title": "SBUX - Starbucks Corp Stock Price and Quote",
+            "summary": "This article provides comprehensive financial data for Starbucks Corp. (SBUX), including stock price, market capitalization, P/E ratio, and dividend information. It also lists recent analyst ratings, news headlines, and insider transactions, reflecting the company's recent performance, strategic shifts, and ongoing AI and cost-cutting initiatives.",
+            "text_to_analyze": "SBUX - Starbucks Corp Stock Price and Quote. This article provides comprehensive financial data for Starbucks Corp. (SBUX), including stock price, market capitalization, P/E ratio, and dividend information. It also lists recent analyst ratings, news headlines, and insider transactions, reflecting the company's recent performance, strategic shifts, and ongoing AI and cost-cutting initiatives.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barchart.com",
+            "date": "20260530T130018",
+            "title": "Starbucks’ AI Disaster and Sam Altman’s U-Turn Prove That AI Still Needs Humans",
+            "summary": "Starbucks recently fired its AI inventory management system after it proved disastrous due to incorrect product recognition and counting errors, highlighting the need for robust underlying infrastructure and human oversight in AI implementation. This incident, along with OpenAI CEO Sam Altman's revised stance emphasizing the essential human element in most work, suggests that AI will likely augment rather than fully replace human jobs, especially in complex systems. The article assesses Starbucks' stock (SBUX) performance and analyst ratings, noting its recent quarterly growth and future prospects.",
+            "text_to_analyze": "Starbucks’ AI Disaster and Sam Altman’s U-Turn Prove That AI Still Needs Humans. Starbucks recently fired its AI inventory management system after it proved disastrous due to incorrect product recognition and counting errors, highlighting the need for robust underlying infrastructure and human oversight in AI implementation. This incident, along with OpenAI CEO Sam Altman's revised stance emphasizing the essential human element in most work, suggests that AI will likely augment rather than fully replace human jobs, especially in complex systems. The article assesses Starbucks' stock (SBUX) performance and analyst ratings, noting its recent quarterly growth and future prospects.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.991583
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260530T081732",
+            "title": "Fideuram Asset Management Ireland dac Purchases New Position in Starbucks Corporation $SBUX",
+            "summary": "Fideuram Asset Management Ireland dac has acquired a new stake in Starbucks Corporation, purchasing 15,869 shares valued at approximately $1,336,000 in the fourth quarter. Other institutional investors also bought new positions in Starbucks, while insider activity showed sales from EVP Sara Kelly and CEO Brady Brewer. The article also provides a roundup of recent Starbucks news, price performance, dividend information, and analyst ratings.",
+            "text_to_analyze": "Fideuram Asset Management Ireland dac Purchases New Position in Starbucks Corporation $SBUX. Fideuram Asset Management Ireland dac has acquired a new stake in Starbucks Corporation, purchasing 15,869 shares valued at approximately $1,336,000 in the fourth quarter. Other institutional investors also bought new positions in Starbucks, while insider activity showed sales from EVP Sara Kelly and CEO Brady Brewer. The article also provides a roundup of recent Starbucks news, price performance, dividend information, and analyst ratings.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
         }
     ]
 }
