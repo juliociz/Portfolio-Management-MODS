@@ -1,0 +1,14 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "date_filter": "Last 7 days (since 2026-05-27)",
+    "articles": [
+        {
+            "source": "CNBC",
+            "date": "2026-05-28T14:30:55Z",
+            "title": "Starbucks says afternoon traffic is rising as turnaround starts to take hold",
+            "summary": "Starbucks says afternoon traffic is surging, led by menu innovation, as CEO Brian Niccol pushes to turn the chain into an all-day destination.",
+            "text_to_analyze": "Starbucks says afternoon traffic is rising as turnaround starts to take hold. Starbucks says afternoon traffic is surging, led by menu innovation, as CEO Brian Niccol pushes to turn the chain into an all-day destination."
+        }
+    ]
+}

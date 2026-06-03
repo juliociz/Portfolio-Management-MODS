@@ -1,0 +1,28 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "date_filter": "Last 7 days (since 2026-05-27)",
+    "articles": [
+        {
+            "source": "Business Insider",
+            "date": "2026-05-28T09:09:01Z",
+            "title": "Disney is preparing for a world without the Hulu app",
+            "summary": "Disney is working toward making the Hulu app obsolete. An internal document says the app \"will be decommissioned\" after subscribers move to Disney+.",
+            "text_to_analyze": "Disney is preparing for a world without the Hulu app. Disney is working toward making the Hulu app obsolete. An internal document says the app \"will be decommissioned\" after subscribers move to Disney+."
+        },
+        {
+            "source": "Forbes",
+            "date": "2026-05-31T21:52:22Z",
+            "title": "Trade Body Reveals The Theme Park With The Highest Attendance Growth. And It Isn’t Disney",
+            "summary": "Data from amusement industry trade body TEA has revealed the theme park that experienced the greatest growth in the past 20 years. Surprisingly, Disney’s name is not over the door.",
+            "text_to_analyze": "Trade Body Reveals The Theme Park With The Highest Attendance Growth. And It Isn’t Disney. Data from amusement industry trade body TEA has revealed the theme park that experienced the greatest growth in the past 20 years. Surprisingly, Disney’s name is not over the door."
+        },
+        {
+            "source": "CNBC",
+            "date": "2026-05-31T10:00:01Z",
+            "title": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
+            "summary": "Disney is selling ads for the Super Bowl, Oscars and Grammys in 2027, all major advertising revenue drivers. Global ad president Rita Ferro is leading the charge.",
+            "text_to_analyze": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push. Disney is selling ads for the Super Bowl, Oscars and Grammys in 2027, all major advertising revenue drivers. Global ad president Rita Ferro is leading the charge."
+        }
+    ]
+}

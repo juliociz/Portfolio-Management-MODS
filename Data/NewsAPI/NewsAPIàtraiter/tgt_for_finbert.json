@@ -1,0 +1,21 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "date_filter": "Last 7 days (since 2026-05-27)",
+    "articles": [
+        {
+            "source": "24/7 Wall St.",
+            "date": "2026-05-28T14:59:33Z",
+            "title": "Nvidia Stock Trades Flat Despite $1 Trillion Sales Target as ‘Market Expects Nvidia to Keep Beating Expectations’",
+            "summary": "A recent episode of Reuters Morning Bid focused on one of the strangest signals in the AI market right now. NVIDIA (NASDAQ:NVDA) announced an $80 billion...",
+            "text_to_analyze": "Nvidia Stock Trades Flat Despite $1 Trillion Sales Target as ‘Market Expects Nvidia to Keep Beating Expectations’. A recent episode of Reuters Morning Bid focused on one of the strangest signals in the AI market right now. NVIDIA (NASDAQ:NVDA) announced an $80 billion..."
+        },
+        {
+            "source": "Business Insider",
+            "date": "2026-05-27T14:31:26Z",
+            "title": "Goldman pumps up its S&P 500 price target to 8,000 for the year as it eyes an earnings-fueled rally",
+            "summary": "Goldman Sachs says an earnings-fueled rally will lift the S&P 500 to 8,000 by year-end, with full year EPS growth for the index clocking in at 24%.",
+            "text_to_analyze": "Goldman pumps up its S&P 500 price target to 8,000 for the year as it eyes an earnings-fueled rally. Goldman Sachs says an earnings-fueled rally will lift the S&P 500 to 8,000 by year-end, with full year EPS growth for the index clocking in at 24%."
+        }
+    ]
+}

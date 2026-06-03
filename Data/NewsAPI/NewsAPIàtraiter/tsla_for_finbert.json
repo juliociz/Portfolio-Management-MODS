@@ -1,0 +1,42 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "date_filter": "Last 7 days (since 2026-05-27)",
+    "articles": [
+        {
+            "source": "24/7 Wall St.",
+            "date": "2026-05-28T13:55:20Z",
+            "title": "Will Tesla Stock Hit $600 This Year?",
+            "summary": "The question in this article’s title cuts to the heart of the Tesla (NASDAQ:TSLA) debate. With shares having clawed back to $426.01 and momentum building off...",
+            "text_to_analyze": "Will Tesla Stock Hit $600 This Year?. The question in this article’s title cuts to the heart of the Tesla (NASDAQ:TSLA) debate. With shares having clawed back to $426.01 and momentum building off..."
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "2026-05-27T12:52:35Z",
+            "title": "Forget Tesla: This Cash-Rich Automotive Underdog Is A Value Buy",
+            "summary": "Tesla (NASDAQ:TSLA) is dominating every financial feed again after a 15.22% one-month rip back to $433.59, fueled by the same robotaxi and Optimus narrative ...",
+            "text_to_analyze": "Forget Tesla: This Cash-Rich Automotive Underdog Is A Value Buy. Tesla (NASDAQ:TSLA) is dominating every financial feed again after a 15.22% one-month rip back to $433.59, fueled by the same robotaxi and Optimus narrative ..."
+        },
+        {
+            "source": "Forbes",
+            "date": "2026-05-27T16:20:01Z",
+            "title": "Could Musk Merge SpaceX And Tesla? Here’s What Analysts—And Betting Markets—Say",
+            "summary": "Wall Street has speculated whether the world’s richest person will consider a tie-up for his two most valuable companies.",
+            "text_to_analyze": "Could Musk Merge SpaceX And Tesla? Here’s What Analysts—And Betting Markets—Say. Wall Street has speculated whether the world’s richest person will consider a tie-up for his two most valuable companies."
+        },
+        {
+            "source": "Business Insider",
+            "date": "2026-05-28T01:44:01Z",
+            "title": "Andrew Left's contentious testimony on Twitter, Telegram, and a 'bro hug' for Tesla",
+            "summary": "Andrew Left, a short-seller and founder of Citron Research, defends against securities fraud charges and faces cross-examination at trial.",
+            "text_to_analyze": "Andrew Left's contentious testimony on Twitter, Telegram, and a 'bro hug' for Tesla. Andrew Left, a short-seller and founder of Citron Research, defends against securities fraud charges and faces cross-examination at trial."
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "2026-05-28T17:05:04Z",
+            "title": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of",
+            "summary": "Humanoid robotics moved from concept videos to factory floors over the past 18 months, and three ETFs now offer materially different ways to play it: Themes ...",
+            "text_to_analyze": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of. Humanoid robotics moved from concept videos to factory floors over the past 18 months, and three ETFs now offer materially different ways to play it: Themes ..."
+        }
+    ]
+}
