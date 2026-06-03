@@ -1,0 +1,141 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260603T113723",
+            "title": "Westpac Banking Corp Raises Holdings in The Walt Disney Company $DIS",
+            "summary": "Westpac Banking Corp significantly increased its stake in The Walt Disney Company by 55.2% in Q4, acquiring an additional 10,109 shares to reach a total of 28,430 shares valued at approximately $3.23 million. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $134.47 for Disney. The entertainment giant recently surpassed earnings expectations, reporting $1.57 EPS and $25.17 billion in revenue.",
+            "text_to_analyze": "Westpac Banking Corp Raises Holdings in The Walt Disney Company $DIS. Westpac Banking Corp significantly increased its stake in The Walt Disney Company by 55.2% in Q4, acquiring an additional 10,109 shares to reach a total of 28,430 shares valued at approximately $3.23 million. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $134.47 for Disney. The entertainment giant recently surpassed earnings expectations, reporting $1.57 EPS and $25.17 billion in revenue.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.966009
+        },
+        {
+            "source": "PR Newswire",
+            "date": "20260603T110028",
+            "title": "AT&T Brings Connection to Life Through New Campaign Inspired by Disney and Pixar's \"Toy Story 5\"",
+            "summary": "AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5\" to highlight the importance of connection. This collaboration includes a custom animated commercial, immersive in-store experiences, merchandise, and community movie screenings. The initiative aims to connect families and showcase AT&T's commitment to providing tools and resources for digital family life, such as their amiGO lineup of devices.",
+            "text_to_analyze": "AT&T Brings Connection to Life Through New Campaign Inspired by Disney and Pixar's \"Toy Story 5\". AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5\" to highlight the importance of connection. This collaboration includes a custom animated commercial, immersive in-store experiences, merchandise, and community movie screenings. The initiative aims to connect families and showcase AT&T's commitment to providing tools and resources for digital family life, such as their amiGO lineup of devices.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.856235
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260603T110028",
+            "title": "AT&T turns stores into 'Toy Story 5' worlds for families this summer",
+            "summary": "AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5,\" which premieres on June 19. The campaign includes a custom animated TV spot, immersive in-store experiences in six U.S. markets, themed accessories, and community screenings for families from AT&T Connected Learning Centers. This initiative aims to highlight AT&T's commitment to connecting families through technology and shared experiences, building on their broader strategic efforts like network investments and educational programs.",
+            "text_to_analyze": "AT&T turns stores into 'Toy Story 5' worlds for families this summer. AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5,\" which premieres on June 19. The campaign includes a custom animated TV spot, immersive in-store experiences in six U.S. markets, themed accessories, and community screenings for families from AT&T Connected Learning Centers. This initiative aims to highlight AT&T's commitment to connecting families through technology and shared experiences, building on their broader strategic efforts like network investments and educational programs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.711715
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260603T074356",
+            "title": "Bank of New York Mellon Corp Has $1.70 Billion Stake in The Walt Disney Company $DIS",
+            "summary": "Bank of New York Mellon Corp decreased its stake in The Walt Disney Company by 2.8% in the last quarter, though it still holds approximately 14.9 million shares valued at $1.70 billion. Disney recently reported solid quarterly results, surpassing EPS and revenue estimates, and reaffirmed its FY2026 EPS guidance. Analyst sentiment remains largely positive, with the stock holding a \"Moderate Buy\" rating and an average target price of $134.47.",
+            "text_to_analyze": "Bank of New York Mellon Corp Has $1.70 Billion Stake in The Walt Disney Company $DIS. Bank of New York Mellon Corp decreased its stake in The Walt Disney Company by 2.8% in the last quarter, though it still holds approximately 14.9 million shares valued at $1.70 billion. Disney recently reported solid quarterly results, surpassing EPS and revenue estimates, and reaffirmed its FY2026 EPS guidance. Analyst sentiment remains largely positive, with the stock holding a \"Moderate Buy\" rating and an average target price of $134.47.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260602T200336",
+            "title": "“Disney Celebrates America” Ramps Up With A Phenomenal Lineup Of Experiences Ahead Of The Nation’s 250th Anniversary",
+            "summary": "The Walt Disney Company announced an extensive lineup of broadcast moments, parks activities, and community engagements for \"Disney Celebrates America,\" honoring the nation's 250th anniversary. The initiative includes a 24-hour multi-platform broadcast led by David Muir, a primetime special on ABC, and the debut of Soarin’ Across America at Disneyland Resort. Disney Parks will also host various events, and the company will continue its commitment to veterans and military families through an expanded partnership with Blue Star Families.",
+            "text_to_analyze": "“Disney Celebrates America” Ramps Up With A Phenomenal Lineup Of Experiences Ahead Of The Nation’s 250th Anniversary. The Walt Disney Company announced an extensive lineup of broadcast moments, parks activities, and community engagements for \"Disney Celebrates America,\" honoring the nation's 250th anniversary. The initiative includes a 24-hour multi-platform broadcast led by David Muir, a primetime special on ABC, and the debut of Soarin’ Across America at Disneyland Resort. Disney Parks will also host various events, and the company will continue its commitment to veterans and military families through an expanded partnership with Blue Star Families.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ABC7 New York",
+            "date": "20260602T183735",
+            "title": "'Disney Celebrates America' lineup announced for America's 250th anniversary",
+            "summary": "Disney has announced its \"Disney Celebrates America\" lineup to commemorate the U.S.'s 250th anniversary, featuring a 24-hour multiplatform broadcast led by David Muir on July 3-4, 2026. The celebration includes a primetime special anchored by Deborah Roberts and Will Reeve, live events at Disney Parks with new attractions and patriotic displays, and a concert in Nashville with fireworks. National Geographic and ABC News will also reveal a \"Seven Natural Wonders of America\" list to honor the milestone.",
+            "text_to_analyze": "'Disney Celebrates America' lineup announced for America's 250th anniversary. Disney has announced its \"Disney Celebrates America\" lineup to commemorate the U.S.'s 250th anniversary, featuring a 24-hour multiplatform broadcast led by David Muir on July 3-4, 2026. The celebration includes a primetime special anchored by Deborah Roberts and Will Reeve, live events at Disney Parks with new attractions and patriotic displays, and a concert in Nashville with fireworks. National Geographic and ABC News will also reveal a \"Seven Natural Wonders of America\" list to honor the milestone.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "GuruFocus",
+            "date": "20260602T183045",
+            "title": "TTWO Initiates Coverage by Piper Sandler -- Rating Set to Overwe",
+            "summary": "Piper Sandler has initiated coverage on Take-Two Interactive (TTWO) with an Overweight rating and a price target of $280.00, citing the company's strong gaming portfolio and growth potential in mobile gaming. Despite this positive analyst outlook, GuruFocus indicates that TTWO is currently 7.0% overvalued based on its GF Value, and insider activity shows significant selling of shares. Investors are advised to consider these mixed signals before making investment decisions.",
+            "text_to_analyze": "TTWO Initiates Coverage by Piper Sandler -- Rating Set to Overwe. Piper Sandler has initiated coverage on Take-Two Interactive (TTWO) with an Overweight rating and a price target of $280.00, citing the company's strong gaming portfolio and growth potential in mobile gaming. Despite this positive analyst outlook, GuruFocus indicates that TTWO is currently 7.0% overvalued based on its GF Value, and insider activity shows significant selling of shares. Investors are advised to consider these mixed signals before making investment decisions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.582126
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260602T131030",
+            "title": "'Disney Celebrates America' Ramps Up with a Phenomenal Lineup of Experiences Ahead of the Nation’s 250th Anniversary",
+            "summary": "Disney has announced a wide array of programming and experiences for \"Disney Celebrates America,\" honoring the 250th anniversary of the United States. This includes a 24-hour multi-platform broadcast, a primetime special, and new park attractions like Soarin' Across America, along with significant community engagements. The initiative reflects Disney's century-long legacy of storytelling and aims to celebrate America's past, present, and future through various activities and collaborations, including supporting veterans and military families.",
+            "text_to_analyze": "'Disney Celebrates America' Ramps Up with a Phenomenal Lineup of Experiences Ahead of the Nation’s 250th Anniversary. Disney has announced a wide array of programming and experiences for \"Disney Celebrates America,\" honoring the 250th anniversary of the United States. This includes a 24-hour multi-platform broadcast, a primetime special, and new park attractions like Soarin' Across America, along with significant community engagements. The initiative reflects Disney's century-long legacy of storytelling and aims to celebrate America's past, present, and future through various activities and collaborations, including supporting veterans and military families.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260602T130731",
+            "title": "The Walt Disney Company (DIS) is Attracting Investor Attention: Here is What You Should Know",
+            "summary": "Walt Disney (DIS) is gaining investor attention due to positive revisions in its earnings estimates and robust revenue growth projections. The company demonstrated strong financial health with a 17.4% year-over-year earnings change expected for the current quarter and consistent EPS beats, though it has garnered a Zacks Rank #3 (Hold) due to its valuation metrics.",
+            "text_to_analyze": "The Walt Disney Company (DIS) is Attracting Investor Attention: Here is What You Should Know. Walt Disney (DIS) is gaining investor attention due to positive revisions in its earnings estimates and robust revenue growth projections. The company demonstrated strong financial health with a 17.4% year-over-year earnings change expected for the current quarter and consistent EPS beats, though it has garnered a Zacks Rank #3 (Hold) due to its valuation metrics.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "date": "20260602T123727",
+            "title": "'Disney Celebrates America' lineup announced for America's 250th anniversary",
+            "summary": "Disney has announced \"Disney Celebrates America,\" a company-wide initiative for the nation's 250th anniversary. This includes a 24-hour multiplatform broadcast led by David Muir, a primetime special from Disney parks, and a live concert in Nashville. The celebration also features new park experiences like \"Soarin' Across America\" and a \"Seven Natural Wonders of America\" list from National Geographic and ABC News.",
+            "text_to_analyze": "'Disney Celebrates America' lineup announced for America's 250th anniversary. Disney has announced \"Disney Celebrates America,\" a company-wide initiative for the nation's 250th anniversary. This includes a 24-hour multiplatform broadcast led by David Muir, a primetime special from Disney parks, and a live concert in Nashville. The celebration also features new park experiences like \"Soarin' Across America\" and a \"Seven Natural Wonders of America\" list from National Geographic and ABC News.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.987963
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260602T114426",
+            "title": "Natixis Advisors LLC Boosts Stake in The Walt Disney Company $DIS",
+            "summary": "Natixis Advisors LLC increased its stake in The Walt Disney Company (NYSE:DIS) by 2.4% in the fourth quarter, purchasing an additional 49,195 shares. This brings their total holding to 2,120,702 shares valued at approximately $241.3 million. Institutional investors collectively own 65.71% of Disney's stock, with several other funds also reporting minor increases in their positions. The article notes positive sentiment for Disney due to brand visibility, live-action adaptations, park investments, and strong gaming performance, while analyst ratings are a \"Moderate Buy\" with a target price of $134.47.",
+            "text_to_analyze": "Natixis Advisors LLC Boosts Stake in The Walt Disney Company $DIS. Natixis Advisors LLC increased its stake in The Walt Disney Company (NYSE:DIS) by 2.4% in the fourth quarter, purchasing an additional 49,195 shares. This brings their total holding to 2,120,702 shares valued at approximately $241.3 million. Institutional investors collectively own 65.71% of Disney's stock, with several other funds also reporting minor increases in their positions. The article notes positive sentiment for Disney due to brand visibility, live-action adaptations, park investments, and strong gaming performance, while analyst ratings are a \"Moderate Buy\" with a target price of $134.47.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Axios",
+            "date": "20260601T220018",
+            "title": "Netflix taps Disney's Caitlin Conant for new D.C.-based role",
+            "summary": "Netflix has hired Caitlin Conant from Disney as head of U.S. policy communications and external affairs to strengthen its presence in Washington D.C. This move is part of Netflix's strategy to engage more proactively with regulators and policymakers, given its growing influence and increasing scrutiny on its business. Conant brings extensive media and political experience, having managed Disney's crisis with Florida Governor Ron DeSantis and previously serving as political director at CBS News and a communications official for Republican politicians.",
+            "text_to_analyze": "Netflix taps Disney's Caitlin Conant for new D.C.-based role. Netflix has hired Caitlin Conant from Disney as head of U.S. policy communications and external affairs to strengthen its presence in Washington D.C. This move is part of Netflix's strategy to engage more proactively with regulators and policymakers, given its growing influence and increasing scrutiny on its business. Conant brings extensive media and political experience, having managed Disney's crisis with Florida Governor Ron DeSantis and previously serving as political director at CBS News and a communications official for Republican politicians.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.722681
+        },
+        {
+            "source": "Media Play News",
+            "date": "20260601T183534",
+            "title": "Starz Appoints Former Disney Exec Jim Kapenstein as Chief Legal and Strategy Officer",
+            "summary": "Starz has appointed Jim Kapenstein, a former Disney executive, as its new Chief Legal and Strategy Officer. Kapenstein, who spent nearly three decades at Disney overseeing numerous high-profile mergers and acquisitions, will be responsible for Starz's strategic direction in business and legal affairs, including content acquisition, distribution, and corporate transactions. He will report directly to Starz president and CEO Jeffrey Hirsch, aiming to guide the company through its next phase of growth and disciplined expansion.",
+            "text_to_analyze": "Starz Appoints Former Disney Exec Jim Kapenstein as Chief Legal and Strategy Officer. Starz has appointed Jim Kapenstein, a former Disney executive, as its new Chief Legal and Strategy Officer. Kapenstein, who spent nearly three decades at Disney overseeing numerous high-profile mergers and acquisitions, will be responsible for Starz's strategic direction in business and legal affairs, including content acquisition, distribution, and corporate transactions. He will report directly to Starz president and CEO Jeffrey Hirsch, aiming to guide the company through its next phase of growth and disciplined expansion.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.894659
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260601T181628",
+            "title": "Taylor Swift Announces New Song ‘I Knew It, I Knew You’ for Disney and Pixar’s ‘Toy Story 5’",
+            "summary": "Taylor Swift has announced a new original song, “I Knew It, I Knew You,” for Disney and Pixar’s upcoming film, Toy Story 5. The song, co-written and produced with Jack Antonoff, will be available for streaming and purchase on June 5, and will appear on the movie's soundtrack releasing June 19. Inspired by the character Jessie and Swift's country roots, the announcement follows a series of \"TS\" billboards and a countdown on Swift's official website.",
+            "text_to_analyze": "Taylor Swift Announces New Song ‘I Knew It, I Knew You’ for Disney and Pixar’s ‘Toy Story 5’. Taylor Swift has announced a new original song, “I Knew It, I Knew You,” for Disney and Pixar’s upcoming film, Toy Story 5. The song, co-written and produced with Jack Antonoff, will be available for streaming and purchase on June 5, and will appear on the movie's soundtrack releasing June 19. Inspired by the character Jessie and Swift's country roots, the announcement follows a series of \"TS\" billboards and a countdown on Swift's official website.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo",
+            "date": "20260601T134600",
+            "title": "Papa Johns opens Pizza Planet popups for Toy Story collab",
+            "summary": "Papa Johns is launching Pizza Planet pop-up locations in major cities globally, including London, Seoul, Madrid, and Los Angeles, as part of a collaboration with Disney Pixar for Toy Story 5. These pop-ups recreate the iconic sci-fi-themed pizzeria from the movie, offering exclusive Toy Story 5 pizzas, merchandise, and an in-app game for loyalty members. The initiative aims to celebrate the connection between movie nights and pizza, bringing families together in a nostalgic and fun way.",
+            "text_to_analyze": "Papa Johns opens Pizza Planet popups for Toy Story collab. Papa Johns is launching Pizza Planet pop-up locations in major cities globally, including London, Seoul, Madrid, and Los Angeles, as part of a collaboration with Disney Pixar for Toy Story 5. These pop-ups recreate the iconic sci-fi-themed pizzeria from the movie, offering exclusive Toy Story 5 pizzas, merchandise, and an in-app game for loyalty members. The initiative aims to celebrate the connection between movie nights and pizza, bringing families together in a nostalgic and fun way.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.716126
+        }
+    ]
+}

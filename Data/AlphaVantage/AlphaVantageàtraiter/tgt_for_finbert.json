@@ -1,0 +1,141 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "articles": [
+        {
+            "source": "BGR",
+            "date": "20260603T121658",
+            "title": "5 Reasons Why Customers Avoid Shopping At The Apple Store",
+            "summary": "This article explores five reasons why customers are increasingly avoiding physical Apple Stores. These reasons include often being too busy, the stores prioritizing online pickup orders over walk-in purchases, products being more expensive than at third-party retailers, the geographical inconvenience of not having an Apple Store nearby for many customers, and a shift in employee approach from help-oriented to sales-driven. The article suggests that the original unique customer experience has diminished, pushing many customers towards online shopping.",
+            "text_to_analyze": "5 Reasons Why Customers Avoid Shopping At The Apple Store. This article explores five reasons why customers are increasingly avoiding physical Apple Stores. These reasons include often being too busy, the stores prioritizing online pickup orders over walk-in purchases, products being more expensive than at third-party retailers, the geographical inconvenience of not having an Apple Store nearby for many customers, and a shift in employee approach from help-oriented to sales-driven. The article suggests that the original unique customer experience has diminished, pushing many customers towards online shopping.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.686331
+        },
+        {
+            "source": "FreightWaves",
+            "date": "20260603T111535",
+            "title": "Target debuts $367M food distribution center in Colorado",
+            "summary": "Target has opened a new $367 million food distribution center in Thornton, Colorado, to serve 129 stores across 11 states, enhancing fresh and frozen food availability and distribution efficiency. The 529,000-square-foot facility is Target's largest food DC and the first with consolidation capabilities, allowing it to combine shipments from different vendors to reduce transportation costs and streamline deliveries. This expansion is part of Target's strategy to position products closer to consumers and improve in-stock reliability, building on the success of 3,000 new food items introduced recently.",
+            "text_to_analyze": "Target debuts $367M food distribution center in Colorado. Target has opened a new $367 million food distribution center in Thornton, Colorado, to serve 129 stores across 11 states, enhancing fresh and frozen food availability and distribution efficiency. The 529,000-square-foot facility is Target's largest food DC and the first with consolidation capabilities, allowing it to combine shipments from different vendors to reduce transportation costs and streamline deliveries. This expansion is part of Target's strategy to position products closer to consumers and improve in-stock reliability, building on the success of 3,000 new food items introduced recently.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260603T105942",
+            "title": "Walmart Inc. $WMT Position Boosted by Phillips Wealth Planners LLC",
+            "summary": "Phillips Wealth Planners LLC significantly increased its stake in Walmart Inc. (WMT) by 187.8% in Q4, bringing its total holdings to 21,192 shares valued at $2.53 million, making WMT its fourth-largest position. This boost reflects broader institutional interest, with major investors like Vanguard and Norges Bank also increasing their holdings, leading to institutions owning 26.76% of the company. Walmart also continues to advance its e-commerce and delivery initiatives, including over 1 million drone deliveries and expanding 30-minute delivery services.",
+            "text_to_analyze": "Walmart Inc. $WMT Position Boosted by Phillips Wealth Planners LLC. Phillips Wealth Planners LLC significantly increased its stake in Walmart Inc. (WMT) by 187.8% in Q4, bringing its total holdings to 21,192 shares valued at $2.53 million, making WMT its fourth-largest position. This boost reflects broader institutional interest, with major investors like Vanguard and Norges Bank also increasing their holdings, leading to institutions owning 26.76% of the company. Walmart also continues to advance its e-commerce and delivery initiatives, including over 1 million drone deliveries and expanding 30-minute delivery services.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.616003
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260603T100741",
+            "title": "Analysts Offer Insights on Consumer Goods Companies: General Mills (GIS) and Dollar General (DG)",
+            "summary": "Analysts have issued neutral ratings for General Mills (GIS) and Dollar General (DG), indicating neither a bullish nor bearish outlook on these consumer goods stocks. Bank of America Securities maintained a Hold rating on General Mills with a $36.00 price target, while Deutsche Bank downgraded Dollar General to Hold with a $110.00 price target. The current consensus suggests an 11.3% upside for General Mills and a 32.1% upside for Dollar General.",
+            "text_to_analyze": "Analysts Offer Insights on Consumer Goods Companies: General Mills (GIS) and Dollar General (DG). Analysts have issued neutral ratings for General Mills (GIS) and Dollar General (DG), indicating neither a bullish nor bearish outlook on these consumer goods stocks. Bank of America Securities maintained a Hold rating on General Mills with a $36.00 price target, while Deutsche Bank downgraded Dollar General to Hold with a $110.00 price target. The current consensus suggests an 11.3% upside for General Mills and a 32.1% upside for Dollar General.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.581721
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260603T084222",
+            "title": "CIBC Asset Management Inc Raises Stock Holdings in The TJX Companies, Inc. $TJX",
+            "summary": "CIBC Asset Management Inc significantly increased its stake in The TJX Companies, Inc. by 19.1% during the fourth quarter, purchasing an additional 87,905 shares and bringing its total holding to 547,442 shares valued at approximately $84.1 million. This increase follows TJX's strong quarterly results, where EPS and revenue surpassed expectations, and the company raised its quarterly dividend to $0.48. Analysts maintain a \"Buy\" consensus rating for TJX, with an average price target of $174.58.",
+            "text_to_analyze": "CIBC Asset Management Inc Raises Stock Holdings in The TJX Companies, Inc. $TJX. CIBC Asset Management Inc significantly increased its stake in The TJX Companies, Inc. by 19.1% during the fourth quarter, purchasing an additional 87,905 shares and bringing its total holding to 547,442 shares valued at approximately $84.1 million. This increase follows TJX's strong quarterly results, where EPS and revenue surpassed expectations, and the company raised its quarterly dividend to $0.48. Analysts maintain a \"Buy\" consensus rating for TJX, with an average price target of $174.58.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.638811
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260603T072939",
+            "title": "Walmart Inc. $WMT Shares Sold by Bank of New York Mellon Corp",
+            "summary": "Bank of New York Mellon Corp reduced its stake in Walmart Inc. by 9.7% in the fourth quarter, selling over 2.8 million shares. Despite this, other institutional investors increased their holdings, and the article provides a news roundup with positive, neutral, and negative sentiments affecting Walmart. Analyst ratings for WMT range from \"Strong Buy\" to \"Hold,\" with an average price target of $138.85. The article also details recent insider sales by Walmart executives.",
+            "text_to_analyze": "Walmart Inc. $WMT Shares Sold by Bank of New York Mellon Corp. Bank of New York Mellon Corp reduced its stake in Walmart Inc. by 9.7% in the fourth quarter, selling over 2.8 million shares. Despite this, other institutional investors increased their holdings, and the article provides a news roundup with positive, neutral, and negative sentiments affecting Walmart. Analyst ratings for WMT range from \"Strong Buy\" to \"Hold,\" with an average price target of $138.85. The article also details recent insider sales by Walmart executives.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.604104
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260603T071032",
+            "title": "BNP Paribas Buys 9,019 Shares of The TJX Companies, Inc. $TJX",
+            "summary": "BNP Paribas significantly increased its stake in The TJX Companies, Inc. by 346% in Q4, acquiring 9,019 additional shares for a total holding of 11,626 shares valued at $1.79 million. This move follows TJX's strong quarterly performance, which saw $1.19 EPS against a $1.02 estimate and a 9.2% increase in revenue year-over-year. The company also raised its quarterly dividend to $0.48 per share, and analysts largely maintain a \"Buy\" rating with an average target price of $174.58.",
+            "text_to_analyze": "BNP Paribas Buys 9,019 Shares of The TJX Companies, Inc. $TJX. BNP Paribas significantly increased its stake in The TJX Companies, Inc. by 346% in Q4, acquiring 9,019 additional shares for a total holding of 11,626 shares valued at $1.79 million. This move follows TJX's strong quarterly performance, which saw $1.19 EPS against a $1.02 estimate and a 9.2% increase in revenue year-over-year. The company also raised its quarterly dividend to $0.48 per share, and analysts largely maintain a \"Buy\" rating with an average target price of $174.58.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.588203
+        },
+        {
+            "source": "Trefis",
+            "date": "20260602T185151",
+            "title": "How Low Can Home Depot Stock Go?",
+            "summary": "This article analyzes Home Depot's stock performance during past market downturns to assess its vulnerability to macroeconomic shocks. It highlights the company's dependency on housing health and consumer spending, making it sensitive to demand fluctuations. Despite significant drawdowns in crises like the 2008 financial crisis and the COVID-19 pandemic, Home Depot has often shown structural resilience compared to broader market indices, suggesting that severe price contractions reflect mechanical market discounts rather than fundamental breakdowns.",
+            "text_to_analyze": "How Low Can Home Depot Stock Go?. This article analyzes Home Depot's stock performance during past market downturns to assess its vulnerability to macroeconomic shocks. It highlights the company's dependency on housing health and consumer spending, making it sensitive to demand fluctuations. Despite significant drawdowns in crises like the 2008 financial crisis and the COVID-19 pandemic, Home Depot has often shown structural resilience compared to broader market indices, suggesting that severe price contractions reflect mechanical market discounts rather than fundamental breakdowns.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.642979
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260602T172959",
+            "title": "How grocery stores become health hubs at Kroger, Hy-Vee's 1,200-leader summit",
+            "summary": "Kroger Health and Hy-Vee are co-hosting their third annual Nourishing Change Conference in Des Moines, Iowa, bringing together over 1,200 leaders to discuss the evolving role of grocery stores as health hubs. The conference focuses on retail health, clinical innovation, nutrition science, and the impact of GLP-1 therapies, aiming to accelerate solutions for improving health outcomes. This collaboration signifies a growing trend in cross-industry partnerships to integrate health and retail.",
+            "text_to_analyze": "How grocery stores become health hubs at Kroger, Hy-Vee's 1,200-leader summit. Kroger Health and Hy-Vee are co-hosting their third annual Nourishing Change Conference in Des Moines, Iowa, bringing together over 1,200 leaders to discuss the evolving role of grocery stores as health hubs. The conference focuses on retail health, clinical innovation, nutrition science, and the impact of GLP-1 therapies, aiming to accelerate solutions for improving health outcomes. This collaboration signifies a growing trend in cross-industry partnerships to integrate health and retail.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.629914
+        },
+        {
+            "source": "TradingView",
+            "date": "20260602T153703",
+            "title": "Amazon's Prime Day Returns as Consumer Spending Faces a Test",
+            "summary": "Amazon's Prime Day 2026, extended to four days from June 23-26, will offer millions of deals across 35+ categories to Prime members. This event is crucial for Amazon to attract shoppers and test consumer demand amid careful spending habits, especially for everyday essentials. Its success will provide insights into consumer health and inflation's impact, while Amazon faces competition from other major retailers running simultaneous promotions.",
+            "text_to_analyze": "Amazon's Prime Day Returns as Consumer Spending Faces a Test. Amazon's Prime Day 2026, extended to four days from June 23-26, will offer millions of deals across 35+ categories to Prime members. This event is crucial for Amazon to attract shoppers and test consumer demand amid careful spending habits, especially for everyday essentials. Its success will provide insights into consumer health and inflation's impact, while Amazon faces competition from other major retailers running simultaneous promotions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.648817
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260602T131036",
+            "title": "Wall Street Analysts Are Bullish on Top Healthcare Picks",
+            "summary": "Wall Street analysts are showing bullish sentiment towards two healthcare companies: ImmunityBio (IBRX) and BioNTech SE (BNTX). ImmunityBio received a reiterated Buy rating from Piper Sandler with a $12.00 price target, and a Strong Buy consensus rating from other analysts with an average target of $13.00. BioNTech SE also maintained a Buy rating from Canaccord Genuity with a $158.00 price target, alongside a Strong Buy consensus and an average target of $131.39.",
+            "text_to_analyze": "Wall Street Analysts Are Bullish on Top Healthcare Picks. Wall Street analysts are showing bullish sentiment towards two healthcare companies: ImmunityBio (IBRX) and BioNTech SE (BNTX). ImmunityBio received a reiterated Buy rating from Piper Sandler with a $12.00 price target, and a Strong Buy consensus rating from other analysts with an average target of $13.00. BioNTech SE also maintained a Buy rating from Canaccord Genuity with a $158.00 price target, alongside a Strong Buy consensus and an average target of $131.39.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.582623
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260602T115937",
+            "title": "Thompson Siegel & Walmsley LLC Decreases Stake in The TJX Companies, Inc. $TJX",
+            "summary": "Thompson Siegel & Walmsley LLC reduced its stake in The TJX Companies, Inc. by 21.6% in the fourth quarter of 2025, selling 13,270 shares and retaining 48,306 shares valued at approximately $7.42 million. Despite this reduction, TJX reported strong quarterly results with EPS of $1.19 and revenue of $14.32 billion, surpassing analyst estimates. The company also increased its quarterly dividend to $0.48 per share, and Wall Street analysts generally maintain a \"Buy\" rating with an average price target of $174.58.",
+            "text_to_analyze": "Thompson Siegel & Walmsley LLC Decreases Stake in The TJX Companies, Inc. $TJX. Thompson Siegel & Walmsley LLC reduced its stake in The TJX Companies, Inc. by 21.6% in the fourth quarter of 2025, selling 13,270 shares and retaining 48,306 shares valued at approximately $7.42 million. Despite this reduction, TJX reported strong quarterly results with EPS of $1.19 and revenue of $14.32 billion, surpassing analyst estimates. The company also increased its quarterly dividend to $0.48 per share, and Wall Street analysts generally maintain a \"Buy\" rating with an average price target of $174.58.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.630354
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260602T113937",
+            "title": "Natixis Advisors LLC Sells 14,205 Shares of The TJX Companies, Inc. $TJX",
+            "summary": "Natixis Advisors LLC reduced its stake in The TJX Companies, Inc. by 1.0% in the fourth quarter, selling 14,205 shares while still holding over 1.4 million shares valued at approximately $217.9 million. This news comes as TJX reported strong quarterly results, beating EPS and revenue expectations, and increased its quarterly dividend. Wall Street analysts generally maintain a \"Buy\" rating for TJX with a consensus price target of $174.58.",
+            "text_to_analyze": "Natixis Advisors LLC Sells 14,205 Shares of The TJX Companies, Inc. $TJX. Natixis Advisors LLC reduced its stake in The TJX Companies, Inc. by 1.0% in the fourth quarter, selling 14,205 shares while still holding over 1.4 million shares valued at approximately $217.9 million. This news comes as TJX reported strong quarterly results, beating EPS and revenue expectations, and increased its quarterly dividend. Wall Street analysts generally maintain a \"Buy\" rating for TJX with a consensus price target of $174.58.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.569246
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260602T111956",
+            "title": "Target’s June sale: up to 45% off plus free Starbucks treat",
+            "summary": "Target announced its \"Target Circle Deal Days\" sale from June 23–26, offering up to 45% off thousands of items in various categories, with early access for Target Circle 360 members on June 22. The event includes special promotions like 40% off back-to-school essentials and a free Starbucks coffeehouse treat for Target Circle members on June 23. These deals aim to help families save money during summer and back-to-school preparation, reinforcing Target's focus on value and loyalty programs.",
+            "text_to_analyze": "Target’s June sale: up to 45% off plus free Starbucks treat. Target announced its \"Target Circle Deal Days\" sale from June 23–26, offering up to 45% off thousands of items in various categories, with early access for Target Circle 360 members on June 22. The event includes special promotions like 40% off back-to-school essentials and a free Starbucks coffeehouse treat for Target Circle members on June 23. These deals aim to help families save money during summer and back-to-school preparation, reinforcing Target's focus on value and loyalty programs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Fortune",
+            "date": "20260602T103903",
+            "title": "An AI overhaul at Macy’s is fueling the 168-year-old retailer’s turnaround",
+            "summary": "Macy's is experiencing a turnaround, largely due to its focused approach to innovation, particularly its AI-powered \"Ask Macy's\" shopping assistant. This tool, especially its \"Complete the Look\" feature, has significantly increased customer engagement and spending. The retailer, under CEO Tony Spring and chief customer and digital officer Max Magni, has streamlined its innovation efforts, discarding irrelevant projects and concentrating on initiatives that improve core retail operations, customer experience, and operational efficiency through technology like AI and advanced distribution centers.",
+            "text_to_analyze": "An AI overhaul at Macy’s is fueling the 168-year-old retailer’s turnaround. Macy's is experiencing a turnaround, largely due to its focused approach to innovation, particularly its AI-powered \"Ask Macy's\" shopping assistant. This tool, especially its \"Complete the Look\" feature, has significantly increased customer engagement and spending. The retailer, under CEO Tony Spring and chief customer and digital officer Max Magni, has streamlined its innovation efforts, discarding irrelevant projects and concentrating on initiatives that improve core retail operations, customer experience, and operational efficiency through technology like AI and advanced distribution centers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.631463
+        }
+    ]
+}

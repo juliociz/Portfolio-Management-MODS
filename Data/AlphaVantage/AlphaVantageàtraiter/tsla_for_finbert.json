@@ -1,0 +1,141 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260603T070608",
+            "title": "Rivian's Software Chief Explains Why Apple CarPlay, Android Auto And Even Analogue Buttons Are Destined To Be 'Completely Obsolete'",
+            "summary": "Rivian's Chief Software Officer, Wassym Bensaid, believes that Apple CarPlay, Android Auto, and physical buttons will become obsolete in vehicles due to advanced AI integration. He argues that screen mirroring solutions are problematic and Rivian aims for end-to-end integration with AI agents handling app functionalities. Bensaid notes a decline in customer interest for CarPlay among Rivian owners, from over 70% to under 25%.",
+            "text_to_analyze": "Rivian's Software Chief Explains Why Apple CarPlay, Android Auto And Even Analogue Buttons Are Destined To Be 'Completely Obsolete'. Rivian's Chief Software Officer, Wassym Bensaid, believes that Apple CarPlay, Android Auto, and physical buttons will become obsolete in vehicles due to advanced AI integration. He argues that screen mirroring solutions are problematic and Rivian aims for end-to-end integration with AI agents handling app functionalities. Bensaid notes a decline in customer interest for CarPlay among Rivian owners, from over 70% to under 25%.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.5816
+        },
+        {
+            "source": "VnExpress International",
+            "date": "20260603T023817",
+            "title": "Oracle surge lifts Larry Ellison to world’s second richest billionaire, overtaking Amazon and Google founders",
+            "summary": "Oracle co-founder Larry Ellison has become the world's second-richest person after a 28% surge in Oracle shares over five trading days pushed his net worth to an estimated $296 billion. He now trails only Elon Musk. The increase is attributed to investor enthusiasm for AI infrastructure, with Oracle repositioning itself as a key provider of computing power for advanced AI systems.",
+            "text_to_analyze": "Oracle surge lifts Larry Ellison to world’s second richest billionaire, overtaking Amazon and Google founders. Oracle co-founder Larry Ellison has become the world's second-richest person after a 28% surge in Oracle shares over five trading days pushed his net worth to an estimated $296 billion. He now trails only Elon Musk. The increase is attributed to investor enthusiasm for AI infrastructure, with Oracle repositioning itself as a key provider of computing power for advanced AI systems.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.583143
+        },
+        {
+            "source": "Investopedia",
+            "date": "20260602T203826",
+            "title": "Oracle Stock's Rally Vaults Larry Ellison Past Bezos to World's Third-Richest Person",
+            "summary": "Oracle co-founder Larry Ellison's net worth surged by $21.4 billion to $302 billion, making him the world's third-richest person, primarily due to Oracle's stock rally. This gain pushed him past Jeff Bezos and Sergey Brin, fueled by the market's confidence in Oracle's role in the AI boom. Ellison's wealth is closely tied to Oracle's performance, given his over 40% stake in the company.",
+            "text_to_analyze": "Oracle Stock's Rally Vaults Larry Ellison Past Bezos to World's Third-Richest Person. Oracle co-founder Larry Ellison's net worth surged by $21.4 billion to $302 billion, making him the world's third-richest person, primarily due to Oracle's stock rally. This gain pushed him past Jeff Bezos and Sergey Brin, fueled by the market's confidence in Oracle's role in the AI boom. Ellison's wealth is closely tied to Oracle's performance, given his over 40% stake in the company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.576356
+        },
+        {
+            "source": "Investing.com Canada",
+            "date": "20260602T194015",
+            "title": "Arrow Electronics stock hits all-time high at 225.03 USD By Investing.com",
+            "summary": "Arrow Electronics (ARW) stock recently hit an all-time high of $225.03, reflecting strong investor confidence and an 84.52% increase over the past year. Despite this surge, InvestingPro analysis suggests the stock remains undervalued with an attractive PEG ratio of 0.17. Recent positive developments include strong Q1 2026 financial results, a new $1 billion share repurchase program, and an upgrade by BofA Securities to Neutral with a revised price target of $233, driven by improving demand and AI advancements.",
+            "text_to_analyze": "Arrow Electronics stock hits all-time high at 225.03 USD By Investing.com. Arrow Electronics (ARW) stock recently hit an all-time high of $225.03, reflecting strong investor confidence and an 84.52% increase over the past year. Despite this surge, InvestingPro analysis suggests the stock remains undervalued with an attractive PEG ratio of 0.17. Recent positive developments include strong Q1 2026 financial results, a new $1 billion share repurchase program, and an upgrade by BofA Securities to Neutral with a revised price target of $233, driven by improving demand and AI advancements.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.606019
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260602T170912",
+            "title": "VinFast Targets Level 4 Autonomy To Reframe Risky Growth Story",
+            "summary": "VinFast Auto has announced a partnership with NVIDIA and Autobrains to develop a cost-efficient and scalable Level 4 autonomous driving platform specifically for Southeast Asia. This strategic move aims to elevate VinFast's technological profile beyond EV manufacturing, focusing on higher-value software features. While the collaboration could shorten development times and enhance competitiveness, investors are advised to monitor execution milestones and potential financial implications given VinFast's current balance sheet challenges.",
+            "text_to_analyze": "VinFast Targets Level 4 Autonomy To Reframe Risky Growth Story. VinFast Auto has announced a partnership with NVIDIA and Autobrains to develop a cost-efficient and scalable Level 4 autonomous driving platform specifically for Southeast Asia. This strategic move aims to elevate VinFast's technological profile beyond EV manufacturing, focusing on higher-value software features. While the collaboration could shorten development times and enhance competitiveness, investors are advised to monitor execution milestones and potential financial implications given VinFast's current balance sheet challenges.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.624959
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260602T150928",
+            "title": "EXCLUSIVE: Top 12 Most-Searched Tickers In May On Benzinga Pro — Micron, SanDisk, Qualcomm Surge Up Leade",
+            "summary": "Micron Technology (NASDAQ: MU) topped Benzinga Pro's most-searched tickers in May, marking its ascent to first place after ranking 11th in January. SanDisk (NASDAQ: SNDK) also saw a significant surge, reaching its highest ranking of 5th in 2026. This exclusive report highlights the top 12 tickers, their year-to-date returns, and changes in search interest, noting a continued strong interest in chip and semiconductor stocks.",
+            "text_to_analyze": "EXCLUSIVE: Top 12 Most-Searched Tickers In May On Benzinga Pro — Micron, SanDisk, Qualcomm Surge Up Leade. Micron Technology (NASDAQ: MU) topped Benzinga Pro's most-searched tickers in May, marking its ascent to first place after ranking 11th in January. SanDisk (NASDAQ: SNDK) also saw a significant surge, reaching its highest ranking of 5th in 2026. This exclusive report highlights the top 12 tickers, their year-to-date returns, and changes in search interest, noting a continued strong interest in chip and semiconductor stocks.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.65512
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260602T141012",
+            "title": "T1 Energy Inc stock hits 52-week high at 11.47 USD",
+            "summary": "T1 Energy Inc (TE) stock has reached a new 52-week high of $11.47, trading at $11.39 with a market capitalization of $3.19 billion, reflecting an impressive 892.98% surge over the past year. This milestone follows T1 Energy's strong fourth-quarter earnings, exceeding analyst expectations, and a successful $160 million convertible senior notes offering for infrastructure development. The company, however, faces allegations regarding compliance with Foreign Entity of Concern regulations.",
+            "text_to_analyze": "T1 Energy Inc stock hits 52-week high at 11.47 USD. T1 Energy Inc (TE) stock has reached a new 52-week high of $11.47, trading at $11.39 with a market capitalization of $3.19 billion, reflecting an impressive 892.98% surge over the past year. This milestone follows T1 Energy's strong fourth-quarter earnings, exceeding analyst expectations, and a successful $160 million convertible senior notes offering for infrastructure development. The company, however, faces allegations regarding compliance with Foreign Entity of Concern regulations.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.589853
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260602T135148",
+            "title": "Tesla trails Waymo in Austin robotaxi rollout, new Texas data shows",
+            "summary": "New Texas data reveals that Tesla's robotaxi fleet in the state significantly lags behind Waymo's. While Tesla operates only 42 robotaxis across Austin, Dallas, and Houston, Waymo has nearly 600 vehicles, with about 300 in Austin alone. This disparity exists despite Elon Musk's ambitious projections for a widespread Tesla robotaxi service.",
+            "text_to_analyze": "Tesla trails Waymo in Austin robotaxi rollout, new Texas data shows. New Texas data reveals that Tesla's robotaxi fleet in the state significantly lags behind Waymo's. While Tesla operates only 42 robotaxis across Austin, Dallas, and Houston, Waymo has nearly 600 vehicles, with about 300 in Austin alone. This disparity exists despite Elon Musk's ambitious projections for a widespread Tesla robotaxi service.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "VivoPower",
+            "date": "20260602T133917",
+            "title": "VivoPower Appoints SpaceX Veteran Porter Harris to Support AI Data Center Power and Battery Storage Strategy",
+            "summary": "VivoPower PLC has appointed Porter Harris, a SpaceX veteran known for leading battery system development for Falcon 9 rockets and Dragon spacecraft, to its Advisory Council. Harris will support VivoPower's strategy for AI data center power, battery storage, and thermal management, particularly as the company scales its sovereign AI data center platform across various regions. His expertise is expected to significantly enhance the engineering rigor and operational excellence of VivoPower's energy systems for both its data centers and its electric vehicle business, Tembo.",
+            "text_to_analyze": "VivoPower Appoints SpaceX Veteran Porter Harris to Support AI Data Center Power and Battery Storage Strategy. VivoPower PLC has appointed Porter Harris, a SpaceX veteran known for leading battery system development for Falcon 9 rockets and Dragon spacecraft, to its Advisory Council. Harris will support VivoPower's strategy for AI data center power, battery storage, and thermal management, particularly as the company scales its sovereign AI data center platform across various regions. His expertise is expected to significantly enhance the engineering rigor and operational excellence of VivoPower's energy systems for both its data centers and its electric vehicle business, Tembo.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.605787
+        },
+        {
+            "source": "Reuters",
+            "date": "20260602T120848",
+            "title": "Tesla extends Chinese-made EV growth as sales surge in May",
+            "summary": "Tesla's Chinese-made electric vehicle sales increased by 39.4% in May compared to the previous year, marking its seventh consecutive month of growth. Deliveries from its Shanghai plant reached 85,982 units, up 8.2% from April, as the company sustained its competitive position against Chinese rivals like BYD. Despite this, Tesla faces challenges in China regarding regulatory approval for advanced driver-assistance features, while BYD focuses on technological differentiation and has maintained strong global shipments.",
+            "text_to_analyze": "Tesla extends Chinese-made EV growth as sales surge in May. Tesla's Chinese-made electric vehicle sales increased by 39.4% in May compared to the previous year, marking its seventh consecutive month of growth. Deliveries from its Shanghai plant reached 85,982 units, up 8.2% from April, as the company sustained its competitive position against Chinese rivals like BYD. Despite this, Tesla faces challenges in China regarding regulatory approval for advanced driver-assistance features, while BYD focuses on technological differentiation and has maintained strong global shipments.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "EBC Financial Group",
+            "date": "20260602T101000",
+            "title": "Li Auto Stock Plummets to Record Lows as EV Price Wars Intensify",
+            "summary": "Li Auto (NASDAQ: LI) stock has fallen to record lows after a disappointing Q1 earnings report revealed a net loss of RMB 2.3 billion and significantly shrinking profit margins, driven by intense EV price wars and heavy spending. This downturn mirrors broader challenges in the EV market, with even Tesla seeing its stock slide. Despite these financial hurdles, Li Auto continues to report strong delivery numbers and is expanding its charging network, leaving investors to weigh its long-term potential against current market pressures.",
+            "text_to_analyze": "Li Auto Stock Plummets to Record Lows as EV Price Wars Intensify. Li Auto (NASDAQ: LI) stock has fallen to record lows after a disappointing Q1 earnings report revealed a net loss of RMB 2.3 billion and significantly shrinking profit margins, driven by intense EV price wars and heavy spending. This downturn mirrors broader challenges in the EV market, with even Tesla seeing its stock slide. Despite these financial hurdles, Li Auto continues to report strong delivery numbers and is expanding its charging network, leaving investors to weigh its long-term potential against current market pressures.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.846757
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260602T043836",
+            "title": "Tesla Stock Dips On SpaceX Merger Fears — Retail Influencer Pitches Bull Case That Could Add $450B To Valuation",
+            "summary": "Tesla's stock dipped due to speculation surrounding a potential merger with SpaceX, stemming from SpaceX's amended S-1 filing indicating future equity issuance. While some analysts express concerns about dilution, a Tesla influencer posits that a 50/50 merger could significantly revalue Tesla, adding $450 billion to its market cap based on fair market values rather than current trading prices. Retail sentiment for TSLA was bearish, while SpaceX's sentiment remained bullish.",
+            "text_to_analyze": "Tesla Stock Dips On SpaceX Merger Fears — Retail Influencer Pitches Bull Case That Could Add $450B To Valuation. Tesla's stock dipped due to speculation surrounding a potential merger with SpaceX, stemming from SpaceX's amended S-1 filing indicating future equity issuance. While some analysts express concerns about dilution, a Tesla influencer posits that a 50/50 merger could significantly revalue Tesla, adding $450 billion to its market cap based on fair market values rather than current trading prices. Retail sentiment for TSLA was bearish, while SpaceX's sentiment remained bullish.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "富途牛牛",
+            "date": "20260602T034007",
+            "title": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On June 1st, 141.59K Contracts Were Traded, With 994.75K Open Interest",
+            "summary": "This article provides details on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) on June 1st. It highlights that 141.59K contracts were traded and the open interest stood at 994.75K, indicating significant investor engagement with this leveraged ETF.",
+            "text_to_analyze": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On June 1st, 141.59K Contracts Were Traded, With 994.75K Open Interest. This article provides details on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) on June 1st. It highlights that 141.59K contracts were traded and the open interest stood at 994.75K, indicating significant investor engagement with this leveraged ETF.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260601T221009",
+            "title": "Roundhill TSLA WeeklyPay ETF announces weekly distribution of $0.2454",
+            "summary": "The Roundhill TSLA WeeklyPay ETF has declared a weekly distribution of $0.2454 per share. This announcement provides investors with information regarding the upcoming payout from the ETF.",
+            "text_to_analyze": "Roundhill TSLA WeeklyPay ETF announces weekly distribution of $0.2454. The Roundhill TSLA WeeklyPay ETF has declared a weekly distribution of $0.2454 per share. This announcement provides investors with information regarding the upcoming payout from the ETF.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260601T210948",
+            "title": "Covenant Logistics Group EVP Joey Ballard sells $160,586 in stock",
+            "summary": "Covenant Logistics Group's EVP, Chief People & Safety Officer, Joey Ballard, sold 4,000 shares of the company's Class A Common Stock for a total of $160,586. This transaction was conducted as per a Rule 10b5-1 trading plan. The company recently reported strong Q1 2026 earnings, surpassing revenue expectations, and declared a quarterly cash dividend, with TD Cowen also raising its price target, signaling positive momentum for Covenant Logistics Group.",
+            "text_to_analyze": "Covenant Logistics Group EVP Joey Ballard sells $160,586 in stock. Covenant Logistics Group's EVP, Chief People & Safety Officer, Joey Ballard, sold 4,000 shares of the company's Class A Common Stock for a total of $160,586. This transaction was conducted as per a Rule 10b5-1 trading plan. The company recently reported strong Q1 2026 earnings, surpassing revenue expectations, and declared a quarterly cash dividend, with TD Cowen also raising its price target, signaling positive momentum for Covenant Logistics Group.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.601373
+        }
+    ]
+}

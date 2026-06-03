@@ -1,0 +1,141 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260603T090944",
+            "title": "NIKE, Inc. $NKE Position Increased by Central Securities Corp",
+            "summary": "Central Securities Corp increased its stake in NIKE, Inc. by 11.1% in the fourth quarter, bringing its total holding to 500,000 shares valued at approximately $31.9 million. Several other institutional investors also increased their positions, with institutions now owning 64.25% of the company's stock. Despite beating earnings estimates with an EPS of $0.35, NIKE shares were down 4.8% to $43.72, and analysts currently rate the stock as a \"Hold\" with an average price target of $62.04.",
+            "text_to_analyze": "NIKE, Inc. $NKE Position Increased by Central Securities Corp. Central Securities Corp increased its stake in NIKE, Inc. by 11.1% in the fourth quarter, bringing its total holding to 500,000 shares valued at approximately $31.9 million. Several other institutional investors also increased their positions, with institutions now owning 64.25% of the company's stock. Despite beating earnings estimates with an EPS of $0.35, NIKE shares were down 4.8% to $43.72, and analysts currently rate the stock as a \"Hold\" with an average price target of $62.04.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.974816
+        },
+        {
+            "source": "WWD",
+            "date": "20260602T201918",
+            "title": "Victoria’s Secret Stock Skyrockets 47% as Hillary Super’s Turnaround Continues",
+            "summary": "Victoria's Secret & Co. experienced a significant stock surge of 47% following a strong first quarter in 2026, driven by a 15% sales increase and better-than-expected earnings. CEO Hillary Super is credited with orchestrating a successful turnaround by refocusing the brand on emotional connection and customer empowerment, leading to growth across all business segments and increased guidance for the year. The company's sales rose to $1.6 billion, and adjusted earnings per share nearly doubled analysts' forecasts.",
+            "text_to_analyze": "Victoria’s Secret Stock Skyrockets 47% as Hillary Super’s Turnaround Continues. Victoria's Secret & Co. experienced a significant stock surge of 47% following a strong first quarter in 2026, driven by a 15% sales increase and better-than-expected earnings. CEO Hillary Super is credited with orchestrating a successful turnaround by refocusing the brand on emotional connection and customer empowerment, leading to growth across all business segments and increased guidance for the year. The company's sales rose to $1.6 billion, and adjusted earnings per share nearly doubled analysts' forecasts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.59904
+        },
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260602T193723",
+            "title": "Top Research Reports for Chevron, Goldman Sachs & Philip Morris",
+            "summary": "This article provides a summary of top research reports from Zacks Investment Research, focusing on Chevron (CVX), Goldman Sachs (GS), and Philip Morris International (PM). The reports highlight each company's recent performance, key growth drivers, and potential challenges. Additionally, it lists other noteworthy reports and new upgrades and downgrades from Zacks analysts.",
+            "text_to_analyze": "Top Research Reports for Chevron, Goldman Sachs & Philip Morris. This article provides a summary of top research reports from Zacks Investment Research, focusing on Chevron (CVX), Goldman Sachs (GS), and Philip Morris International (PM). The reports highlight each company's recent performance, key growth drivers, and potential challenges. Additionally, it lists other noteworthy reports and new upgrades and downgrades from Zacks analysts.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.626481
+        },
+        {
+            "source": "www.coca-cola.com",
+            "date": "20260601T053814",
+            "title": "Celebrate FIFA World Cup 26™with Us | Coca-Cola [REGION]",
+            "summary": "Coca-Cola invites fans to \"Feel it all\" with them for the FIFA World Cup 2026™. The campaign, titled \"The Warm Up,\" encourages fans to share their football highs and lows. It also features unscripted, unfiltered, and unbelievable moments related to the World Cup experience.",
+            "text_to_analyze": "Celebrate FIFA World Cup 26™with Us | Coca-Cola [REGION]. Coca-Cola invites fans to \"Feel it all\" with them for the FIFA World Cup 2026™. The campaign, titled \"The Warm Up,\" encourages fans to share their football highs and lows. It also features unscripted, unfiltered, and unbelievable moments related to the World Cup experience.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.643519
+        },
+        {
+            "source": "TradingView",
+            "date": "20260530T170811",
+            "title": "NIKE, Inc. Class B",
+            "summary": "NIKE, Inc. (NKE) has seen its share price fall significantly to levels last seen in 2017, largely due to intense competition and the impact of newly imposed tariffs on manufacturing operations in Asia. Analysts and traders present mixed views, with some seeing opportunities for accumulation in oversold conditions and strong support zones, while others maintain a bearish outlook due to ongoing macroeconomic uncertainties and declining sales. The company faces challenges in navigating global supply chains and trade tensions, which could lead to higher prices for consumers or pressure on Nike's profit margins, though its strong brand and direct-to-consumer strategy offer potential for long-term recovery.",
+            "text_to_analyze": "NIKE, Inc. Class B. NIKE, Inc. (NKE) has seen its share price fall significantly to levels last seen in 2017, largely due to intense competition and the impact of newly imposed tariffs on manufacturing operations in Asia. Analysts and traders present mixed views, with some seeing opportunities for accumulation in oversold conditions and strong support zones, while others maintain a bearish outlook due to ongoing macroeconomic uncertainties and declining sales. The company faces challenges in navigating global supply chains and trade tensions, which could lead to higher prices for consumers or pressure on Nike's profit margins, though its strong brand and direct-to-consumer strategy offer potential for long-term recovery.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Kavout",
+            "date": "20260530T033958",
+            "title": "Why Did Crocs Stock Skyrocket After Its Latest Earnings Report",
+            "summary": "Crocs, Inc. (CROX) shares surged notably after its Q4 2025 earnings report exceeded expectations, primarily driven by strong international growth for the core Crocs brand and significant capital returns. While the Crocs brand shows resilience and strategic expansion, the acquired HeyDude brand continues to underperform, necessitating a strategic turnaround. Despite challenges like North American market softness and tariffs, the company's robust free cash flow, share repurchases, and a positive adjusted EPS outlook for 2026 have renewed investor confidence, leading analysts to rate it as a \"Hold\" with potential long-term value.",
+            "text_to_analyze": "Why Did Crocs Stock Skyrocket After Its Latest Earnings Report. Crocs, Inc. (CROX) shares surged notably after its Q4 2025 earnings report exceeded expectations, primarily driven by strong international growth for the core Crocs brand and significant capital returns. While the Crocs brand shows resilience and strategic expansion, the acquired HeyDude brand continues to underperform, necessitating a strategic turnaround. Despite challenges like North American market softness and tariffs, the company's robust free cash flow, share repurchases, and a positive adjusted EPS outlook for 2026 have renewed investor confidence, leading analysts to rate it as a \"Hold\" with potential long-term value.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.547715
+        },
+        {
+            "source": "WWD",
+            "date": "20260529T210853",
+            "title": "4 Takeaways From Genesco’s Q1 Earnings Call — From the Peyton Manning Effect to Journeys’ Evolution",
+            "summary": "Genesco reported a solid first quarter with a 3 percent increase in net sales, driven by strong performance at Journeys and Johnston & Murphy. Strategic initiatives like the \"Footwear First\" strategy, a new cost reduction program, and Peyton Manning's partnership with Johnston & Murphy are contributing to the company's momentum. However, its U.K.-based retail arm, Schuh, continues to face challenges in a weaker consumer market.",
+            "text_to_analyze": "4 Takeaways From Genesco’s Q1 Earnings Call — From the Peyton Manning Effect to Journeys’ Evolution. Genesco reported a solid first quarter with a 3 percent increase in net sales, driven by strong performance at Journeys and Johnston & Murphy. Strategic initiatives like the \"Footwear First\" strategy, a new cost reduction program, and Peyton Manning's partnership with Johnston & Murphy are contributing to the company's momentum. However, its U.K.-based retail arm, Schuh, continues to face challenges in a weaker consumer market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.611525
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260529T180939",
+            "title": "3 Beaten-Down Stocks Primed For A Major Bounceback",
+            "summary": "This article highlights three \"rebound\" stocks—Globant (GLOB), PayPal (PYPL), and Nike (NKE)—that have experienced significant declines but are now showing signs of potential recovery. Each company possesses strong brand recognition and is undergoing strategic changes or benefiting from shifts in market sentiment, making them attractive to investors looking for undervalued assets with bounce-back potential. The author emphasizes that while these companies face risks, their competitive advantages in large global markets could lead to substantial gains as economic conditions stabilize.",
+            "text_to_analyze": "3 Beaten-Down Stocks Primed For A Major Bounceback. This article highlights three \"rebound\" stocks—Globant (GLOB), PayPal (PYPL), and Nike (NKE)—that have experienced significant declines but are now showing signs of potential recovery. Each company possesses strong brand recognition and is undergoing strategic changes or benefiting from shifts in market sentiment, making them attractive to investors looking for undervalued assets with bounce-back potential. The author emphasizes that while these companies face risks, their competitive advantages in large global markets could lead to substantial gains as economic conditions stabilize.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.874717
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260529T173944",
+            "title": "VF Corp Turnaround at $17.93 and Why I Browse Themes I Don't Even Trade",
+            "summary": "The author discusses discovering a turnaround in VF Corp (VFC) by browsing moomoo's thematic ETF sectors, particularly the \"Sports\" theme, even though they typically don't trade in that area. They highlight how this approach revealed VFC's 2.99% gain to $17.93, along with other athletic brands outperforming the AI Chip sector. The article emphasizes the efficiency of moomoo's pre-built sector watchlists for identifying market trends and new trade ideas.",
+            "text_to_analyze": "VF Corp Turnaround at $17.93 and Why I Browse Themes I Don't Even Trade. The author discusses discovering a turnaround in VF Corp (VFC) by browsing moomoo's thematic ETF sectors, particularly the \"Sports\" theme, even though they typically don't trade in that area. They highlight how this approach revealed VFC's 2.99% gain to $17.93, along with other athletic brands outperforming the AI Chip sector. The article emphasizes the efficiency of moomoo's pre-built sector watchlists for identifying market trends and new trade ideas.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.705391
+        },
+        {
+            "source": "ADWEEK",
+            "date": "20260528T140948",
+            "title": "How Crocs Turned 'Ugly' Into Cultural Cool ft. Chief Brand Officer Terence Reilly",
+            "summary": "This article features Crocs Chief Brand Officer Terence Reilly, discussing his strategies for transforming a brand with a negative perception into a global phenomenon. Reilly emphasizes embracing criticism as a market opportunity, taking calculated risks, listening to frontline employees for insights, and fostering a culture of experimentation. He highlights his experience at Crocs and Stanley 1913, showcasing how these principles led to significant brand growth and cultural relevance.",
+            "text_to_analyze": "How Crocs Turned 'Ugly' Into Cultural Cool ft. Chief Brand Officer Terence Reilly. This article features Crocs Chief Brand Officer Terence Reilly, discussing his strategies for transforming a brand with a negative perception into a global phenomenon. Reilly emphasizes embracing criticism as a market opportunity, taking calculated risks, listening to frontline employees for insights, and fostering a culture of experimentation. He highlights his experience at Crocs and Stanley 1913, showcasing how these principles led to significant brand growth and cultural relevance.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.570249
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260528T121015",
+            "title": "DICK’S Sporting Goods, Inc. (NYSE:DKS) Q1 2026 Earnings Call Transcript",
+            "summary": "DICK'S Sporting Goods (NYSE:DKS) reported strong Q1 2026 results, with a 6% comparable sales increase in its DICK'S business, driven by broad-based growth across categories. The company also saw encouraging progress in its Foot Locker acquisition, with positive global comparable sales and a 6.4% comparable sales increase in the U.S. Foot Locker banner, despite missing EPS expectations slightly. Management expressed confidence in its strategies, particularly the \"Fast Break\" store remodels for Foot Locker and the continued success of House of Sport for DICK'S, and raised the low end of its full-year comparable sales guidance for both segments.",
+            "text_to_analyze": "DICK’S Sporting Goods, Inc. (NYSE:DKS) Q1 2026 Earnings Call Transcript. DICK'S Sporting Goods (NYSE:DKS) reported strong Q1 2026 results, with a 6% comparable sales increase in its DICK'S business, driven by broad-based growth across categories. The company also saw encouraging progress in its Foot Locker acquisition, with positive global comparable sales and a 6.4% comparable sales increase in the U.S. Foot Locker banner, despite missing EPS expectations slightly. Management expressed confidence in its strategies, particularly the \"Fast Break\" store remodels for Foot Locker and the continued success of House of Sport for DICK'S, and raised the low end of its full-year comparable sales guidance for both segments.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.645273
+        },
+        {
+            "source": "Sahm",
+            "date": "20260527T203826",
+            "title": "Dick's Sporting Goods Rides Sneaker Culture And Sports Craze To Massive Sales Growth",
+            "summary": "Dick's Sporting Goods (DKS) reported strong Q1 sales growth, surpassing analyst expectations, but its stock fell due to margin pressure. The company highlighted accelerating improvements at Foot Locker through its \"Fast Break\" initiative and anticipates increased consumer demand driven by major sporting events like the FIFA World Cup and the Summer Olympics. DKS reaffirmed its fiscal 2026 earnings and sales guidance, continuing to invest in brand partnerships and AI tools despite macroeconomic uncertainties.",
+            "text_to_analyze": "Dick's Sporting Goods Rides Sneaker Culture And Sports Craze To Massive Sales Growth. Dick's Sporting Goods (DKS) reported strong Q1 sales growth, surpassing analyst expectations, but its stock fell due to margin pressure. The company highlighted accelerating improvements at Foot Locker through its \"Fast Break\" initiative and anticipates increased consumer demand driven by major sporting events like the FIFA World Cup and the Summer Olympics. DKS reaffirmed its fiscal 2026 earnings and sales guidance, continuing to invest in brand partnerships and AI tools despite macroeconomic uncertainties.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.851206
+        },
+        {
+            "source": "TradingView",
+            "date": "20260527T183812",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView",
+            "summary": "This page on TradingView compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUS) stock from different traders. The ideas cover short-term and long-term outlooks, technical analyses, and strategies related to Nike's earnings reports, with several traders predicting bullish movements while others suggest caution or bearish plays. The discussions include price targets, entry/exit points, and options strategies.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView. This page on TradingView compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUS) stock from different traders. The ideas cover short-term and long-term outlooks, technical analyses, and strategies related to Nike's earnings reports, with several traders predicting bullish movements while others suggest caution or bearish plays. The discussions include price targets, entry/exit points, and options strategies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "World Footwear",
+            "date": "20260527T104014",
+            "title": "Shoe Carnival reaffirms full-year outlook despite soft first quarter",
+            "summary": "Shoe Carnival reaffirmed its full-year outlook for fiscal 2026 despite reporting a soft first quarter with decreased sales and a net loss. The company expects stronger performance in the back-to-school and fall selling seasons, aligning with analyst expectations for sales and adjusted EPS. Shoe Carnival ended the quarter debt-free with a strong balance sheet and anticipates net sales between $1.125 billion and $1.147 billion for the full year.",
+            "text_to_analyze": "Shoe Carnival reaffirms full-year outlook despite soft first quarter. Shoe Carnival reaffirmed its full-year outlook for fiscal 2026 despite reporting a soft first quarter with decreased sales and a net loss. The company expects stronger performance in the back-to-school and fall selling seasons, aligning with analyst expectations for sales and adjusted EPS. Shoe Carnival ended the quarter debt-free with a strong balance sheet and anticipates net sales between $1.125 billion and $1.147 billion for the full year.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.617845
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260527T093946",
+            "title": "Jefferies Financial Group Inc. Sells 197,176 Shares of NIKE, Inc. $NKE",
+            "summary": "Jefferies Financial Group Inc. significantly reduced its stake in NIKE, Inc. by selling 197,176 shares in the fourth quarter, leaving it with 53,694 shares valued at $3.42 million. Despite this, NIKE reported strong quarterly earnings of $0.35 per share, exceeding estimates, with revenues of $11.28 billion. The company also declared a quarterly dividend of $0.41 per share, implying an annualized yield of 3.7%, while analysts maintain a consensus \"Hold\" rating with a target price of $62.04.",
+            "text_to_analyze": "Jefferies Financial Group Inc. Sells 197,176 Shares of NIKE, Inc. $NKE. Jefferies Financial Group Inc. significantly reduced its stake in NIKE, Inc. by selling 197,176 shares in the fourth quarter, leaving it with 53,694 shares valued at $3.42 million. Despite this, NIKE reported strong quarterly earnings of $0.35 per share, exceeding estimates, with revenues of $11.28 billion. The company also declared a quarterly dividend of $0.41 per share, implying an annualized yield of 3.7%, while analysts maintain a consensus \"Hold\" rating with a target price of $62.04.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

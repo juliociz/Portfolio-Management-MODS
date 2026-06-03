@@ -1,0 +1,141 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260602T202038",
+            "title": "Starbucks chief joins Evercore fireside chat, live webcast June 9",
+            "summary": "Starbucks Corporation announced that its chairman and CEO, Brian Niccol, will participate in a keynote fireside chat at the 6th Annual Evercore Consumer and Retail Conference on Tuesday, June 9th, 2026. The event is scheduled for 11:40 a.m. Eastern Time and will be webcast live on the company's Investor Relations website. This participation highlights Starbucks' engagement with the investor community and its visibility in the consumer and retail sector.",
+            "text_to_analyze": "Starbucks chief joins Evercore fireside chat, live webcast June 9. Starbucks Corporation announced that its chairman and CEO, Brian Niccol, will participate in a keynote fireside chat at the 6th Annual Evercore Consumer and Retail Conference on Tuesday, June 9th, 2026. The event is scheduled for 11:40 a.m. Eastern Time and will be webcast live on the company's Investor Relations website. This participation highlights Starbucks' engagement with the investor community and its visibility in the consumer and retail sector.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "date": "20260602T170742",
+            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
+            "summary": "General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal allows the buyers to exclusively operate Häagen-Dazs shops and gifting businesses in China, while General Mills will continue to supply ice cream to retail and food service. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, with analysts noting Häagen-Dazs's premium pricing not matching evolving consumer preferences.",
+            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal allows the buyers to exclusively operate Häagen-Dazs shops and gifting businesses in China, while General Mills will continue to supply ice cream to retail and food service. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, with analysts noting Häagen-Dazs's premium pricing not matching evolving consumer preferences.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.596927
+        },
+        {
+            "source": "CNBC",
+            "date": "20260602T170735",
+            "title": "Final Trades: Eversource Energy, Alcoa and Starbucks",
+            "summary": "The article features recommendations from \"The Investment Committee\" regarding their top stock picks for the second half of the year. The specific companies highlighted for consideration are Eversource Energy, Alcoa, and Starbucks. The piece implies that this content is part of a \"Halftime Report\" segment, offering investment insights.",
+            "text_to_analyze": "Final Trades: Eversource Energy, Alcoa and Starbucks. The article features recommendations from \"The Investment Committee\" regarding their top stock picks for the second half of the year. The specific companies highlighted for consideration are Eversource Energy, Alcoa, and Starbucks. The piece implies that this content is part of a \"Halftime Report\" segment, offering investment insights.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.823428
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260602T163800",
+            "title": "Starbucks Corp. stock underperforms Tuesday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) stock fell 1.04% on Tuesday, closing at $95.51, despite a positive trading session for the broader market. Both the S&P 500 Index (SPX) and the Dow Jones Industrial Average (DJIA) saw gains. This marked the fourth consecutive day of losses for Starbucks' stock.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Tuesday when compared to competitors. Starbucks Corp. (SBUX) stock fell 1.04% on Tuesday, closing at $95.51, despite a positive trading session for the broader market. Both the S&P 500 Index (SPX) and the Dow Jones Industrial Average (DJIA) saw gains. This marked the fourth consecutive day of losses for Starbucks' stock.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "WKMG",
+            "date": "20260602T162052",
+            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
+            "summary": "General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell the Häagen-Dazs brand in ice cream shops and gifting businesses across mainland China, while General Mills will continue to supply its ice cream to Chinese retail and food service operations. The move reflects a trend of foreign businesses shifting ownership to Chinese investors amid stagnating consumer confidence and slowing economic growth in China.",
+            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell the Häagen-Dazs brand in ice cream shops and gifting businesses across mainland China, while General Mills will continue to supply its ice cream to Chinese retail and food service operations. The move reflects a trend of foreign businesses shifting ownership to Chinese investors amid stagnating consumer confidence and slowing economic growth in China.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.626248
+        },
+        {
+            "source": "Oskaloosa Herald",
+            "date": "20260602T162046",
+            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
+            "summary": "General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal allows the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue to supply the ice cream to Chinese retail and food service. The financial terms of the deal were not disclosed, but it is expected to close by the end of the year.",
+            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group that includes Chinese tea brand Ningji. This deal allows the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue to supply the ice cream to Chinese retail and food service. The financial terms of the deal were not disclosed, but it is expected to close by the end of the year.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.630976
+        },
+        {
+            "source": "AP News",
+            "date": "20260602T160742",
+            "title": "General Mills agrees to sell Häagen-Dazs shops in China to investor group",
+            "summary": "General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to a Chinese investor group led by tea brand Ningji. While General Mills will continue to supply Häagen-Dazs ice cream to Chinese retail and food service, the new owners will exclusively manage the brand's ice cream shops and gifting businesses. This move comes as foreign businesses adjust operations in China due to changing consumer preferences and slowing economic growth, with Häagen-Dazs facing declining appeal for its traditional, high-fat ice cream compared to newer low-fat options.",
+            "text_to_analyze": "General Mills agrees to sell Häagen-Dazs shops in China to investor group. General Mills is selling its Häagen-Dazs ice-cream shops in mainland China to a Chinese investor group led by tea brand Ningji. While General Mills will continue to supply Häagen-Dazs ice cream to Chinese retail and food service, the new owners will exclusively manage the brand's ice cream shops and gifting businesses. This move comes as foreign businesses adjust operations in China due to changing consumer preferences and slowing economic growth, with Häagen-Dazs facing declining appeal for its traditional, high-fat ice cream compared to newer low-fat options.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.648674
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260602T111956",
+            "title": "Target’s June sale: up to 45% off plus free Starbucks treat",
+            "summary": "Target announced its \"Target Circle Deal Days\" sale from June 23–26, offering up to 45% off thousands of items in various categories, with early access for Target Circle 360 members on June 22. The event includes special promotions like 40% off back-to-school essentials and a free Starbucks coffeehouse treat for Target Circle members on June 23. These deals aim to help families save money during summer and back-to-school preparation, reinforcing Target's focus on value and loyalty programs.",
+            "text_to_analyze": "Target’s June sale: up to 45% off plus free Starbucks treat. Target announced its \"Target Circle Deal Days\" sale from June 23–26, offering up to 45% off thousands of items in various categories, with early access for Target Circle 360 members on June 22. The event includes special promotions like 40% off back-to-school essentials and a free Starbucks coffeehouse treat for Target Circle members on June 23. These deals aim to help families save money during summer and back-to-school preparation, reinforcing Target's focus on value and loyalty programs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.649432
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260602T104419",
+            "title": "Peapack Gladstone Financial Corp Has $10.88 Million Holdings in Starbucks Corporation $SBUX",
+            "summary": "Peapack Gladstone Financial Corp reduced its stake in Starbucks Corporation by 10.2% in the fourth quarter, selling 14,686 shares but still holding 129,190 shares valued at approximately $10.88 million. Despite this reduction, institutional ownership remains significant, with many large managers like Vanguard and Envestnet Asset Management increasing their positions. Starbucks recently reported stronger-than-expected quarterly results and holds a \"Moderate Buy\" consensus rating from analysts with an average price target of $107.48.",
+            "text_to_analyze": "Peapack Gladstone Financial Corp Has $10.88 Million Holdings in Starbucks Corporation $SBUX. Peapack Gladstone Financial Corp reduced its stake in Starbucks Corporation by 10.2% in the fourth quarter, selling 14,686 shares but still holding 129,190 shares valued at approximately $10.88 million. Despite this reduction, institutional ownership remains significant, with many large managers like Vanguard and Envestnet Asset Management increasing their positions. Starbucks recently reported stronger-than-expected quarterly results and holds a \"Moderate Buy\" consensus rating from analysts with an average price target of $107.48.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260602T104419",
+            "title": "MUFG Securities EMEA plc Purchases 24,858 Shares of Starbucks Corporation $SBUX",
+            "summary": "MUFG Securities EMEA plc significantly increased its stake in Starbucks Corporation by purchasing 24,858 additional shares in Q4, bringing their total holdings to 46,615 shares valued at approximately $3.93 million. This comes as institutional interest in Starbucks remains high, with 72.29% of the company owned by institutions, and analysts maintaining a \"Moderate Buy\" rating with an average price target of $107.48. Starbucks recently reported solid quarterly results, surpassing earnings and revenue expectations.",
+            "text_to_analyze": "MUFG Securities EMEA plc Purchases 24,858 Shares of Starbucks Corporation $SBUX. MUFG Securities EMEA plc significantly increased its stake in Starbucks Corporation by purchasing 24,858 additional shares in Q4, bringing their total holdings to 46,615 shares valued at approximately $3.93 million. This comes as institutional interest in Starbucks remains high, with 72.29% of the company owned by institutions, and analysts maintaining a \"Moderate Buy\" rating with an average price target of $107.48. Starbucks recently reported solid quarterly results, surpassing earnings and revenue expectations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "About Amazon",
+            "date": "20260602T050703",
+            "title": "When is Amazon Prime Day 2026? Shop deals June 23-26",
+            "summary": "Amazon's annual Prime Day 2026 event is scheduled for June 23-26, offering millions of exclusive deals to Prime members across various categories. Early deals and limited-time offers are already available, and members can use Alexa for Shopping to personalize their deal alerts and guides. The event features discounts on Amazon devices, groceries, and products from small businesses, along with special promotions for Prime Visa cardholders and early access to \"Spider-Man: Brand New Day.\"",
+            "text_to_analyze": "When is Amazon Prime Day 2026? Shop deals June 23-26. Amazon's annual Prime Day 2026 event is scheduled for June 23-26, offering millions of exclusive deals to Prime members across various categories. Early deals and limited-time offers are already available, and members can use Alexa for Shopping to personalize their deal alerts and guides. The event features discounts on Amazon devices, groceries, and products from small businesses, along with special promotions for Prime Visa cardholders and early access to \"Spider-Man: Brand New Day.\"",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.562749
+        },
+        {
+            "source": "Claims Journal",
+            "date": "20260602T043832",
+            "title": "Starbucks to Take AI Usage into Account in Tech Workers’ Bonuses",
+            "summary": "Starbucks is linking a quarter of its tech workers' bonuses to their use of artificial intelligence, aiming to improve efficiency and justify its AI investments. The company is tracking AI adoption as part of its \"Back to Starbucks\" strategy, with software developers expected to use an AI assistant multiple times weekly. This initiative reflects a broader corporate trend of integrating and measuring AI usage within workflows to boost productivity and customer experience.",
+            "text_to_analyze": "Starbucks to Take AI Usage into Account in Tech Workers’ Bonuses. Starbucks is linking a quarter of its tech workers' bonuses to their use of artificial intelligence, aiming to improve efficiency and justify its AI investments. The company is tracking AI adoption as part of its \"Back to Starbucks\" strategy, with software developers expected to use an AI assistant multiple times weekly. This initiative reflects a broader corporate trend of integrating and measuring AI usage within workflows to boost productivity and customer experience.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260602T033732",
+            "title": "Assessing Darden Restaurants (DRI) Valuation As Shares Track Mixed Short And Long Term Returns",
+            "summary": "Darden Restaurants (DRI) shares are attracting attention, trading around $201.91 with mixed short-term returns but a 3-year total shareholder return of 38.22%. The company is considered undervalued with a fair value of $222.38, driven by new smaller prototypes for some brands that are expected to accelerate unit growth and enhance revenue and earnings. However, this valuation relies on assumptions that could be affected by shrinking guest counts and consumer spending pressure.",
+            "text_to_analyze": "Assessing Darden Restaurants (DRI) Valuation As Shares Track Mixed Short And Long Term Returns. Darden Restaurants (DRI) shares are attracting attention, trading around $201.91 with mixed short-term returns but a 3-year total shareholder return of 38.22%. The company is considered undervalued with a fair value of $222.38, driven by new smaller prototypes for some brands that are expected to accelerate unit growth and enhance revenue and earnings. However, this valuation relies on assumptions that could be affected by shrinking guest counts and consumer spending pressure.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.607023
+        },
+        {
+            "source": "Law360",
+            "date": "20260601T203125",
+            "title": "5th Circ. Judge Asks Starbucks Why Co. Doesn't Want Unions",
+            "summary": "A Fifth Circuit judge questioned Starbucks' anti-union stance during an appeal of a National Labor Relations Board (NLRB) ruling. The NLRB had previously found that Starbucks suppressed workers' rights in response to a 2021 organizing effort in upstate New York. The judge's inquiry focused on understanding the company's core philosophy regarding unions.",
+            "text_to_analyze": "5th Circ. Judge Asks Starbucks Why Co. Doesn't Want Unions. A Fifth Circuit judge questioned Starbucks' anti-union stance during an appeal of a National Labor Relations Board (NLRB) ruling. The NLRB had previously found that Starbucks suppressed workers' rights in response to a 2021 organizing effort in upstate New York. The judge's inquiry focused on understanding the company's core philosophy regarding unions.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "BBN Times",
+            "date": "20260601T190718",
+            "title": "Scott Boatwright: Brunswick Dishwasher, Arby's Operations Master, and Chief Executive Officer of Chipotle Mexican Grill",
+            "summary": "Scott Boatwright, beginning his career as a dishwasher in Brunswick, Georgia, has been appointed Chief Executive Officer of Chipotle Mexican Grill after rising through the ranks. After eighteen years mastering restaurant operations at Arby's, he joined Chipotle in 2017 as its first outside executive post-IPO, playing a critical role in the company's turnaround. His operational leadership led to over 150% revenue growth and an 800% stock price increase, positioning him as the ideal leader to guide Chipotle towards its goal of 7,000 North American restaurants and global brand expansion.",
+            "text_to_analyze": "Scott Boatwright: Brunswick Dishwasher, Arby's Operations Master, and Chief Executive Officer of Chipotle Mexican Grill. Scott Boatwright, beginning his career as a dishwasher in Brunswick, Georgia, has been appointed Chief Executive Officer of Chipotle Mexican Grill after rising through the ranks. After eighteen years mastering restaurant operations at Arby's, he joined Chipotle in 2017 as its first outside executive post-IPO, playing a critical role in the company's turnaround. His operational leadership led to over 150% revenue growth and an 800% stock price increase, positioning him as the ideal leader to guide Chipotle towards its goal of 7,000 North American restaurants and global brand expansion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.585971
+        }
+    ]
+}
