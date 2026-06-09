@@ -54,7 +54,7 @@ def compute_momentum(prices: pd.DataFrame, windows: list = MOMENTUM_WINDOWS) -> 
 
 
 if __name__ == "__main__":
-    from src.data.fetch_prices import load_prices
+    from portfolio_manag.data.fetch_prices import load_prices
     prices = load_prices()
     df = compute_momentum(prices)
     print(df)

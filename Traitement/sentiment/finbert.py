@@ -174,5 +174,12 @@ if __name__ == "__main__":
         articles_data = json.load(f)
 
     df = compute_ticker_sentiment(articles_data)
+    output_dir = os.path.join(root_path, "data_output")
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_path = os.path.join(output_dir, "sentiment_scores.csv")
+    df.to_csv(output_path, index=False)
+
+    print(f"Scores sauvegardés dans : {output_path}")
     print("\n=== Scores de sentiment ===")
     print(df.to_string(index=False))

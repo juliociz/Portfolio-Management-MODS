@@ -7,11 +7,11 @@
 # Univers d'investissement
 # ========================
 TICKERS = [
-    "AAPL",   # Technologie
-    "MSFT",   # Technologie (software/cloud)
-    "JPM",    # Finance
-    "XOM",    # Énergie
-    "JNJ",    # Santé
+    "NKE",
+    "TGT",
+    "DIS",
+    "SBUX",
+    "TSLA",
 ]
 
 # ========================
