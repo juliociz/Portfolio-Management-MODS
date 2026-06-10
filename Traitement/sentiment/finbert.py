@@ -168,7 +168,7 @@ if __name__ == "__main__":
     }
 
     #chargement des textes à partir d'un fichier json externe
-    json_path = os.path.join(root_path, "Data", "AlphaVantage", "alphavantage_merged.json")
+    json_path = os.path.join(root_path, "Data", "AlphaVantage", "alphavantage_merged_20260610.json")
     print(f"Chargement des données depuis : {json_path}")
     with open(json_path, "r", encoding="utf-8") as f:
         articles_data = json.load(f)
