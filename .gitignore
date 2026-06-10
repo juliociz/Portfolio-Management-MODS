@@ -6,4 +6,4 @@ __pycache__/
 *.py[cod]
 .env
 .DS_Store
-data_output/
+
