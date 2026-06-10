@@ -54,7 +54,17 @@ def compute_momentum(prices: pd.DataFrame, windows: list = MOMENTUM_WINDOWS) -> 
 
 
 if __name__ == "__main__":
-    from portfolio_manag.data.fetch_prices import load_prices
-    prices = load_prices()
-    df = compute_momentum(prices)
-    print(df)
+    prices = pd.read_csv(
+        "data_output/prices_alphavantage.csv",
+        index_col="date",
+        parse_dates=True,
+    )
+
+    prices = prices.loc[:"2026-06-03"]
+
+    df = compute_momentum(
+        prices,
+        windows=[1, 3],
+    )
+
+    print(df.to_string(index=False))

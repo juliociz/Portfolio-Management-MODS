@@ -140,7 +140,7 @@ def discrete_allocation(weights: dict, prices: pd.DataFrame, capital: float = IN
 
 
 if __name__ == "__main__":
-    from src.data.fetch_prices import load_prices
+    from portfolio_manag.data.fetch_prices import load_prices
     prices = load_prices()
     result = optimize_max_sharpe(prices)
     print("Poids optimaux :", result["weights"])
