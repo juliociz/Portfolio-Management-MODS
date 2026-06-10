@@ -4,12 +4,21 @@
     "articles": [
         {
             "source": "MarketBeat",
+            "date": "20260610T090828",
+            "title": "Deutsche Bank AG Lowers Holdings in The Walt Disney Company $DIS",
+            "summary": "Deutsche Bank AG reduced its stake in The Walt Disney Company by 7.0% in the fourth quarter, selling 519,378 shares and now owning 6,911,458 shares worth $786.3 million. Despite this, other hedge funds increased their positions, and 65.71% of the stock is held by institutional investors. Analysts generally rate Disney as a \"Moderate Buy\" with an average price target of $133.71, and recent reports highlight positive sentiment regarding long-term value creation and strong earnings.",
+            "text_to_analyze": "Deutsche Bank AG Lowers Holdings in The Walt Disney Company $DIS. Deutsche Bank AG reduced its stake in The Walt Disney Company by 7.0% in the fourth quarter, selling 519,378 shares and now owning 6,911,458 shares worth $786.3 million. Despite this, other hedge funds increased their positions, and 65.71% of the stock is held by institutional investors. Analysts generally rate Disney as a \"Moderate Buy\" with an average price target of $133.71, and recent reports highlight positive sentiment regarding long-term value creation and strong earnings.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.978869
+        },
+        {
+            "source": "MarketBeat",
             "date": "20260609T110728",
             "title": "State Farm Mutual Automobile Insurance Co. Decreases Stock Position in The Walt Disney Company $DIS",
             "summary": "State Farm Mutual Automobile Insurance Co. reduced its stake in The Walt Disney Company by 11.8% in the fourth quarter, selling 3.05 million shares, though Disney remains its 16th largest position. Despite State Farm's selling, other major institutional investors like Vanguard, State Street, and Geode Capital increased their holdings, with 65.7% of Disney's stock held by institutional investors. Analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $133.47, following a strong earnings report.",
             "text_to_analyze": "State Farm Mutual Automobile Insurance Co. Decreases Stock Position in The Walt Disney Company $DIS. State Farm Mutual Automobile Insurance Co. reduced its stake in The Walt Disney Company by 11.8% in the fourth quarter, selling 3.05 million shares, though Disney remains its 16th largest position. Despite State Farm's selling, other major institutional investors like Vanguard, State Street, and Geode Capital increased their holdings, with 65.7% of Disney's stock held by institutional investors. Analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $133.47, following a strong earnings report.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.966695
+            "ticker_relevance_score": 0.950956
         },
         {
             "source": "MarketBeat",
@@ -18,7 +27,7 @@
             "summary": "O Shaughnessy Asset Management LLC increased its stake in The Walt Disney Company by 4.1% in the fourth quarter, bringing its total holdings to 238,754 shares valued at $27.16 million. Several other institutional investors also adjusted their positions in Disney, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $133.47. The article also notes recent positive sentiment around Disney due to its long-term value creation strategy and upcoming film and park-related momentum.",
             "text_to_analyze": "O Shaughnessy Asset Management LLC Increases Position in The Walt Disney Company $DIS. O Shaughnessy Asset Management LLC increased its stake in The Walt Disney Company by 4.1% in the fourth quarter, bringing its total holdings to 238,754 shares valued at $27.16 million. Several other institutional investors also adjusted their positions in Disney, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $133.47. The article also notes recent positive sentiment around Disney due to its long-term value creation strategy and upcoming film and park-related momentum.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.963332
+            "ticker_relevance_score": 0.964672
         },
         {
             "source": "MarketBeat",
@@ -27,7 +36,7 @@
             "summary": "Everett Harris & Co. CA slightly reduced its stake in The Walt Disney Company, selling 6,307 shares but still maintaining over 1.1 million shares valued at $132.3 million. Despite reports of the stock trading below its 200-day average, Disney's recent earnings exceeded expectations, and analysts maintain a \"Moderate Buy\" rating with an average price target of $133.47. Institutional investors collectively own 65.71% of the company's stock.",
             "text_to_analyze": "Everett Harris & Co. CA Sells 6,307 Shares of The Walt Disney Company $DIS. Everett Harris & Co. CA slightly reduced its stake in The Walt Disney Company, selling 6,307 shares but still maintaining over 1.1 million shares valued at $132.3 million. Despite reports of the stock trading below its 200-day average, Disney's recent earnings exceeded expectations, and analysts maintain a \"Moderate Buy\" rating with an average price target of $133.47. Institutional investors collectively own 65.71% of the company's stock.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.980519
+            "ticker_relevance_score": 0.998385
         },
         {
             "source": "MarketBeat",
@@ -37,6 +46,15 @@
             "text_to_analyze": "The Walt Disney Company $DIS Shares Bought by Cerity Partners LLC. Cerity Partners LLC increased its stake in The Walt Disney Company by 2.9% in the fourth quarter, bringing its total holding to 1,186,769 shares valued at approximately $135 million. Wall Street analysts maintain a broadly bullish outlook on Disney, with an average price target of $133.47. The company recently reported better-than-expected earnings, with $1.57 EPS and $25.17 billion in revenue, indicating continued long-term momentum from strategic initiatives, park updates, and upcoming releases.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
             "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TheDesk.net",
+            "date": "20260608T233738",
+            "title": "Viewpoint: The wide world of the TV sports business (by Kirk Varner)",
+            "summary": "This article discusses three major developments in the TV sports business: Roger Goodell's refusal to testify before Congress regarding the Sports Broadcasting Act amidst ongoing litigation over the NFL's \"Sunday Ticket\" package, the unique solution by Disney to stream Stanley Cup games via the ESPN app during a retransmission dispute involving Scripps and DIRECTV, and the absence of YouTube sponsorship in the NBA Finals. The author highlights the evolving landscape of sports broadcasting and the conflicts arising from the shift to streaming services and retransmission fee disputes.",
+            "text_to_analyze": "Viewpoint: The wide world of the TV sports business (by Kirk Varner). This article discusses three major developments in the TV sports business: Roger Goodell's refusal to testify before Congress regarding the Sports Broadcasting Act amidst ongoing litigation over the NFL's \"Sunday Ticket\" package, the unique solution by Disney to stream Stanley Cup games via the ESPN app during a retransmission dispute involving Scripps and DIRECTV, and the absence of YouTube sponsorship in the NBA Finals. The author highlights the evolving landscape of sports broadcasting and the conflicts arising from the shift to streaming services and retransmission fee disputes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.807802
         },
         {
             "source": "MarketBeat",
@@ -90,7 +108,7 @@
             "summary": "This article compiles various trade ideas for Fox Corporation Class B stock (XETR:FO5B) from TradingView. It includes both long and short positions based on technical analysis like cup-and-handle patterns, Fibonacci retracements, and EMA trends, alongside fundamental insights such as strong growth in revenue and net income. Several analysts and traders also discuss the impact of Fox's joint venture with Disney's ESPN and Warner Bros. Discovery for a new sports streaming service, and Polygon Labs' partnership with Fox for the Verify initiative to authenticate media content.",
             "text_to_analyze": "Fox Corporation Class B Trade Ideas — XETR:FO5B. This article compiles various trade ideas for Fox Corporation Class B stock (XETR:FO5B) from TradingView. It includes both long and short positions based on technical analysis like cup-and-handle patterns, Fibonacci retracements, and EMA trends, alongside fundamental insights such as strong growth in revenue and net income. Several analysts and traders also discuss the impact of Fox's joint venture with Disney's ESPN and Warner Bros. Discovery for a new sports streaming service, and Polygon Labs' partnership with Fox for the Verify initiative to authenticate media content.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.565393
+            "ticker_relevance_score": 0.555522
         },
         {
             "source": "MarketBeat",
@@ -108,7 +126,7 @@
             "summary": "Trivest Advisors Ltd purchased 122,500 shares of The Walt Disney Company ($DIS) in the fourth quarter, a new position valued at approximately $13.9 million, making it 0.6% of the fund's portfolio. Several analysts maintain positive outlooks on Disney, with a consensus \"Moderate Buy\" rating and a target price of $133.47, following strong recent quarterly results that exceeded EPS and revenue estimates.",
             "text_to_analyze": "122,500 Shares in The Walt Disney Company $DIS Purchased by Trivest Advisors Ltd. Trivest Advisors Ltd purchased 122,500 shares of The Walt Disney Company ($DIS) in the fourth quarter, a new position valued at approximately $13.9 million, making it 0.6% of the fund's portfolio. Several analysts maintain positive outlooks on Disney, with a consensus \"Moderate Buy\" rating and a target price of $133.47, following strong recent quarterly results that exceeded EPS and revenue estimates.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.976954
+            "ticker_relevance_score": 0.964005
         },
         {
             "source": "MarketBeat",
@@ -135,7 +153,7 @@
             "summary": "Canadian Prime Minister Mark Carney has halted a regulation outlined in the Online Streaming Act that would have required U.S. streaming services like Netflix, Amazon Prime, and Disney+ to invest billions in Canadian content. Carney cited concerns about affordability for Canadian consumers and the potential for increased subscription costs. This decision came amidst ongoing trade debates and after previous attempts by Canada's broadcasting regulator to mandate a 15% revenue allocation from foreign streamers to support Canadian content.",
             "text_to_analyze": "Netflix, Disney+ And Amazon Just Dodged Massive Canadian Streaming Levies That Would Have Cost Billions. Canadian Prime Minister Mark Carney has halted a regulation outlined in the Online Streaming Act that would have required U.S. streaming services like Netflix, Amazon Prime, and Disney+ to invest billions in Canadian content. Carney cited concerns about affordability for Canadian consumers and the potential for increased subscription costs. This decision came amidst ongoing trade debates and after previous attempts by Canada's broadcasting regulator to mandate a 15% revenue allocation from foreign streamers to support Canadian content.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.743501
+            "ticker_relevance_score": 0.740104
         },
         {
             "source": "Deadline",
@@ -198,7 +216,7 @@
             "summary": "Westpac Banking Corp significantly increased its stake in The Walt Disney Company by 55.2% in Q4, acquiring an additional 10,109 shares to reach a total of 28,430 shares valued at approximately $3.23 million. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $134.47 for Disney. The entertainment giant recently surpassed earnings expectations, reporting $1.57 EPS and $25.17 billion in revenue.",
             "text_to_analyze": "Westpac Banking Corp Raises Holdings in The Walt Disney Company $DIS. Westpac Banking Corp significantly increased its stake in The Walt Disney Company by 55.2% in Q4, acquiring an additional 10,109 shares to reach a total of 28,430 shares valued at approximately $3.23 million. This move aligns with a \"Moderate Buy\" consensus from analysts, who have an average price target of $134.47 for Disney. The entertainment giant recently surpassed earnings expectations, reporting $1.57 EPS and $25.17 billion in revenue.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.981691
+            "ticker_relevance_score": 0.985456
         },
         {
             "source": "PR Newswire",
@@ -207,7 +225,7 @@
             "summary": "AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5\" to highlight the importance of connection. This collaboration includes a custom animated commercial, immersive in-store experiences, merchandise, and community movie screenings. The initiative aims to connect families and showcase AT&T's commitment to providing tools and resources for digital family life, such as their amiGO lineup of devices.",
             "text_to_analyze": "AT&T Brings Connection to Life Through New Campaign Inspired by Disney and Pixar's \"Toy Story 5\". AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5\" to highlight the importance of connection. This collaboration includes a custom animated commercial, immersive in-store experiences, merchandise, and community movie screenings. The initiative aims to connect families and showcase AT&T's commitment to providing tools and resources for digital family life, such as their amiGO lineup of devices.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.863812
+            "ticker_relevance_score": 0.867131
         },
         {
             "source": "Stock Titan",
@@ -216,7 +234,7 @@
             "summary": "AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5,\" which premieres on June 19. The campaign includes a custom animated TV spot, immersive in-store experiences in six U.S. markets, themed accessories, and community screenings for families from AT&T Connected Learning Centers. This initiative aims to highlight AT&T's commitment to connecting families through technology and shared experiences, building on their broader strategic efforts like network investments and educational programs.",
             "text_to_analyze": "AT&T turns stores into 'Toy Story 5' worlds for families this summer. AT&T has launched a new campaign inspired by Disney and Pixar's \"Toy Story 5,\" which premieres on June 19. The campaign includes a custom animated TV spot, immersive in-store experiences in six U.S. markets, themed accessories, and community screenings for families from AT&T Connected Learning Centers. This initiative aims to highlight AT&T's commitment to connecting families through technology and shared experiences, building on their broader strategic efforts like network investments and educational programs.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.746572
+            "ticker_relevance_score": 0.719917
         },
         {
             "source": "MarketBeat",
@@ -271,6 +289,33 @@
             "text_to_analyze": "The Walt Disney Company (DIS) is Attracting Investor Attention: Here is What You Should Know. Walt Disney (DIS) is gaining investor attention due to positive revisions in its earnings estimates and robust revenue growth projections. The company demonstrated strong financial health with a 17.4% year-over-year earnings change expected for the current quarter and consistent EPS beats, though it has garnered a Zacks Rank #3 (Hold) due to its valuation metrics.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
             "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "date": "20260602T123727",
+            "title": "'Disney Celebrates America' lineup announced for America's 250th anniversary",
+            "summary": "Disney has announced \"Disney Celebrates America,\" a company-wide initiative for the nation's 250th anniversary. This includes a 24-hour multiplatform broadcast led by David Muir, a primetime special from Disney parks, and a live concert in Nashville. The celebration also features new park experiences like \"Soarin' Across America\" and a \"Seven Natural Wonders of America\" list from National Geographic and ABC News.",
+            "text_to_analyze": "'Disney Celebrates America' lineup announced for America's 250th anniversary. Disney has announced \"Disney Celebrates America,\" a company-wide initiative for the nation's 250th anniversary. This includes a 24-hour multiplatform broadcast led by David Muir, a primetime special from Disney parks, and a live concert in Nashville. The celebration also features new park experiences like \"Soarin' Across America\" and a \"Seven Natural Wonders of America\" list from National Geographic and ABC News.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.987639
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260602T114426",
+            "title": "Natixis Advisors LLC Boosts Stake in The Walt Disney Company $DIS",
+            "summary": "Natixis Advisors LLC increased its stake in The Walt Disney Company (NYSE:DIS) by 2.4% in the fourth quarter, purchasing an additional 49,195 shares. This brings their total holding to 2,120,702 shares valued at approximately $241.3 million. Institutional investors collectively own 65.71% of Disney's stock, with several other funds also reporting minor increases in their positions. The article notes positive sentiment for Disney due to brand visibility, live-action adaptations, park investments, and strong gaming performance, while analyst ratings are a \"Moderate Buy\" with a target price of $134.47.",
+            "text_to_analyze": "Natixis Advisors LLC Boosts Stake in The Walt Disney Company $DIS. Natixis Advisors LLC increased its stake in The Walt Disney Company (NYSE:DIS) by 2.4% in the fourth quarter, purchasing an additional 49,195 shares. This brings their total holding to 2,120,702 shares valued at approximately $241.3 million. Institutional investors collectively own 65.71% of Disney's stock, with several other funds also reporting minor increases in their positions. The article notes positive sentiment for Disney due to brand visibility, live-action adaptations, park investments, and strong gaming performance, while analyst ratings are a \"Moderate Buy\" with a target price of $134.47.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Axios",
+            "date": "20260601T220018",
+            "title": "Netflix taps Disney's Caitlin Conant for new D.C.-based role",
+            "summary": "Netflix has hired Caitlin Conant from Disney as head of U.S. policy communications and external affairs to strengthen its presence in Washington D.C. This move is part of Netflix's strategy to engage more proactively with regulators and policymakers, given its growing influence and increasing scrutiny on its business. Conant brings extensive media and political experience, having managed Disney's crisis with Florida Governor Ron DeSantis and previously serving as political director at CBS News and a communications official for Republican politicians.",
+            "text_to_analyze": "Netflix taps Disney's Caitlin Conant for new D.C.-based role. Netflix has hired Caitlin Conant from Disney as head of U.S. policy communications and external affairs to strengthen its presence in Washington D.C. This move is part of Netflix's strategy to engage more proactively with regulators and policymakers, given its growing influence and increasing scrutiny on its business. Conant brings extensive media and political experience, having managed Disney's crisis with Florida Governor Ron DeSantis and previously serving as political director at CBS News and a communications official for Republican politicians.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.738567
         }
     ]
 }

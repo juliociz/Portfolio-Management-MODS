@@ -3,6 +3,60 @@
     "company_name": "Tesla",
     "articles": [
         {
+            "source": "MarketBeat",
+            "date": "20260610T072454",
+            "title": "Brand Asset Management Group Inc. Has $350,000 Holdings in Tesla, Inc. $TSLA",
+            "summary": "Brand Asset Management Group Inc. significantly reduced its stake in Tesla (NASDAQ:TSLA) by 83.2% in the fourth quarter, now holding 778 shares valued at $350,000. This reduction comes amid other institutional investors adjusting their positions and recent insider selling, including transactions by Tesla's Director Kathleen Wilson-Thompson and CFO Vaibhav Taneja. Despite a 3% drop in share price, analysts maintain a \"Hold\" rating with an average target price of $404.37, driven by mixed sentiments regarding Tesla's valuation and future prospects in autonomy and energy.",
+            "text_to_analyze": "Brand Asset Management Group Inc. Has $350,000 Holdings in Tesla, Inc. $TSLA. Brand Asset Management Group Inc. significantly reduced its stake in Tesla (NASDAQ:TSLA) by 83.2% in the fourth quarter, now holding 778 shares valued at $350,000. This reduction comes amid other institutional investors adjusting their positions and recent insider selling, including transactions by Tesla's Director Kathleen Wilson-Thompson and CFO Vaibhav Taneja. Despite a 3% drop in share price, analysts maintain a \"Hold\" rating with an average target price of $404.37, driven by mixed sentiments regarding Tesla's valuation and future prospects in autonomy and energy.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260610T060846",
+            "title": "Elon Musk Praises Tesla's 'Awesome' AI Chip Team, Says AI6 May Set New Wafer Intelligence Record",
+            "summary": "Elon Musk lauded Tesla's AI chip design team, stating that their AI6 chip could achieve a new record for usable intelligence from a wafer due to its focus on manufacturability. This strategy aims to maximize computing power from each production run by designing chips that are more resilient to defects. Tesla plans for the AI6 chip to double performance over its predecessor and intends to collaborate with Samsung and TSMC for its production, as part of a larger push towards reducing reliance on external foundries.",
+            "text_to_analyze": "Elon Musk Praises Tesla's 'Awesome' AI Chip Team, Says AI6 May Set New Wafer Intelligence Record. Elon Musk lauded Tesla's AI chip design team, stating that their AI6 chip could achieve a new record for usable intelligence from a wafer due to its focus on manufacturability. This strategy aims to maximize computing power from each production run by designing chips that are more resilient to defects. Tesla plans for the AI6 chip to double performance over its predecessor and intends to collaborate with Samsung and TSMC for its production, as part of a larger push towards reducing reliance on external foundries.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.999354
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260610T030846",
+            "title": "TSLA Stock Hits 1-Month Low Amid SpaceX Merger Jitters — But Analyst Sees Tesla Holders Getting 66% Of Deal Within A Year",
+            "summary": "Tesla (TSLA) stock hit a one-month low due to speculation about a potential merger with SpaceX. Despite market jitters, Morningstar predicts that Tesla shareholders could receive 66% of a combined entity, noting increasing collaboration between the two companies in AI and other areas. However, analysts also point out significant risks, including shareholder opposition and regulatory challenges from Tesla's China operations.",
+            "text_to_analyze": "TSLA Stock Hits 1-Month Low Amid SpaceX Merger Jitters — But Analyst Sees Tesla Holders Getting 66% Of Deal Within A Year. Tesla (TSLA) stock hit a one-month low due to speculation about a potential merger with SpaceX. Despite market jitters, Morningstar predicts that Tesla shareholders could receive 66% of a combined entity, noting increasing collaboration between the two companies in AI and other areas. However, analysts also point out significant risks, including shareholder opposition and regulatory challenges from Tesla's China operations.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260609T230853",
+            "title": "[Form 4] Tesla, Inc. Insider Trading Activity",
+            "summary": "Tesla's Chief Financial Officer, Vaibhav Taneja, engaged in insider trading activity, selling 2,605.5 shares of common stock valued at approximately $1.05 million. This sale was primarily to satisfy tax withholding obligations related to the vesting of restricted stock units. The Form 4 filing details the transactions and Taneja's remaining direct and indirect holdings in Tesla stock.",
+            "text_to_analyze": "[Form 4] Tesla, Inc. Insider Trading Activity. Tesla's Chief Financial Officer, Vaibhav Taneja, engaged in insider trading activity, selling 2,605.5 shares of common stock valued at approximately $1.05 million. This sale was primarily to satisfy tax withholding obligations related to the vesting of restricted stock units. The Form 4 filing details the transactions and Taneja's remaining direct and indirect holdings in Tesla stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260609T203924",
+            "title": "REX TSLA Growth & Income ETF announces weekly distribution of $0.1970",
+            "summary": "REX TSLA Growth & Income ETF has announced a weekly distribution of $0.1970 per share for its shareholders. This distribution will be paid on a specified future date to shareholders of record as of a particular cutoff date. The ex-dividend date is also provided.",
+            "text_to_analyze": "REX TSLA Growth & Income ETF announces weekly distribution of $0.1970. REX TSLA Growth & Income ETF has announced a weekly distribution of $0.1970 per share for its shareholders. This distribution will be paid on a specified future date to shareholders of record as of a particular cutoff date. The ex-dividend date is also provided.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.710825
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260609T180909",
+            "title": "Tesla Wins Denmark Green Light For FSD Expansion — But TSLA Stock Slips",
+            "summary": "Tesla has received approval from the Danish Road Traffic Authority for its Full Self-Driving (FSD) driver assistance software to be used on public roads in Denmark. This expansion follows similar approvals in other European nations like the Netherlands, Lithuania, and Estonia, though EU-wide approval is still pending. Despite this progress in FSD expansion, Tesla's stock (TSLA) slipped 4%, and retail sentiment remained bearish, amid distractions and delays related to other company ventures.",
+            "text_to_analyze": "Tesla Wins Denmark Green Light For FSD Expansion — But TSLA Stock Slips. Tesla has received approval from the Danish Road Traffic Authority for its Full Self-Driving (FSD) driver assistance software to be used on public roads in Denmark. This expansion follows similar approvals in other European nations like the Netherlands, Lithuania, and Estonia, though EU-wide approval is still pending. Despite this progress in FSD expansion, Tesla's stock (TSLA) slipped 4%, and retail sentiment remained bearish, amid distractions and delays related to other company ventures.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
             "source": "Yahoo Finance",
             "date": "20260609T172438",
             "title": "Tesla (TSLA) Rolls Out Unsupervised Robotaxis in Austin Metro Area, Reuters Reports",
@@ -18,7 +72,25 @@
             "summary": "Despite Elon Musk's emphasis on autonomy, PepsiCo has a larger fleet of fully driverless trucks operating on public roads than Tesla's unsupervised robotaxi service, according to a recent Wall Street Journal report. PepsiCo's 41 driverless trucks, used for hauling snacks and beverages, have logged zero accidents and high on-time rates, while Tesla's robotaxi fleet is significantly smaller and faces skepticism from prediction markets regarding its future deployment. Tesla's market capitalization relies heavily on its autonomy thesis, but meaningful robotaxi fleet expansion and FSD software release are delayed.",
             "text_to_analyze": "Yikes! Elon Musk's Robotaxi Fleet Is Smaller Than Pepsi's Doritos Truck Fleet. Despite Elon Musk's emphasis on autonomy, PepsiCo has a larger fleet of fully driverless trucks operating on public roads than Tesla's unsupervised robotaxi service, according to a recent Wall Street Journal report. PepsiCo's 41 driverless trucks, used for hauling snacks and beverages, have logged zero accidents and high on-time rates, while Tesla's robotaxi fleet is significantly smaller and faces skepticism from prediction markets regarding its future deployment. Tesla's market capitalization relies heavily on its autonomy thesis, but meaningful robotaxi fleet expansion and FSD software release are delayed.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.956919
+            "ticker_relevance_score": 0.978789
+        },
+        {
+            "source": "Forbes",
+            "date": "20260609T143809",
+            "title": "With The SpaceX IPO Imminent, Nvidia And Tesla Accelerate The Race For Physical AI",
+            "summary": "Nvidia and Tesla are leading the race in physical AI, pursuing different strategies to dominate the sector as the SpaceX IPO approaches. Nvidia focuses on being an \"arms dealer\" by providing platform infrastructure, partnering with hardware manufacturers globally, including China's Unitree Robotics. In contrast, Tesla under Elon Musk aims for vertical integration, building the entire AI stack for its Optimus robot, leveraging its existing FSD technology. This competition highlights the distinct approaches of the U.S. and China in developing embodied intelligence, with implications for labor economics, supply chain control, and national security, especially if a Tesla-SpaceX merger occurs.",
+            "text_to_analyze": "With The SpaceX IPO Imminent, Nvidia And Tesla Accelerate The Race For Physical AI. Nvidia and Tesla are leading the race in physical AI, pursuing different strategies to dominate the sector as the SpaceX IPO approaches. Nvidia focuses on being an \"arms dealer\" by providing platform infrastructure, partnering with hardware manufacturers globally, including China's Unitree Robotics. In contrast, Tesla under Elon Musk aims for vertical integration, building the entire AI stack for its Optimus robot, leveraging its existing FSD technology. This competition highlights the distinct approaches of the U.S. and China in developing embodied intelligence, with implications for labor economics, supply chain control, and national security, especially if a Tesla-SpaceX merger occurs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.941233
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260609T140707",
+            "title": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO",
+            "summary": "NYU professor Scott Galloway warns that upcoming IPOs from companies like SpaceX, Anthropic, and OpenAI could create a significant \"supply flood\" in the equity market, potentially leading to an 80% collapse for one of these new market debuts. He suggests that investors reallocating funds to these new offerings might sell off existing holdings, impacting companies like Tesla, Nvidia, and Broadcom. While some analysts believe the market is large enough to absorb this, Galloway draws parallels to past tech booms and busts, indicating a potential correction.",
+            "text_to_analyze": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO. NYU professor Scott Galloway warns that upcoming IPOs from companies like SpaceX, Anthropic, and OpenAI could create a significant \"supply flood\" in the equity market, potentially leading to an 80% collapse for one of these new market debuts. He suggests that investors reallocating funds to these new offerings might sell off existing holdings, impacting companies like Tesla, Nvidia, and Broadcom. While some analysts believe the market is large enough to absorb this, Galloway draws parallels to past tech booms and busts, indicating a potential correction.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.835034
         },
         {
             "source": "MarketBeat",
@@ -45,7 +117,7 @@
             "summary": "Lemonade, Inc. has introduced an Autonomous Car insurance discount for Tesla owners in Indiana, offering 50% off miles driven using Full Self-Driving (Supervised). This move underscores Lemonade's AI-driven pricing and product strategy, which is critical for its long-term profitability. Investors are watching to see if this and other product rollouts contribute to improved loss ratios, capital discipline, and ultimately, a path to better earnings amidst ongoing losses and regulatory risks.",
             "text_to_analyze": "Can Lemonade’s Indiana Tesla Discount Reveal the Real Scale of Its AI Edge (LMND)?. Lemonade, Inc. has introduced an Autonomous Car insurance discount for Tesla owners in Indiana, offering 50% off miles driven using Full Self-Driving (Supervised). This move underscores Lemonade's AI-driven pricing and product strategy, which is critical for its long-term profitability. Investors are watching to see if this and other product rollouts contribute to improved loss ratios, capital discipline, and ultimately, a path to better earnings amidst ongoing losses and regulatory risks.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.607315
+            "ticker_relevance_score": 0.628173
         },
         {
             "source": "Capital.com",
@@ -81,7 +153,7 @@
             "summary": "ASML Holding NV (ASML) stock surged 7.15% on June 8, driven by Elon Musk's endorsement and positive analyst revisions. Musk's mention of ASML as \"arguably the greatest company in Europe\" and its essential role in SpaceX and Tesla's Terafab project, which will rely on ASML's EUV lithography technology, significantly boosted market sentiment. Additionally, leading firms like BofA, JPMorgan, and Morgan Stanley raised price targets, maintaining \"Buy\" or \"Overweight\" recommendations, reflecting confidence in ASML's future prospects, strong Q1 2026 results, and increased 2026 revenue outlook due to high AI-driven demand.",
             "text_to_analyze": "ASML Holding NV Stock (ASML) Moved Up by 7.15% on Jun 8: Key Drivers Unveiled. ASML Holding NV (ASML) stock surged 7.15% on June 8, driven by Elon Musk's endorsement and positive analyst revisions. Musk's mention of ASML as \"arguably the greatest company in Europe\" and its essential role in SpaceX and Tesla's Terafab project, which will rely on ASML's EUV lithography technology, significantly boosted market sentiment. Additionally, leading firms like BofA, JPMorgan, and Morgan Stanley raised price targets, maintaining \"Buy\" or \"Overweight\" recommendations, reflecting confidence in ASML's future prospects, strong Q1 2026 results, and increased 2026 revenue outlook due to high AI-driven demand.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.603809
+            "ticker_relevance_score": 0.636151
         },
         {
             "source": "TradingKey",
@@ -99,7 +171,7 @@
             "summary": "Google has reportedly placed an order for over three million tensor processing units from Intel, intended for production in 2028. This move comes as Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. Intel's shares saw a significant rise following this news, and Tesla CEO Elon Musk previously stated plans to use Intel's 14A manufacturing process for his Terafab project.",
             "text_to_analyze": "Google reportedly orders 3 million AI chips from Intel for 2028 production. Google has reportedly placed an order for over three million tensor processing units from Intel, intended for production in 2028. This move comes as Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. Intel's shares saw a significant rise following this news, and Tesla CEO Elon Musk previously stated plans to use Intel's 14A manufacturing process for his Terafab project.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.587528
+            "ticker_relevance_score": 0.596715
         },
         {
             "source": "MarketBeat",
@@ -117,7 +189,7 @@
             "summary": "Alphabet's Google has reportedly placed an order with Intel to manufacture over three million tensor processing units by 2028. Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. This news indicates a potential turnaround for Intel in chip manufacturing, with Tesla CEO Elon Musk also previously mentioning plans to use Intel's 14A manufacturing process for his company's AI chip complex.",
             "text_to_analyze": "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports. Alphabet's Google has reportedly placed an order with Intel to manufacture over three million tensor processing units by 2028. Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. This news indicates a potential turnaround for Intel in chip manufacturing, with Tesla CEO Elon Musk also previously mentioning plans to use Intel's 14A manufacturing process for his company's AI chip complex.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.64571
+            "ticker_relevance_score": 0.617636
         },
         {
             "source": "AUTO Connected Car News",
@@ -126,7 +198,7 @@
             "summary": "This article provides updates on various autonomous and self-driving vehicle initiatives involving companies like WeRide, Uber, Zoox, Volvo Autonomous Solutions, Nuro, Lucid, and Tesla. Key developments include WeRide and Uber launching a robotaxi pilot in Madrid, Lockton and Nexar's new framework for AV risk assessment, and Uber's significant investment in Nuro for an autonomous Lucid vehicle fleet. Tesla is also highlighted for facing legal challenges regarding retroactive modifications to FSD purchase agreements.",
             "text_to_analyze": "Autonomous & Self-Driving Vehicle News: WeRide, Uber, Zoox, Volvo Nuro, Lucid & Tesla.. This article provides updates on various autonomous and self-driving vehicle initiatives involving companies like WeRide, Uber, Zoox, Volvo Autonomous Solutions, Nuro, Lucid, and Tesla. Key developments include WeRide and Uber launching a robotaxi pilot in Madrid, Lockton and Nexar's new framework for AV risk assessment, and Uber's significant investment in Nuro for an autonomous Lucid vehicle fleet. Tesla is also highlighted for facing legal challenges regarding retroactive modifications to FSD purchase agreements.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.708025
+            "ticker_relevance_score": 0.736401
         },
         {
             "source": "Benzinga",
@@ -135,7 +207,7 @@
             "summary": "This article summarizes a busy week in the EV industry, highlighting Foxconn's new Cavira EV challenging Tesla's Model Y with greater range and interior space. It also covers BYD's surge in overseas sales, breaking a slump, and discusses Tesla's potential benefits from a Canada-China EV deal that could bring more Chinese-made EVs to Canada.",
             "text_to_analyze": "Weekend Round-Up: Foxconn's Rival, BYD's Sales Surge And Tesla's Potential Win In Canada. This article summarizes a busy week in the EV industry, highlighting Foxconn's new Cavira EV challenging Tesla's Model Y with greater range and interior space. It also covers BYD's surge in overseas sales, breaking a slump, and discusses Tesla's potential benefits from a Canada-China EV deal that could bring more Chinese-made EVs to Canada.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.999148
+            "ticker_relevance_score": 0.988684
         },
         {
             "source": "MarketBeat",
@@ -145,42 +217,6 @@
             "text_to_analyze": "WINTON GROUP Ltd Acquires New Stake in Tesla, Inc. $TSLA. WINTON GROUP Ltd has acquired a new stake in Tesla, Inc. by purchasing 11,934 shares valued at approximately $5.37 million in the fourth quarter. This move highlights continuing heavy institutional interest in Tesla, with 66.2% of the stock now held by institutional investors and hedge funds, despite some insider selling and a split consensus among analysts who currently rate the stock as \"Hold\" with an average target price of $404.37.",
             "alpha_vantage_sentiment_label": "Neutral",
             "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Not a Tesla App",
-            "date": "20260607T100906",
-            "title": "2026.8.300 Official Tesla Release Notes - Software Updates",
-            "summary": "Tesla has released update 2026.8.300, which includes several new features and improvements. Key updates include Dashcam Viewer improvements, visibility of the selected driver profile in the Tesla app, support for the Slovak language, and various enhancements to Service Mode. The update is currently rolling out to a small percentage of the fleet.",
-            "text_to_analyze": "2026.8.300 Official Tesla Release Notes - Software Updates. Tesla has released update 2026.8.300, which includes several new features and improvements. Key updates include Dashcam Viewer improvements, visibility of the selected driver profile in the Tesla app, support for the Slovak language, and various enhancements to Service Mode. The update is currently rolling out to a small percentage of the fleet.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "MSN",
-            "date": "20260606T224001",
-            "title": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.2291",
-            "summary": "GraniteShares YieldBOOST TSLA ETF (NYSE Arca: HTSL) has announced a weekly distribution of $0.2291 per share for its shareholders. The distribution will be paid on June 10, 2024, to shareholders of record as of June 7, 2024, with an ex-dividend date of June 7, 2024. This announcement provides key dates and the distribution amount for investors in HTSL.",
-            "text_to_analyze": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.2291. GraniteShares YieldBOOST TSLA ETF (NYSE Arca: HTSL) has announced a weekly distribution of $0.2291 per share for its shareholders. The distribution will be paid on June 10, 2024, to shareholders of record as of June 7, 2024, with an ex-dividend date of June 7, 2024. This announcement provides key dates and the distribution amount for investors in HTSL.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Capital.com",
-            "date": "20260606T173915",
-            "title": "Hyperliquid Strategies Inc (PURR) Stock Price Quote Today & Current Price Chart",
-            "summary": "This page provides current trading information and key statistics for Hyperliquid Strategies Inc (PURR) stock, which is available for CFD trading on Capital.com. It details CFD trading conditions, including spreads, overnight funding adjustments, margin requirements, and commission, alongside recent stock performance data. The article also includes links to recent news and forecasts for other notable companies like NVIDIA, Eni, RENK, and Tesla.",
-            "text_to_analyze": "Hyperliquid Strategies Inc (PURR) Stock Price Quote Today & Current Price Chart. This page provides current trading information and key statistics for Hyperliquid Strategies Inc (PURR) stock, which is available for CFD trading on Capital.com. It details CFD trading conditions, including spreads, overnight funding adjustments, margin requirements, and commission, alongside recent stock performance data. The article also includes links to recent news and forecasts for other notable companies like NVIDIA, Eni, RENK, and Tesla.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.618301
-        },
-        {
-            "source": "Investing.com",
-            "date": "20260606T154036",
-            "title": "Elon Musk to attend ASML tech conference to talk Terafab - Bloomberg",
-            "summary": "Elon Musk will virtually attend a closed-door technology conference hosted by ASML Holding NV to discuss his Terafab project. Terafab, a joint venture between SpaceX and Tesla, aims to produce cutting-edge chips for AI, robotics, and space data centers, with plans to build a $55 billion chip factory in the U.S. ASML, a crucial supplier for advanced chip manufacturing, considers Terafab a serious endeavor, recognizing Musk's ambition to significantly expand semiconductor production capacity beyond current industry limits.",
-            "text_to_analyze": "Elon Musk to attend ASML tech conference to talk Terafab - Bloomberg. Elon Musk will virtually attend a closed-door technology conference hosted by ASML Holding NV to discuss his Terafab project. Terafab, a joint venture between SpaceX and Tesla, aims to produce cutting-edge chips for AI, robotics, and space data centers, with plans to build a $55 billion chip factory in the U.S. ASML, a crucial supplier for advanced chip manufacturing, considers Terafab a serious endeavor, recognizing Musk's ambition to significantly expand semiconductor production capacity beyond current industry limits.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.847591
         }
     ]
 }

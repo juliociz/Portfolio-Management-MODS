@@ -107,8 +107,8 @@ for index, stock in enumerate(stocks):
                 "ticker_relevance_score": ticker_relevance
             })
             
-            # Blocage strict à maximum 15 articles par entreprise
-            if len(finbert_ready_data["articles"]) == 30:
+            # Blocage strict à maximum 50 articles par entreprise
+            if len(finbert_ready_data["articles"]) == 50:
                 break
                 
         # 4. SAUVEGARDE DANS LE DOSSIER 'AlphaVantageàtraiter'

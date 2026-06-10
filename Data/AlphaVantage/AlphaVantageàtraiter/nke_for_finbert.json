@@ -3,13 +3,22 @@
     "company_name": "Nike",
     "articles": [
         {
+            "source": "AlphaStreet",
+            "date": "20260609T193916",
+            "title": "Crocs Jumps 6.7% Amid Sector-Wide Rally",
+            "summary": "Crocs, Inc. (CROX) saw its stock jump 6.7% to $128.78 on Tuesday, participating in a broad sector-wide rally among footwear and accessories makers. This surge was not attributed to company-specific news but rather to a broader positive sentiment in the consumer-facing footwear sector, with other major players like Nike, Deckers, and Wolverine World Wide also seeing gains. The rally is supported by positive analyst sentiment, including two target raises for Crocs in the past week, and suggests a rotation of investor capital back into the industry.",
+            "text_to_analyze": "Crocs Jumps 6.7% Amid Sector-Wide Rally. Crocs, Inc. (CROX) saw its stock jump 6.7% to $128.78 on Tuesday, participating in a broad sector-wide rally among footwear and accessories makers. This surge was not attributed to company-specific news but rather to a broader positive sentiment in the consumer-facing footwear sector, with other major players like Nike, Deckers, and Wolverine World Wide also seeing gains. The rally is supported by positive analyst sentiment, including two target raises for Crocs in the past week, and suggests a rotation of investor capital back into the industry.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.635549
+        },
+        {
             "source": "Moomoo",
             "date": "20260609T145948",
             "title": "Dow Up 162 Points On Gains For Shares Of Home Depot, Nike",
             "summary": "The Dow Jones Industrial Average rose by 162 points, driven by significant gains in the shares of Home Depot and Nike. This positive movement indicates a strong performance for these key components of the index.",
             "text_to_analyze": "Dow Up 162 Points On Gains For Shares Of Home Depot, Nike. The Dow Jones Industrial Average rose by 162 points, driven by significant gains in the shares of Home Depot and Nike. This positive movement indicates a strong performance for these key components of the index.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.940443
+            "ticker_relevance_score": 0.918224
         },
         {
             "source": "MarketBeat",
@@ -54,7 +63,7 @@
             "summary": "Central Securities Corp increased its stake in NIKE, Inc. by 11.1% in the fourth quarter, bringing its total holding to 500,000 shares valued at approximately $31.9 million. Several other institutional investors also increased their positions, with institutions now owning 64.25% of the company's stock. Despite beating earnings estimates with an EPS of $0.35, NIKE shares were down 4.8% to $43.72, and analysts currently rate the stock as a \"Hold\" with an average price target of $62.04.",
             "text_to_analyze": "NIKE, Inc. $NKE Position Increased by Central Securities Corp. Central Securities Corp increased its stake in NIKE, Inc. by 11.1% in the fourth quarter, bringing its total holding to 500,000 shares valued at approximately $31.9 million. Several other institutional investors also increased their positions, with institutions now owning 64.25% of the company's stock. Despite beating earnings estimates with an EPS of $0.35, NIKE shares were down 4.8% to $43.72, and analysts currently rate the stock as a \"Hold\" with an average price target of $62.04.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.999334
+            "ticker_relevance_score": 0.960252
         },
         {
             "source": "TradingView",
@@ -72,7 +81,7 @@
             "summary": "This article highlights three \"rebound\" stocks—Globant (GLOB), PayPal (PYPL), and Nike (NKE)—that have experienced significant declines but are now showing signs of potential recovery. Each company possesses strong brand recognition and is undergoing strategic changes or benefiting from shifts in market sentiment, making them attractive to investors looking for undervalued assets with bounce-back potential. The author emphasizes that while these companies face risks, their competitive advantages in large global markets could lead to substantial gains as economic conditions stabilize.",
             "text_to_analyze": "3 Beaten-Down Stocks Primed For A Major Bounceback. This article highlights three \"rebound\" stocks—Globant (GLOB), PayPal (PYPL), and Nike (NKE)—that have experienced significant declines but are now showing signs of potential recovery. Each company possesses strong brand recognition and is undergoing strategic changes or benefiting from shifts in market sentiment, making them attractive to investors looking for undervalued assets with bounce-back potential. The author emphasizes that while these companies face risks, their competitive advantages in large global markets could lead to substantial gains as economic conditions stabilize.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.889471
+            "ticker_relevance_score": 0.85649
         },
         {
             "source": "TradingView",
@@ -81,7 +90,7 @@
             "summary": "This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS, NYSE:NKE) from multiple traders on TradingView. The ideas range from identifying potential bottoming formations and long setups based on Fibonacci retracements and support levels to bearish outlooks due to weak guidance and declining moving averages. Several contributors highlight the significance of recent insider buying and the stock's significant drop from its all-time highs as potential turnarounds, while others caution about continued downtrends and competition in key markets.",
             "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS, NYSE:NKE) from multiple traders on TradingView. The ideas range from identifying potential bottoming formations and long setups based on Fibonacci retracements and support levels to bearish outlooks due to weak guidance and declining moving averages. Several contributors highlight the significance of recent insider buying and the stock's significant drop from its all-time highs as potential turnarounds, while others caution about continued downtrends and competition in key markets.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.974456
+            "ticker_relevance_score": 0.989772
         },
         {
             "source": "TradingView",
@@ -135,7 +144,7 @@
             "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. Class B stock (NKEUSD, NYSE:NKE), offering both bullish and bearish perspectives. Analysts discuss technical patterns like descending channels and head and shoulders, price targets, and the impact of recent earnings reports and economic conditions on Nike's stock performance. The article also touches upon Nike's strategic shifts, cost-cutting measures, and layoffs.",
             "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView. This article compiles various trading ideas and analyses for NIKE, Inc. Class B stock (NKEUSD, NYSE:NKE), offering both bullish and bearish perspectives. Analysts discuss technical patterns like descending channels and head and shoulders, price targets, and the impact of recent earnings reports and economic conditions on Nike's stock performance. The article also touches upon Nike's strategic shifts, cost-cutting measures, and layoffs.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.973432
+            "ticker_relevance_score": 0.981159
         },
         {
             "source": "TradingView",
@@ -181,33 +190,6 @@
             "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView. This page compiles various trading ideas and analyses for NIKE, Inc. Class B (NKEUS) stock from multiple traders on TradingView. The ideas range from short-term buys and sells to long-term projections, covering technical analysis, support/resistance levels, RSI, and fundamental considerations like market share and inflation data. Several contributors also discuss option plays, particularly around ex-dividend dates, and different strategies for entering and exiting positions based on chart patterns and market indicators.",
             "alpha_vantage_sentiment_label": "Neutral",
             "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "TradingView",
-            "date": "20260523T123814",
-            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView",
-            "summary": "This page on TradingView compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS) stock from several contributors. Analysts offer differing perspectives ranging from bearish short plays due to technical indicators like death crosses and descending triangles, to bullish long-term outlooks based on potential reversals, double bottoms, and the company's strong brand and digital expansion efforts. Many stress the importance of upcoming earnings reports and critical support/resistance levels for future price movements.",
-            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView. This page on TradingView compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS) stock from several contributors. Analysts offer differing perspectives ranging from bearish short plays due to technical indicators like death crosses and descending triangles, to bullish long-term outlooks based on potential reversals, double bottoms, and the company's strong brand and digital expansion efforts. Many stress the importance of upcoming earnings reports and critical support/resistance levels for future price movements.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "TradingView",
-            "date": "20260523T050830",
-            "title": "NIKE, Inc. Class B Trade Ideas — LSE:0QZ6",
-            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. Class B (LSE:0QZ6, NYSE:NKE) from different traders and analysts, presenting diverse perspectives ranging from long-term bullish outlooks based on brand strength and undervaluation to short-term bearish sentiments due to macroeconomic headwinds and technical indicators. Several contributors highlight Nike's current low price as a buying opportunity, emphasizing its brand power and long-term growth potential, while others caution about declining sales, competitive pressure, and the impact of tariffs and economic slowdowns. The analyses often include technical setups, fundamental assessments, and price targets, reflecting a divided but actively engaged market sentiment regarding Nike's future performance.",
-            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — LSE:0QZ6. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (LSE:0QZ6, NYSE:NKE) from different traders and analysts, presenting diverse perspectives ranging from long-term bullish outlooks based on brand strength and undervaluation to short-term bearish sentiments due to macroeconomic headwinds and technical indicators. Several contributors highlight Nike's current low price as a buying opportunity, emphasizing its brand power and long-term growth potential, while others caution about declining sales, competitive pressure, and the impact of tariffs and economic slowdowns. The analyses often include technical setups, fundamental assessments, and price targets, reflecting a divided but actively engaged market sentiment regarding Nike's future performance.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "TradingView",
-            "date": "20260523T033804",
-            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
-            "summary": "This article compiles various trading ideas and technical analyses for NIKE, Inc. (NKEUS / NYSE:NKE) from multiple traders on TradingView. The ideas predominantly focus on potential bullish reversals, double bottom formations, and strategic entry points following recent downtrends, with some analysts suggesting long-term growth and others highlighting risk management strategies like LEAPS options. The collective sentiment indicates a belief that Nike may be nearing a bottom or is poised for a rebound despite recent challenges.",
-            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trading ideas and technical analyses for NIKE, Inc. (NKEUS / NYSE:NKE) from multiple traders on TradingView. The ideas predominantly focus on potential bullish reversals, double bottom formations, and strategic entry points following recent downtrends, with some analysts suggesting long-term growth and others highlighting risk management strategies like LEAPS options. The collective sentiment indicates a belief that Nike may be nearing a bottom or is poised for a rebound despite recent challenges.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.952824
         }
     ]
 }

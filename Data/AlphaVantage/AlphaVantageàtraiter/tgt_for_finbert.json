@@ -9,7 +9,7 @@
             "summary": "Dollar General's first-quarter fiscal 2026 same-store sales growth of 2%, driven by increased customer traffic, indicates continued positive performance for the year. Despite recent stock decline, the company's valuation metrics and projected earnings growth suggest potential for future gains. Dollar General's performance is compared to competitors Walmart and Target, highlighting its value and convenience proposition in drawing repeat customers.",
             "text_to_analyze": "Dollar General's Same-Store Sales Strength Suggests More Growth Ahead. Dollar General's first-quarter fiscal 2026 same-store sales growth of 2%, driven by increased customer traffic, indicates continued positive performance for the year. Despite recent stock decline, the company's valuation metrics and projected earnings growth suggest potential for future gains. Dollar General's performance is compared to competitors Walmart and Target, highlighting its value and convenience proposition in drawing repeat customers.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.695145
+            "ticker_relevance_score": 0.696149
         },
         {
             "source": "MarketBeat",
@@ -27,7 +27,7 @@
             "summary": "Erste Asset Management GmbH significantly increased its stake in Target Corporation (NYSE:TGT) by 5,032.5% in the fourth quarter, acquiring an additional 77,500 shares. This purchase brings their total holdings to 79,040 shares, valued at $7.768 million. Other institutional investors like Vanguard Group Inc., Norges Bank, and State Street Corp also made substantial changes to their positions in Target.",
             "text_to_analyze": "Erste Asset Management GmbH Purchases 77,500 Shares of Target Corporation $TGT. Erste Asset Management GmbH significantly increased its stake in Target Corporation (NYSE:TGT) by 5,032.5% in the fourth quarter, acquiring an additional 77,500 shares. This purchase brings their total holdings to 79,040 shares, valued at $7.768 million. Other institutional investors like Vanguard Group Inc., Norges Bank, and State Street Corp also made substantial changes to their positions in Target.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.981645
+            "ticker_relevance_score": 0.964046
         },
         {
             "source": "Stock Titan",
@@ -63,7 +63,7 @@
             "summary": "Costco's third-quarter fiscal 2026 results reveal a significant digital surge, with digitally enabled comparable sales growing 21.5%, vastly outperforming overall comparable sales growth. This momentum is driven by technology investments, personalization efforts leading to higher conversion rates, and the emerging opportunity of AI-powered search. The article also compares Costco's digital strategy with that of Walmart and Target, noting similar investments in e-commerce and AI, while highlighting Costco's strong financial outlook despite recent stock performance.",
             "text_to_analyze": "Is Costco's Digital Surge Making It a Bigger Retail Winner?. Costco's third-quarter fiscal 2026 results reveal a significant digital surge, with digitally enabled comparable sales growing 21.5%, vastly outperforming overall comparable sales growth. This momentum is driven by technology investments, personalization efforts leading to higher conversion rates, and the emerging opportunity of AI-powered search. The article also compares Costco's digital strategy with that of Walmart and Target, noting similar investments in e-commerce and AI, while highlighting Costco's strong financial outlook despite recent stock performance.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.632397
+            "ticker_relevance_score": 0.640076
         },
         {
             "source": "AD HOC NEWS",
@@ -81,7 +81,7 @@
             "summary": "O Shaughnessy Asset Management LLC increased its stake in The TJX Companies, Inc. by 10.6% in the fourth quarter, bringing its total holdings to 311,095 shares valued at $47.787 million. Other institutional investors like Vanguard Group Inc., Geode Capital Management LLC, and Capital International Investors also significantly increased their holdings in the apparel and home fashions retailer. Despite recent insider selling by the CEO and CFO, analysts maintain a \"Buy\" consensus rating for TJX Companies, with a target price of $174.58, following strong Q1 results and increased dividend payments.",
             "text_to_analyze": "O Shaughnessy Asset Management LLC Raises Stake in The TJX Companies, Inc. $TJX. O Shaughnessy Asset Management LLC increased its stake in The TJX Companies, Inc. by 10.6% in the fourth quarter, bringing its total holdings to 311,095 shares valued at $47.787 million. Other institutional investors like Vanguard Group Inc., Geode Capital Management LLC, and Capital International Investors also significantly increased their holdings in the apparel and home fashions retailer. Despite recent insider selling by the CEO and CFO, analysts maintain a \"Buy\" consensus rating for TJX Companies, with a target price of $174.58, following strong Q1 results and increased dividend payments.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.631288
+            "ticker_relevance_score": 0.612285
         },
         {
             "source": "MarketBeat",
@@ -89,8 +89,8 @@
             "title": "Clearbridge Investments LLC Cuts Stake in BJ's Wholesale Club Holdings, Inc. $BJ",
             "summary": "Clearbridge Investments LLC reduced its stake in BJ's Wholesale Club Holdings, Inc. by 24% in the fourth quarter, selling over 521,000 shares. Despite this, other institutional investors increased their positions. BJ's Wholesale Club reported strong quarterly earnings, exceeding analyst expectations, and maintains an average \"Hold\" rating from analysts with an average price target of $105.27.",
             "text_to_analyze": "Clearbridge Investments LLC Cuts Stake in BJ's Wholesale Club Holdings, Inc. $BJ. Clearbridge Investments LLC reduced its stake in BJ's Wholesale Club Holdings, Inc. by 24% in the fourth quarter, selling over 521,000 shares. Despite this, other institutional investors increased their positions. BJ's Wholesale Club reported strong quarterly earnings, exceeding analyst expectations, and maintains an average \"Hold\" rating from analysts with an average price target of $105.27.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.637954
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.61636
         },
         {
             "source": "MarketBeat",
@@ -99,7 +99,7 @@
             "summary": "Erste Asset Management GmbH increased its stake in Walmart Inc. by 21.9% in the fourth quarter, acquiring an additional 40,861 shares, bringing its total holdings to 227,672 shares valued at approximately $25.9 million. This news follows Walmart's strong quarterly earnings, where the company met EPS expectations and surpassed revenue estimates with a 7.4% year-over-year sales increase. Analysts generally maintain a \"Moderate Buy\" rating for Walmart, with an average target price of $138.85, as the company continues to expand its omnichannel and delivery strategies.",
             "text_to_analyze": "Walmart Inc. $WMT Shares Acquired by Erste Asset Management GmbH. Erste Asset Management GmbH increased its stake in Walmart Inc. by 21.9% in the fourth quarter, acquiring an additional 40,861 shares, bringing its total holdings to 227,672 shares valued at approximately $25.9 million. This news follows Walmart's strong quarterly earnings, where the company met EPS expectations and surpassed revenue estimates with a 7.4% year-over-year sales increase. Analysts generally maintain a \"Moderate Buy\" rating for Walmart, with an average target price of $138.85, as the company continues to expand its omnichannel and delivery strategies.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.642504
+            "ticker_relevance_score": 0.609591
         },
         {
             "source": "MarketBeat",
@@ -108,7 +108,7 @@
             "summary": "Capital International Sarl initiated a new position in Walmart Inc. (NASDAQ:WMT) during the fourth quarter, acquiring 77,085 shares valued at approximately $8.59 million. Other institutional investors also increased their holdings in Walmart, contributing to the 26.76% institutional ownership of the stock. Analysts generally maintain a \"Moderate Buy\" rating for Walmart, with an average price target of $138.85, reflecting continued bullish sentiment.",
             "text_to_analyze": "Capital International Sarl Invests $8.59 Million in Walmart Inc. $WMT. Capital International Sarl initiated a new position in Walmart Inc. (NASDAQ:WMT) during the fourth quarter, acquiring 77,085 shares valued at approximately $8.59 million. Other institutional investors also increased their holdings in Walmart, contributing to the 26.76% institutional ownership of the stock. Analysts generally maintain a \"Moderate Buy\" rating for Walmart, with an average price target of $138.85, reflecting continued bullish sentiment.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.601332
+            "ticker_relevance_score": 0.623639
         },
         {
             "source": "Los Angeles Business Journal",
@@ -126,7 +126,7 @@
             "summary": "This article highlights seven kitchen items available at Target that resemble the higher-end aesthetic of Williams Sonoma but come at a much more affordable price. Shoppers can find dupes for kitchen necessities like a soda machine, paper towel holder, cookbooks, dinnerware, fruit bowls, glass canisters, and lattice kitchen towels, all offering luxury looks without the hefty price tag. The selections are praised by reviewers for their style, functionality, and value.",
             "text_to_analyze": "7 Target Kitchen Finds That Look Like Williams Sonoma for Less. This article highlights seven kitchen items available at Target that resemble the higher-end aesthetic of Williams Sonoma but come at a much more affordable price. Shoppers can find dupes for kitchen necessities like a soda machine, paper towel holder, cookbooks, dinnerware, fruit bowls, glass canisters, and lattice kitchen towels, all offering luxury looks without the hefty price tag. The selections are praised by reviewers for their style, functionality, and value.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.873869
+            "ticker_relevance_score": 0.856652
         },
         {
             "source": "MarketBeat",
@@ -135,7 +135,7 @@
             "summary": "Nuance Investments LLC significantly increased its stake in The Clorox Company (CLX) by 13.2% in the fourth quarter, bringing its total holdings to $79.33 million and making Clorox its largest position. Despite Clorox beating earnings estimates, analysts maintain a \"Reduce\" consensus rating with a target price of $103.40, while the stock traded higher at $94.07. The article also highlights other institutional investments, insider transactions, and recent analyst ratings for Clorox.",
             "text_to_analyze": "Nuance Investments LLC Has $79.33 Million Holdings in The Clorox Company $CLX. Nuance Investments LLC significantly increased its stake in The Clorox Company (CLX) by 13.2% in the fourth quarter, bringing its total holdings to $79.33 million and making Clorox its largest position. Despite Clorox beating earnings estimates, analysts maintain a \"Reduce\" consensus rating with a target price of $103.40, while the stock traded higher at $94.07. The article also highlights other institutional investments, insider transactions, and recent analyst ratings for Clorox.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.563071
+            "ticker_relevance_score": 0.582263
         },
         {
             "source": "Fox Business",
@@ -171,7 +171,7 @@
             "summary": "e.l.f. Beauty SVP Joshua Allen Franks sold 6,854 shares of ELF stock for approximately $356,000 on June 4th, reducing his overall stake. This insider sale comes as ELF shares dipped to $49.67, nearing their 52-week low despite the company recently surpassing quarterly EPS and revenue expectations. Analysts generally maintain a \"Moderate Buy\" rating with an average price target of $82.75, indicating cautious optimism for the stock's future performance.",
             "text_to_analyze": "e.l.f. Beauty (NYSE:ELF) SVP Joshua Allen Franks Sells 6,854 Shares. e.l.f. Beauty SVP Joshua Allen Franks sold 6,854 shares of ELF stock for approximately $356,000 on June 4th, reducing his overall stake. This insider sale comes as ELF shares dipped to $49.67, nearing their 52-week low despite the company recently surpassing quarterly EPS and revenue expectations. Analysts generally maintain a \"Moderate Buy\" rating with an average price target of $82.75, indicating cautious optimism for the stock's future performance.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.621211
+            "ticker_relevance_score": 0.632625
         },
         {
             "source": "StocksToTrade",
@@ -180,7 +180,7 @@
             "summary": "Clorox (CLX) stock has seen a 4.93% uplift following strong earnings and optimistic guidance, though its recent trading has been more range-bound than a breakout. The company is undergoing a leadership change as CEO Linda Rendle plans to step down for health reasons, initiating a structured search for a new CEO. Despite a recent price target cut by CFRA to $112 due to flat sales and margin pressure in Q3, Clorox is launching new professional disinfecting wipes and engaging in marketing efforts like Oscar the Grouch-themed trash bags.",
             "text_to_analyze": "Clorox Stock Holds Range As CEO Plans Exit, New Wipes Launch. Clorox (CLX) stock has seen a 4.93% uplift following strong earnings and optimistic guidance, though its recent trading has been more range-bound than a breakout. The company is undergoing a leadership change as CEO Linda Rendle plans to step down for health reasons, initiating a structured search for a new CEO. Despite a recent price target cut by CFRA to $112 due to flat sales and margin pressure in Q3, Clorox is launching new professional disinfecting wipes and engaging in marketing efforts like Oscar the Grouch-themed trash bags.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.627675
+            "ticker_relevance_score": 0.60693
         },
         {
             "source": "AD HOC NEWS",
@@ -190,15 +190,6 @@
             "text_to_analyze": "Target Corp. stock (US87612E1064): valuation metrics in focus after recent ownership filing. Target Corp. (US87612E1064) shares are under investor scrutiny on the NYSE following a recent institutional ownership filing and ahead of upcoming earnings. The stock traded around USD 125, with institutional investors like Bank of New York Mellon adjusting holdings. Analysts hold a \"Hold\" rating with an average price target of USD 125.93, indicating limited near-term upside and focusing attention on future earnings and management commentary.",
             "alpha_vantage_sentiment_label": "Neutral",
             "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "MarketBeat",
-            "date": "20260605T102736",
-            "title": "J.W. Cole Advisors Inc. Sells 40,063 Shares of Walmart Inc. $WMT",
-            "summary": "J.W. Cole Advisors Inc. reduced its stake in Walmart Inc. by 14.0% in the fourth quarter, selling 40,063 shares and retaining 246,115 shares valued at $27.42 million. Other institutional investors also adjusted their positions, and analysts have set an average target price of $138.85 for Walmart, rating it a \"Moderate Buy.\" The article also details recent insider sales by Walmart's CEO and Director, upcoming earnings guidance, and key news impacting the company.",
-            "text_to_analyze": "J.W. Cole Advisors Inc. Sells 40,063 Shares of Walmart Inc. $WMT. J.W. Cole Advisors Inc. reduced its stake in Walmart Inc. by 14.0% in the fourth quarter, selling 40,063 shares and retaining 246,115 shares valued at $27.42 million. Other institutional investors also adjusted their positions, and analysts have set an average target price of $138.85 for Walmart, rating it a \"Moderate Buy.\" The article also details recent insider sales by Walmart's CEO and Director, upcoming earnings guidance, and key news impacting the company.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.629159
         }
     ]
 }

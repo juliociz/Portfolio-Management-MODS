@@ -3,6 +3,69 @@
     "company_name": "Starbucks",
     "articles": [
         {
+            "source": "MarketBeat",
+            "date": "20260610T104431",
+            "title": "Motley Fool Asset Management LLC Purchases 27,497 Shares of Starbucks Corporation $SBUX",
+            "summary": "Motley Fool Asset Management LLC increased its stake in Starbucks Corporation ($SBUX) by 35.1% in the fourth quarter, purchasing an additional 27,497 shares, bringing their total holdings to 105,790 shares valued at $8.909 million. Other institutional investors also initiated new positions in Starbucks. The company currently holds an average analyst rating of \"Moderate Buy\" with a consensus target price of $107.48, and recent news highlights positive sentiment around its expanded Refreshers lineup, growth beyond the morning rush, cost-savings plan, and international expansion, despite some insider share sales.",
+            "text_to_analyze": "Motley Fool Asset Management LLC Purchases 27,497 Shares of Starbucks Corporation $SBUX. Motley Fool Asset Management LLC increased its stake in Starbucks Corporation ($SBUX) by 35.1% in the fourth quarter, purchasing an additional 27,497 shares, bringing their total holdings to 105,790 shares valued at $8.909 million. Other institutional investors also initiated new positions in Starbucks. The company currently holds an average analyst rating of \"Moderate Buy\" with a consensus target price of $107.48, and recent news highlights positive sentiment around its expanded Refreshers lineup, growth beyond the morning rush, cost-savings plan, and international expansion, despite some insider share sales.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "GuruFocus",
+            "date": "20260610T071039",
+            "title": "Starbucks (SBUX) Explores Options for Japanese Business Amid China Stake Sale",
+            "summary": "Starbucks (SBUX) is reportedly exploring strategic options for its Japanese operations, including a potential stake sale, following its recent divestment of a majority stake in its Chinese business. The company is in preliminary talks with investment banks regarding its approximately 2,100 stores in Japan, as it reassesses its international strategy. Despite a high P/E ratio and insider selling, Starbucks holds an 85/100 GF Score™, indicating strong potential for long-term returns.",
+            "text_to_analyze": "Starbucks (SBUX) Explores Options for Japanese Business Amid China Stake Sale. Starbucks (SBUX) is reportedly exploring strategic options for its Japanese operations, including a potential stake sale, following its recent divestment of a majority stake in its Chinese business. The company is in preliminary talks with investment banks regarding its approximately 2,100 stores in Japan, as it reassesses its international strategy. Despite a high P/E ratio and insider selling, Starbucks holds an 85/100 GF Score™, indicating strong potential for long-term returns.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260610T065339",
+            "title": "SBUX Stock Extends Rally: Starbucks Reportedly Explores Japan Stake Sale As CEO Sees More Global Growth Ahead",
+            "summary": "Starbucks (SBUX) stock rallied on news that the company is exploring strategic options for its Japan operations, potentially including a partial divestment or public listing, valuing the unit at $2.5 billion–$3.1 billion. This comes as CEO Brian Niccol expressed optimism about significant global growth opportunities, particularly in China and the U.S., following a recent restructuring in Asia where Starbucks sold a stake in its China retail business. Retail sentiment for SBUX remained neutral despite a 100% rise in user message volume on Stocktwits, and the stock has gained over 15% year-to-date.",
+            "text_to_analyze": "SBUX Stock Extends Rally: Starbucks Reportedly Explores Japan Stake Sale As CEO Sees More Global Growth Ahead. Starbucks (SBUX) stock rallied on news that the company is exploring strategic options for its Japan operations, potentially including a partial divestment or public listing, valuing the unit at $2.5 billion–$3.1 billion. This comes as CEO Brian Niccol expressed optimism about significant global growth opportunities, particularly in China and the U.S., following a recent restructuring in Asia where Starbucks sold a stake in its China retail business. Retail sentiment for SBUX remained neutral despite a 100% rise in user message volume on Stocktwits, and the stock has gained over 15% year-to-date.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.982042
+        },
+        {
+            "source": "BusinessToday Malaysia",
+            "date": "20260610T033924",
+            "title": "Starbucks Weighs Japan Stake Sale In Strategic Review, Bloomberg Reports",
+            "summary": "Starbucks is reportedly considering strategic options for its Japan operations, including a potential stake sale, as part of a review to enhance profitability and streamline its international businesses. The Japan unit could be valued between US$2.5 billion and US$3.1 billion and may attract interest from various investors. This move follows a broader portfolio adjustment by Starbucks, which fully consolidated its Japan operations in 2014.",
+            "text_to_analyze": "Starbucks Weighs Japan Stake Sale In Strategic Review, Bloomberg Reports. Starbucks is reportedly considering strategic options for its Japan operations, including a potential stake sale, as part of a review to enhance profitability and streamline its international businesses. The Japan unit could be valued between US$2.5 billion and US$3.1 billion and may attract interest from various investors. This move follows a broader portfolio adjustment by Starbucks, which fully consolidated its Japan operations in 2014.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.995066
+        },
+        {
+            "source": "Reuters",
+            "date": "20260610T022100",
+            "title": "Starbucks said to weigh Japan unit options, including a stake sale, Bloomberg News reports",
+            "summary": "Starbucks is reportedly considering options for its Japanese business, including a potential stake sale valued at ¥400 billion to ¥500 billion ($2.5 billion to $3.1 billion). This move follows the company's previous disposal of a majority interest in its China operations. The report suggests that private equity firms and other industry players might be interested in the stake.",
+            "text_to_analyze": "Starbucks said to weigh Japan unit options, including a stake sale, Bloomberg News reports. Starbucks is reportedly considering options for its Japanese business, including a potential stake sale valued at ¥400 billion to ¥500 billion ($2.5 billion to $3.1 billion). This move follows the company's previous disposal of a majority interest in its China operations. The report suggests that private equity firms and other industry players might be interested in the stake.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260609T220827",
+            "title": "[Form 4] STARBUCKS CORP Insider Trading Activity",
+            "summary": "BREWER BRADY, CEO International of Starbucks Corp (SBUX), sold 1,641 shares of common stock worth $155,000 on June 5, 2026. This transaction was conducted under a Rule 10b5-1 trading plan adopted on December 3, 2025. Following the sale, Brewer holds 80,180.502 shares directly.",
+            "text_to_analyze": "[Form 4] STARBUCKS CORP Insider Trading Activity. BREWER BRADY, CEO International of Starbucks Corp (SBUX), sold 1,641 shares of common stock worth $155,000 on June 5, 2026. This transaction was conducted under a Rule 10b5-1 trading plan adopted on December 3, 2025. Following the sale, Brewer holds 80,180.502 shares directly.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Transport Topics",
+            "date": "20260609T205936",
+            "title": "Starbucks Brews Up Plan for at Least 5,000 More U.S. Stores",
+            "summary": "Starbucks plans to open at least 5,000 more stores in the U.S., focusing on the South and central regions, and expects to increase North American cafe openings to 400 annually by fiscal 2028. The company is also expanding its Nashville corporate office to support growth and supply chain enhancements, while also eyeing significant international expansion. CEO Brian Niccol highlighted that the company’s current 22,000 international stores could potentially double.",
+            "text_to_analyze": "Starbucks Brews Up Plan for at Least 5,000 More U.S. Stores. Starbucks plans to open at least 5,000 more stores in the U.S., focusing on the South and central regions, and expects to increase North American cafe openings to 400 annually by fiscal 2028. The company is also expanding its Nashville corporate office to support growth and supply chain enhancements, while also eyeing significant international expansion. CEO Brian Niccol highlighted that the company’s current 22,000 international stores could potentially double.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.989262
+        },
+        {
             "source": "Quiver Quantitative",
             "date": "20260609T180827",
             "title": "Starbucks shares rise as investors focus on summer beverage innovation and CEO conference appearance",
@@ -30,13 +93,22 @@
             "ticker_relevance_score": 1.0
         },
         {
+            "source": "MarketWatch",
+            "date": "20260609T163800",
+            "title": "Starbucks Corp. stock outperforms competitors on strong trading day",
+            "summary": "Shares of Starbucks Corp. (SBUX) rose 2.73% to $97.41, outperforming some competitors despite a mixed trading session for the broader stock market. The Dow Jones Industrial Average saw a slight increase, while the S&P 500 Index experienced a decline. Starbucks closed 10.53% below its 52-week high, achieved in May.",
+            "text_to_analyze": "Starbucks Corp. stock outperforms competitors on strong trading day. Shares of Starbucks Corp. (SBUX) rose 2.73% to $97.41, outperforming some competitors despite a mixed trading session for the broader stock market. The Dow Jones Industrial Average saw a slight increase, while the S&P 500 Index experienced a decline. Starbucks closed 10.53% below its 52-week high, achieved in May.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.929874
+        },
+        {
             "source": "MultiVu",
             "date": "20260609T142029",
             "title": "Water.org and Founding Partners Launch Get Blue™ to Bring Water Home™ Through Everyday Actions",
             "summary": "Water.org, co-founded by Matt Damon and Gary White, has launched \"Get Blue™\" in partnership with Gap Inc., Starbucks, Amazon, and Ecolab to address the global water crisis. This initiative encourages consumers to shop for exclusive products, engage with creators, and donate directly to support Water.org's mission of providing safe water access to over 200 million people by 2030 through micro-loans. The campaign highlights various brand collaborations, such as Gap's limited-edition collection, Starbucks' themed drinks, Amazon's donation features and dedicated storefront, and Ecolab's financial commitment, all designed to make it simple for individuals to contribute to solving the global water crisis.",
             "text_to_analyze": "Water.org and Founding Partners Launch Get Blue™ to Bring Water Home™ Through Everyday Actions. Water.org, co-founded by Matt Damon and Gary White, has launched \"Get Blue™\" in partnership with Gap Inc., Starbucks, Amazon, and Ecolab to address the global water crisis. This initiative encourages consumers to shop for exclusive products, engage with creators, and donate directly to support Water.org's mission of providing safe water access to over 200 million people by 2030 through micro-loans. The campaign highlights various brand collaborations, such as Gap's limited-edition collection, Starbucks' themed drinks, Amazon's donation features and dedicated storefront, and Ecolab's financial commitment, all designed to make it simple for individuals to contribute to solving the global water crisis.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.906741
+            "ticker_relevance_score": 0.934774
         },
         {
             "source": "Stock Titan",
@@ -45,7 +117,16 @@
             "summary": "Water.org, co-founded by Matt Damon and Gary White, has launched the \"Get Blue\" global community campaign with founding partners Gap, Starbucks, Amazon, and Ecolab to address the global water crisis. The initiative encourages individuals to support safe water access through everyday actions like shopping, sharing, and donating, backing Water.org's microfinance model which aims to provide safe water to 200 million people by 2030. Various companies like Gap, Starbucks, and Amazon are offering special products, donation mechanisms, and campaigns to engage their customers in this effort.",
             "text_to_analyze": "Matt Damon, Starbucks and Amazon join 'Get Blue' push on global water crisis. Water.org, co-founded by Matt Damon and Gary White, has launched the \"Get Blue\" global community campaign with founding partners Gap, Starbucks, Amazon, and Ecolab to address the global water crisis. The initiative encourages individuals to support safe water access through everyday actions like shopping, sharing, and donating, backing Water.org's microfinance model which aims to provide safe water to 200 million people by 2030. Various companies like Gap, Starbucks, and Amazon are offering special products, donation mechanisms, and campaigns to engage their customers in this effort.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.892825
+            "ticker_relevance_score": 0.853592
+        },
+        {
+            "source": "Fortune",
+            "date": "20260609T131013",
+            "title": "Matt Damon's new campaign calls on Gap, Starbucks, and Amazon to help give water back to the earth",
+            "summary": "Matt Damon's nonprofit Water.org has launched a new consumer-facing campaign called \"Get Blue,\" aiming to leverage corporate retail to address the global water crisis. Founding partners Gap, Starbucks, and Amazon, all significant water consumers, are integrating water philanthropy into their sales, contributing proceeds to Water.org's WaterCredit model, which provides affordable loans for water solutions in underserved communities. The campaign seeks to engage consumers in addressing water scarcity, despite not directly targeting industrial water consumption by its corporate partners, whose own water usage, particularly by data centers, is under increasing scrutiny.",
+            "text_to_analyze": "Matt Damon's new campaign calls on Gap, Starbucks, and Amazon to help give water back to the earth. Matt Damon's nonprofit Water.org has launched a new consumer-facing campaign called \"Get Blue,\" aiming to leverage corporate retail to address the global water crisis. Founding partners Gap, Starbucks, and Amazon, all significant water consumers, are integrating water philanthropy into their sales, contributing proceeds to Water.org's WaterCredit model, which provides affordable loans for water solutions in underserved communities. The campaign seeks to engage consumers in addressing water scarcity, despite not directly targeting industrial water consumption by its corporate partners, whose own water usage, particularly by data centers, is under increasing scrutiny.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.958292
         },
         {
             "source": "Insider Monkey",
@@ -54,7 +135,7 @@
             "summary": "Starbucks is experiencing encouraging growth in afternoon traffic, particularly between 3 p.m. and 5 p.m., according to CNBC. This trend indicates that CEO Brian Niccol's turnaround strategy to drive customer visits beyond the morning rush is gaining traction. The company reported $11 billion in sales generated after 11 a.m. in fiscal 2025, with Refreshers being a significant contributor, and has seen quarterly earnings top expectations and a second consecutive quarter of traffic growth.",
             "text_to_analyze": "Starbucks Sees Encouraging Growth beyond the Morning Rush, CNBC Reports. Starbucks is experiencing encouraging growth in afternoon traffic, particularly between 3 p.m. and 5 p.m., according to CNBC. This trend indicates that CEO Brian Niccol's turnaround strategy to drive customer visits beyond the morning rush is gaining traction. The company reported $11 billion in sales generated after 11 a.m. in fiscal 2025, with Refreshers being a significant contributor, and has seen quarterly earnings top expectations and a second consecutive quarter of traffic growth.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.935719
+            "ticker_relevance_score": 0.947311
         },
         {
             "source": "AD HOC NEWS",
@@ -126,7 +207,7 @@
             "summary": "Starbucks Corporation (NASDAQ:SBUX) is linking a portion of its tech workers' bonuses to AI adoption as part of its strategy to improve efficiency. This move comes as the company also focuses on revitalizing coffeehouses, enhancing customer experience, and pursuing significant cost savings through its \"Back to Starbucks\" strategy. Starbucks anticipates approximately $400 million in restructuring charges related to these initiatives.",
             "text_to_analyze": "Starbucks (SBUX) Ties Part of Tech Bonuses to AI Usage. Starbucks Corporation (NASDAQ:SBUX) is linking a portion of its tech workers' bonuses to AI adoption as part of its strategy to improve efficiency. This move comes as the company also focuses on revitalizing coffeehouses, enhancing customer experience, and pursuing significant cost savings through its \"Back to Starbucks\" strategy. Starbucks anticipates approximately $400 million in restructuring charges related to these initiatives.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.986672
+            "ticker_relevance_score": 0.996779
         },
         {
             "source": "MarketWatch",
@@ -144,7 +225,7 @@
             "summary": "This article compares Starbucks (SBUX) and Chipotle Mexican Grill (CMG) as investment options for retirement-focused investors, concluding that Starbucks is the better buy due to its visible turnaround, dividend yield, and payout history. Chipotle, despite a seemingly lower valuation, faces declining traffic and no dividend, making it more suitable for risk-tolerant growth investors. The piece highlights Starbucks' recent growth and Chipotle's struggles, advising that Starbucks offers income stability while Chipotle is a long-term growth bet.",
             "text_to_analyze": "Chipotle vs Starbucks: One Turnaround Is Real, One Is Just Smoke. This article compares Starbucks (SBUX) and Chipotle Mexican Grill (CMG) as investment options for retirement-focused investors, concluding that Starbucks is the better buy due to its visible turnaround, dividend yield, and payout history. Chipotle, despite a seemingly lower valuation, faces declining traffic and no dividend, making it more suitable for risk-tolerant growth investors. The piece highlights Starbucks' recent growth and Chipotle's struggles, advising that Starbucks offers income stability while Chipotle is a long-term growth bet.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.904452
+            "ticker_relevance_score": 0.921484
         },
         {
             "source": "MarketBeat",
@@ -162,7 +243,7 @@
             "summary": "CIBC World Market Inc. significantly increased its stake in Starbucks Corporation by 63.1% in the fourth quarter, now holding 350,441 shares valued at approximately $29.5 million. Other institutional investors like Vanguard Group Inc. and Providence Capital Advisors LLC also modified their positions. Despite a recent stock dip to $94.14, Starbucks exceeded earnings expectations with $0.50 EPS on $9.53 billion revenue, and analysts maintain a \"Moderate Buy\" rating with a target price of $107.48.",
             "text_to_analyze": "Cibc World Market Inc. Increases Holdings in Starbucks Corporation $SBUX. CIBC World Market Inc. significantly increased its stake in Starbucks Corporation by 63.1% in the fourth quarter, now holding 350,441 shares valued at approximately $29.5 million. Other institutional investors like Vanguard Group Inc. and Providence Capital Advisors LLC also modified their positions. Despite a recent stock dip to $94.14, Starbucks exceeded earnings expectations with $0.50 EPS on $9.53 billion revenue, and analysts maintain a \"Moderate Buy\" rating with a target price of $107.48.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.971694
+            "ticker_relevance_score": 0.970052
         },
         {
             "source": "WLWT",
@@ -171,7 +252,7 @@
             "summary": "A new 123,000 square-foot Kroger Marketplace is scheduled to open this Friday in West Chester Township, replacing an older store. The new location on Tylersville Road will feature amenities like a Starbucks, pharmacy drive-thru, sushi kiosk, and Murray's Cheese Shop. The grand opening will include giveaways, raffles for prizes, and appearances by local sports mascots.",
             "text_to_analyze": "New Kroger Marketplace to open Friday in West Chester Township. A new 123,000 square-foot Kroger Marketplace is scheduled to open this Friday in West Chester Township, replacing an older store. The new location on Tylersville Road will feature amenities like a Starbucks, pharmacy drive-thru, sushi kiosk, and Murray's Cheese Shop. The grand opening will include giveaways, raffles for prizes, and appearances by local sports mascots.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.63915
+            "ticker_relevance_score": 0.624397
         },
         {
             "source": "MarketWatch",
@@ -181,69 +262,6 @@
             "text_to_analyze": "Starbucks Corp. stock outperforms competitors despite losses on the day. Starbucks Corp. (SBUX) shares fell 1.83% to $94.14 on Thursday, despite a generally favorable day for the stock market, with both the S&P 500 and Dow Jones Industrial Average posting gains. The stock closed 13.54% below its 52-week high of $108.88, which it reached on May 14th. Despite the daily loss, the article title indicates an outperformance against competitors, though specific competitor data is not provided.",
             "alpha_vantage_sentiment_label": "Somewhat-Bearish",
             "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "MarketBeat",
-            "date": "20260604T084526",
-            "title": "CIBC Asset Management Inc Raises Stock Holdings in Starbucks Corporation $SBUX",
-            "summary": "CIBC Asset Management Inc. increased its stake in Starbucks Corporation (NASDAQ:SBUX) by 31.9% in the fourth quarter, adding 122,064 shares to reach a total of 504,282 shares valued at approximately $42.5 million. Institutional investors collectively own 72.29% of Starbucks stock, indicating strong interest. The company recently surpassed quarterly earnings expectations and maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $107.48.",
-            "text_to_analyze": "CIBC Asset Management Inc Raises Stock Holdings in Starbucks Corporation $SBUX. CIBC Asset Management Inc. increased its stake in Starbucks Corporation (NASDAQ:SBUX) by 31.9% in the fourth quarter, adding 122,064 shares to reach a total of 504,282 shares valued at approximately $42.5 million. Institutional investors collectively own 72.29% of Starbucks stock, indicating strong interest. The company recently surpassed quarterly earnings expectations and maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $107.48.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "MarketBeat",
-            "date": "20260604T072042",
-            "title": "Bank of New York Mellon Corp Purchases 263,903 Shares of Starbucks Corporation $SBUX",
-            "summary": "Bank of New York Mellon Corp increased its stake in Starbucks Corporation by 3.4% during the fourth quarter, purchasing an additional 263,903 shares and bringing its total holding to 8.14 million shares valued at approximately $685.3 million. Starbucks recently exceeded quarterly earnings expectations, reporting an EPS of $0.50 against an estimated $0.44 and revenue of $9.53 billion, an 8.8% year-over-year increase. Despite some insider selling, analysts generally maintain a \"Moderate Buy\" rating for Starbucks, with an average price target of $107.48.",
-            "text_to_analyze": "Bank of New York Mellon Corp Purchases 263,903 Shares of Starbucks Corporation $SBUX. Bank of New York Mellon Corp increased its stake in Starbucks Corporation by 3.4% during the fourth quarter, purchasing an additional 263,903 shares and bringing its total holding to 8.14 million shares valued at approximately $685.3 million. Starbucks recently exceeded quarterly earnings expectations, reporting an EPS of $0.50 against an estimated $0.44 and revenue of $9.53 billion, an 8.8% year-over-year increase. Despite some insider selling, analysts generally maintain a \"Moderate Buy\" rating for Starbucks, with an average price target of $107.48.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "MarketBeat",
-            "date": "20260604T070634",
-            "title": "Archvest Wealth Advisors Inc. Takes Position in Starbucks Corporation $SBUX",
-            "summary": "Archvest Wealth Advisors Inc. acquired a new position in Starbucks Corporation by purchasing 35,094 shares valued at approximately $2.96 million, making it their 13th largest holding. Institutional ownership in Starbucks remains strong, with several major investment firms increasing their stakes. The company recently exceeded quarterly earnings expectations, reporting an EPS of $0.50 on revenues of $9.53 billion, and analysts maintain a \"Moderate Buy\" rating with an average target price of $107.48.",
-            "text_to_analyze": "Archvest Wealth Advisors Inc. Takes Position in Starbucks Corporation $SBUX. Archvest Wealth Advisors Inc. acquired a new position in Starbucks Corporation by purchasing 35,094 shares valued at approximately $2.96 million, making it their 13th largest holding. Institutional ownership in Starbucks remains strong, with several major investment firms increasing their stakes. The company recently exceeded quarterly earnings expectations, reporting an EPS of $0.50 on revenues of $9.53 billion, and analysts maintain a \"Moderate Buy\" rating with an average target price of $107.48.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "ChartMill",
-            "date": "20260603T193819",
-            "title": "SBUX Stock Chart | STARBUCKS CORP (NASDAQ:SBUX)",
-            "summary": "This article provides a stock chart and essential data for STARBUCKS CORP (NASDAQ:SBUX). It includes the current stock price, after-hours trading information, and links to various financial analysis tools and educational resources on the ChartMill.com platform.",
-            "text_to_analyze": "SBUX Stock Chart | STARBUCKS CORP (NASDAQ:SBUX). This article provides a stock chart and essential data for STARBUCKS CORP (NASDAQ:SBUX). It includes the current stock price, after-hours trading information, and links to various financial analysis tools and educational resources on the ChartMill.com platform.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "AD HOC NEWS",
-            "date": "20260603T170335",
-            "title": "Starbucks Corp. stock (US8552441094): shares ease on Nasdaq as investors digest turnaround plan and Q2 earnings",
-            "summary": "Starbucks Corp. shares saw a slight decline on the Nasdaq on June 3, 2026, as investors considered the company's Q2 FY 2026 earnings, updated fiscal-year outlook, and ongoing reinvestment initiatives in the US and China. The stock traded around USD 77 after the company reported approximately USD 9.4 billion in revenue and USD 0.79 diluted EPS for the quarter ending March 29, 2026. Starbucks reiterated its full-year revenue growth and comparable-store sales guidance, while also addressing cost pressures and highlighting expansion opportunities in international markets.",
-            "text_to_analyze": "Starbucks Corp. stock (US8552441094): shares ease on Nasdaq as investors digest turnaround plan and Q2 earnings. Starbucks Corp. shares saw a slight decline on the Nasdaq on June 3, 2026, as investors considered the company's Q2 FY 2026 earnings, updated fiscal-year outlook, and ongoing reinvestment initiatives in the US and China. The stock traded around USD 77 after the company reported approximately USD 9.4 billion in revenue and USD 0.79 diluted EPS for the quarter ending March 29, 2026. Starbucks reiterated its full-year revenue growth and comparable-store sales guidance, while also addressing cost pressures and highlighting expansion opportunities in international markets.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.968342
-        },
-        {
-            "source": "Shopping Center Business",
-            "date": "20260603T164015",
-            "title": "Marcus & Millichap Brokers $10.2 Million Sale of H-Mart-Anchored Shopping Center in Northern Virginia",
-            "summary": "Marcus & Millichap has facilitated the $10.2 million sale of a 67,022-square-foot shopping center in Manassas, Virginia, anchored by H Mart. The property, built in 1981, was fully leased at the time of sale, featuring tenants like Starbucks Coffee and Domino’s Pizza. Dean Zang and David Crotts represented both the private seller and the 1031 exchange investor buyer, who had previously acquired outparcels at the center.",
-            "text_to_analyze": "Marcus & Millichap Brokers $10.2 Million Sale of H-Mart-Anchored Shopping Center in Northern Virginia. Marcus & Millichap has facilitated the $10.2 million sale of a 67,022-square-foot shopping center in Manassas, Virginia, anchored by H Mart. The property, built in 1981, was fully leased at the time of sale, featuring tenants like Starbucks Coffee and Domino’s Pizza. Dean Zang and David Crotts represented both the private seller and the 1031 exchange investor buyer, who had previously acquired outparcels at the center.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
-            "ticker_relevance_score": 0.640219
-        },
-        {
-            "source": "Northwest Arkansas Democrat-Gazette",
-            "date": "20260603T070746",
-            "title": "General Mills selling China ice-cream shops to investors",
-            "summary": "General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue retail and food service sales. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, following similar joint ventures by Starbucks and Burger King.",
-            "text_to_analyze": "General Mills selling China ice-cream shops to investors. General Mills is selling its Häagen-Dazs ice cream shops in mainland China to an investor group including Chinese tea brand Ningji. This deal grants the buyers exclusive rights to sell Häagen-Dazs in shops and gifting businesses across mainland China, while General Mills will continue retail and food service sales. The move comes as foreign businesses adjust operations in China due to stagnating consumer confidence and slowing economic growth, following similar joint ventures by Starbucks and Burger King.",
-            "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.629316
         }
     ]
 }
