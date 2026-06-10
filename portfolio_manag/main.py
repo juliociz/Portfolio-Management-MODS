@@ -5,14 +5,6 @@ sentiment FinBERT + momentum -> score global -> allocation discrète.
 
 import pandas as pd
 
-# On va chercher le fichier config
-import sys
-import os
-# Remonte de 3 niveaux pour atteindre le dossier principal (Portfolio-Management-MODS)
-root_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-if root_path not in sys.path:
-    sys.path.append(root_path)
-
 from config import INITIAL_CAPITAL, TICKERS
 from portfolio_manag.momentum.momentum import compute_momentum
 from portfolio_manag.portfolio.allocator import discrete_allocation
