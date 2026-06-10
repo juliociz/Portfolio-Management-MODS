@@ -3,139 +3,184 @@
     "company_name": "Tesla",
     "articles": [
         {
-            "source": "Yahoo Autos",
-            "date": "20260602T135148",
-            "title": "Tesla trails Waymo in Austin robotaxi rollout, new Texas data shows",
-            "summary": "New Texas data reveals that Tesla's robotaxi fleet in the state significantly lags behind Waymo's. While Tesla operates only 42 robotaxis across Austin, Dallas, and Houston, Waymo has nearly 600 vehicles, with about 300 in Austin alone. This disparity exists despite Elon Musk's ambitious projections for a widespread Tesla robotaxi service.",
-            "text_to_analyze": "Tesla trails Waymo in Austin robotaxi rollout, new Texas data shows. New Texas data reveals that Tesla's robotaxi fleet in the state significantly lags behind Waymo's. While Tesla operates only 42 robotaxis across Austin, Dallas, and Houston, Waymo has nearly 600 vehicles, with about 300 in Austin alone. This disparity exists despite Elon Musk's ambitious projections for a widespread Tesla robotaxi service.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Reuters",
-            "date": "20260602T120848",
-            "title": "Tesla extends Chinese-made EV growth as sales surge in May",
-            "summary": "Tesla's Chinese-made electric vehicle sales increased by 39.4% in May compared to the previous year, marking its seventh consecutive month of growth. Deliveries from its Shanghai plant reached 85,982 units, up 8.2% from April, as the company sustained its competitive position against Chinese rivals like BYD. Despite this, Tesla faces challenges in China regarding regulatory approval for advanced driver-assistance features, while BYD focuses on technological differentiation and has maintained strong global shipments.",
-            "text_to_analyze": "Tesla extends Chinese-made EV growth as sales surge in May. Tesla's Chinese-made electric vehicle sales increased by 39.4% in May compared to the previous year, marking its seventh consecutive month of growth. Deliveries from its Shanghai plant reached 85,982 units, up 8.2% from April, as the company sustained its competitive position against Chinese rivals like BYD. Despite this, Tesla faces challenges in China regarding regulatory approval for advanced driver-assistance features, while BYD focuses on technological differentiation and has maintained strong global shipments.",
+            "source": "Yahoo Finance",
+            "date": "20260609T172438",
+            "title": "Tesla (TSLA) Rolls Out Unsupervised Robotaxis in Austin Metro Area, Reuters Reports",
+            "summary": "Tesla (NASDAQ: TSLA) is expanding its unsupervised robotaxi service throughout the Austin Metro area, a move reported by Reuters in early June. This initiative is central to Tesla's growth strategy, which has pivoted towards AI and robotics, aiming to accelerate its autonomous ride-hailing operations. Additionally, Estonia's transport authority recently cleared Tesla's FSD driver-assistance system for use on its roads, though it remains a Level 2 system requiring driver responsibility.",
+            "text_to_analyze": "Tesla (TSLA) Rolls Out Unsupervised Robotaxis in Austin Metro Area, Reuters Reports. Tesla (NASDAQ: TSLA) is expanding its unsupervised robotaxi service throughout the Austin Metro area, a move reported by Reuters in early June. This initiative is central to Tesla's growth strategy, which has pivoted towards AI and robotics, aiming to accelerate its autonomous ride-hailing operations. Additionally, Estonia's transport authority recently cleared Tesla's FSD driver-assistance system for use on its roads, though it remains a Level 2 system requiring driver responsibility.",
             "alpha_vantage_sentiment_label": "Bullish",
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "EBC Financial Group",
-            "date": "20260602T101000",
-            "title": "Li Auto Stock Plummets to Record Lows as EV Price Wars Intensify",
-            "summary": "Li Auto (NASDAQ: LI) stock has fallen to record lows after a disappointing Q1 earnings report revealed a net loss of RMB 2.3 billion and significantly shrinking profit margins, driven by intense EV price wars and heavy spending. This downturn mirrors broader challenges in the EV market, with even Tesla seeing its stock slide. Despite these financial hurdles, Li Auto continues to report strong delivery numbers and is expanding its charging network, leaving investors to weigh its long-term potential against current market pressures.",
-            "text_to_analyze": "Li Auto Stock Plummets to Record Lows as EV Price Wars Intensify. Li Auto (NASDAQ: LI) stock has fallen to record lows after a disappointing Q1 earnings report revealed a net loss of RMB 2.3 billion and significantly shrinking profit margins, driven by intense EV price wars and heavy spending. This downturn mirrors broader challenges in the EV market, with even Tesla seeing its stock slide. Despite these financial hurdles, Li Auto continues to report strong delivery numbers and is expanding its charging network, leaving investors to weigh its long-term potential against current market pressures.",
-            "alpha_vantage_sentiment_label": "Bearish",
-            "ticker_relevance_score": 0.834922
+            "source": "Benzinga",
+            "date": "20260609T153634",
+            "title": "Yikes! Elon Musk's Robotaxi Fleet Is Smaller Than Pepsi's Doritos Truck Fleet",
+            "summary": "Despite Elon Musk's emphasis on autonomy, PepsiCo has a larger fleet of fully driverless trucks operating on public roads than Tesla's unsupervised robotaxi service, according to a recent Wall Street Journal report. PepsiCo's 41 driverless trucks, used for hauling snacks and beverages, have logged zero accidents and high on-time rates, while Tesla's robotaxi fleet is significantly smaller and faces skepticism from prediction markets regarding its future deployment. Tesla's market capitalization relies heavily on its autonomy thesis, but meaningful robotaxi fleet expansion and FSD software release are delayed.",
+            "text_to_analyze": "Yikes! Elon Musk's Robotaxi Fleet Is Smaller Than Pepsi's Doritos Truck Fleet. Despite Elon Musk's emphasis on autonomy, PepsiCo has a larger fleet of fully driverless trucks operating on public roads than Tesla's unsupervised robotaxi service, according to a recent Wall Street Journal report. PepsiCo's 41 driverless trucks, used for hauling snacks and beverages, have logged zero accidents and high on-time rates, while Tesla's robotaxi fleet is significantly smaller and faces skepticism from prediction markets regarding its future deployment. Tesla's market capitalization relies heavily on its autonomy thesis, but meaningful robotaxi fleet expansion and FSD software release are delayed.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.956919
         },
         {
-            "source": "Stocktwits",
-            "date": "20260602T043836",
-            "title": "Tesla Stock Dips On SpaceX Merger Fears — Retail Influencer Pitches Bull Case That Could Add $450B To Valuation",
-            "summary": "Tesla's stock dipped due to speculation surrounding a potential merger with SpaceX, stemming from SpaceX's amended S-1 filing indicating future equity issuance. While some analysts express concerns about dilution, a Tesla influencer posits that a 50/50 merger could significantly revalue Tesla, adding $450 billion to its market cap based on fair market values rather than current trading prices. Retail sentiment for TSLA was bearish, while SpaceX's sentiment remained bullish.",
-            "text_to_analyze": "Tesla Stock Dips On SpaceX Merger Fears — Retail Influencer Pitches Bull Case That Could Add $450B To Valuation. Tesla's stock dipped due to speculation surrounding a potential merger with SpaceX, stemming from SpaceX's amended S-1 filing indicating future equity issuance. While some analysts express concerns about dilution, a Tesla influencer posits that a 50/50 merger could significantly revalue Tesla, adding $450 billion to its market cap based on fair market values rather than current trading prices. Retail sentiment for TSLA was bearish, while SpaceX's sentiment remained bullish.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "source": "MarketBeat",
+            "date": "20260609T083834",
+            "title": "Tesla, Inc. $TSLA Shares Acquired by Focus Partners Advisor Solutions LLC",
+            "summary": "Focus Partners Advisor Solutions LLC significantly increased its stake in Tesla ($TSLA) by 10.1% in the fourth quarter, bringing its total holdings to $23.22 million. Several other institutional investors also adjusted their positions in the electric vehicle producer. The article also highlights recent positive and neutral news surrounding Tesla, including analyst ratings, price targets, and insider trading activities.",
+            "text_to_analyze": "Tesla, Inc. $TSLA Shares Acquired by Focus Partners Advisor Solutions LLC. Focus Partners Advisor Solutions LLC significantly increased its stake in Tesla ($TSLA) by 10.1% in the fourth quarter, bringing its total holdings to $23.22 million. Several other institutional investors also adjusted their positions in the electric vehicle producer. The article also highlights recent positive and neutral news surrounding Tesla, including analyst ratings, price targets, and insider trading activities.",
+            "alpha_vantage_sentiment_label": "Bullish",
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "富途牛牛",
-            "date": "20260602T034007",
-            "title": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On June 1st, 141.59K Contracts Were Traded, With 994.75K Open Interest",
-            "summary": "This article provides details on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) on June 1st. It highlights that 141.59K contracts were traded and the open interest stood at 994.75K, indicating significant investor engagement with this leveraged ETF.",
-            "text_to_analyze": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On June 1st, 141.59K Contracts Were Traded, With 994.75K Open Interest. This article provides details on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) on June 1st. It highlights that 141.59K contracts were traded and the open interest stood at 994.75K, indicating significant investor engagement with this leveraged ETF.",
+            "source": "MarketBeat",
+            "date": "20260609T081750",
+            "title": "Erste Asset Management GmbH Buys 26,829 Shares of Tesla, Inc. $TSLA",
+            "summary": "Erste Asset Management GmbH significantly increased its stake in Tesla, Inc. by 205.5% in the fourth quarter, acquiring an additional 26,829 shares to hold a total of 39,883 shares valued at $18.3 million. This comes amidst other institutional investors also adjusting their positions in the electric vehicle producer. Various analysts have issued updated ratings and price objectives for Tesla, reflecting a mixed sentiment with positive notes on its \"physical AI\" potential and improving China sales, alongside concerns about its elevated valuation.",
+            "text_to_analyze": "Erste Asset Management GmbH Buys 26,829 Shares of Tesla, Inc. $TSLA. Erste Asset Management GmbH significantly increased its stake in Tesla, Inc. by 205.5% in the fourth quarter, acquiring an additional 26,829 shares to hold a total of 39,883 shares valued at $18.3 million. This comes amidst other institutional investors also adjusting their positions in the electric vehicle producer. Various analysts have issued updated ratings and price objectives for Tesla, reflecting a mixed sentiment with positive notes on its \"physical AI\" potential and improving China sales, alongside concerns about its elevated valuation.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260609T073859",
+            "title": "Can Lemonade’s Indiana Tesla Discount Reveal the Real Scale of Its AI Edge (LMND)?",
+            "summary": "Lemonade, Inc. has introduced an Autonomous Car insurance discount for Tesla owners in Indiana, offering 50% off miles driven using Full Self-Driving (Supervised). This move underscores Lemonade's AI-driven pricing and product strategy, which is critical for its long-term profitability. Investors are watching to see if this and other product rollouts contribute to improved loss ratios, capital discipline, and ultimately, a path to better earnings amidst ongoing losses and regulatory risks.",
+            "text_to_analyze": "Can Lemonade’s Indiana Tesla Discount Reveal the Real Scale of Its AI Edge (LMND)?. Lemonade, Inc. has introduced an Autonomous Car insurance discount for Tesla owners in Indiana, offering 50% off miles driven using Full Self-Driving (Supervised). This move underscores Lemonade's AI-driven pricing and product strategy, which is critical for its long-term profitability. Investors are watching to see if this and other product rollouts contribute to improved loss ratios, capital discipline, and ultimately, a path to better earnings amidst ongoing losses and regulatory risks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.607315
+        },
+        {
+            "source": "Capital.com",
+            "date": "20260609T073851",
+            "title": "Tesla Stock Forecast | SpaceX Listing, Q1 Results",
+            "summary": "Tesla's stock performance and future outlook are influenced by several factors, including the upcoming SpaceX IPO, Tesla's Q1 2026 results which showed negative free cash flow due to increased AI and robotaxi infrastructure spending, and varying analyst price targets. Analysts are split on whether the SpaceX listing will benefit or detract from Tesla's capital flows, while the company's shift towards AI, autonomous driving, and robotics continues to be a key focus for investors and analysts. Despite a recent recovery, the stock remains below its December 2025 all-time high, with consensus price targets ranging from $404.37 to $419.94.",
+            "text_to_analyze": "Tesla Stock Forecast | SpaceX Listing, Q1 Results. Tesla's stock performance and future outlook are influenced by several factors, including the upcoming SpaceX IPO, Tesla's Q1 2026 results which showed negative free cash flow due to increased AI and robotaxi infrastructure spending, and varying analyst price targets. Analysts are split on whether the SpaceX listing will benefit or detract from Tesla's capital flows, while the company's shift towards AI, autonomous driving, and robotics continues to be a key focus for investors and analysts. Despite a recent recovery, the stock remains below its December 2025 all-time high, with consensus price targets ranging from $404.37 to $419.94.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260609T000836",
+            "title": "TSLA Stock: Cathie Wood Slaps $75 Robotaxi Ticket Into ARK’s Bull Case",
+            "summary": "Cathie Wood of ARK Invest experienced an unsupervised Tesla Robotaxi ride in Austin, during which the vehicle received a $75 parking ticket. This incident led her to add a new line item for tickets to ARK's Tesla valuation model, though she maintains a bullish stance on Tesla's robotaxi potential, projecting it to drive a significant portion of the company's enterprise value. Despite ARK's optimism, Tesla's Full Self-Driving (FSD) system faces ongoing investigation by the NHTSA for safety concerns and has been linked to several reportable incidents involving its Austin robotaxi fleet.",
+            "text_to_analyze": "TSLA Stock: Cathie Wood Slaps $75 Robotaxi Ticket Into ARK’s Bull Case. Cathie Wood of ARK Invest experienced an unsupervised Tesla Robotaxi ride in Austin, during which the vehicle received a $75 parking ticket. This incident led her to add a new line item for tickets to ARK's Tesla valuation model, though she maintains a bullish stance on Tesla's robotaxi potential, projecting it to drive a significant portion of the company's enterprise value. Despite ARK's optimism, Tesla's Full Self-Driving (FSD) system faces ongoing investigation by the NHTSA for safety concerns and has been linked to several reportable incidents involving its Austin robotaxi fleet.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barchart.com",
+            "date": "20260608T193842",
+            "title": "JPMorgan Just Dramatically Reversed Course on Tesla Because TSLA Stock Has Massive Physical AI Potential",
+            "summary": "JPMorgan, a long-time skeptic of Tesla, has dramatically upgraded TSLA stock to \"Neutral\" from \"Underweight\" and increased its price target to $475 from $145. This reversal is primarily due to Tesla's leading position in \"physical AI,\" encompassing self-driving cars, factory robots, and the Optimus humanoid robot. The bank highlights Tesla's manufacturing scale, vertical integration, and rapid technology development as unmatched strengths, although it acknowledges that near-term valuations are still high and significant returns are expected later in the decade.",
+            "text_to_analyze": "JPMorgan Just Dramatically Reversed Course on Tesla Because TSLA Stock Has Massive Physical AI Potential. JPMorgan, a long-time skeptic of Tesla, has dramatically upgraded TSLA stock to \"Neutral\" from \"Underweight\" and increased its price target to $475 from $145. This reversal is primarily due to Tesla's leading position in \"physical AI,\" encompassing self-driving cars, factory robots, and the Optimus humanoid robot. The bank highlights Tesla's manufacturing scale, vertical integration, and rapid technology development as unmatched strengths, although it acknowledges that near-term valuations are still high and significant returns are expected later in the decade.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260608T161500",
+            "title": "ASML Holding NV Stock (ASML) Moved Up by 7.15% on Jun 8: Key Drivers Unveiled",
+            "summary": "ASML Holding NV (ASML) stock surged 7.15% on June 8, driven by Elon Musk's endorsement and positive analyst revisions. Musk's mention of ASML as \"arguably the greatest company in Europe\" and its essential role in SpaceX and Tesla's Terafab project, which will rely on ASML's EUV lithography technology, significantly boosted market sentiment. Additionally, leading firms like BofA, JPMorgan, and Morgan Stanley raised price targets, maintaining \"Buy\" or \"Overweight\" recommendations, reflecting confidence in ASML's future prospects, strong Q1 2026 results, and increased 2026 revenue outlook due to high AI-driven demand.",
+            "text_to_analyze": "ASML Holding NV Stock (ASML) Moved Up by 7.15% on Jun 8: Key Drivers Unveiled. ASML Holding NV (ASML) stock surged 7.15% on June 8, driven by Elon Musk's endorsement and positive analyst revisions. Musk's mention of ASML as \"arguably the greatest company in Europe\" and its essential role in SpaceX and Tesla's Terafab project, which will rely on ASML's EUV lithography technology, significantly boosted market sentiment. Additionally, leading firms like BofA, JPMorgan, and Morgan Stanley raised price targets, maintaining \"Buy\" or \"Overweight\" recommendations, reflecting confidence in ASML's future prospects, strong Q1 2026 results, and increased 2026 revenue outlook due to high AI-driven demand.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.603809
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260608T153835",
+            "title": "Tesla Inc Stock (TSLA) Moved Up by 3.38% on Jun 8: Drivers Behind the Movement",
+            "summary": "Tesla Inc. (TSLA) stock rose by 3.38% on June 8, driven by advances in autonomous driving, an analyst upgrade from JPMorgan, and improved market share. The company began rolling out its robotaxi service in Austin, expanded its Full Self-Driving software, and reclaimed the top spot in the global EV market share for Q1 2026. However, concerns about Cybertruck demand, intense competition, and high valuation persist.",
+            "text_to_analyze": "Tesla Inc Stock (TSLA) Moved Up by 3.38% on Jun 8: Drivers Behind the Movement. Tesla Inc. (TSLA) stock rose by 3.38% on June 8, driven by advances in autonomous driving, an analyst upgrade from JPMorgan, and improved market share. The company began rolling out its robotaxi service in Austin, expanded its Full Self-Driving software, and reclaimed the top spot in the global EV market share for Q1 2026. However, concerns about Cybertruck demand, intense competition, and high valuation persist.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260608T140746",
+            "title": "Google reportedly orders 3 million AI chips from Intel for 2028 production",
+            "summary": "Google has reportedly placed an order for over three million tensor processing units from Intel, intended for production in 2028. This move comes as Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. Intel's shares saw a significant rise following this news, and Tesla CEO Elon Musk previously stated plans to use Intel's 14A manufacturing process for his Terafab project.",
+            "text_to_analyze": "Google reportedly orders 3 million AI chips from Intel for 2028 production. Google has reportedly placed an order for over three million tensor processing units from Intel, intended for production in 2028. This move comes as Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. Intel's shares saw a significant rise following this news, and Tesla CEO Elon Musk previously stated plans to use Intel's 14A manufacturing process for his Terafab project.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.587528
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260608T100836",
+            "title": "Manchester Capital Management LLC Has $8.30 Million Stock Holdings in Tesla, Inc. $TSLA",
+            "summary": "Manchester Capital Management LLC significantly increased its stake in Tesla, Inc. by 52.6% in the fourth quarter, bringing its total holdings to 18,449 shares valued at $8.30 million. This investment now represents 1.1% of the firm's portfolio. Despite notable insider selling and a consensus \"Hold\" rating from Wall Street, analysts are considering Tesla's potential in AI, robotics, and robotaxis as long-term growth drivers.",
+            "text_to_analyze": "Manchester Capital Management LLC Has $8.30 Million Stock Holdings in Tesla, Inc. $TSLA. Manchester Capital Management LLC significantly increased its stake in Tesla, Inc. by 52.6% in the fourth quarter, bringing its total holdings to 18,449 shares valued at $8.30 million. This investment now represents 1.1% of the firm's portfolio. Despite notable insider selling and a consensus \"Hold\" rating from Wall Street, analysts are considering Tesla's potential in AI, robotics, and robotaxis as long-term growth drivers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260608T081200",
+            "title": "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports",
+            "summary": "Alphabet's Google has reportedly placed an order with Intel to manufacture over three million tensor processing units by 2028. Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. This news indicates a potential turnaround for Intel in chip manufacturing, with Tesla CEO Elon Musk also previously mentioning plans to use Intel's 14A manufacturing process for his company's AI chip complex.",
+            "text_to_analyze": "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports. Alphabet's Google has reportedly placed an order with Intel to manufacture over three million tensor processing units by 2028. Nvidia is also evaluating Intel's technology for a processor combining four graphics chips. This news indicates a potential turnaround for Intel in chip manufacturing, with Tesla CEO Elon Musk also previously mentioning plans to use Intel's 14A manufacturing process for his company's AI chip complex.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.64571
+        },
+        {
+            "source": "AUTO Connected Car News",
+            "date": "20260607T183943",
+            "title": "Autonomous & Self-Driving Vehicle News: WeRide, Uber, Zoox, Volvo Nuro, Lucid & Tesla.",
+            "summary": "This article provides updates on various autonomous and self-driving vehicle initiatives involving companies like WeRide, Uber, Zoox, Volvo Autonomous Solutions, Nuro, Lucid, and Tesla. Key developments include WeRide and Uber launching a robotaxi pilot in Madrid, Lockton and Nexar's new framework for AV risk assessment, and Uber's significant investment in Nuro for an autonomous Lucid vehicle fleet. Tesla is also highlighted for facing legal challenges regarding retroactive modifications to FSD purchase agreements.",
+            "text_to_analyze": "Autonomous & Self-Driving Vehicle News: WeRide, Uber, Zoox, Volvo Nuro, Lucid & Tesla.. This article provides updates on various autonomous and self-driving vehicle initiatives involving companies like WeRide, Uber, Zoox, Volvo Autonomous Solutions, Nuro, Lucid, and Tesla. Key developments include WeRide and Uber launching a robotaxi pilot in Madrid, Lockton and Nexar's new framework for AV risk assessment, and Uber's significant investment in Nuro for an autonomous Lucid vehicle fleet. Tesla is also highlighted for facing legal challenges regarding retroactive modifications to FSD purchase agreements.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.708025
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260607T133850",
+            "title": "Weekend Round-Up: Foxconn's Rival, BYD's Sales Surge And Tesla's Potential Win In Canada",
+            "summary": "This article summarizes a busy week in the EV industry, highlighting Foxconn's new Cavira EV challenging Tesla's Model Y with greater range and interior space. It also covers BYD's surge in overseas sales, breaking a slump, and discusses Tesla's potential benefits from a Canada-China EV deal that could bring more Chinese-made EVs to Canada.",
+            "text_to_analyze": "Weekend Round-Up: Foxconn's Rival, BYD's Sales Surge And Tesla's Potential Win In Canada. This article summarizes a busy week in the EV industry, highlighting Foxconn's new Cavira EV challenging Tesla's Model Y with greater range and interior space. It also covers BYD's surge in overseas sales, breaking a slump, and discusses Tesla's potential benefits from a Canada-China EV deal that could bring more Chinese-made EVs to Canada.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.999148
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260607T113832",
+            "title": "WINTON GROUP Ltd Acquires New Stake in Tesla, Inc. $TSLA",
+            "summary": "WINTON GROUP Ltd has acquired a new stake in Tesla, Inc. by purchasing 11,934 shares valued at approximately $5.37 million in the fourth quarter. This move highlights continuing heavy institutional interest in Tesla, with 66.2% of the stock now held by institutional investors and hedge funds, despite some insider selling and a split consensus among analysts who currently rate the stock as \"Hold\" with an average target price of $404.37.",
+            "text_to_analyze": "WINTON GROUP Ltd Acquires New Stake in Tesla, Inc. $TSLA. WINTON GROUP Ltd has acquired a new stake in Tesla, Inc. by purchasing 11,934 shares valued at approximately $5.37 million in the fourth quarter. This move highlights continuing heavy institutional interest in Tesla, with 66.2% of the stock now held by institutional investors and hedge funds, despite some insider selling and a split consensus among analysts who currently rate the stock as \"Hold\" with an average target price of $404.37.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Not a Tesla App",
+            "date": "20260607T100906",
+            "title": "2026.8.300 Official Tesla Release Notes - Software Updates",
+            "summary": "Tesla has released update 2026.8.300, which includes several new features and improvements. Key updates include Dashcam Viewer improvements, visibility of the selected driver profile in the Tesla app, support for the Slovak language, and various enhancements to Service Mode. The update is currently rolling out to a small percentage of the fleet.",
+            "text_to_analyze": "2026.8.300 Official Tesla Release Notes - Software Updates. Tesla has released update 2026.8.300, which includes several new features and improvements. Key updates include Dashcam Viewer improvements, visibility of the selected driver profile in the Tesla app, support for the Slovak language, and various enhancements to Service Mode. The update is currently rolling out to a small percentage of the fleet.",
             "alpha_vantage_sentiment_label": "Neutral",
             "ticker_relevance_score": 1.0
         },
         {
             "source": "MSN",
-            "date": "20260601T221009",
-            "title": "Roundhill TSLA WeeklyPay ETF announces weekly distribution of $0.2454",
-            "summary": "The Roundhill TSLA WeeklyPay ETF has declared a weekly distribution of $0.2454 per share. This announcement provides investors with information regarding the upcoming payout from the ETF.",
-            "text_to_analyze": "Roundhill TSLA WeeklyPay ETF announces weekly distribution of $0.2454. The Roundhill TSLA WeeklyPay ETF has declared a weekly distribution of $0.2454 per share. This announcement provides investors with information regarding the upcoming payout from the ETF.",
+            "date": "20260606T224001",
+            "title": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.2291",
+            "summary": "GraniteShares YieldBOOST TSLA ETF (NYSE Arca: HTSL) has announced a weekly distribution of $0.2291 per share for its shareholders. The distribution will be paid on June 10, 2024, to shareholders of record as of June 7, 2024, with an ex-dividend date of June 7, 2024. This announcement provides key dates and the distribution amount for investors in HTSL.",
+            "text_to_analyze": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.2291. GraniteShares YieldBOOST TSLA ETF (NYSE Arca: HTSL) has announced a weekly distribution of $0.2291 per share for its shareholders. The distribution will be paid on June 10, 2024, to shareholders of record as of June 7, 2024, with an ex-dividend date of June 7, 2024. This announcement provides key dates and the distribution amount for investors in HTSL.",
             "alpha_vantage_sentiment_label": "Somewhat-Bullish",
             "ticker_relevance_score": 1.0
         },
         {
-            "source": "Seeking Alpha",
-            "date": "20260601T210849",
-            "title": "Houston, We Have A Problem: SpaceX, Tesla, And The xAI Bailout Nobody Voted On (SPCX)",
-            "summary": "SpaceX is pursuing a $1.75 trillion IPO after absorbing Elon Musk's xAI, which was experiencing significant financial losses and declining app usage, without shareholder approval. The combined entity reports a substantial GAAP loss on its revenue, with xAI contributing significantly to the cash burn. This move, along with potential future merger risks for Tesla shareholders, raises concerns about the IPO's valuation and underlying financial health.",
-            "text_to_analyze": "Houston, We Have A Problem: SpaceX, Tesla, And The xAI Bailout Nobody Voted On (SPCX). SpaceX is pursuing a $1.75 trillion IPO after absorbing Elon Musk's xAI, which was experiencing significant financial losses and declining app usage, without shareholder approval. The combined entity reports a substantial GAAP loss on its revenue, with xAI contributing significantly to the cash burn. This move, along with potential future merger risks for Tesla shareholders, raises concerns about the IPO's valuation and underlying financial health.",
-            "alpha_vantage_sentiment_label": "Bearish",
-            "ticker_relevance_score": 0.97343
-        },
-        {
-            "source": "TradingView",
-            "date": "20260601T183914",
-            "title": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader",
-            "summary": "A former Lehman Brothers trader, Larry McDonald, warns that the hype surrounding SpaceX's potential IPO, and the broader AI-driven market, mirrors the dot-com bubble of 2000, comparing it to Amazon's overvaluation before its 90% collapse. McDonald is concerned about \"astronomically unrealistic\" valuations and the risk to passive investors and retirement funds due to rapid index inclusion of these new \"AI giants.\" He argues for caution, pointing out that a combined valuation of SpaceX, OpenAI, and Anthropic has tripled in a year, which he deems \"pure madness,\" urging investors to be aware of the potential for a \"deathly overdose\" for 401(k)s.",
-            "text_to_analyze": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader. A former Lehman Brothers trader, Larry McDonald, warns that the hype surrounding SpaceX's potential IPO, and the broader AI-driven market, mirrors the dot-com bubble of 2000, comparing it to Amazon's overvaluation before its 90% collapse. McDonald is concerned about \"astronomically unrealistic\" valuations and the risk to passive investors and retirement funds due to rapid index inclusion of these new \"AI giants.\" He argues for caution, pointing out that a combined valuation of SpaceX, OpenAI, and Anthropic has tripled in a year, which he deems \"pure madness,\" urging investors to be aware of the potential for a \"deathly overdose\" for 401(k)s.",
-            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Reuters",
-            "date": "20260601T161400",
-            "title": "Tesla sales in Portugal more than quadruple in May",
-            "summary": "Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This growth significantly outpaced the overall 56.1% rise in fully-electric car sales in the country. For the January-May period, Tesla sales increased by 58.4% to 4,392 vehicles, showcasing stronger growth than the 33% increase in all electric car sales.",
-            "text_to_analyze": "Tesla sales in Portugal more than quadruple in May. Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This growth significantly outpaced the overall 56.1% rise in fully-electric car sales in the country. For the January-May period, Tesla sales increased by 58.4% to 4,392 vehicles, showcasing stronger growth than the 33% increase in all electric car sales.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Yahoo Finance UK",
-            "date": "20260601T161300",
-            "title": "Tesla sales in Portugal more than quadruple in May",
-            "summary": "Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This increase outpaced the overall 56.1% rise in sales of fully-electric light passenger vehicles, which totaled 6,988 units for the month. For the January-May period, Tesla sales grew 58.4% to 4,392 vehicles, exceeding the 33% increase in all electric car sales.",
-            "text_to_analyze": "Tesla sales in Portugal more than quadruple in May. Tesla's new car registrations in Portugal surged by nearly 350% in May compared to the previous year, reaching 1,463 units. This increase outpaced the overall 56.1% rise in sales of fully-electric light passenger vehicles, which totaled 6,988 units for the month. For the January-May period, Tesla sales grew 58.4% to 4,392 vehicles, exceeding the 33% increase in all electric car sales.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "TradingView",
-            "date": "20260601T150846",
-            "title": "Why Tesla stock is sinking over 4% today",
-            "summary": "Tesla (TSLA) shares dropped over 4% today due to investor concerns about new competitive threats from OpenAI's advanced robotics ambitions, which could challenge Elon Musk's vision for humanoid robots. Despite this, analysts like Cantor Fitzgerald reiterated an Overweight rating on Tesla, highlighting the company's progress in developing manufacturing infrastructure for its Optimus robot. Additionally, Tesla's core automotive business showed encouraging recovery in European sales, with significant registration increases in several markets.",
-            "text_to_analyze": "Why Tesla stock is sinking over 4% today. Tesla (TSLA) shares dropped over 4% today due to investor concerns about new competitive threats from OpenAI's advanced robotics ambitions, which could challenge Elon Musk's vision for humanoid robots. Despite this, analysts like Cantor Fitzgerald reiterated an Overweight rating on Tesla, highlighting the company's progress in developing manufacturing infrastructure for its Optimus robot. Additionally, Tesla's core automotive business showed encouraging recovery in European sales, with significant registration increases in several markets.",
+            "source": "Capital.com",
+            "date": "20260606T173915",
+            "title": "Hyperliquid Strategies Inc (PURR) Stock Price Quote Today & Current Price Chart",
+            "summary": "This page provides current trading information and key statistics for Hyperliquid Strategies Inc (PURR) stock, which is available for CFD trading on Capital.com. It details CFD trading conditions, including spreads, overnight funding adjustments, margin requirements, and commission, alongside recent stock performance data. The article also includes links to recent news and forecasts for other notable companies like NVIDIA, Eni, RENK, and Tesla.",
+            "text_to_analyze": "Hyperliquid Strategies Inc (PURR) Stock Price Quote Today & Current Price Chart. This page provides current trading information and key statistics for Hyperliquid Strategies Inc (PURR) stock, which is available for CFD trading on Capital.com. It details CFD trading conditions, including spreads, overnight funding adjustments, margin requirements, and commission, alongside recent stock performance data. The article also includes links to recent news and forecasts for other notable companies like NVIDIA, Eni, RENK, and Tesla.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 1.0
+            "ticker_relevance_score": 0.618301
         },
         {
-            "source": "The Detroit News",
-            "date": "20260601T132831",
-            "title": "Tesla registrations up in several European markets as recovery builds",
-            "summary": "New registrations of Tesla Inc. cars increased across several European markets in May, signaling a continued recovery in the company's regional sales, with significant growth in Sweden, Denmark, Spain, Norway, and France. This surge is attributed to the overall growth of the electric car market, favorable policies, and higher fuel costs, despite Tesla's eroding market share due to increased competition and lack of new models.",
-            "text_to_analyze": "Tesla registrations up in several European markets as recovery builds. New registrations of Tesla Inc. cars increased across several European markets in May, signaling a continued recovery in the company's regional sales, with significant growth in Sweden, Denmark, Spain, Norway, and France. This surge is attributed to the overall growth of the electric car market, favorable policies, and higher fuel costs, despite Tesla's eroding market share due to increased competition and lack of new models.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Reuters",
-            "date": "20260601T130841",
-            "title": "Tesla May registrations jump in several European markets as recovery continues",
-            "summary": "Tesla's new car registrations surged in several European markets in May, signaling a continued recovery in the company's regional sales, with increases ranging from 29% in Norway to 655% in France. This growth is occurring despite Tesla's eroding market share as the overall battery electric vehicle market expands, boosted by policy support and escalating fuel costs. Britain and Germany are anticipated to release their registration figures later this week, while Tesla lost nearly half of its European market share in 2025 due to competition and a lack of new models.",
-            "text_to_analyze": "Tesla May registrations jump in several European markets as recovery continues. Tesla's new car registrations surged in several European markets in May, signaling a continued recovery in the company's regional sales, with increases ranging from 29% in Norway to 655% in France. This growth is occurring despite Tesla's eroding market share as the overall battery electric vehicle market expands, boosted by policy support and escalating fuel costs. Britain and Germany are anticipated to release their registration figures later this week, while Tesla lost nearly half of its European market share in 2025 due to competition and a lack of new models.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Reuters",
-            "date": "20260601T111200",
-            "title": "New Tesla sales in Spain more than double year-on-year in May",
-            "summary": "New Tesla car sales in Spain more than doubled in May, increasing by 112.8% year-on-year to 1,690 vehicles. For the first five months of the year, Tesla sales rose by 43.8%, contributing to an overall 43.6% growth in electrified vehicle sales in Spain, which includes both fully-electric and hybrid models.",
-            "text_to_analyze": "New Tesla sales in Spain more than double year-on-year in May. New Tesla car sales in Spain more than doubled in May, increasing by 112.8% year-on-year to 1,690 vehicles. For the first five months of the year, Tesla sales rose by 43.8%, contributing to an overall 43.6% growth in electrified vehicle sales in Spain, which includes both fully-electric and hybrid models.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 1.0
-        },
-        {
-            "source": "Yahoo Finance UK",
-            "date": "20260601T070900",
-            "title": "Tesla registrations in Sweden rise 71% year-on-year in May",
-            "summary": "Tesla registrations in Sweden increased by 71% in May compared to the same period last year, reaching 858 vehicles. This data, reported by Mobility Sweden, highlights significant growth for the electric vehicle manufacturer in the Swedish market.",
-            "text_to_analyze": "Tesla registrations in Sweden rise 71% year-on-year in May. Tesla registrations in Sweden increased by 71% in May compared to the same period last year, reaching 858 vehicles. This data, reported by Mobility Sweden, highlights significant growth for the electric vehicle manufacturer in the Swedish market.",
-            "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 1.0
+            "source": "Investing.com",
+            "date": "20260606T154036",
+            "title": "Elon Musk to attend ASML tech conference to talk Terafab - Bloomberg",
+            "summary": "Elon Musk will virtually attend a closed-door technology conference hosted by ASML Holding NV to discuss his Terafab project. Terafab, a joint venture between SpaceX and Tesla, aims to produce cutting-edge chips for AI, robotics, and space data centers, with plans to build a $55 billion chip factory in the U.S. ASML, a crucial supplier for advanced chip manufacturing, considers Terafab a serious endeavor, recognizing Musk's ambition to significantly expand semiconductor production capacity beyond current industry limits.",
+            "text_to_analyze": "Elon Musk to attend ASML tech conference to talk Terafab - Bloomberg. Elon Musk will virtually attend a closed-door technology conference hosted by ASML Holding NV to discuss his Terafab project. Terafab, a joint venture between SpaceX and Tesla, aims to produce cutting-edge chips for AI, robotics, and space data centers, with plans to build a $55 billion chip factory in the U.S. ASML, a crucial supplier for advanced chip manufacturing, considers Terafab a serious endeavor, recognizing Musk's ambition to significantly expand semiconductor production capacity beyond current industry limits.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.847591
         }
     ]
 }

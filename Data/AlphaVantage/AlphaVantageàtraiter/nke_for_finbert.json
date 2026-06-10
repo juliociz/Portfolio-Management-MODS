@@ -3,13 +3,58 @@
     "company_name": "Nike",
     "articles": [
         {
+            "source": "Moomoo",
+            "date": "20260609T145948",
+            "title": "Dow Up 162 Points On Gains For Shares Of Home Depot, Nike",
+            "summary": "The Dow Jones Industrial Average rose by 162 points, driven by significant gains in the shares of Home Depot and Nike. This positive movement indicates a strong performance for these key components of the index.",
+            "text_to_analyze": "Dow Up 162 Points On Gains For Shares Of Home Depot, Nike. The Dow Jones Industrial Average rose by 162 points, driven by significant gains in the shares of Home Depot and Nike. This positive movement indicates a strong performance for these key components of the index.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.940443
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260609T101710",
+            "title": "Franklin Resources Inc. Has $551.19 Million Stock Position in NIKE, Inc. $NKE",
+            "summary": "Franklin Resources Inc. recently reported a $551.19 million stock position in NIKE, Inc., having slightly trimmed its stake in the fourth quarter while still holding 8.65 million shares. NIKE's recent earnings beat estimates, with a revenue of $11.28 billion and a declared quarterly dividend of $0.41 per share. Despite some insider buying and positive sentiment regarding its footwear business and World Cup strategy, analysts maintain a mixed outlook, with a consensus \"Hold\" rating and an average price target of $62.04 for the stock.",
+            "text_to_analyze": "Franklin Resources Inc. Has $551.19 Million Stock Position in NIKE, Inc. $NKE. Franklin Resources Inc. recently reported a $551.19 million stock position in NIKE, Inc., having slightly trimmed its stake in the fourth quarter while still holding 8.65 million shares. NIKE's recent earnings beat estimates, with a revenue of $11.28 billion and a declared quarterly dividend of $0.41 per share. Despite some insider buying and positive sentiment regarding its footwear business and World Cup strategy, analysts maintain a mixed outlook, with a consensus \"Hold\" rating and an average price target of $62.04 for the stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260608T094027",
+            "title": "ING Groep NV Has $9.40 Million Stake in NIKE, Inc. $NKE",
+            "summary": "ING Groep NV significantly reduced its stake in NIKE, Inc. by 51.8% in the fourth quarter, now holding 147,568 shares valued at approximately $9.4 million. Despite institutional selling, NIKE saw insider buying from Director Timothy D. Cook and CEO Elliott Hill. Analyst sentiment for NIKE remains cautious, with a \"Hold\" consensus rating and an average target price of $62.04, reflecting mixed views on the company's future performance.",
+            "text_to_analyze": "ING Groep NV Has $9.40 Million Stake in NIKE, Inc. $NKE. ING Groep NV significantly reduced its stake in NIKE, Inc. by 51.8% in the fourth quarter, now holding 147,568 shares valued at approximately $9.4 million. Despite institutional selling, NIKE saw insider buying from Director Timothy D. Cook and CEO Elliott Hill. Analyst sentiment for NIKE remains cautious, with a \"Hold\" consensus rating and an average target price of $62.04, reflecting mixed views on the company's future performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260606T173807",
+            "title": "NIKE, Inc. Class B",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. (NKE), discussing bearish and bullish perspectives, potential catalysts, and key risks. Several contributors highlight Nike's struggles with weak demand in China, margin pressures, and past strategic missteps like the DTC pivot, leading some to project a significant downside in stock value. Conversely, others identify potential for recovery driven by internal restructuring, strong North American demand, and the possibility of tariff removal creating a \"tailwind\" for earnings, with some bullish scenarios targeting substantial upside.",
+            "text_to_analyze": "NIKE, Inc. Class B. This article compiles various trading ideas and analyses for NIKE, Inc. (NKE), discussing bearish and bullish perspectives, potential catalysts, and key risks. Several contributors highlight Nike's struggles with weak demand in China, margin pressures, and past strategic missteps like the DTC pivot, leading some to project a significant downside in stock value. Conversely, others identify potential for recovery driven by internal restructuring, strong North American demand, and the possibility of tariff removal creating a \"tailwind\" for earnings, with some bullish scenarios targeting substantial upside.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260605T213811",
+            "title": "Did NIKE, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+            "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether officers and directors of NIKE, Inc. (NYSE: NKE) breached their fiduciary duties to shareholders. The firm encourages NIKE long-term shareholders to contact them to learn about legal options, including seeking corporate governance reforms or financial incentives. Halper Sadeh LLC emphasizes that shareholder involvement can improve company policies and increase shareholder value.",
+            "text_to_analyze": "Did NIKE, Inc. Insiders Breach their Fiduciary Duties to Shareholders?. Halper Sadeh LLC, an investor rights law firm, is investigating whether officers and directors of NIKE, Inc. (NYSE: NKE) breached their fiduciary duties to shareholders. The firm encourages NIKE long-term shareholders to contact them to learn about legal options, including seeking corporate governance reforms or financial incentives. Halper Sadeh LLC emphasizes that shareholder involvement can improve company policies and increase shareholder value.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
             "source": "MarketBeat",
             "date": "20260603T090944",
             "title": "NIKE, Inc. $NKE Position Increased by Central Securities Corp",
             "summary": "Central Securities Corp increased its stake in NIKE, Inc. by 11.1% in the fourth quarter, bringing its total holding to 500,000 shares valued at approximately $31.9 million. Several other institutional investors also increased their positions, with institutions now owning 64.25% of the company's stock. Despite beating earnings estimates with an EPS of $0.35, NIKE shares were down 4.8% to $43.72, and analysts currently rate the stock as a \"Hold\" with an average price target of $62.04.",
             "text_to_analyze": "NIKE, Inc. $NKE Position Increased by Central Securities Corp. Central Securities Corp increased its stake in NIKE, Inc. by 11.1% in the fourth quarter, bringing its total holding to 500,000 shares valued at approximately $31.9 million. Several other institutional investors also increased their positions, with institutions now owning 64.25% of the company's stock. Despite beating earnings estimates with an EPS of $0.35, NIKE shares were down 4.8% to $43.72, and analysts currently rate the stock as a \"Hold\" with an average price target of $62.04.",
             "alpha_vantage_sentiment_label": "Neutral",
-            "ticker_relevance_score": 0.98655
+            "ticker_relevance_score": 0.999334
         },
         {
             "source": "TradingView",
@@ -27,7 +72,16 @@
             "summary": "This article highlights three \"rebound\" stocks—Globant (GLOB), PayPal (PYPL), and Nike (NKE)—that have experienced significant declines but are now showing signs of potential recovery. Each company possesses strong brand recognition and is undergoing strategic changes or benefiting from shifts in market sentiment, making them attractive to investors looking for undervalued assets with bounce-back potential. The author emphasizes that while these companies face risks, their competitive advantages in large global markets could lead to substantial gains as economic conditions stabilize.",
             "text_to_analyze": "3 Beaten-Down Stocks Primed For A Major Bounceback. This article highlights three \"rebound\" stocks—Globant (GLOB), PayPal (PYPL), and Nike (NKE)—that have experienced significant declines but are now showing signs of potential recovery. Each company possesses strong brand recognition and is undergoing strategic changes or benefiting from shifts in market sentiment, making them attractive to investors looking for undervalued assets with bounce-back potential. The author emphasizes that while these companies face risks, their competitive advantages in large global markets could lead to substantial gains as economic conditions stabilize.",
             "alpha_vantage_sentiment_label": "Bullish",
-            "ticker_relevance_score": 0.854714
+            "ticker_relevance_score": 0.889471
+        },
+        {
+            "source": "TradingView",
+            "date": "20260529T090814",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
+            "summary": "This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS, NYSE:NKE) from multiple traders on TradingView. The ideas range from identifying potential bottoming formations and long setups based on Fibonacci retracements and support levels to bearish outlooks due to weak guidance and declining moving averages. Several contributors highlight the significance of recent insider buying and the stock's significant drop from its all-time highs as potential turnarounds, while others caution about continued downtrends and competition in key markets.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS, NYSE:NKE) from multiple traders on TradingView. The ideas range from identifying potential bottoming formations and long setups based on Fibonacci retracements and support levels to bearish outlooks due to weak guidance and declining moving averages. Several contributors highlight the significance of recent insider buying and the stock's significant drop from its all-time highs as potential turnarounds, while others caution about continued downtrends and competition in key markets.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.974456
         },
         {
             "source": "TradingView",
@@ -73,6 +127,15 @@
             "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView. This article compiles several trade ideas and analyses for NIKE, Inc. Class B (NKEUSD) from various traders on TradingView, particularly focusing on the stock's performance around its earnings reports. Traders offer bullish, bearish, and neutral strategies, including specific price targets and options trading tactics, alongside technical analysis like Elliott Wave theory and RSI. The overall sentiment presented is mixed, with some predicting significant upside and others warning of potential downturns, emphasizing the importance of caution around earnings announcements.",
             "alpha_vantage_sentiment_label": "Neutral",
             "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260525T013801",
+            "title": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. Class B stock (NKEUSD, NYSE:NKE), offering both bullish and bearish perspectives. Analysts discuss technical patterns like descending channels and head and shoulders, price targets, and the impact of recent earnings reports and economic conditions on Nike's stock performance. The article also touches upon Nike's strategic shifts, cost-cutting measures, and layoffs.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView. This article compiles various trading ideas and analyses for NIKE, Inc. Class B stock (NKEUSD, NYSE:NKE), offering both bullish and bearish perspectives. Analysts discuss technical patterns like descending channels and head and shoulders, price targets, and the impact of recent earnings reports and economic conditions on Nike's stock performance. The article also touches upon Nike's strategic shifts, cost-cutting measures, and layoffs.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.973432
         },
         {
             "source": "TradingView",
@@ -136,6 +199,15 @@
             "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — LSE:0QZ6. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (LSE:0QZ6, NYSE:NKE) from different traders and analysts, presenting diverse perspectives ranging from long-term bullish outlooks based on brand strength and undervaluation to short-term bearish sentiments due to macroeconomic headwinds and technical indicators. Several contributors highlight Nike's current low price as a buying opportunity, emphasizing its brand power and long-term growth potential, while others caution about declining sales, competitive pressure, and the impact of tariffs and economic slowdowns. The analyses often include technical setups, fundamental assessments, and price targets, reflecting a divided but actively engaged market sentiment regarding Nike's future performance.",
             "alpha_vantage_sentiment_label": "Somewhat-Bearish",
             "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260523T033804",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
+            "summary": "This article compiles various trading ideas and technical analyses for NIKE, Inc. (NKEUS / NYSE:NKE) from multiple traders on TradingView. The ideas predominantly focus on potential bullish reversals, double bottom formations, and strategic entry points following recent downtrends, with some analysts suggesting long-term growth and others highlighting risk management strategies like LEAPS options. The collective sentiment indicates a belief that Nike may be nearing a bottom or is poised for a rebound despite recent challenges.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trading ideas and technical analyses for NIKE, Inc. (NKEUS / NYSE:NKE) from multiple traders on TradingView. The ideas predominantly focus on potential bullish reversals, double bottom formations, and strategic entry points following recent downtrends, with some analysts suggesting long-term growth and others highlighting risk management strategies like LEAPS options. The collective sentiment indicates a belief that Nike may be nearing a bottom or is poised for a rebound despite recent challenges.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.952824
         }
     ]
 }

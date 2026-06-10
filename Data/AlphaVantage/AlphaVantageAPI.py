@@ -40,7 +40,7 @@ for index, stock in enumerate(stocks):
         "function": "NEWS_SENTIMENT",
         "tickers": ticker,            # Filtre directement par le ticker boursier officiel
         "sort": "LATEST",             # Récupère les articles les plus récents
-        "limit": 50,                  # On demande 50 articles pour filtrer ensuite
+        "limit": 200,                  # On demande 200 articles pour filtrer ensuite
         "apikey": ALPHA_VANTAGE_KEY
     }
     
@@ -52,7 +52,10 @@ for index, stock in enumerate(stocks):
         if "feed" not in data:
             print(f"Impossible de récupérer les données pour {ticker}. Message API : {data.get('Information', 'Erreur inconnue')}")
             continue
-            
+        # Juste après ton appel API (ex: response.json())
+        articles_bruts = data.get("feed", [])
+        print(f"L'API nous a renvoyé {len(articles_bruts)} articles bruts au total.")    
+
         finbert_ready_data = {
             "ticker": ticker,
             "company_name": name,
@@ -105,7 +108,7 @@ for index, stock in enumerate(stocks):
             })
             
             # Blocage strict à maximum 15 articles par entreprise
-            if len(finbert_ready_data["articles"]) == 15:
+            if len(finbert_ready_data["articles"]) == 30:
                 break
                 
         # 4. SAUVEGARDE DANS LE DOSSIER 'AlphaVantageàtraiter'
