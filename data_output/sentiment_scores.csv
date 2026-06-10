@@ -1,0 +1,6 @@
+ticker,sentiment_score,n_articles
+DIS,0.2807,35
+NKE,-0.1141,21
+SBUX,0.4239,29
+TGT,0.4871,21
+TSLA,0.2702,24
