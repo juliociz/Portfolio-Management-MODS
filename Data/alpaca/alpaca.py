@@ -79,3 +79,19 @@ if __name__ == "__main__":
     ALPACA_SECRET = "METTRE_SECRET_KEY_ICI"
     
     fetch_alpaca_news(UNIVERS, "data_output/alpaca_news_raw.csv", ALPACA_KEY, ALPACA_SECRET)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

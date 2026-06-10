@@ -1,14 +1,10 @@
 import praw
-import pandas as pd
-import datetime
 
-# 1. Authentification (Remplace par tes clés)
 reddit = praw.Reddit(
     client_id="TON_CLIENT_ID",
     client_secret="TON_CLIENT_SECRET",
-    user_agent="SentimentAnalysis_Project_v1.0 (by u/TonPseudo)"
+    user_agent="portfolio-mods-script by u/Perpi2004"
 )
-
 def fetch_reddit_financial_data(subreddits=["wallstreetbets", "stocks", "investing"], limit=100):
     data = []
     
