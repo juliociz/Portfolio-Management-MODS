@@ -24,6 +24,9 @@ print("Lancement de la récupération et génération des rapports HTML...\n")
 output_dir = Path(__file__).resolve().parent / "AlphaVantageàtraiter"
 output_dir.mkdir(parents=True, exist_ok=True)
 
+html_output_dir = Path(__file__).resolve().parent / "RapportsHTML"
+html_output_dir.mkdir(parents=True, exist_ok=True)
+
 # Style CSS pour rendre le fichier HTML super propre et lisible
 html_style = """
 <style>
@@ -117,8 +120,8 @@ for index, stock in enumerate(stocks):
         # Tri de TOUS les articles par score décroissant pour le rendu visuel
         tous_les_articles = sorted(tous_les_articles, key=lambda x: x["score"], reverse=True)
         
-        # Génération du fichier HTML de rapport
-        html_filename = output_dir / f"rapport_filtrage_{ticker.lower()}.html"
+        # Génération du fichier HTML de rapport dans le dossier dédié
+        html_filename = html_output_dir / f"rapport_filtrage_{ticker.lower()}.html"
         with open(html_filename, "w", encoding="utf-8") as f:
             f.write(f"<html><head><meta charset='utf-8'>{html_style}<title>Rapport {ticker}</title></head><body>")
             f.write(f"<h1>Rapport d'analyse du filtre pour {name} ({ticker})</h1>")
@@ -157,4 +160,4 @@ for index, stock in enumerate(stocks):
     except Exception as e:
         print(f"Erreur sur {ticker} : {e}")
 
-print("\nTerminé ! Va dans ton dossier 'AlphaVantageàtraiter' et double-clique sur les fichiers .html pour tout inspecter visuellement.")
+print("\nTerminé ! Va dans ton dossier 'RapportsHTML' et double-clique sur les fichiers .html pour tout inspecter visuellement.")
