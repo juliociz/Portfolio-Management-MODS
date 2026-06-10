@@ -77,3 +77,6 @@ if __name__ == "__main__":
     FILE_DESTINATION = "data_output/yahoo_news_raw.csv"
     
     fetch_yahoo_rss_news(UNIVERS, FILE_DESTINATION)
+    if :
+        print("\n[Terminé] Extraction terminée avec succès.")
+        
