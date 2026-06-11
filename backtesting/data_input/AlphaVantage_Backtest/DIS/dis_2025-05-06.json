@@ -1,0 +1,36 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2025-05-07",
+    "window_start": "2025-04-30",
+    "window_end": "2025-05-06",
+    "articles": [
+        {
+            "source": "TVTechnology",
+            "date": "20250502T000648",
+            "title": "Fubo Reports Subscriber Loss",
+            "summary": "FuboTV announced its first-quarter results, reporting a global streaming business that exceeded subscriber guidance and improved profitability metrics despite a loss of subscribers. North American paid subscribers were down 2.7% year-over-year, while Rest of World subscribers saw a 10.9% decrease. The company also highlighted its agreement with Disney to combine Fubo with Hulu + Live TV, a deal that included a $220 million payment to end antitrust litigation and a commitment for a $145 million term loan from Disney in 2026.",
+            "text_to_analyze": "Fubo Reports Subscriber Loss. FuboTV announced its first-quarter results, reporting a global streaming business that exceeded subscriber guidance and improved profitability metrics despite a loss of subscribers. North American paid subscribers were down 2.7% year-over-year, while Rest of World subscribers saw a 10.9% decrease. The company also highlighted its agreement with Disney to combine Fubo with Hulu + Live TV, a deal that included a $220 million payment to end antitrust litigation and a commitment for a $145 million term loan from Disney in 2026.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.747326
+        },
+        {
+            "source": "Hormel Foods",
+            "date": "20250430T014843",
+            "title": "Brand Creates Exclusive Collectible Cans in celebration of Disney’s “Lilo & Stitch” Live-Action Movie",
+            "summary": "The SPAM® brand has announced a collaboration with Disney's upcoming live-action \"Lilo & Stitch\" movie, releasing exclusive Hawaiian-inspired limited-edition collectible cans featuring artwork from the film. This partnership also includes a new TV commercial campaign starting May 5, celebrating the cultural connection both the SPAM® brand and Stitch share with Hawaiian traditions and family. The collectible cans are available nationwide, with the movie set to premiere in theaters on May 23, 2025.",
+            "text_to_analyze": "Brand Creates Exclusive Collectible Cans in celebration of Disney’s “Lilo & Stitch” Live-Action Movie. The SPAM® brand has announced a collaboration with Disney's upcoming live-action \"Lilo & Stitch\" movie, releasing exclusive Hawaiian-inspired limited-edition collectible cans featuring artwork from the film. This partnership also includes a new TV commercial campaign starting May 5, celebrating the cultural connection both the SPAM® brand and Stitch share with Hawaiian traditions and family. The collectible cans are available nationwide, with the movie set to premiere in theaters on May 23, 2025.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.815419
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20250430T012532",
+            "title": "The Walt Disney Company To Participate In The Moffettnathanson Media, Internet & Communications Conference",
+            "summary": "The Walt Disney Company announced that Josh D’Amaro, Chairman, Disney Experiences, will participate in a question-and-answer session at the MoffettNathanson Media, Internet & Communications Conference. The session is scheduled for Wednesday, May 14, 2025, at approximately 9:40 a.m. ET/ 6:40 a.m. PT. A live stream will be available on the company's investor relations website, where an archived recording will also be accessible.",
+            "text_to_analyze": "The Walt Disney Company To Participate In The Moffettnathanson Media, Internet & Communications Conference. The Walt Disney Company announced that Josh D’Amaro, Chairman, Disney Experiences, will participate in a question-and-answer session at the MoffettNathanson Media, Internet & Communications Conference. The session is scheduled for Wednesday, May 14, 2025, at approximately 9:40 a.m. ET/ 6:40 a.m. PT. A live stream will be available on the company's investor relations website, where an archived recording will also be accessible.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

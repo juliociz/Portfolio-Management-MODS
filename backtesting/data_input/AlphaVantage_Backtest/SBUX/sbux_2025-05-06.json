@@ -1,0 +1,63 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2025-05-07",
+    "window_start": "2025-04-30",
+    "window_end": "2025-05-06",
+    "articles": [
+        {
+            "source": "JLL",
+            "date": "20250505T001919",
+            "title": "High-performing grocery-anchored retail center in Los Angeles secures $21.5M refinancing",
+            "summary": "JLL Capital Markets has successfully arranged $21.5 million in refinancing for the Juanita Tate Marketplace, a 77,096-square-foot grocery-anchored retail center in Los Angeles. The financing was secured through institutional investors advised by J.P. Morgan Asset Management on behalf of the borrower, Optimus Properties, LLC. The marketplace is 100% leased, anchored by Northgate Market, and includes tenants like CVS, Panda Express, Starbucks, and Chase Bank, benefiting from high visibility and a densely populated surrounding area.",
+            "text_to_analyze": "High-performing grocery-anchored retail center in Los Angeles secures $21.5M refinancing. JLL Capital Markets has successfully arranged $21.5 million in refinancing for the Juanita Tate Marketplace, a 77,096-square-foot grocery-anchored retail center in Los Angeles. The financing was secured through institutional investors advised by J.P. Morgan Asset Management on behalf of the borrower, Optimus Properties, LLC. The marketplace is 100% leased, anchored by Northgate Market, and includes tenants like CVS, Panda Express, Starbucks, and Chase Bank, benefiting from high visibility and a densely populated surrounding area.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.644292
+        },
+        {
+            "source": "Fortune",
+            "date": "20250504T070200",
+            "title": "This low-profile CEO is the highest-paid in America with a $101 million paycheck that beat out Starbucks, Microsoft, and Apple chiefs",
+            "summary": "Jim Anderson, the CEO of Coherent, has emerged as America's highest-paid CEO with a 2024 compensation package totaling over $101 million, largely due to stock awards. This figure surpassed the earnings of well-known executives like those from Starbucks, Microsoft, and Apple. Anderson's low-profile company, Coherent, specializes in network and laser equipment, and his compensation highlights a rising trend in CEO pay driven by significant stock payouts.",
+            "text_to_analyze": "This low-profile CEO is the highest-paid in America with a $101 million paycheck that beat out Starbucks, Microsoft, and Apple chiefs. Jim Anderson, the CEO of Coherent, has emerged as America's highest-paid CEO with a 2024 compensation package totaling over $101 million, largely due to stock awards. This figure surpassed the earnings of well-known executives like those from Starbucks, Microsoft, and Apple. Anderson's low-profile company, Coherent, specializes in network and laser equipment, and his compensation highlights a rising trend in CEO pay driven by significant stock payouts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.623361
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20250501T004841",
+            "title": "Why Starbucks Stock Fell 18% in April",
+            "summary": "Starbucks (SBUX) stock dropped 18% in April due to President Trump's \"Liberation Day\" tariffs announcement and an underwhelming fiscal second-quarter earnings report. Despite management's claims of a recovery strategy, the company missed revenue and earnings estimates, with comparable sales and adjusted operating margin declining. CEO Brian Niccol aims to turn the business around amidst macro headwinds.",
+            "text_to_analyze": "Why Starbucks Stock Fell 18% in April. Starbucks (SBUX) stock dropped 18% in April due to President Trump's \"Liberation Day\" tariffs announcement and an underwhelming fiscal second-quarter earnings report. Despite management's claims of a recovery strategy, the company missed revenue and earnings estimates, with comparable sales and adjusted operating margin declining. CEO Brian Niccol aims to turn the business around amidst macro headwinds.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CFO.com",
+            "date": "20250501T000000",
+            "title": "April earnings update: Robinhood, Sleep Number, Starbucks, Ally Financial and State Street",
+            "summary": "This article compiles insights from CFOs during their April earnings calls, highlighting strategic moves, financial performance, and future outlooks for several companies. Key discussions include Robinhood's strong retail investor engagement, Sleep Number's cost reduction plan, Starbucks' turnaround strategy, and Ally Financial's efforts to boost net interest margin. Other companies like Independent Bank, State Street, First Industrial Realty Trust, Fastenal, and Guaranty Bancshares also shared updates on competitive markets, expense flexibility, debt restructuring, and loan loss reserves.",
+            "text_to_analyze": "April earnings update: Robinhood, Sleep Number, Starbucks, Ally Financial and State Street. This article compiles insights from CFOs during their April earnings calls, highlighting strategic moves, financial performance, and future outlooks for several companies. Key discussions include Robinhood's strong retail investor engagement, Sleep Number's cost reduction plan, Starbucks' turnaround strategy, and Ally Financial's efforts to boost net interest margin. Other companies like Independent Bank, State Street, First Industrial Realty Trust, Fastenal, and Guaranty Bancshares also shared updates on competitive markets, expense flexibility, debt restructuring, and loan loss reserves.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.875942
+        },
+        {
+            "source": "Investing.com",
+            "date": "20250430T145600",
+            "title": "Starbucks outlook shifts to negative, Moody’s affirms ratings",
+            "summary": "Moody's Ratings has changed Starbucks' outlook from stable to negative due to weakening profitability and credit metrics, stemming from sales deleveraging and increased labor investments as part of its \"Back to Starbucks\" reinvention plan. Despite the negative outlook, Moody's affirmed all of Starbucks' ratings, including Baa1 senior unsecured notes and Prime-2 commercial paper program, citing the company's strong brand, market position, and liquidity. However, challenges like heightened competition, cost pressures, and consumer spending uncertainty could lead to a downgrade if comparable sales weaken or financial policies become more aggressive.",
+            "text_to_analyze": "Starbucks outlook shifts to negative, Moody’s affirms ratings. Moody's Ratings has changed Starbucks' outlook from stable to negative due to weakening profitability and credit metrics, stemming from sales deleveraging and increased labor investments as part of its \"Back to Starbucks\" reinvention plan. Despite the negative outlook, Moody's affirmed all of Starbucks' ratings, including Baa1 senior unsecured notes and Prime-2 commercial paper program, citing the company's strong brand, market position, and liquidity. However, challenges like heightened competition, cost pressures, and consumer spending uncertainty could lead to a downgrade if comparable sales weaken or financial policies become more aggressive.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Waste Today -",
+            "date": "20250430T021914",
+            "title": "Circular Action Alliance adds to founding members",
+            "summary": "The Circular Action Alliance (CAA), a nonprofit producer responsibility organization, has announced The Campbell’s Co., Ikea Supply AG, and Starbucks Corp. as new founding members. These companies will also gain representation on CAA's board, strengthening its governance as it implements extended producer responsibility (EPR) laws for packaging in various U.S. states. CAA operates as a PRO in California, Colorado, Oregon, and Minnesota, playing a critical role in representing producer interests in EPR programs.",
+            "text_to_analyze": "Circular Action Alliance adds to founding members. The Circular Action Alliance (CAA), a nonprofit producer responsibility organization, has announced The Campbell’s Co., Ikea Supply AG, and Starbucks Corp. as new founding members. These companies will also gain representation on CAA's board, strengthening its governance as it implements extended producer responsibility (EPR) laws for packaging in various U.S. states. CAA operates as a PRO in California, Colorado, Oregon, and Minnesota, playing a critical role in representing producer interests in EPR programs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.94711
+        }
+    ]
+}

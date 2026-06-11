@@ -1,0 +1,63 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2025-05-07",
+    "window_start": "2025-04-30",
+    "window_end": "2025-05-06",
+    "articles": [
+        {
+            "source": "Reuters",
+            "date": "20250506T005413",
+            "title": "Tesla launches cheaper Model Y vehicle in the US",
+            "summary": "Tesla has introduced a more affordable version of its Model Y SUV in the United States, priced at $44,990 before federal tax credits. This new long-range rear-wheel drive model will cost $37,490 including the $7,500 tax credit. This launch comes amidst a 13% decline in Tesla's quarterly sales, their weakest in nearly three years.",
+            "text_to_analyze": "Tesla launches cheaper Model Y vehicle in the US. Tesla has introduced a more affordable version of its Model Y SUV in the United States, priced at $44,990 before federal tax credits. This new long-range rear-wheel drive model will cost $37,490 including the $7,500 tax credit. This launch comes amidst a 13% decline in Tesla's quarterly sales, their weakest in nearly three years.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barron's",
+            "date": "20250506T004834",
+            "title": "Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Vertex, DoorDash, and More Movers",
+            "summary": "Stocks fell on Tuesday due to tariff uncertainty and mixed earnings reports, affecting companies like Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Moderna, Hims & Hers, and DoorDash. The article highlights these companies as key market movers without detailing specific financial results for each.",
+            "text_to_analyze": "Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Vertex, DoorDash, and More Movers. Stocks fell on Tuesday due to tariff uncertainty and mixed earnings reports, affecting companies like Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Moderna, Hims & Hers, and DoorDash. The article highlights these companies as key market movers without detailing specific financial results for each.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.809273
+        },
+        {
+            "source": "Axios",
+            "date": "20250506T000000",
+            "title": "Tesla's Europe customers continue abandoning brand in the wake of Musk's Trump ties",
+            "summary": "Tesla's sales in Europe significantly declined in April, with customers reportedly turning away from the brand due to CEO Elon Musk's public alliance with former President Trump. Sales dropped substantially across several European countries, and Musk acknowledged \"unexpected bumps\" for the year. This decline is happening as Chinese EV rival BYD gains market share, even outselling Tesla in some European markets.",
+            "text_to_analyze": "Tesla's Europe customers continue abandoning brand in the wake of Musk's Trump ties. Tesla's sales in Europe significantly declined in April, with customers reportedly turning away from the brand due to CEO Elon Musk's public alliance with former President Trump. Sales dropped substantially across several European countries, and Musk acknowledged \"unexpected bumps\" for the year. This decline is happening as Chinese EV rival BYD gains market share, even outselling Tesla in some European markets.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "eeNews Europe",
+            "date": "20250505T233524",
+            "title": "Tata adds NXP to wafer fab discussions, says report ...",
+            "summary": "India's Tata Electronics is reportedly in discussions with NXP to become a foundry supplier for the Dutch chip giant, as Tata constructs a wafer fab in Gujurat set to begin production in 2026. This potential deal follows a similar collaboration with Analog Devices Inc. and aligns with a broader trend of fab-lite companies seeking local manufacturing, positioning Tata to benefit from a shift in equipment manufacturing away from China. Electric vehicle maker Tesla Inc. is also mentioned as a potential customer for Tata chips.",
+            "text_to_analyze": "Tata adds NXP to wafer fab discussions, says report .... India's Tata Electronics is reportedly in discussions with NXP to become a foundry supplier for the Dutch chip giant, as Tata constructs a wafer fab in Gujurat set to begin production in 2026. This potential deal follows a similar collaboration with Analog Devices Inc. and aligns with a broader trend of fab-lite companies seeking local manufacturing, positioning Tata to benefit from a shift in equipment manufacturing away from China. Electric vehicle maker Tesla Inc. is also mentioned as a potential customer for Tata chips.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.734546
+        },
+        {
+            "source": "ETF Trends",
+            "date": "20250501T114043",
+            "title": "Top Performing Leveraged/Inverse ETFs: 04/27/2025",
+            "summary": "This article lists the top 10 performing leveraged and inverse ETFs for the week ending April 27, 2025, with returns ranging from 18.05% to 21.95%. Key drivers for these performances include caution around growth, tariffs, trade uncertainty, big tech earnings, Tesla's sales drop, increased market volatility, U.S. export restrictions on AI chips, and safe-haven demand for gold. The article details specific ETFs like SSG, TSLQ, UVIX, and NVDS, explaining the factors contributing to their strong weekly gains.",
+            "text_to_analyze": "Top Performing Leveraged/Inverse ETFs: 04/27/2025. This article lists the top 10 performing leveraged and inverse ETFs for the week ending April 27, 2025, with returns ranging from 18.05% to 21.95%. Key drivers for these performances include caution around growth, tariffs, trade uncertainty, big tech earnings, Tesla's sales drop, increased market volatility, U.S. export restrictions on AI chips, and safe-haven demand for gold. The article details specific ETFs like SSG, TSLQ, UVIX, and NVDS, explaining the factors contributing to their strong weekly gains.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.852621
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20250501T003615",
+            "title": "Forget Tesla: This 1 Auto Stock Is an Outperformer in 2025",
+            "summary": "While Tesla faces challenges in 2025 due to slowing deliveries, political distractions, and competition, Ferrari N.V. (RACE) is highlighted as an outperformer. Ferrari's strong demand from affluent clientele, robust guidance, and upcoming EV launch position it for continued success despite economic headwinds and tariffs. Analysts widely recommend Ferrari as a \"Moderate Buy\" with significant upside potential.",
+            "text_to_analyze": "Forget Tesla: This 1 Auto Stock Is an Outperformer in 2025. While Tesla faces challenges in 2025 due to slowing deliveries, political distractions, and competition, Ferrari N.V. (RACE) is highlighted as an outperformer. Ferrari's strong demand from affluent clientele, robust guidance, and upcoming EV launch position it for continued success despite economic headwinds and tariffs. Analysts widely recommend Ferrari as a \"Moderate Buy\" with significant upside potential.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.880378
+        }
+    ]
+}

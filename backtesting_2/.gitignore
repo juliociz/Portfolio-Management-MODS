@@ -1,0 +1,11 @@
+# Generated outputs
+data_output/*
+!data_output/.gitkeep
+
+results/*
+!results/.gitkeep
+
+# Local caches
+__pycache__/
+*.py[cod]
+.DS_Store

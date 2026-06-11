@@ -6,17 +6,26 @@ from datetime import datetime
 from dotenv import load_dotenv
 import pandas_market_calendars as mcal
 
-from alpha_vantage_news import get_finbert_ready_news
-
+from alphavantage import get_finbert_ready_news
 
 # ============================================================
-# Chargement du .env
+# Chargement des clés API
 # ============================================================
 
-env_path = Path(__file__).resolve().parent.parent / ".env"
-load_dotenv(env_path)
+load_dotenv()
 
-ALPHA_VANTAGE_KEY = os.getenv("ALPHAVANTAGE_API_KEY")
+API_KEYS = [
+    os.getenv("ALPHAVANTAGE_API_KEY_1"),
+    os.getenv("ALPHAVANTAGE_API_KEY_2"),
+    os.getenv("ALPHAVANTAGE_API_KEY_3"),
+    os.getenv("ALPHAVANTAGE_API_KEY_4"),
+]
+
+# On enlève les clés vides éventuelles
+API_KEYS = [key for key in API_KEYS if key]
+
+if not API_KEYS:
+    raise ValueError("Aucune clé Alpha Vantage trouvée.")
 
 # ============================================================
 # Liste des entreprises
@@ -41,17 +50,19 @@ trading_days = nyse.schedule(
     end_date="2025-05-31"
 ).index
 
-print(f"{len(trading_days)} séances détectées en mai 2025.\n")
+print(f"{len(trading_days)} séances détectées.")
 
 # ============================================================
-# Dossier principal
+# Dossier de sortie
 # ============================================================
 
 base_output_dir = Path("AlphaVantage_Backtest")
 
 # ============================================================
-# Boucle principale
+# Rotation des clés
 # ============================================================
+
+key_index = 0
 
 total_requests = len(trading_days) * len(stocks)
 current_request = 0
@@ -59,23 +70,31 @@ current_request = 0
 for trading_day in trading_days:
 
     trading_day = trading_day.to_pydatetime()
+    
+    # 🛑 Sécurité brute : On ignore les jours strictement inférieurs au 6 mai
+    if trading_day.date() < datetime(2025, 5, 13).date():
+        current_request += len(stocks) # On met à jour le compteur global pour l'affichage
+        continue
 
     print(
-        f"\n==============================="
-        f"\nTrading Day : {trading_day.date()}"
-        f"\n===============================\n"
+        f"\n==============================\n"
+        f"Trading Day : {trading_day.date()}\n"
+        f"=============================="
     )
 
     for stock in stocks:
 
         current_request += 1
 
+        current_key = API_KEYS[key_index]
+        key_index = (key_index + 1) % len(API_KEYS)
+
         ticker = stock["ticker"]
         company_name = stock["name"]
 
         print(
             f"[{current_request}/{total_requests}] "
-            f"{ticker} - {trading_day.date()}"
+            f"{ticker} | clé {(key_index if key_index != 0 else len(API_KEYS))}"
         )
 
         try:
@@ -84,7 +103,7 @@ for trading_day in trading_days:
                 ticker=ticker,
                 company_name=company_name,
                 target_date=trading_day,
-                api_key=ALPHA_VANTAGE_KEY,
+                api_key=current_key,
                 output_dir=base_output_dir / ticker
             )
 
@@ -95,9 +114,8 @@ for trading_day in trading_days:
                 f"le {trading_day.date()} : {e}"
             )
 
-        # Respect du quota Alpha Vantage gratuit
-        if current_request < total_requests:
-            print("Attente 15 secondes...")
-            time.sleep(15)
+        # Limite Alpha Vantage :
+        # 5 requêtes/minute par clé
+        time.sleep(15)
 
 print("\nTéléchargement terminé.")

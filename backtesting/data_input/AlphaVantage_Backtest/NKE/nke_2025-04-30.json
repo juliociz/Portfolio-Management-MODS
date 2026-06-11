@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2025-05-01",
+    "window_start": "2025-04-24",
+    "window_end": "2025-04-30",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20250425T115516",
+            "title": "Nike Inc Cl B (NKE) Stock Price, News & Analysis",
+            "summary": "This article provides a comprehensive overview of Nike Inc. (NKE), detailing its business segments, brands including Nike, Jordan, NikeSKIMS, and Converse, and its global operational model. It highlights Nike's financial reporting, capital allocation strategies through dividends and share repurchases, corporate governance, and recent financial and insider transaction news. The piece also includes key stock performance metrics and answers frequently asked questions about the company.",
+            "text_to_analyze": "Nike Inc Cl B (NKE) Stock Price, News & Analysis. This article provides a comprehensive overview of Nike Inc. (NKE), detailing its business segments, brands including Nike, Jordan, NikeSKIMS, and Converse, and its global operational model. It highlights Nike's financial reporting, capital allocation strategies through dividends and share repurchases, corporate governance, and recent financial and insider transaction news. The piece also includes key stock performance metrics and answers frequently asked questions about the company.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "WWD",
+            "date": "20250424T162700",
+            "title": "Academy Sports’ Poised To Capture Trade-Down Consumers",
+            "summary": "Jefferies analyst Jonathan Matuszewski reiterated a \"Buy\" rating for Academy Sports + Outdoors, citing the retailer's potential to attract higher-income, trade-down consumers and benefit from new footwear brands and a growing loyalty program. The company saw an uptick in business from $100,000-plus households in the third and fourth quarters, and its merchandise mix is improving with popular brands like Converse and Jordan, along with an expanded Nike product line. Despite potential hiccups from tariffs, which could impact earnings before interest and taxes by 15%, Academy's focus on owned brands and a successful loyalty program are expected to solidify its position as a value-oriented destination retailer and drive future growth.",
+            "text_to_analyze": "Academy Sports’ Poised To Capture Trade-Down Consumers. Jefferies analyst Jonathan Matuszewski reiterated a \"Buy\" rating for Academy Sports + Outdoors, citing the retailer's potential to attract higher-income, trade-down consumers and benefit from new footwear brands and a growing loyalty program. The company saw an uptick in business from $100,000-plus households in the third and fourth quarters, and its merchandise mix is improving with popular brands like Converse and Jordan, along with an expanded Nike product line. Despite potential hiccups from tariffs, which could impact earnings before interest and taxes by 15%, Academy's focus on owned brands and a successful loyalty program are expected to solidify its position as a value-oriented destination retailer and drive future growth.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.6578
+        }
+    ]
+}

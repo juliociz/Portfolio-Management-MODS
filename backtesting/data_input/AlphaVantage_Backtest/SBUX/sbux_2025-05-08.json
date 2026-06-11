@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2025-05-09",
+    "window_start": "2025-05-02",
+    "window_end": "2025-05-08",
+    "articles": [
+        {
+            "source": "Men's Journal",
+            "date": "20250507T094600",
+            "title": "Starbucks Is Giving Away Free Cold Foam This Week — Here’s How to Get It",
+            "summary": "Starbucks Rewards members can get free cold foam on any cold drink from Wednesday, May 7, through Sunday, May 11, including a new Brown Sugar Cream Cold Foam. This offer also extends to other cold foam flavors and new spring seasonal flavors like Lavender Cream and Cherry Cream. The deal can be accessed through the Starbucks app or by asking a barista at checkout.",
+            "text_to_analyze": "Starbucks Is Giving Away Free Cold Foam This Week — Here’s How to Get It. Starbucks Rewards members can get free cold foam on any cold drink from Wednesday, May 7, through Sunday, May 11, including a new Brown Sugar Cream Cold Foam. This offer also extends to other cold foam flavors and new spring seasonal flavors like Lavender Cream and Cherry Cream. The deal can be accessed through the Starbucks app or by asking a barista at checkout.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "JLL",
+            "date": "20250505T001919",
+            "title": "High-performing grocery-anchored retail center in Los Angeles secures $21.5M refinancing",
+            "summary": "JLL Capital Markets has successfully arranged $21.5 million in refinancing for the Juanita Tate Marketplace, a 77,096-square-foot grocery-anchored retail center in Los Angeles. The financing was secured through institutional investors advised by J.P. Morgan Asset Management on behalf of the borrower, Optimus Properties, LLC. The marketplace is 100% leased, anchored by Northgate Market, and includes tenants like CVS, Panda Express, Starbucks, and Chase Bank, benefiting from high visibility and a densely populated surrounding area.",
+            "text_to_analyze": "High-performing grocery-anchored retail center in Los Angeles secures $21.5M refinancing. JLL Capital Markets has successfully arranged $21.5 million in refinancing for the Juanita Tate Marketplace, a 77,096-square-foot grocery-anchored retail center in Los Angeles. The financing was secured through institutional investors advised by J.P. Morgan Asset Management on behalf of the borrower, Optimus Properties, LLC. The marketplace is 100% leased, anchored by Northgate Market, and includes tenants like CVS, Panda Express, Starbucks, and Chase Bank, benefiting from high visibility and a densely populated surrounding area.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.635941
+        },
+        {
+            "source": "Fortune",
+            "date": "20250504T070200",
+            "title": "This low-profile CEO is the highest-paid in America with a $101 million paycheck that beat out Starbucks, Microsoft, and Apple chiefs",
+            "summary": "Jim Anderson, the CEO of Coherent, has emerged as America's highest-paid CEO with a 2024 compensation package totaling over $101 million, largely due to stock awards. This figure surpassed the earnings of well-known executives like those from Starbucks, Microsoft, and Apple. Anderson's low-profile company, Coherent, specializes in network and laser equipment, and his compensation highlights a rising trend in CEO pay driven by significant stock payouts.",
+            "text_to_analyze": "This low-profile CEO is the highest-paid in America with a $101 million paycheck that beat out Starbucks, Microsoft, and Apple chiefs. Jim Anderson, the CEO of Coherent, has emerged as America's highest-paid CEO with a 2024 compensation package totaling over $101 million, largely due to stock awards. This figure surpassed the earnings of well-known executives like those from Starbucks, Microsoft, and Apple. Anderson's low-profile company, Coherent, specializes in network and laser equipment, and his compensation highlights a rising trend in CEO pay driven by significant stock payouts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.62163
+        }
+    ]
+}

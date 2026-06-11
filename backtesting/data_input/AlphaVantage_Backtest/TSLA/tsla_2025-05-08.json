@@ -1,0 +1,63 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2025-05-09",
+    "window_start": "2025-05-02",
+    "window_end": "2025-05-08",
+    "articles": [
+        {
+            "source": "San Antonio Express-News",
+            "date": "20250507T122824",
+            "title": "'A lot of fog': Texas businesses struggle to plan amid tariff chaos",
+            "summary": "Texas businesses, including major companies like Cullen/Frost Bankers Inc., Rush Enterprises, Tesla Inc., and Southwest Airlines, are facing significant challenges in planning and forecasting due to the ongoing volatility and uncertainty caused by Trump's tariffs. Executives report that business decisions, investments, hiring, and even consumer spending are being put on hold as companies await clarity on trade policies. The chaotic trade environment is leading to increased costs, reduced sales, and withdrawn profit forecasts across various sectors, impacting the broader economy.",
+            "text_to_analyze": "'A lot of fog': Texas businesses struggle to plan amid tariff chaos. Texas businesses, including major companies like Cullen/Frost Bankers Inc., Rush Enterprises, Tesla Inc., and Southwest Airlines, are facing significant challenges in planning and forecasting due to the ongoing volatility and uncertainty caused by Trump's tariffs. Executives report that business decisions, investments, hiring, and even consumer spending are being put on hold as companies await clarity on trade policies. The chaotic trade environment is leading to increased costs, reduced sales, and withdrawn profit forecasts across various sectors, impacting the broader economy.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.872476
+        },
+        {
+            "source": "Bloomberg",
+            "date": "20250507T085800",
+            "title": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains",
+            "summary": "Tesla's vehicle shipments from its China plant have declined for the seventh consecutive month, with March figures showing a 6% drop compared to the previous year. This slump exacerbates the carmaker's challenging start to the year, while rival BYD continues to gain market share. The data, primarily from Tesla's Shanghai factory, includes Model 3 and Model Y shipments.",
+            "text_to_analyze": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains. Tesla's vehicle shipments from its China plant have declined for the seventh consecutive month, with March figures showing a 6% drop compared to the previous year. This slump exacerbates the carmaker's challenging start to the year, while rival BYD continues to gain market share. The data, primarily from Tesla's Shanghai factory, includes Model 3 and Model Y shipments.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20250506T005413",
+            "title": "Tesla launches cheaper Model Y vehicle in the US",
+            "summary": "Tesla has introduced a more affordable version of its Model Y SUV in the United States, priced at $44,990 before federal tax credits. This new long-range rear-wheel drive model will cost $37,490 including the $7,500 tax credit. This launch comes amidst a 13% decline in Tesla's quarterly sales, their weakest in nearly three years.",
+            "text_to_analyze": "Tesla launches cheaper Model Y vehicle in the US. Tesla has introduced a more affordable version of its Model Y SUV in the United States, priced at $44,990 before federal tax credits. This new long-range rear-wheel drive model will cost $37,490 including the $7,500 tax credit. This launch comes amidst a 13% decline in Tesla's quarterly sales, their weakest in nearly three years.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barron's",
+            "date": "20250506T004834",
+            "title": "Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Vertex, DoorDash, and More Movers",
+            "summary": "Stocks fell on Tuesday due to tariff uncertainty and mixed earnings reports, affecting companies like Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Moderna, Hims & Hers, and DoorDash. The article highlights these companies as key market movers without detailing specific financial results for each.",
+            "text_to_analyze": "Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Vertex, DoorDash, and More Movers. Stocks fell on Tuesday due to tariff uncertainty and mixed earnings reports, affecting companies like Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Moderna, Hims & Hers, and DoorDash. The article highlights these companies as key market movers without detailing specific financial results for each.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.846508
+        },
+        {
+            "source": "Axios",
+            "date": "20250506T000000",
+            "title": "Tesla's Europe customers continue abandoning brand in the wake of Musk's Trump ties",
+            "summary": "Tesla's sales in Europe significantly declined in April, with customers reportedly turning away from the brand due to CEO Elon Musk's public alliance with former President Trump. Sales dropped substantially across several European countries, and Musk acknowledged \"unexpected bumps\" for the year. This decline is happening as Chinese EV rival BYD gains market share, even outselling Tesla in some European markets.",
+            "text_to_analyze": "Tesla's Europe customers continue abandoning brand in the wake of Musk's Trump ties. Tesla's sales in Europe significantly declined in April, with customers reportedly turning away from the brand due to CEO Elon Musk's public alliance with former President Trump. Sales dropped substantially across several European countries, and Musk acknowledged \"unexpected bumps\" for the year. This decline is happening as Chinese EV rival BYD gains market share, even outselling Tesla in some European markets.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "eeNews Europe",
+            "date": "20250505T233524",
+            "title": "Tata adds NXP to wafer fab discussions, says report ...",
+            "summary": "India's Tata Electronics is reportedly in discussions with NXP to become a foundry supplier for the Dutch chip giant, as Tata constructs a wafer fab in Gujurat set to begin production in 2026. This potential deal follows a similar collaboration with Analog Devices Inc. and aligns with a broader trend of fab-lite companies seeking local manufacturing, positioning Tata to benefit from a shift in equipment manufacturing away from China. Electric vehicle maker Tesla Inc. is also mentioned as a potential customer for Tata chips.",
+            "text_to_analyze": "Tata adds NXP to wafer fab discussions, says report .... India's Tata Electronics is reportedly in discussions with NXP to become a foundry supplier for the Dutch chip giant, as Tata constructs a wafer fab in Gujurat set to begin production in 2026. This potential deal follows a similar collaboration with Analog Devices Inc. and aligns with a broader trend of fab-lite companies seeking local manufacturing, positioning Tata to benefit from a shift in equipment manufacturing away from China. Electric vehicle maker Tesla Inc. is also mentioned as a potential customer for Tata chips.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.740559
+        }
+    ]
+}

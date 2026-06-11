@@ -1,0 +1,45 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2025-05-06",
+    "window_start": "2025-04-29",
+    "window_end": "2025-05-05",
+    "articles": [
+        {
+            "source": "eeNews Europe",
+            "date": "20250505T233524",
+            "title": "Tata adds NXP to wafer fab discussions, says report ...",
+            "summary": "India's Tata Electronics is reportedly in discussions with NXP to become a foundry supplier for the Dutch chip giant, as Tata constructs a wafer fab in Gujurat set to begin production in 2026. This potential deal follows a similar collaboration with Analog Devices Inc. and aligns with a broader trend of fab-lite companies seeking local manufacturing, positioning Tata to benefit from a shift in equipment manufacturing away from China. Electric vehicle maker Tesla Inc. is also mentioned as a potential customer for Tata chips.",
+            "text_to_analyze": "Tata adds NXP to wafer fab discussions, says report .... India's Tata Electronics is reportedly in discussions with NXP to become a foundry supplier for the Dutch chip giant, as Tata constructs a wafer fab in Gujurat set to begin production in 2026. This potential deal follows a similar collaboration with Analog Devices Inc. and aligns with a broader trend of fab-lite companies seeking local manufacturing, positioning Tata to benefit from a shift in equipment manufacturing away from China. Electric vehicle maker Tesla Inc. is also mentioned as a potential customer for Tata chips.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.702471
+        },
+        {
+            "source": "ETF Trends",
+            "date": "20250501T114043",
+            "title": "Top Performing Leveraged/Inverse ETFs: 04/27/2025",
+            "summary": "This article lists the top 10 performing leveraged and inverse ETFs for the week ending April 27, 2025, with returns ranging from 18.05% to 21.95%. Key drivers for these performances include caution around growth, tariffs, trade uncertainty, big tech earnings, Tesla's sales drop, increased market volatility, U.S. export restrictions on AI chips, and safe-haven demand for gold. The article details specific ETFs like SSG, TSLQ, UVIX, and NVDS, explaining the factors contributing to their strong weekly gains.",
+            "text_to_analyze": "Top Performing Leveraged/Inverse ETFs: 04/27/2025. This article lists the top 10 performing leveraged and inverse ETFs for the week ending April 27, 2025, with returns ranging from 18.05% to 21.95%. Key drivers for these performances include caution around growth, tariffs, trade uncertainty, big tech earnings, Tesla's sales drop, increased market volatility, U.S. export restrictions on AI chips, and safe-haven demand for gold. The article details specific ETFs like SSG, TSLQ, UVIX, and NVDS, explaining the factors contributing to their strong weekly gains.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.861521
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20250501T003615",
+            "title": "Forget Tesla: This 1 Auto Stock Is an Outperformer in 2025",
+            "summary": "While Tesla faces challenges in 2025 due to slowing deliveries, political distractions, and competition, Ferrari N.V. (RACE) is highlighted as an outperformer. Ferrari's strong demand from affluent clientele, robust guidance, and upcoming EV launch position it for continued success despite economic headwinds and tariffs. Analysts widely recommend Ferrari as a \"Moderate Buy\" with significant upside potential.",
+            "text_to_analyze": "Forget Tesla: This 1 Auto Stock Is an Outperformer in 2025. While Tesla faces challenges in 2025 due to slowing deliveries, political distractions, and competition, Ferrari N.V. (RACE) is highlighted as an outperformer. Ferrari's strong demand from affluent clientele, robust guidance, and upcoming EV launch position it for continued success despite economic headwinds and tariffs. Analysts widely recommend Ferrari as a \"Moderate Buy\" with significant upside potential.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.869219
+        },
+        {
+            "source": "Reuters",
+            "date": "20250429T200200",
+            "title": "Tesla hiring over 1,000 workers to ramp up Semi truck production, Business Insider reports",
+            "summary": "Tesla plans to hire over 1,000 workers in Nevada to increase the mass production of its Semi electric trucks, as reported by Business Insider. The company recently announced that initial production of the Semi trucks will begin at the Gigafactory in Sparks, Nevada, by the end of 2025, aiming for an annual capacity of 50,000 units. This move signifies a significant ramp-up in Tesla's long-delayed truck-making business, which initially aimed for 2019 production.",
+            "text_to_analyze": "Tesla hiring over 1,000 workers to ramp up Semi truck production, Business Insider reports. Tesla plans to hire over 1,000 workers in Nevada to increase the mass production of its Semi electric trucks, as reported by Business Insider. The company recently announced that initial production of the Semi trucks will begin at the Gigafactory in Sparks, Nevada, by the end of 2025, aiming for an annual capacity of 50,000 units. This move signifies a significant ramp-up in Tesla's long-delayed truck-making business, which initially aimed for 2019 production.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

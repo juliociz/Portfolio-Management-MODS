@@ -6,8 +6,3 @@ __pycache__/
 *.py[cod]
 .env
 .DS_Store
-data_output/
-
-# Backtesting generated outputs
-backtesting/data_output/
-backtesting/results/
