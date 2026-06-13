@@ -1,0 +1,27 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2025-05-27",
+    "window_start": "2025-05-20",
+    "window_end": "2025-05-26",
+    "articles": [
+        {
+            "source": "Streetsblog Massachusetts",
+            "date": "20250521T095200",
+            "title": "Plunging Tesla Sales Undermine State’s EV-Focused Climate Strategy",
+            "summary": "Massachusetts' climate strategy, which heavily relies on increasing electric vehicle sales to reduce highway pollution, is being undermined by a significant decline in Tesla sales. In the first four months of 2025, overall EV sales decreased by nearly 8%, largely due to a 29% plunge in Tesla sales, making it unlikely the state will meet its short-term emissions reduction targets. The article suggests that while non-Tesla EV sales increased, alternative strategies like expanding public transit and promoting walkable neighborhoods are needed to address the rising highway pollution.",
+            "text_to_analyze": "Plunging Tesla Sales Undermine State’s EV-Focused Climate Strategy. Massachusetts' climate strategy, which heavily relies on increasing electric vehicle sales to reduce highway pollution, is being undermined by a significant decline in Tesla sales. In the first four months of 2025, overall EV sales decreased by nearly 8%, largely due to a 29% plunge in Tesla sales, making it unlikely the state will meet its short-term emissions reduction targets. The article suggests that while non-Tesla EV sales increased, alternative strategies like expanding public transit and promoting walkable neighborhoods are needed to address the rising highway pollution.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CNBC",
+            "date": "20250520T093800",
+            "title": "Elon Musk commits to leading Tesla for next five years",
+            "summary": "Tesla CEO Elon Musk has committed to leading the electric vehicle maker for the next five years, stating his desire to maintain \"sufficient voting control\" to prevent being ousted by activist investors. His commitment comes amidst investor questions regarding his dedication to Tesla, particularly due to his role as a key advisor to President Donald Trump and recent political activities that have stirred controversy. The company also recently reported a significant drop in first-quarter 2025 automotive revenue and net income, with its stock experiencing volatility this year.",
+            "text_to_analyze": "Elon Musk commits to leading Tesla for next five years. Tesla CEO Elon Musk has committed to leading the electric vehicle maker for the next five years, stating his desire to maintain \"sufficient voting control\" to prevent being ousted by activist investors. His commitment comes amidst investor questions regarding his dedication to Tesla, particularly due to his role as a key advisor to President Donald Trump and recent political activities that have stirred controversy. The company also recently reported a significant drop in first-quarter 2025 automotive revenue and net income, with its stock experiencing volatility this year.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.962795
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2025-05-19",
+    "window_start": "2025-05-12",
+    "window_end": "2025-05-18",
+    "articles": [
+        {
+            "source": "World Footwear",
+            "date": "20250516T000000",
+            "title": "Dick’s Sporting Goods to acquire Foot Locker for 2.4 billion USD",
+            "summary": "Dick's Sporting Goods announced its intent to acquire Foot Locker for $2.4 billion, a move aimed at expanding Dick's international presence and strengthening its market leverage with major brands like Nike and adidas. Foot Locker shareholders will have the option to receive $24 in cash or 0.1168 shares of Dick's stock for each share they own. The acquisition is expected to close in the second half of 2025, with Dick's planning to operate Foot Locker as a standalone business unit.",
+            "text_to_analyze": "Dick’s Sporting Goods to acquire Foot Locker for 2.4 billion USD. Dick's Sporting Goods announced its intent to acquire Foot Locker for $2.4 billion, a move aimed at expanding Dick's international presence and strengthening its market leverage with major brands like Nike and adidas. Foot Locker shareholders will have the option to receive $24 in cash or 0.1168 shares of Dick's stock for each share they own. The acquisition is expected to close in the second half of 2025, with Dick's planning to operate Foot Locker as a standalone business unit.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.640632
+        }
+    ]
+}

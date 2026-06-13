@@ -1,0 +1,72 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2025-05-13",
+    "window_start": "2025-05-06",
+    "window_end": "2025-05-12",
+    "articles": [
+        {
+            "source": "General Motors",
+            "date": "20250512T000806",
+            "title": "GM names Aurora co-founder Sterling Anderson as chief product officer",
+            "summary": "General Motors has appointed Sterling Anderson, co-founder and chief product officer of Aurora, as its executive VP, global product, and chief product officer. Anderson will oversee the entire product lifecycle for GM's gas and electric vehicles, focusing on tighter integration between software and hardware and emphasizing customer experience. His expertise in automotive engineering and software innovation, honed at Aurora and Tesla, is expected to accelerate GM's product transformation during a critical industry period.",
+            "text_to_analyze": "GM names Aurora co-founder Sterling Anderson as chief product officer. General Motors has appointed Sterling Anderson, co-founder and chief product officer of Aurora, as its executive VP, global product, and chief product officer. Anderson will oversee the entire product lifecycle for GM's gas and electric vehicles, focusing on tighter integration between software and hardware and emphasizing customer experience. His expertise in automotive engineering and software innovation, honed at Aurora and Tesla, is expected to accelerate GM's product transformation during a critical industry period.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.645132
+        },
+        {
+            "source": "CleanTechnica",
+            "date": "20250510T000459",
+            "title": "A New Tesla? No, Here Comes Faraday Future (Eventually)",
+            "summary": "Faraday Future, after a tumultuous nine years, is finally set to unveil its first production EV, Faraday X, next month. Initially perceived as a high-end EV maker, the company is now pivoting towards the affordable EV market with plans for models ranging from $20,000 to $80,000, aiming to challenge both Tesla's offerings and traditional luxury vehicle segments like the Cadillac Escalade and Toyota Alphard. The company recently secured $41 million in funding and reported a significant increase in net assets in Q1 2025 as it prepares for mass production and market entry.",
+            "text_to_analyze": "A New Tesla? No, Here Comes Faraday Future (Eventually). Faraday Future, after a tumultuous nine years, is finally set to unveil its first production EV, Faraday X, next month. Initially perceived as a high-end EV maker, the company is now pivoting towards the affordable EV market with plans for models ranging from $20,000 to $80,000, aiming to challenge both Tesla's offerings and traditional luxury vehicle segments like the Cadillac Escalade and Toyota Alphard. The company recently secured $41 million in funding and reported a significant increase in net assets in Q1 2025 as it prepares for mass production and market entry.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.731313
+        },
+        {
+            "source": "San Antonio Express-News",
+            "date": "20250507T122824",
+            "title": "'A lot of fog': Texas businesses struggle to plan amid tariff chaos",
+            "summary": "Texas businesses, including major companies like Cullen/Frost Bankers Inc., Rush Enterprises, Tesla Inc., and Southwest Airlines, are facing significant challenges in planning and forecasting due to the ongoing volatility and uncertainty caused by Trump's tariffs. Executives report that business decisions, investments, hiring, and even consumer spending are being put on hold as companies await clarity on trade policies. The chaotic trade environment is leading to increased costs, reduced sales, and withdrawn profit forecasts across various sectors, impacting the broader economy.",
+            "text_to_analyze": "'A lot of fog': Texas businesses struggle to plan amid tariff chaos. Texas businesses, including major companies like Cullen/Frost Bankers Inc., Rush Enterprises, Tesla Inc., and Southwest Airlines, are facing significant challenges in planning and forecasting due to the ongoing volatility and uncertainty caused by Trump's tariffs. Executives report that business decisions, investments, hiring, and even consumer spending are being put on hold as companies await clarity on trade policies. The chaotic trade environment is leading to increased costs, reduced sales, and withdrawn profit forecasts across various sectors, impacting the broader economy.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.869628
+        },
+        {
+            "source": "Bloomberg",
+            "date": "20250507T085800",
+            "title": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains",
+            "summary": "Tesla's vehicle shipments from its China plant have declined for the seventh consecutive month, with March figures showing a 6% drop compared to the previous year. This slump exacerbates the carmaker's challenging start to the year, while rival BYD continues to gain market share. The data, primarily from Tesla's Shanghai factory, includes Model 3 and Model Y shipments.",
+            "text_to_analyze": "Tesla’s China Sales Drop Again as Rival BYD Posts Gains. Tesla's vehicle shipments from its China plant have declined for the seventh consecutive month, with March figures showing a 6% drop compared to the previous year. This slump exacerbates the carmaker's challenging start to the year, while rival BYD continues to gain market share. The data, primarily from Tesla's Shanghai factory, includes Model 3 and Model Y shipments.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20250506T005413",
+            "title": "Tesla launches cheaper Model Y vehicle in the US",
+            "summary": "Tesla has introduced a more affordable version of its Model Y SUV in the United States, priced at $44,990 before federal tax credits. This new long-range rear-wheel drive model will cost $37,490 including the $7,500 tax credit. This launch comes amidst a 13% decline in Tesla's quarterly sales, their weakest in nearly three years.",
+            "text_to_analyze": "Tesla launches cheaper Model Y vehicle in the US. Tesla has introduced a more affordable version of its Model Y SUV in the United States, priced at $44,990 before federal tax credits. This new long-range rear-wheel drive model will cost $37,490 including the $7,500 tax credit. This launch comes amidst a 13% decline in Tesla's quarterly sales, their weakest in nearly three years.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barron's",
+            "date": "20250506T004834",
+            "title": "Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Vertex, DoorDash, and More Movers",
+            "summary": "Stocks fell on Tuesday due to tariff uncertainty and mixed earnings reports, affecting companies like Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Moderna, Hims & Hers, and DoorDash. The article highlights these companies as key market movers without detailing specific financial results for each.",
+            "text_to_analyze": "Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Vertex, DoorDash, and More Movers. Stocks fell on Tuesday due to tariff uncertainty and mixed earnings reports, affecting companies like Palantir, Tesla, Ford, Constellation Energy, SolarEdge, Moderna, Hims & Hers, and DoorDash. The article highlights these companies as key market movers without detailing specific financial results for each.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.806408
+        },
+        {
+            "source": "Axios",
+            "date": "20250506T000000",
+            "title": "Tesla's Europe customers continue abandoning brand in the wake of Musk's Trump ties",
+            "summary": "Tesla's sales in Europe significantly declined in April, with customers reportedly turning away from the brand due to CEO Elon Musk's public alliance with former President Trump. Sales dropped substantially across several European countries, and Musk acknowledged \"unexpected bumps\" for the year. This decline is happening as Chinese EV rival BYD gains market share, even outselling Tesla in some European markets.",
+            "text_to_analyze": "Tesla's Europe customers continue abandoning brand in the wake of Musk's Trump ties. Tesla's sales in Europe significantly declined in April, with customers reportedly turning away from the brand due to CEO Elon Musk's public alliance with former President Trump. Sales dropped substantially across several European countries, and Musk acknowledged \"unexpected bumps\" for the year. This decline is happening as Chinese EV rival BYD gains market share, even outselling Tesla in some European markets.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

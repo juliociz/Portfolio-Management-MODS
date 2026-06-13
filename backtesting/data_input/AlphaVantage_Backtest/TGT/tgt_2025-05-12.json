@@ -1,0 +1,18 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2025-05-13",
+    "window_start": "2025-05-06",
+    "window_end": "2025-05-12",
+    "articles": [
+        {
+            "source": "MarketWatch",
+            "date": "20250508T122300",
+            "title": "Egg lovers can’t get a break. Vital Farms to raise prices because of tariffs.",
+            "summary": "Vital Farms, a major producer of pasture-raised eggs, announced it will raise egg prices by at least 10% for its retail partners like Target, Kroger, and Whole Foods starting in May. This price hike is attributed to the impact of tariffs, following previous price increases due to the avian flu outbreak.",
+            "text_to_analyze": "Egg lovers can’t get a break. Vital Farms to raise prices because of tariffs.. Vital Farms, a major producer of pasture-raised eggs, announced it will raise egg prices by at least 10% for its retail partners like Target, Kroger, and Whole Foods starting in May. This price hike is attributed to the impact of tariffs, following previous price increases due to the avian flu outbreak.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.603197
+        }
+    ]
+}

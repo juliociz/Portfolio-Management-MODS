@@ -1,0 +1,36 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2025-05-22",
+    "window_start": "2025-05-15",
+    "window_end": "2025-05-21",
+    "articles": [
+        {
+            "source": "Sportico.com",
+            "date": "20250521T055500",
+            "title": "ESPN Bet Faces Make-or-Break Year for $2 Billion Disney-Penn Deal",
+            "summary": "ESPN Bet is entering a critical year for its $2 billion deal between Disney and Penn Entertainment, as Disney can terminate the agreement if Penn doesn't achieve at least 10% market share by the end of 2026. Currently, ESPN Bet holds just over 3% market share, trailing competitors like DraftKings and FanDuel. The company faces pressure from activist investors and scrutiny over past \"value-destructive\" acquisitions, making 2025 crucial for management to prove the sportsbook's viability.",
+            "text_to_analyze": "ESPN Bet Faces Make-or-Break Year for $2 Billion Disney-Penn Deal. ESPN Bet is entering a critical year for its $2 billion deal between Disney and Penn Entertainment, as Disney can terminate the agreement if Penn doesn't achieve at least 10% market share by the end of 2026. Currently, ESPN Bet holds just over 3% market share, trailing competitors like DraftKings and FanDuel. The company faces pressure from activist investors and scrutiny over past \"value-destructive\" acquisitions, making 2025 crucial for management to prove the sportsbook's viability.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.876368
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20250519T000104",
+            "title": "Disney and Formula 1® Announce Collaboration with Disney's Mickey & Friends, Launching in 2026",
+            "summary": "Disney and Formula 1® have announced a new collaboration featuring Mickey & Friends, set to launch in 2026. This partnership will bring Mickey & Friends into the world of Formula 1 through experiences, content, and merchandise globally, leveraging both brands' shared values of creativity and entertainment. The collaboration aims to engage fans and tap into F1's growing younger audience, with more details to be released in the coming months.",
+            "text_to_analyze": "Disney and Formula 1® Announce Collaboration with Disney's Mickey & Friends, Launching in 2026. Disney and Formula 1® have announced a new collaboration featuring Mickey & Friends, set to launch in 2026. This partnership will bring Mickey & Friends into the world of Formula 1 through experiences, content, and merchandise globally, leveraging both brands' shared values of creativity and entertainment. The collaboration aims to engage fans and tap into F1's growing younger audience, with more details to be released in the coming months.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Fashion Dive",
+            "date": "20250516T000704",
+            "title": "Old Navy launches Americana collab with Disney",
+            "summary": "Old Navy has launched an Americana-inspired collaboration with Disney, featuring over 100 pieces for various age groups in-store and online, priced from $8.99 to $64.99. This marks the first time branded IP has appeared on Old Navy's signature flag T-shirt and the first co-created products between the two companies, with full-scale marketing. The collection includes characters like Mickey Mouse and Minnie Mouse, aligning with Gap Inc.'s strategy of brand collaborations to boost its Old Navy division.",
+            "text_to_analyze": "Old Navy launches Americana collab with Disney. Old Navy has launched an Americana-inspired collaboration with Disney, featuring over 100 pieces for various age groups in-store and online, priced from $8.99 to $64.99. This marks the first time branded IP has appeared on Old Navy's signature flag T-shirt and the first co-created products between the two companies, with full-scale marketing. The collection includes characters like Mickey Mouse and Minnie Mouse, aligning with Gap Inc.'s strategy of brand collaborations to boost its Old Navy division.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.848067
+        }
+    ]
+}

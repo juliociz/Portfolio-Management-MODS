@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2025-05-20",
+    "window_start": "2025-05-13",
+    "window_end": "2025-05-19",
+    "articles": [
+        {
+            "source": "Retail Brew",
+            "date": "20250519T000000",
+            "title": "This Week in Retail: Target, TJX Companies, and Home Depot earnings",
+            "summary": "This week in retail features earnings reports from major companies like Home Depot, Lowe's, TJX Companies, Ross Stores, Target, and BJ's Wholesale Club. The article also highlights industry events such as the International Contemporary Furniture Fair and the virtual Retail Success Summit, alongside a webinar discussing Q2 retail trends and the outlook for Q3. The content provides a comprehensive overview of key happenings in the retail sector for the week.",
+            "text_to_analyze": "This Week in Retail: Target, TJX Companies, and Home Depot earnings. This week in retail features earnings reports from major companies like Home Depot, Lowe's, TJX Companies, Ross Stores, Target, and BJ's Wholesale Club. The article also highlights industry events such as the International Contemporary Furniture Fair and the virtual Retail Success Summit, alongside a webinar discussing Q2 retail trends and the outlook for Q3. The content provides a comprehensive overview of key happenings in the retail sector for the week.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.695851
+        },
+        {
+            "source": "sungazette.com",
+            "date": "20250517T005311",
+            "title": "Feds fine Target over worker death in Muncy Township",
+            "summary": "Target Corp. has been fined nearly $30,000 by OSHA for two violations related to the death of employee Brianna Burley-Inners at its Muncy Township location in November 2024. The employee died from compressional asphyxiation after being pinned by a manlift. Target is contesting the sanctions and has been ordered to conduct an audit and ensure proper training for equipment use in tight spaces.",
+            "text_to_analyze": "Feds fine Target over worker death in Muncy Township. Target Corp. has been fined nearly $30,000 by OSHA for two violations related to the death of employee Brianna Burley-Inners at its Muncy Township location in November 2024. The employee died from compressional asphyxiation after being pinned by a manlift. Target is contesting the sanctions and has been ordered to conduct an audit and ensure proper training for equipment use in tight spaces.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

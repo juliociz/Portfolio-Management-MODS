@@ -1,0 +1,18 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2025-05-27",
+    "window_start": "2025-05-20",
+    "window_end": "2025-05-26",
+    "articles": [
+        {
+            "source": "Restaurant Technology News",
+            "date": "20250523T004841",
+            "title": "Starbucks Adopts People-First Scheduling Strategy as It Reassesses Staffing Automation Investment",
+            "summary": "Starbucks is shifting its operational strategy away from a broad reliance on automation and towards a \"people-first\" approach, focusing on human capital investment through enhanced scheduling systems. The company is limiting the rollout of its Siren Craft automation system to high-volume stores and instead prioritizing digital tools like Shift Marketplace, which allows baristas flexibility in managing their schedules. This move aims to address understaffing, improve employee morale, and maintain the brand's 'third place' customer experience.",
+            "text_to_analyze": "Starbucks Adopts People-First Scheduling Strategy as It Reassesses Staffing Automation Investment. Starbucks is shifting its operational strategy away from a broad reliance on automation and towards a \"people-first\" approach, focusing on human capital investment through enhanced scheduling systems. The company is limiting the rollout of its Siren Craft automation system to high-volume stores and instead prioritizing digital tools like Shift Marketplace, which allows baristas flexibility in managing their schedules. This move aims to address understaffing, improve employee morale, and maintain the brand's 'third place' customer experience.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

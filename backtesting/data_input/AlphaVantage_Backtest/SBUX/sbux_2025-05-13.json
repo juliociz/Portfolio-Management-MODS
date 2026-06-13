@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2025-05-14",
+    "window_start": "2025-05-07",
+    "window_end": "2025-05-13",
+    "articles": [
+        {
+            "source": "OnLabor",
+            "date": "20250510T004841",
+            "title": "You Have the Right to Record Your Boss: At the Intersection of Organizing Rights and Privacy Law in Starbucks Corp.",
+            "summary": "The article discusses the right of workers, particularly those at Starbucks, to record their bosses as a defense against union-busting efforts. It highlights a recent NLRB decision confirming this right and showcases cases like Laila Dalton's, where recordings proved crucial evidence of retaliation. The piece also addresses the irony of Starbucks citing privacy laws while engaging in employee surveillance and concludes that federal labor law's organizing protections override state privacy laws in such contexts.",
+            "text_to_analyze": "You Have the Right to Record Your Boss: At the Intersection of Organizing Rights and Privacy Law in Starbucks Corp.. The article discusses the right of workers, particularly those at Starbucks, to record their bosses as a defense against union-busting efforts. It highlights a recent NLRB decision confirming this right and showcases cases like Laila Dalton's, where recordings proved crucial evidence of retaliation. The piece also addresses the irony of Starbucks citing privacy laws while engaging in employee surveillance and concludes that federal labor law's organizing protections override state privacy laws in such contexts.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Men's Journal",
+            "date": "20250507T094600",
+            "title": "Starbucks Is Giving Away Free Cold Foam This Week — Here’s How to Get It",
+            "summary": "Starbucks Rewards members can get free cold foam on any cold drink from Wednesday, May 7, through Sunday, May 11, including a new Brown Sugar Cream Cold Foam. This offer also extends to other cold foam flavors and new spring seasonal flavors like Lavender Cream and Cherry Cream. The deal can be accessed through the Starbucks app or by asking a barista at checkout.",
+            "text_to_analyze": "Starbucks Is Giving Away Free Cold Foam This Week — Here’s How to Get It. Starbucks Rewards members can get free cold foam on any cold drink from Wednesday, May 7, through Sunday, May 11, including a new Brown Sugar Cream Cold Foam. This offer also extends to other cold foam flavors and new spring seasonal flavors like Lavender Cream and Cherry Cream. The deal can be accessed through the Starbucks app or by asking a barista at checkout.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}
