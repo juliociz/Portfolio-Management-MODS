@@ -72,7 +72,7 @@ for trading_day in trading_days:
     trading_day = trading_day.to_pydatetime()
     
     # 🛑 Sécurité brute : On ignore les jours strictement inférieurs au 6 mai
-    if trading_day.date() < datetime(2025, 5, 20).date():
+    if trading_day.date() < datetime(2025, 5, 13).date():
         current_request += len(stocks) # On met à jour le compteur global pour l'affichage
         continue
 
