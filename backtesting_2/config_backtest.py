@@ -15,8 +15,8 @@ from pathlib import Path
 TICKERS = ["NKE", "TGT", "DIS", "SBUX", "TSLA"]
 
 # ── Dates du backtest ─────────────────────────────────────────────────────────
-BACKTEST_START = "2026-05-01"
-BACKTEST_END = "2026-05-31"
+BACKTEST_START = "2025-05-01"
+BACKTEST_END   = "2025-05-31"
 
 # ── Capital notionnel ─────────────────────────────────────────────────────────
 INITIAL_CAPITAL = 100_000.0
@@ -39,8 +39,8 @@ FREQUENCY = 252                    # jours de trading par an
 # ── Prix ──────────────────────────────────────────────────────────────────────
 # Pour un backtest sur mai 2026 avec momentum 1m/3m, on prend un historique
 # dès janvier 2026. Si MOMENTUM_WINDOWS contient 6, passer à 2025-10-01 environ.
-PRICE_START = "2026-01-01"
-PRICE_END = "2026-06-01"
+PRICE_START = "2025-01-01"
+PRICE_END   = "2025-06-01"
 
 # Source de prix :
 # - "yahoo" : recommandé pour un test autonome sans clé API
