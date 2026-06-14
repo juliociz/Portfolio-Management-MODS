@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-05",
+    "window_start": "2026-05-04 16:00",
+    "window_end": "2026-05-05 09:27",
+    "articles": [
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260504T230821",
+            "title": "TXT Stock Price Prediction 2025-2026 | Textron Inc Forecast | 24/7 Wall St.",
+            "summary": "24/7 Wall St. has issued a \"BUY\" rating for Textron Inc (TXT) with a 12-month target price of $108.50, suggesting an 18.41% upside from its current price of $91.63. The forecast includes optimistic and conservative scenarios, as well as a 5-year projection to 2031 with a target of $155.14. Analyst sentiment from Wall Street is primarily \"Buy\" or \"Hold,\" with no \"Sell\" ratings, highlighting a favorable outlook for the stock.",
+            "text_to_analyze": "TXT Stock Price Prediction 2025-2026 | Textron Inc Forecast | 24/7 Wall St.. 24/7 Wall St. has issued a \"BUY\" rating for Textron Inc (TXT) with a 12-month target price of $108.50, suggesting an 18.41% upside from its current price of $91.63. The forecast includes optimistic and conservative scenarios, as well as a 5-year projection to 2031 with a target of $155.14. Analyst sentiment from Wall Street is primarily \"Buy\" or \"Hold,\" with no \"Sell\" ratings, highlighting a favorable outlook for the stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.609361
+        },
+        {
+            "source": "Perishable News",
+            "date": "20260504T160915",
+            "title": "Mama’s Creations Redefines the Modern Deli Experience with Major National Retail Expansion",
+            "summary": "Mama’s Creations, a leading provider of fresh deli-prepared foods, has announced a significant retail expansion, rolling out its products to 2,000 Walmart and 750 Target locations nationwide. This move aims to meet consumer demand for convenient, quality meal solutions and assist retailers facing labor shortages. The expansion includes a diverse range of high-protein main dishes under the Mama’s Creations and Mama Mancini’s brands, supported by a comprehensive marketing program.",
+            "text_to_analyze": "Mama’s Creations Redefines the Modern Deli Experience with Major National Retail Expansion. Mama’s Creations, a leading provider of fresh deli-prepared foods, has announced a significant retail expansion, rolling out its products to 2,000 Walmart and 750 Target locations nationwide. This move aims to meet consumer demand for convenient, quality meal solutions and assist retailers facing labor shortages. The expansion includes a diverse range of high-protein main dishes under the Mama’s Creations and Mama Mancini’s brands, supported by a comprehensive marketing program.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.81938
+        }
+    ]
+}

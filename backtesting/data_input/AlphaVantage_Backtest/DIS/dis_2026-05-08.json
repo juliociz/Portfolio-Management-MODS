@@ -1,0 +1,72 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-08",
+    "window_start": "2026-05-07 16:00",
+    "window_end": "2026-05-08 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260508T071835",
+            "title": "ASR Vermogensbeheer N.V. Acquires 8,301 Shares of The Walt Disney Company $DIS",
+            "summary": "ASR Vermogensbeheer N.V. increased its stake in The Walt Disney Company by 3.4% in Q4, acquiring an additional 8,301 shares to bring its total holdings to 249,857 shares, valued at approximately $28.43 million. This increase follows Disney's strong Q2 performance, where it surpassed earnings expectations with an EPS of $1.57 and revenue of $25.17 billion, driven by streaming profitability and park results. Analysts maintain a \"Moderate Buy\" consensus for Disney, with a target price of $134.13.",
+            "text_to_analyze": "ASR Vermogensbeheer N.V. Acquires 8,301 Shares of The Walt Disney Company $DIS. ASR Vermogensbeheer N.V. increased its stake in The Walt Disney Company by 3.4% in Q4, acquiring an additional 8,301 shares to bring its total holdings to 249,857 shares, valued at approximately $28.43 million. This increase follows Disney's strong Q2 performance, where it surpassed earnings expectations with an EPS of $1.57 and revenue of $25.17 billion, driven by streaming profitability and park results. Analysts maintain a \"Moderate Buy\" consensus for Disney, with a target price of $134.13.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260508T020958",
+            "title": "FuboTV Loses 500,000 Subscribers In Q2",
+            "summary": "FuboTV released its Q2 2026 financial results, surpassing analyst estimates for both revenue and earnings despite a drop in North American subscribers to 5.7 million. The company reaffirmed its long-term financial targets, including positive free cash flow by fiscal 2027, and highlighted progress in integrating Disney and Hulu content while developing an AI Assistant for user experience.",
+            "text_to_analyze": "FuboTV Loses 500,000 Subscribers In Q2. FuboTV released its Q2 2026 financial results, surpassing analyst estimates for both revenue and earnings despite a drop in North American subscribers to 5.7 million. The company reaffirmed its long-term financial targets, including positive free cash flow by fiscal 2027, and highlighted progress in integrating Disney and Hulu content while developing an AI Assistant for user experience.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.734542
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260508T014021",
+            "title": "Playtika lifts 2026 forecast as Disney Solitaire drives Q1",
+            "summary": "Playtika (NASDAQ: PLTK) reported strong Q1 2026 results, with revenue up 5.5% year-over-year to $744.7 million and record direct-to-consumer (DTC) platforms revenue increasing 62.8% year-over-year, largely driven by the performance of Disney Solitaire. Despite a net loss due to a non-cash contingent consideration remeasurement, the company raised its full-year 2026 revenue guidance to $2.75–$2.85 billion and Adjusted EBITDA guidance to $750–$790 million, reflecting confidence in its core portfolio and SuperPlay investments. Tae Lee was also appointed CFO.",
+            "text_to_analyze": "Playtika lifts 2026 forecast as Disney Solitaire drives Q1. Playtika (NASDAQ: PLTK) reported strong Q1 2026 results, with revenue up 5.5% year-over-year to $744.7 million and record direct-to-consumer (DTC) platforms revenue increasing 62.8% year-over-year, largely driven by the performance of Disney Solitaire. Despite a net loss due to a non-cash contingent consideration remeasurement, the company raised its full-year 2026 revenue guidance to $2.75–$2.85 billion and Adjusted EBITDA guidance to $750–$790 million, reflecting confidence in its core portfolio and SuperPlay investments. Tae Lee was also appointed CFO.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.73412
+        },
+        {
+            "source": "MyNewsLA.com",
+            "date": "20260507T194225",
+            "title": "James Cameron and Walt Disney Co. Sued in LA Over `Avatar’ Character",
+            "summary": "Director James Cameron and The Walt Disney Company are facing a lawsuit from Indigenous actress Q’orianka Kilcher, who claims her likeness at age 14 was used without consent to create the \"Avatar\" character Neytiri. Kilcher alleges that Cameron instructed his design team to base Neytiri on her appearance after seeing her as Pocahontas in a Los Angeles Times ad for \"The New World.\" She is seeking compensatory and punitive damages, disgorgement of profits, injunctive relief, and corrective public disclosure, asserting that Cameron exploited her biometric identity and cultural heritage for the film franchise.",
+            "text_to_analyze": "James Cameron and Walt Disney Co. Sued in LA Over `Avatar’ Character. Director James Cameron and The Walt Disney Company are facing a lawsuit from Indigenous actress Q’orianka Kilcher, who claims her likeness at age 14 was used without consent to create the \"Avatar\" character Neytiri. Kilcher alleges that Cameron instructed his design team to base Neytiri on her appearance after seeing her as Pocahontas in a Los Angeles Times ad for \"The New World.\" She is seeking compensatory and punitive damages, disgorgement of profits, injunctive relief, and corrective public disclosure, asserting that Cameron exploited her biometric identity and cultural heritage for the film franchise.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260507T193724",
+            "title": "Walt Disney (NYSE:DIS) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says",
+            "summary": "JPMorgan Chase & Co. raised its price target for Walt Disney (NYSE: DIS) to $139 from $138, maintaining an \"overweight\" rating and suggesting a 28% upside. This follows Disney's strong Q2 performance, beating EPS and revenue expectations, driven by improved streaming margins and park growth. Analyst sentiment remains largely positive, with a \"Moderate Buy\" consensus and an average price target of $134.13, despite some ongoing legal and long-term growth concerns.",
+            "text_to_analyze": "Walt Disney (NYSE:DIS) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says. JPMorgan Chase & Co. raised its price target for Walt Disney (NYSE: DIS) to $139 from $138, maintaining an \"overweight\" rating and suggesting a 28% upside. This follows Disney's strong Q2 performance, beating EPS and revenue expectations, driven by improved streaming margins and park growth. Analyst sentiment remains largely positive, with a \"Moderate Buy\" consensus and an average price target of $134.13, despite some ongoing legal and long-term growth concerns.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.974715
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260507T174032",
+            "title": "Analysts Offer Insights on Communication Services Companies: Reddit Inc Class A (RDDT) and Walt Disney (DIS)",
+            "summary": "Analysts have provided insights on Reddit Inc Class A (RDDT) and Walt Disney (DIS), both in the Communication Services sector. Reddit received a \"Buy\" rating from Phillip Securities with a $200 price target, and a \"Moderate Buy\" consensus overall. Walt Disney received a \"Hold\" rating from TD Cowen, with a price target of $123, and an overall \"Strong Buy\" consensus from analysts.",
+            "text_to_analyze": "Analysts Offer Insights on Communication Services Companies: Reddit Inc Class A (RDDT) and Walt Disney (DIS). Analysts have provided insights on Reddit Inc Class A (RDDT) and Walt Disney (DIS), both in the Communication Services sector. Reddit received a \"Buy\" rating from Phillip Securities with a $200 price target, and a \"Moderate Buy\" consensus overall. Walt Disney received a \"Hold\" rating from TD Cowen, with a price target of $123, and an overall \"Strong Buy\" consensus from analysts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.894146
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260507T160730",
+            "title": "Electronic Arts Deal Still on Track Despite Lower Forecasts, Wedbush Says",
+            "summary": "Wedbush Securities maintains that Electronic Arts (EA) is still a strong candidate for an acquisition despite the company lowering its fiscal year 2023 guidance. While the lowered forecast for net bookings and EPS could deter some suitors, Wedbush believes key potential acquirers like Amazon, Apple, Disney, and Netflix remain interested and the core business still holds significant value. Wedbush also noted that the stock's current valuation makes it an attractive target.",
+            "text_to_analyze": "Electronic Arts Deal Still on Track Despite Lower Forecasts, Wedbush Says. Wedbush Securities maintains that Electronic Arts (EA) is still a strong candidate for an acquisition despite the company lowering its fiscal year 2023 guidance. While the lowered forecast for net bookings and EPS could deter some suitors, Wedbush believes key potential acquirers like Amazon, Apple, Disney, and Netflix remain interested and the core business still holds significant value. Wedbush also noted that the stock's current valuation makes it an attractive target.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.71759
+        }
+    ]
+}

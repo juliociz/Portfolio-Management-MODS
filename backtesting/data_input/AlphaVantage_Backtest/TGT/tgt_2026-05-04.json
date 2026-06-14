@@ -1,0 +1,63 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-04",
+    "window_start": "2026-05-01 16:00",
+    "window_end": "2026-05-04 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260503T112037",
+            "title": "Strs Ohio Sells 5,298 Shares of Ulta Beauty Inc. $ULTA",
+            "summary": "Strs Ohio has reduced its holdings in Ulta Beauty Inc. by 10.1%, selling 5,298 shares in the 4th quarter and now owning 47,282 shares valued at $28.6 million. This comes amidst other institutional investors adjusting their stakes in Ulta, and a director also selling 452 shares. The stock has received a \"Moderate Buy\" rating from analysts with an average price target of $674.23, despite competitive pressures from Walmart and the end of its Target partnership.",
+            "text_to_analyze": "Strs Ohio Sells 5,298 Shares of Ulta Beauty Inc. $ULTA. Strs Ohio has reduced its holdings in Ulta Beauty Inc. by 10.1%, selling 5,298 shares in the 4th quarter and now owning 47,282 shares valued at $28.6 million. This comes amidst other institutional investors adjusting their stakes in Ulta, and a director also selling 452 shares. The stock has received a \"Moderate Buy\" rating from analysts with an average price target of $674.23, despite competitive pressures from Walmart and the end of its Target partnership.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.605751
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260503T110821",
+            "title": "Robertson Stephens Wealth Management LLC Buys 30,254 Shares of Target Corporation $TGT",
+            "summary": "Robertson Stephens Wealth Management LLC significantly increased its stake in Target Corporation, acquiring an additional 30,254 shares to hold a total of 34,497 shares valued at $3.37 million. This comes as Target reported strong quarterly earnings, beating estimates with solid revenue, and declared a quarterly dividend of $1.14 per share, indicating an attractive yield for investors. Meanwhile, other institutional investors like Vanguard Group and State Street Corp also adjusted their positions, and analysts have issued various ratings and price targets for TGT.",
+            "text_to_analyze": "Robertson Stephens Wealth Management LLC Buys 30,254 Shares of Target Corporation $TGT. Robertson Stephens Wealth Management LLC significantly increased its stake in Target Corporation, acquiring an additional 30,254 shares to hold a total of 34,497 shares valued at $3.37 million. This comes as Target reported strong quarterly earnings, beating estimates with solid revenue, and declared a quarterly dividend of $1.14 per share, indicating an attractive yield for investors. Meanwhile, other institutional investors like Vanguard Group and State Street Corp also adjusted their positions, and analysts have issued various ratings and price targets for TGT.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260503T071740",
+            "title": "Artemis Investment Management LLP Reduces Holdings in Ulta Beauty Inc. $ULTA",
+            "summary": "Artemis Investment Management LLP reduced its stake in Ulta Beauty Inc. by 14.7% in the fourth quarter, selling 3,681 shares, while other institutional investors like Vanguard Group Inc. and State Street Corp. increased their holdings. Ulta Beauty reported stronger-than-expected quarterly results with EPS of $8.01 and revenue of $3.90 billion, also issuing FY2026 guidance of $28.05-$28.55 EPS. Analyst sentiment remains mixed but generally positive, with a consensus \"Moderate Buy\" rating and a target price of $674.23, despite varied individual analyst ratings and a recent operational setback with the ending of the Target partnership.",
+            "text_to_analyze": "Artemis Investment Management LLP Reduces Holdings in Ulta Beauty Inc. $ULTA. Artemis Investment Management LLP reduced its stake in Ulta Beauty Inc. by 14.7% in the fourth quarter, selling 3,681 shares, while other institutional investors like Vanguard Group Inc. and State Street Corp. increased their holdings. Ulta Beauty reported stronger-than-expected quarterly results with EPS of $8.01 and revenue of $3.90 billion, also issuing FY2026 guidance of $28.05-$28.55 EPS. Analyst sentiment remains mixed but generally positive, with a consensus \"Moderate Buy\" rating and a target price of $674.23, despite varied individual analyst ratings and a recent operational setback with the ending of the Target partnership.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.61849
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260502T123816",
+            "title": "SevenBridge Financial Group LLC Decreases Stock Holdings in Target Corporation $TGT",
+            "summary": "SevenBridge Financial Group LLC significantly reduced its stake in Target Corporation (NYSE:TGT) by 51.0% in the fourth quarter, selling over 9,000 shares. Despite this, Target reported strong Q4 EPS, beating estimates, and announced a quarterly dividend of $1.14 per share. Various other institutional investors have adjusted their positions in Target, and analysts currently hold a \"Hold\" consensus rating for the stock.",
+            "text_to_analyze": "SevenBridge Financial Group LLC Decreases Stock Holdings in Target Corporation $TGT. SevenBridge Financial Group LLC significantly reduced its stake in Target Corporation (NYSE:TGT) by 51.0% in the fourth quarter, selling over 9,000 shares. Despite this, Target reported strong Q4 EPS, beating estimates, and announced a quarterly dividend of $1.14 per share. Various other institutional investors have adjusted their positions in Target, and analysts currently hold a \"Hold\" consensus rating for the stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260502T060834",
+            "title": "TGT Stock Price and Chart — NYSE:TGT",
+            "summary": "This page provides a comprehensive overview of Target Corporation (TGT) stock, including its current price, historical performance, key financial statistics, and upcoming earnings dates. It also features analyst insights and various investment ideas regarding TGT, highlighting both bullish and bearish perspectives. The article details Target's business operations, diverse brand portfolio, and lists ETFs holding the stock.",
+            "text_to_analyze": "TGT Stock Price and Chart — NYSE:TGT. This page provides a comprehensive overview of Target Corporation (TGT) stock, including its current price, historical performance, key financial statistics, and upcoming earnings dates. It also features analyst insights and various investment ideas regarding TGT, highlighting both bullish and bearish perspectives. The article details Target's business operations, diverse brand portfolio, and lists ETFs holding the stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260502T060829",
+            "title": "Teachers get 10% off at Target May 3-9, plus 50% off membership",
+            "summary": "Target (NYSE: TGT) is offering a 10% storewide discount to verified teachers who are members of Target Circle during Teacher Appreciation Week, May 3-9, 2026. Additionally, verified teachers can get over 50% off an annual Target Circle 360 membership and benefit from simplified verification and year-round offers. The company will also conduct local school activations in Denver and Las Vegas through its Bullseye Builds with Community Program to enhance shared spaces and outdoor learning areas.",
+            "text_to_analyze": "Teachers get 10% off at Target May 3-9, plus 50% off membership. Target (NYSE: TGT) is offering a 10% storewide discount to verified teachers who are members of Target Circle during Teacher Appreciation Week, May 3-9, 2026. Additionally, verified teachers can get over 50% off an annual Target Circle 360 membership and benefit from simplified verification and year-round offers. The company will also conduct local school activations in Denver and Las Vegas through its Bullseye Builds with Community Program to enhance shared spaces and outdoor learning areas.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

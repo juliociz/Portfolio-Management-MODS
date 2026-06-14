@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-15",
+    "window_start": "2026-05-14 16:00",
+    "window_end": "2026-05-15 09:27",
+    "articles": [
+        {
+            "source": "Proactive financial news",
+            "date": "20260515T084035",
+            "title": "Phunware names new CEO, taps Disney+ veteran for AI platform push",
+            "summary": "Phunware Inc. has appointed Dmitry Kroshka as its new CEO and engaged product consultancy Build Something Product Group, led by former Disney+ executive Michael Cerda, to advance its \"2.0 Strategy.\" This strategy focuses on converting the company's mobile, location-aware, and customer engagement capabilities into a unified, AI-enabled platform for large-property operators in hospitality and healthcare. The company aims to sharpen its commercial focus on \"Guest Intelligence\" and has seen strong engagement with its AI Concierge module.",
+            "text_to_analyze": "Phunware names new CEO, taps Disney+ veteran for AI platform push. Phunware Inc. has appointed Dmitry Kroshka as its new CEO and engaged product consultancy Build Something Product Group, led by former Disney+ executive Michael Cerda, to advance its \"2.0 Strategy.\" This strategy focuses on converting the company's mobile, location-aware, and customer engagement capabilities into a unified, AI-enabled platform for large-property operators in hospitality and healthcare. The company aims to sharpen its commercial focus on \"Guest Intelligence\" and has seen strong engagement with its AI Concierge module.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.730312
+        },
+        {
+            "source": "WDWMagic",
+            "date": "20260514T200937",
+            "title": "Disney Springs Columbia Store Set for Major Remodel",
+            "summary": "The Columbia Sportswear store at Disney Springs is scheduled for a major refurbishment, as indicated by a recently filed Notice of Commencement. The remodel plans include updates to the storefront, lighting, wall finishes, fixtures, and paint for the 5,000-square-foot location. It is currently unknown whether the store will close during the renovation period.",
+            "text_to_analyze": "Disney Springs Columbia Store Set for Major Remodel. The Columbia Sportswear store at Disney Springs is scheduled for a major refurbishment, as indicated by a recently filed Notice of Commencement. The remodel plans include updates to the storefront, lighting, wall finishes, fixtures, and paint for the 5,000-square-foot location. It is currently unknown whether the store will close during the renovation period.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.735844
+        },
+        {
+            "source": "PPC Land",
+            "date": "20260514T190903",
+            "title": "Tracy McGrady's OBL lands on Fubo Sports Network in first streaming deal",
+            "summary": "Tracy McGrady's Ones Basketball League (OBL) has secured its first streaming deal with Fubo Sports Network for its Summer 2026 \"OBL: Battle of The Cities\" season. The agreement will bring one-on-one basketball matchups featuring city-based teams with celebrity owners to a streaming audience for the first time, starting May 15, 2026. This partnership expands Fubo Sports Network's content offerings and leverages the growing Free Ad-Supported Streaming TV (FAST) market, especially after FuboTV's merger with Disney's Hulu + Live TV.",
+            "text_to_analyze": "Tracy McGrady's OBL lands on Fubo Sports Network in first streaming deal. Tracy McGrady's Ones Basketball League (OBL) has secured its first streaming deal with Fubo Sports Network for its Summer 2026 \"OBL: Battle of The Cities\" season. The agreement will bring one-on-one basketball matchups featuring city-based teams with celebrity owners to a streaming audience for the first time, starting May 15, 2026. This partnership expands Fubo Sports Network's content offerings and leverages the growing Free Ad-Supported Streaming TV (FAST) market, especially after FuboTV's merger with Disney's Hulu + Live TV.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.717951
+        },
+        {
+            "source": "Good Morning America",
+            "date": "20260514T160900",
+            "title": "Dana Walden talks future of Disney",
+            "summary": "Dana Walden, President and Chief Creative Officer of The Walt Disney Company, discussed Disney's expansive future plans in an interview with \"Good Morning America.\" She highlighted upcoming films like \"The Devil Wears Prada 2\" and \"Toy Story 5,\" praised Disney's streaming services for housing beloved content, and previewed major live events such as the Super Bowl and the Grammys, along with new initiatives for younger audiences, including a Bluey feature at Disneyland. Walden emphasized Disney's commitment to high-quality emotional storytelling and its success in partnering with creators.",
+            "text_to_analyze": "Dana Walden talks future of Disney. Dana Walden, President and Chief Creative Officer of The Walt Disney Company, discussed Disney's expansive future plans in an interview with \"Good Morning America.\" She highlighted upcoming films like \"The Devil Wears Prada 2\" and \"Toy Story 5,\" praised Disney's streaming services for housing beloved content, and previewed major live events such as the Super Bowl and the Grammys, along with new initiatives for younger audiences, including a Bluey feature at Disneyland. Walden emphasized Disney's commitment to high-quality emotional storytelling and its success in partnering with creators.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

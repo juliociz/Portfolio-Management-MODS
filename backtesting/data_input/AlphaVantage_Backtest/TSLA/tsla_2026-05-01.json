@@ -1,0 +1,54 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-01",
+    "window_start": "2026-04-30 16:00",
+    "window_end": "2026-05-01 09:27",
+    "articles": [
+        {
+            "source": "The Detroit News",
+            "date": "20260501T092400",
+            "title": "Tesla sales rebound continues in several European markets in April",
+            "summary": "Tesla's vehicle registrations saw a continued rebound in April across several European markets, including France, Denmark, and the Netherlands, after two years of declines. Despite this recovery and an almost 45% sales rise in Europe during Q1, the company faces growing competition from fast-moving Chinese rivals like BYD and Xpeng, which are eroding its market share. The rebound is partly attributed to increased interest in EVs following the Iran war, rising fuel prices, and a recent European regulatory approval for its driver-assistance software.",
+            "text_to_analyze": "Tesla sales rebound continues in several European markets in April. Tesla's vehicle registrations saw a continued rebound in April across several European markets, including France, Denmark, and the Netherlands, after two years of declines. Despite this recovery and an almost 45% sales rise in Europe during Q1, the company faces growing competition from fast-moving Chinese rivals like BYD and Xpeng, which are eroding its market share. The rebound is partly attributed to increased interest in EVs following the Iran war, rising fuel prices, and a recent European regulatory approval for its driver-assistance software.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260501T090734",
+            "title": "Fifth Third Bancorp Buys 12,329 Shares of Tesla, Inc. $TSLA",
+            "summary": "Fifth Third Bancorp increased its stake in Tesla by 3.0% in the fourth quarter, acquiring an additional 12,329 shares, bringing its total holdings to 429,593 shares worth $193,197,000. Institutional investors and hedge funds own 66.20% of Tesla's stock. Analysts generally have a \"Hold\" consensus rating with a target price of $398.42, amidst mixed sentiment regarding the company's Semi production, FSD risks, and increasing competition.",
+            "text_to_analyze": "Fifth Third Bancorp Buys 12,329 Shares of Tesla, Inc. $TSLA. Fifth Third Bancorp increased its stake in Tesla by 3.0% in the fourth quarter, acquiring an additional 12,329 shares, bringing its total holdings to 429,593 shares worth $193,197,000. Institutional investors and hedge funds own 66.20% of Tesla's stock. Analysts generally have a \"Hold\" consensus rating with a target price of $398.42, amidst mixed sentiment regarding the company's Semi production, FSD risks, and increasing competition.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260501T080842",
+            "title": "Tesla's hidden boost: Over half a billion in revenue came from Musk's private empire",
+            "summary": "NULL",
+            "text_to_analyze": "Tesla's hidden boost: Over half a billion in revenue came from Musk's private empire. NULL",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260501T063846",
+            "title": "Bill Gates Once Called Tesla's Semi Truck Impractical, But Gavin Newsom May Need Elon Musk's All-Electric",
+            "summary": "Bill Gates previously dismissed the Tesla Semi as impractical, but the all-electric hauler is now in mass production and could be crucial for California's clean energy goals. Despite past tensions between Elon Musk and Governor Gavin Newsom, the Semi's competitive price and range make it an attractive option, especially as California pushes for clean transportation. The Semi’s success could also boost Tesla's sales amid declining EV demand in the U.S.",
+            "text_to_analyze": "Bill Gates Once Called Tesla's Semi Truck Impractical, But Gavin Newsom May Need Elon Musk's All-Electric. Bill Gates previously dismissed the Tesla Semi as impractical, but the all-electric hauler is now in mass production and could be crucial for California's clean energy goals. Despite past tensions between Elon Musk and Governor Gavin Newsom, the Semi's competitive price and range make it an attractive option, especially as California pushes for clean transportation. The Semi’s success could also boost Tesla's sales amid declining EV demand in the U.S.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T180841",
+            "title": "Barclays (DJP) sells $300K autocallable notes linked to DIS, NKE, TSLA",
+            "summary": "Barclays Bank PLC has priced $300,000 of Autocallable Contingent Coupon Barrier Notes due May 3, 2027, linked to the common stock of Disney (DIS), Nike (NKE), and Tesla (TSLA). These notes offer a substantial 11.00% per annum contingent coupon but expose investors to potential principal loss if any underlying asset performs poorly. Investors should be aware of the credit risk of Barclays and the potential exercise of U.K. Bail-in Power.",
+            "text_to_analyze": "Barclays (DJP) sells $300K autocallable notes linked to DIS, NKE, TSLA. Barclays Bank PLC has priced $300,000 of Autocallable Contingent Coupon Barrier Notes due May 3, 2027, linked to the common stock of Disney (DIS), Nike (NKE), and Tesla (TSLA). These notes offer a substantial 11.00% per annum contingent coupon but expose investors to potential principal loss if any underlying asset performs poorly. Investors should be aware of the credit risk of Barclays and the potential exercise of U.K. Bail-in Power.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.718189
+        }
+    ]
+}

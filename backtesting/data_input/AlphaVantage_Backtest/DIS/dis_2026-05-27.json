@@ -1,0 +1,36 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-27",
+    "window_start": "2026-05-26 16:00",
+    "window_end": "2026-05-27 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260527T090724",
+            "title": "Employees Retirement System of Texas Sells 485,635 Shares of The Walt Disney Company $DIS",
+            "summary": "The Employees Retirement System of Texas significantly reduced its stake in The Walt Disney Company (NYSE:DIS) by selling 485,635 shares in the fourth quarter, decreasing its holdings by 76.3%. Despite this reduction, many other institutional investors, including Vanguard Group Inc. and State Street Corp, increased their positions in Walt Disney during the same period. The article also provides a mix of positive, neutral, and negative news impacting Disney, alongside its latest financial performance and analyst ratings, which currently give the stock a \"Moderate Buy\" consensus.",
+            "text_to_analyze": "Employees Retirement System of Texas Sells 485,635 Shares of The Walt Disney Company $DIS. The Employees Retirement System of Texas significantly reduced its stake in The Walt Disney Company (NYSE:DIS) by selling 485,635 shares in the fourth quarter, decreasing its holdings by 76.3%. Despite this reduction, many other institutional investors, including Vanguard Group Inc. and State Street Corp, increased their positions in Walt Disney during the same period. The article also provides a mix of positive, neutral, and negative news impacting Disney, alongside its latest financial performance and analyst ratings, which currently give the stock a \"Moderate Buy\" consensus.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Ad Hoc News",
+            "date": "20260527T071231",
+            "title": "The Walt Disney Company stock (US9314271084): focus shifts to streaming profitability and parks resilience",
+            "summary": "The Walt Disney Company's stock is under scrutiny as investors evaluate its streaming milestones, cost management, and theme park performance amidst a complex economic environment and competitive landscape. The company is actively shifting its streaming strategy from subscriber growth to profitability while relying on its parks and experiences division for cash generation. Key revenue drivers include streaming services, theme parks, advertising, and the leveraging of iconic intellectual properties.",
+            "text_to_analyze": "The Walt Disney Company stock (US9314271084): focus shifts to streaming profitability and parks resilience. The Walt Disney Company's stock is under scrutiny as investors evaluate its streaming milestones, cost management, and theme park performance amidst a complex economic environment and competitive landscape. The company is actively shifting its streaming strategy from subscriber growth to profitability while relying on its parks and experiences division for cash generation. Key revenue drivers include streaming services, theme parks, advertising, and the leveraging of iconic intellectual properties.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260527T050735",
+            "title": "How ‘Sofia the First: Royal Magic’ Is Enchanting a Whole New Generation on Disney Jr. and Disney+",
+            "summary": "A brand-new series, \"Sofia the First: Royal Magic,\" set in the world of the Emmy-Award winning \"Sofia the First,\" premiered on Disney Jr. and Disney+. The show, created and executive produced by Craig Gerber, continues Princess Sofia's story, now focusing on her adventures at The Charmswell School for Royal Magic, designed to help her master her magical abilities. The series features updated animation and includes returning voice actors, as well as appearances from various Disney Princesses like Moana, Rapunzel, Jasmine, Cinderella, Aurora, and Elena of Avalor.",
+            "text_to_analyze": "How ‘Sofia the First: Royal Magic’ Is Enchanting a Whole New Generation on Disney Jr. and Disney+. A brand-new series, \"Sofia the First: Royal Magic,\" set in the world of the Emmy-Award winning \"Sofia the First,\" premiered on Disney Jr. and Disney+. The show, created and executive produced by Craig Gerber, continues Princess Sofia's story, now focusing on her adventures at The Charmswell School for Royal Magic, designed to help her master her magical abilities. The series features updated animation and includes returning voice actors, as well as appearances from various Disney Princesses like Moana, Rapunzel, Jasmine, Cinderella, Aurora, and Elena of Avalor.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

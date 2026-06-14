@@ -1,0 +1,81 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-18",
+    "window_start": "2026-05-15 16:00",
+    "window_end": "2026-05-18 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260518T073731",
+            "title": "Cambridge Investment Research Advisors Inc. Sells 10,172 Shares of The Walt Disney Company $DIS",
+            "summary": "Cambridge Investment Research Advisors Inc. reduced its stake in The Walt Disney Company by 3.2% in the fourth quarter, selling 10,172 shares and holding 309,444 shares valued at approximately $35.2 million. The fund's action comes as Disney reported strong earnings, beating analyst expectations with an EPS of $1.57 and revenue of $25.17 billion, along with a 6.5% year-over-year revenue increase. Wall Street maintains a \"Moderate Buy\" consensus for DIS with a target price of $134.47, driven by positive news regarding park demand and strategic growth initiatives.",
+            "text_to_analyze": "Cambridge Investment Research Advisors Inc. Sells 10,172 Shares of The Walt Disney Company $DIS. Cambridge Investment Research Advisors Inc. reduced its stake in The Walt Disney Company by 3.2% in the fourth quarter, selling 10,172 shares and holding 309,444 shares valued at approximately $35.2 million. The fund's action comes as Disney reported strong earnings, beating analyst expectations with an EPS of $1.57 and revenue of $25.17 billion, along with a 6.5% year-over-year revenue increase. Wall Street maintains a \"Moderate Buy\" consensus for DIS with a target price of $134.47, driven by positive news regarding park demand and strategic growth initiatives.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.980114
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260517T101325",
+            "title": "Millennium Capital Advisors LLC Invests $746,000 in The Walt Disney Company $DIS",
+            "summary": "Millennium Capital Advisors LLC has invested $746,000 in The Walt Disney Company by acquiring 6,556 shares in the fourth quarter. This move comes as Disney reported strong quarterly results, beating EPS and revenue expectations. Analysts generally maintain a \"Moderate Buy\" rating for Disney, with an average price target of $134.47, reflecting positive sentiment about its performance and future strategies.",
+            "text_to_analyze": "Millennium Capital Advisors LLC Invests $746,000 in The Walt Disney Company $DIS. Millennium Capital Advisors LLC has invested $746,000 in The Walt Disney Company by acquiring 6,556 shares in the fourth quarter. This move comes as Disney reported strong quarterly results, beating EPS and revenue expectations. Analysts generally maintain a \"Moderate Buy\" rating for Disney, with an average price target of $134.47, reflecting positive sentiment about its performance and future strategies.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260516T105136",
+            "title": "Lawood & Co. Makes New Investment in The Walt Disney Company $DIS",
+            "summary": "Lawood & Co. recently purchased 6,227 shares of The Walt Disney Company, amounting to an investment of approximately $708,000. This investment follows Disney's stronger-than-expected earnings results, with the company reporting $1.57 EPS and $25.17 billion in revenue for the last quarter. Analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $134.47, indicating a positive outlook for the stock.",
+            "text_to_analyze": "Lawood & Co. Makes New Investment in The Walt Disney Company $DIS. Lawood & Co. recently purchased 6,227 shares of The Walt Disney Company, amounting to an investment of approximately $708,000. This investment follows Disney's stronger-than-expected earnings results, with the company reporting $1.57 EPS and $25.17 billion in revenue for the last quarter. Analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $134.47, indicating a positive outlook for the stock.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.957707
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260516T103836",
+            "title": "The Walt Disney Company $DIS Stock Holdings Increased by Lockheed Martin Investment Management Co.",
+            "summary": "Lockheed Martin Investment Management Co. significantly increased its stake in The Walt Disney Company ($DIS) by 54.8% in Q4, reaching 41,800 shares valued at $4.76 million. This increase follows Disney's strong quarterly results, which surpassed analyst expectations for both EPS and revenue, and positive sentiment from analysts who have raised price targets. Alongside other institutional investors, Lockheed Martin's boost highlights continued confidence in Disney's financial performance and future strategies.",
+            "text_to_analyze": "The Walt Disney Company $DIS Stock Holdings Increased by Lockheed Martin Investment Management Co.. Lockheed Martin Investment Management Co. significantly increased its stake in The Walt Disney Company ($DIS) by 54.8% in Q4, reaching 41,800 shares valued at $4.76 million. This increase follows Disney's strong quarterly results, which surpassed analyst expectations for both EPS and revenue, and positive sentiment from analysts who have raised price targets. Alongside other institutional investors, Lockheed Martin's boost highlights continued confidence in Disney's financial performance and future strategies.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260516T083724",
+            "title": "DNB Asset Management AS Has $60.96 Million Stake in The Walt Disney Company $DIS",
+            "summary": "DNB Asset Management AS increased its stake in The Walt Disney Company by 6.3% in Q4, acquiring an additional 31,657 shares to hold a total of 535,794 shares valued at $60.96 million. Institutional investors and hedge funds collectively own 65.71% of Disney's stock, reflecting strong professional interest. This comes after Disney reported better-than-expected Q2 results, prompting analysts to raise price targets and maintain a generally \"Moderate Buy\" rating for the stock.",
+            "text_to_analyze": "DNB Asset Management AS Has $60.96 Million Stake in The Walt Disney Company $DIS. DNB Asset Management AS increased its stake in The Walt Disney Company by 6.3% in Q4, acquiring an additional 31,657 shares to hold a total of 535,794 shares valued at $60.96 million. Institutional investors and hedge funds collectively own 65.71% of Disney's stock, reflecting strong professional interest. This comes after Disney reported better-than-expected Q2 results, prompting analysts to raise price targets and maintain a generally \"Moderate Buy\" rating for the stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260516T074042",
+            "title": "Applied Finance Capital Management LLC Raises Stock Holdings in The Walt Disney Company $DIS",
+            "summary": "Applied Finance Capital Management LLC increased its holdings in The Walt Disney Company by 10.1% in the fourth quarter of 2025, purchasing 21,233 additional shares to reach a total of 231,511 shares valued at $26.3 million. Other institutional investors also raised their stakes, bringing total institutional ownership to 65.71%. This increased interest comes as Disney reported strong quarterly earnings, beating analyst expectations with $1.57 EPS and $25.17 billion in revenue, leading analysts to maintain a \"Moderate Buy\" rating with an average price target of $134.47.",
+            "text_to_analyze": "Applied Finance Capital Management LLC Raises Stock Holdings in The Walt Disney Company $DIS. Applied Finance Capital Management LLC increased its holdings in The Walt Disney Company by 10.1% in the fourth quarter of 2025, purchasing 21,233 additional shares to reach a total of 231,511 shares valued at $26.3 million. Other institutional investors also raised their stakes, bringing total institutional ownership to 65.71%. This increased interest comes as Disney reported strong quarterly earnings, beating analyst expectations with $1.57 EPS and $25.17 billion in revenue, leading analysts to maintain a \"Moderate Buy\" rating with an average price target of $134.47.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260516T040724",
+            "title": "The Walt Disney Company (DIS) Price Target Raised Following Strong Q2 Report",
+            "summary": "Citi has raised its price target for The Walt Disney Company (NYSE: DIS) from $135 to $145, maintaining a 'Buy' rating after the company reported strong Q2 results. Disney's revenue and total segment operating income both grew by 7% and 4% respectively, surpassing guidance. The company anticipates 12% adjusted EPS growth for FY 2026 and double-digit growth for FY 2027, alongside targeting at least $8 billion in share repurchases this year.",
+            "text_to_analyze": "The Walt Disney Company (DIS) Price Target Raised Following Strong Q2 Report. Citi has raised its price target for The Walt Disney Company (NYSE: DIS) from $135 to $145, maintaining a 'Buy' rating after the company reported strong Q2 results. Disney's revenue and total segment operating income both grew by 7% and 4% respectively, surpassing guidance. The company anticipates 12% adjusted EPS growth for FY 2026 and double-digit growth for FY 2027, alongside targeting at least $8 billion in share repurchases this year.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260515T210724",
+            "title": "The Walt Disney Company (DIS) is attracting investor attention: Here is what you should know",
+            "summary": "This article states that The Walt Disney Company (DIS) is gaining investor attention but does not provide any further details or analysis. It suggests that readers might want to investigate the company further.",
+            "text_to_analyze": "The Walt Disney Company (DIS) is attracting investor attention: Here is what you should know. This article states that The Walt Disney Company (DIS) is gaining investor attention but does not provide any further details or analysis. It suggests that readers might want to investigate the company further.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

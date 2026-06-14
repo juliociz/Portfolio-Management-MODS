@@ -1,0 +1,72 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-22",
+    "window_start": "2026-05-21 16:00",
+    "window_end": "2026-05-22 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260522T083808",
+            "title": "Nike Stock Is Testing A Level That Could Define The Next Move",
+            "summary": "Nike Inc (NYSE: NKE) shares are showing upward movement as investors shift towards consumer and cyclical exposure, despite the stock being in a long-term downtrend. The article highlights that this move is more about positioning unwind than a fundamental revelation, with the stock still needing to overcome key resistance levels like $47.00 to signal a true turnaround. Recent improvements in the broader market, including falling energy prices and easing Treasury yields, contributed to Nike's lift.",
+            "text_to_analyze": "Nike Stock Is Testing A Level That Could Define The Next Move. Nike Inc (NYSE: NKE) shares are showing upward movement as investors shift towards consumer and cyclical exposure, despite the stock being in a long-term downtrend. The article highlights that this move is more about positioning unwind than a fundamental revelation, with the stock still needing to overcome key resistance levels like $47.00 to signal a true turnaround. Recent improvements in the broader market, including falling energy prices and easing Treasury yields, contributed to Nike's lift.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260522T080936",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
+            "summary": "This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (BVL:NKEUS) stock from multiple contributors on TradingView. It covers diverse strategies, including Fibonacci analysis for entry points, options trading like selling bull puts, and interpretations of financial reports and technical indicators such as RSI, MACD, and Bollinger Bands. The contributors offer both bullish and bearish outlooks, discussing potential price movements, earnings impacts, and cost-cutting measures by Nike.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (BVL:NKEUS) stock from multiple contributors on TradingView. It covers diverse strategies, including Fibonacci analysis for entry points, options trading like selling bull puts, and interpretations of financial reports and technical indicators such as RSI, MACD, and Bollinger Bands. The contributors offer both bullish and bearish outlooks, discussing potential price movements, earnings impacts, and cost-cutting measures by Nike.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260522T033918",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. (NKEUS, NKE) from different traders and analysts. Several contributors highlight Nike's significantly reduced P/E ratio, its stock decline from historical peaks, and an oversold technical status as potential buying opportunities for long-term investors. Institutional investor interest, upcoming Olympic-driven sales, and the company's strong brand equity are also cited as factors supporting a potential recovery.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trade ideas and analyses for NIKE, Inc. (NKEUS, NKE) from different traders and analysts. Several contributors highlight Nike's significantly reduced P/E ratio, its stock decline from historical peaks, and an oversold technical status as potential buying opportunities for long-term investors. Institutional investor interest, upcoming Olympic-driven sales, and the company's strong brand equity are also cited as factors supporting a potential recovery.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260522T023840",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUS) from different contributors on TradingView. It covers both bullish and bearish technical outlooks, recent financial performance including a sales drop and earnings beat, and the impact of the new CEO appointment, Elliott Hill. The analyses provide key price levels to watch and discuss potential future movements for the stock.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUS) from different contributors on TradingView. It covers both bullish and bearish technical outlooks, recent financial performance including a sales drop and earnings beat, and the impact of the new CEO appointment, Elliott Hill. The analyses provide key price levels to watch and discuss potential future movements for the stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260521T233838",
+            "title": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), discussing both bullish and bearish perspectives. Many contributors highlight Nike's recent significant sell-off, current discounted price, and key fundamental challenges including margin pressures, weakness in China, and a slower-than-expected turnaround. Several analyses delve into technical indicators, potential support and resistance levels, and different scenarios for the stock's future performance, with some pointing to potential recovery drivers like upcoming global sporting events and a possible resolution of tariff issues.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD. This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), discussing both bullish and bearish perspectives. Many contributors highlight Nike's recent significant sell-off, current discounted price, and key fundamental challenges including margin pressures, weakness in China, and a slower-than-expected turnaround. Several analyses delve into technical indicators, potential support and resistance levels, and different scenarios for the stock's future performance, with some pointing to potential recovery drivers like upcoming global sporting events and a possible resolution of tariff issues.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260521T233811",
+            "title": "Current ratio of NIKE, Inc. Class B – BVL:NKEUS",
+            "summary": "This article displays the current ratio for NIKE, Inc. Class B, trading under the symbol BVL:NKEUS on the Lima Stock Exchange. The page provides a table for financial period data, although no specific values are presented in the provided content snippet.",
+            "text_to_analyze": "Current ratio of NIKE, Inc. Class B – BVL:NKEUS. This article displays the current ratio for NIKE, Inc. Class B, trading under the symbol BVL:NKEUS on the Lima Stock Exchange. The page provides a table for financial period data, although no specific values are presented in the provided content snippet.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260521T204051",
+            "title": "Book value per share of NIKE, Inc. Class B – BVL:NKEUS",
+            "summary": "This article focuses on the book value per share of NIKE, Inc. Class B (BVL:NKEUS) on the Lima Stock Exchange. It provides financial data and indicates that the market is currently closed with no trades. The article is sourced from TradingView, with market data from ICE Data Services and reference data from FactSet.",
+            "text_to_analyze": "Book value per share of NIKE, Inc. Class B – BVL:NKEUS. This article focuses on the book value per share of NIKE, Inc. Class B (BVL:NKEUS) on the Lima Stock Exchange. It provides financial data and indicates that the market is currently closed with no trades. The article is sourced from TradingView, with market data from ICE Data Services and reference data from FactSet.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

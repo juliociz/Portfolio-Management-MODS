@@ -1,0 +1,90 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-19",
+    "window_start": "2026-05-18 16:00",
+    "window_end": "2026-05-19 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260519T092542",
+            "title": "North Dakota State Investment Board Invests $3.29 Million in Starbucks Corporation $SBUX",
+            "summary": "The North Dakota State Investment Board initiated a new position in Starbucks Corporation, purchasing 39,009 shares valued at approximately $3.29 million during the fourth quarter. This move comes as Starbucks reported stronger-than-expected quarterly earnings, beating analyst estimates for both EPS and revenue, amid ongoing corporate restructuring efforts including job cuts and office closures. Analysts maintain a \"Moderate Buy\" consensus rating with a $107.48 price target for the company.",
+            "text_to_analyze": "North Dakota State Investment Board Invests $3.29 Million in Starbucks Corporation $SBUX. The North Dakota State Investment Board initiated a new position in Starbucks Corporation, purchasing 39,009 shares valued at approximately $3.29 million during the fourth quarter. This move comes as Starbucks reported stronger-than-expected quarterly earnings, beating analyst estimates for both EPS and revenue, amid ongoing corporate restructuring efforts including job cuts and office closures. Analysts maintain a \"Moderate Buy\" consensus rating with a $107.48 price target for the company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.961266
+        },
+        {
+            "source": "CNN",
+            "date": "20260519T080819",
+            "title": "Starbucks Korea CEO fired after ‘Tank Day’ promo evokes brutal crackdown on democracy",
+            "summary": "The CEO of Starbucks Korea was fired after a marketing campaign promoting \"Tank\" tumblers on Democratisation Movement Day sparked outrage for evoking the brutal 1980 military crackdown on pro-democracy protesters in Gwangju. Shinsegae Group, which licenses Starbucks in South Korea, dismissed Sohn Jeong-hyun for \"inappropriate marketing.\" Both Starbucks Korea and Shinsegae Group, as well as Starbucks Global, have issued apologies, and an investigation into the incident is underway.",
+            "text_to_analyze": "Starbucks Korea CEO fired after ‘Tank Day’ promo evokes brutal crackdown on democracy. The CEO of Starbucks Korea was fired after a marketing campaign promoting \"Tank\" tumblers on Democratisation Movement Day sparked outrage for evoking the brutal 1980 military crackdown on pro-democracy protesters in Gwangju. Shinsegae Group, which licenses Starbucks in South Korea, dismissed Sohn Jeong-hyun for \"inappropriate marketing.\" Both Starbucks Korea and Shinsegae Group, as well as Starbucks Global, have issued apologies, and an investigation into the incident is underway.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.955873
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260519T040825",
+            "title": "Starbucks prices tender offer for up to $1.32 billion in notes",
+            "summary": "Starbucks announced the pricing terms for its cash tender offers to repurchase approximately $1.32 billion of notes across eight series. While the coffee giant's shares are near their 52-week high, InvestingPro analysis suggests the company is currently overvalued. The tender offer received strong interest, with the aggregate purchase price exceeding the company's cap, leading to proration for accepted notes.",
+            "text_to_analyze": "Starbucks prices tender offer for up to $1.32 billion in notes. Starbucks announced the pricing terms for its cash tender offers to repurchase approximately $1.32 billion of notes across eight series. While the coffee giant's shares are near their 52-week high, InvestingPro analysis suggests the company is currently overvalued. The tender offer received strong interest, with the aggregate purchase price exceeding the company's cap, leading to proration for accepted notes.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.918924
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260519T020827",
+            "title": "Starbucks Corp. stock (US8552441094): bond tender move puts balance sheet in focus",
+            "summary": "Starbucks Corp. has announced the pricing terms for upsized cash tender offers for eight series of outstanding notes, highlighting the company's proactive approach to managing its significant debt load. This move aims to optimize its capital structure, potentially reduce interest expenses, and smooth out debt maturities. The article discusses the implications for equity holders, Starbucks' core business model, recent stock performance, and earnings context, emphasizing its importance as a barometer for consumer spending and a key component of US consumer discretionary investments.",
+            "text_to_analyze": "Starbucks Corp. stock (US8552441094): bond tender move puts balance sheet in focus. Starbucks Corp. has announced the pricing terms for upsized cash tender offers for eight series of outstanding notes, highlighting the company's proactive approach to managing its significant debt load. This move aims to optimize its capital structure, potentially reduce interest expenses, and smooth out debt maturities. The article discusses the implications for equity holders, Starbucks' core business model, recent stock performance, and earnings context, emphasizing its importance as a barometer for consumer spending and a key component of US consumer discretionary investments.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "KOMO",
+            "date": "20260519T003824",
+            "title": "Starbucks to lay off 252 employees tied to support center amid corporate restructuring",
+            "summary": "Starbucks plans to lay off 252 employees associated with its Seattle support center, including remote workers, as part of a corporate restructuring led by CEO Brian Niccol. The layoffs are expected to begin in July and continue through early 2027, affecting various corporate positions. This move follows previous workforce reductions and the company's announcement of a major corporate presence in Nashville, raising questions about its long-term footprint in Seattle.",
+            "text_to_analyze": "Starbucks to lay off 252 employees tied to support center amid corporate restructuring. Starbucks plans to lay off 252 employees associated with its Seattle support center, including remote workers, as part of a corporate restructuring led by CEO Brian Niccol. The layoffs are expected to begin in July and continue through early 2027, affecting various corporate positions. This move follows previous workforce reductions and the company's announcement of a major corporate presence in Nashville, raising questions about its long-term footprint in Seattle.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260518T221453",
+            "title": "Starbucks closes Atlanta office as it expands in Nashville",
+            "summary": "Starbucks plans to close its regional support office in Atlanta as part of a restructuring plan, which will also affect offices in Chicago, Dallas, and Southern California. This move comes as the company expands its presence in Nashville. The closures are expected to result in the layoff of 300 employees.",
+            "text_to_analyze": "Starbucks closes Atlanta office as it expands in Nashville. Starbucks plans to close its regional support office in Atlanta as part of a restructuring plan, which will also affect offices in Chicago, Dallas, and Southern California. This move comes as the company expands its presence in Nashville. The closures are expected to result in the layoff of 300 employees.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260518T203825",
+            "title": "Starbucks Corp: Announces Pricing Terms for Upsized Tender Offers for Eight Series of Notes",
+            "summary": "Starbucks Corporation announced the pricing terms for its previously commenced cash tender offers to purchase up to $2.0 billion aggregate principal amount of eight series of its outstanding notes. The company increased the aggregate maximum principal amount to be purchased and will accept validly tendered notes on a prorated basis if the total tendered amount exceeds the maximum.",
+            "text_to_analyze": "Starbucks Corp: Announces Pricing Terms for Upsized Tender Offers for Eight Series of Notes. Starbucks Corporation announced the pricing terms for its previously commenced cash tender offers to purchase up to $2.0 billion aggregate principal amount of eight series of its outstanding notes. The company increased the aggregate maximum principal amount to be purchased and will accept validly tendered notes on a prorated basis if the total tendered amount exceeds the maximum.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260518T193818",
+            "title": "Starbucks debt buyback fills early as it prices 8-note tender",
+            "summary": "Starbucks Corporation announced the pricing terms for its upsized tender offers to repurchase eight series of its outstanding notes for cash. The early tender date for the offers was May 15, 2026, and due to significant interest, the company expects to accept no further tenders after this date as the offers were filled early. Holders of accepted notes will receive the Total Consideration and accrued interest on the early settlement date of May 20, 2026.",
+            "text_to_analyze": "Starbucks debt buyback fills early as it prices 8-note tender. Starbucks Corporation announced the pricing terms for its upsized tender offers to repurchase eight series of its outstanding notes for cash. The early tender date for the offers was May 15, 2026, and due to significant interest, the company expects to accept no further tenders after this date as the offers were filled early. Holders of accepted notes will receive the Total Consideration and accrued interest on the early settlement date of May 20, 2026.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.942608
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260518T192725",
+            "title": "Starbucks cuts 300 jobs, shuts four offices ahead of Nashville push",
+            "summary": "Starbucks has announced another round of layoffs, affecting 300 support staff, and the closure of four regional offices. These actions are part of a larger strategy to support the company's significant expansion in Nashville, which includes plans for 2,000 new jobs. The closed offices are located in Chicago, Dallas, Atlanta, and Southern California, with some of their functions being moved to Nashville.",
+            "text_to_analyze": "Starbucks cuts 300 jobs, shuts four offices ahead of Nashville push. Starbucks has announced another round of layoffs, affecting 300 support staff, and the closure of four regional offices. These actions are part of a larger strategy to support the company's significant expansion in Nashville, which includes plans for 2,000 new jobs. The closed offices are located in Chicago, Dallas, Atlanta, and Southern California, with some of their functions being moved to Nashville.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

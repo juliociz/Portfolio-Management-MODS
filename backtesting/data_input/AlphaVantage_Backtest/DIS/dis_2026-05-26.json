@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-26",
+    "window_start": "2026-05-25 16:00",
+    "window_end": "2026-05-26 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260526T090727",
+            "title": "The Walt Disney Company $DIS Shares Acquired by LSV Asset Management",
+            "summary": "LSV Asset Management significantly increased its stake in The Walt Disney Company by 1,539.3% in the fourth quarter, now owning 91,800 shares worth over $10 million. Other institutional investors like Viking Global Investors LP and State Street Corp also hold substantial positions. Analysts currently rate DIS as a \"Moderate Buy\" with a consensus target price of $134.47, following recent positive earnings results and various upgrades and downgrades from brokerages.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Acquired by LSV Asset Management. LSV Asset Management significantly increased its stake in The Walt Disney Company by 1,539.3% in the fourth quarter, now owning 91,800 shares worth over $10 million. Other institutional investors like Viking Global Investors LP and State Street Corp also hold substantial positions. Analysts currently rate DIS as a \"Moderate Buy\" with a consensus target price of $134.47, following recent positive earnings results and various upgrades and downgrades from brokerages.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260526T073726",
+            "title": "AR Asset Management Inc. Takes Position in The Walt Disney Company $DIS",
+            "summary": "AR Asset Management Inc. has acquired a new stake of 10,000 shares, valued at approximately $1.138 million, in The Walt Disney Company during the fourth quarter. This move comes as Disney reported strong earnings, exceeding expectations with $1.57 EPS on $25.17 billion in revenue, and reaffirmed its FY 2026 guidance. While analysts widely rate Disney as a \"Moderate Buy,\" recent news surrounding the company includes both positive sentiment regarding its content library and parks, and negative concerns like a privacy lawsuit and a softer-than-expected box-office debut for \"The Mandalorian and Grogu.\"",
+            "text_to_analyze": "AR Asset Management Inc. Takes Position in The Walt Disney Company $DIS. AR Asset Management Inc. has acquired a new stake of 10,000 shares, valued at approximately $1.138 million, in The Walt Disney Company during the fourth quarter. This move comes as Disney reported strong earnings, exceeding expectations with $1.57 EPS on $25.17 billion in revenue, and reaffirmed its FY 2026 guidance. While analysts widely rate Disney as a \"Moderate Buy,\" recent news surrounding the company includes both positive sentiment regarding its content library and parks, and negative concerns like a privacy lawsuit and a softer-than-expected box-office debut for \"The Mandalorian and Grogu.\"",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.950303
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260526T073726",
+            "title": "The Walt Disney Company stock (US9314271084): earnings momentum, streaming shift and parks tailwind",
+            "summary": "The Walt Disney Company's stock is gaining investor attention following a recent earnings beat, ongoing restructuring, and strategic shifts in its streaming services and theme parks. The company is focusing on profitability in streaming, leveraging its core franchises across various platforms, and benefiting from the recovery of its parks and experiences segment. Despite past volatility, recent results indicate that cost-cutting and strategic repositioning are yielding positive financial results.",
+            "text_to_analyze": "The Walt Disney Company stock (US9314271084): earnings momentum, streaming shift and parks tailwind. The Walt Disney Company's stock is gaining investor attention following a recent earnings beat, ongoing restructuring, and strategic shifts in its streaming services and theme parks. The company is focusing on profitability in streaming, leveraging its core franchises across various platforms, and benefiting from the recovery of its parks and experiences segment. Despite past volatility, recent results indicate that cost-cutting and strategic repositioning are yielding positive financial results.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.992226
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260525T162215",
+            "title": "NFLX Rides on Sports Content Engagement: New Revenue Growth Catalyst?",
+            "summary": "Netflix is increasingly investing in live sports content as a growth strategy, which appears to be gaining traction, particularly highlighted by the success of the World Baseball Classic in Japan. While this strategy is expected to impact operating margins in the near term due to content spending, the company maintains its full-year revenue and operating margin guidance. Rivals like Amazon and Disney are also pursuing similar strategies to leverage live sports for engagement and subscriber growth.",
+            "text_to_analyze": "NFLX Rides on Sports Content Engagement: New Revenue Growth Catalyst?. Netflix is increasingly investing in live sports content as a growth strategy, which appears to be gaining traction, particularly highlighted by the success of the World Baseball Classic in Japan. While this strategy is expected to impact operating margins in the near term due to content spending, the company maintains its full-year revenue and operating margin guidance. Rivals like Amazon and Disney are also pursuing similar strategies to leverage live sports for engagement and subscriber growth.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.600641
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-01",
+    "window_start": "2026-04-30 16:00",
+    "window_end": "2026-05-01 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260501T083422",
+            "title": "GC Wealth Management RIA LLC Has $894,000 Stake in Starbucks Corporation $SBUX",
+            "summary": "GC Wealth Management RIA LLC significantly reduced its stake in Starbucks Corporation by 47.8% in Q4, now holding 10,613 shares valued at approximately $894,000. This comes as Starbucks reported strong Q2 earnings, beating estimates and raising its FY2026 guidance, while also announcing a quarterly dividend of $0.62 per share. Institutional ownership remains high at 72.29%, and analysts maintain a \"Moderate Buy\" rating with a consensus target price of $106.93.",
+            "text_to_analyze": "GC Wealth Management RIA LLC Has $894,000 Stake in Starbucks Corporation $SBUX. GC Wealth Management RIA LLC significantly reduced its stake in Starbucks Corporation by 47.8% in Q4, now holding 10,613 shares valued at approximately $894,000. This comes as Starbucks reported strong Q2 earnings, beating estimates and raising its FY2026 guidance, while also announcing a quarterly dividend of $0.62 per share. Institutional ownership remains high at 72.29%, and analysts maintain a \"Moderate Buy\" rating with a consensus target price of $106.93.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260501T005122",
+            "title": "Starbucks (NASDAQ:SBUX) EVP Sells $210,000.00 in Stock",
+            "summary": "Starbucks EVP Sara Kelly sold 2,000 shares of company stock, valued at $210,000, on April 29th, reducing her stake by 3.35%. This sale occurred after Starbucks reported strong Q2 earnings, beating analyst estimates, and raised its FY26 guidance. Despite the positive earnings, the stock's high valuation and mixed analyst sentiment temper investor enthusiasm.",
+            "text_to_analyze": "Starbucks (NASDAQ:SBUX) EVP Sells $210,000.00 in Stock. Starbucks EVP Sara Kelly sold 2,000 shares of company stock, valued at $210,000, on April 29th, reducing her stake by 3.35%. This sale occurred after Starbucks reported strong Q2 earnings, beating analyst estimates, and raised its FY26 guidance. Despite the positive earnings, the stock's high valuation and mixed analyst sentiment temper investor enthusiasm.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "GuruFocus",
+            "date": "20260430T232615",
+            "title": "Sara Kelly Sells 2,000 Shares of Starbucks Corp (SBUX)",
+            "summary": "Sara Kelly, Executive Vice President and Chief Partner Officer at Starbucks Corp, sold 2,000 shares of SBUX on April 29, 2026. This transaction reduces her total holdings to 57,652.8408 shares. The article notes that Starbucks is currently trading at $105 per share, with a market cap of $120,044.603 million, and a price-to-GF-Value ratio of 1.06, indicating it is fairly valued.",
+            "text_to_analyze": "Sara Kelly Sells 2,000 Shares of Starbucks Corp (SBUX). Sara Kelly, Executive Vice President and Chief Partner Officer at Starbucks Corp, sold 2,000 shares of SBUX on April 29, 2026. This transaction reduces her total holdings to 57,652.8408 shares. The article notes that Starbucks is currently trading at $105 per share, with a market cap of $120,044.603 million, and a price-to-GF-Value ratio of 1.06, indicating it is fairly valued.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260430T225725",
+            "title": "Sara Kelly, Starbucks evp, sells $210,000 in shares",
+            "summary": "Starbucks EVP Sara Kelly sold 2,000 shares of common stock worth $210,000 on April 29, 2026, at $105.00 per share. This sale occurred while Starbucks stock was trading near its 52-week high, although InvestingPro analysis suggests the stock is currently overvalued. The transaction was conducted under a Rule 10b5-1 trading plan adopted in December 2025.",
+            "text_to_analyze": "Sara Kelly, Starbucks evp, sells $210,000 in shares. Starbucks EVP Sara Kelly sold 2,000 shares of common stock worth $210,000 on April 29, 2026, at $105.00 per share. This sale occurred while Starbucks stock was trading near its 52-week high, although InvestingPro analysis suggests the stock is currently overvalued. The transaction was conducted under a Rule 10b5-1 trading plan adopted in December 2025.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T223625",
+            "title": "Planned 2,000-share sale by Starbucks (SBUX) EVP Sara Kelly disclosed",
+            "summary": "Starbucks EVP and Chief Partner Officer Sara Kelly sold 2,000 shares of Starbucks common stock at $105.00 per share on April 29, 2026. This transaction was executed under a pre-arranged Rule 10b5-1 trading plan adopted on December 3, 2025. After the sale, Kelly directly holds 57,652.8408 shares of Starbucks stock, which includes 44.286 shares acquired via an employee stock purchase plan.",
+            "text_to_analyze": "Planned 2,000-share sale by Starbucks (SBUX) EVP Sara Kelly disclosed. Starbucks EVP and Chief Partner Officer Sara Kelly sold 2,000 shares of Starbucks common stock at $105.00 per share on April 29, 2026. This transaction was executed under a pre-arranged Rule 10b5-1 trading plan adopted on December 3, 2025. After the sale, Kelly directly holds 57,652.8408 shares of Starbucks stock, which includes 44.286 shares acquired via an employee stock purchase plan.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T180217",
+            "title": "Vanguard (SBUX) discloses 85.6M-share 7.51% stake in Starbucks",
+            "summary": "Vanguard Capital Management has disclosed a passive investment of 85,640,059 shares, representing a 7.51% stake in Starbucks Corp (SBUX), via a Schedule 13G SEC filing. This institutional ownership filing indicates that Vanguard holds sole voting power over 11,613,831 shares and sole dispositive power over all 85,640,059 shares, consistent with its role as a large asset manager. The filing does not suggest any intent to influence or change the control of Starbucks.",
+            "text_to_analyze": "Vanguard (SBUX) discloses 85.6M-share 7.51% stake in Starbucks. Vanguard Capital Management has disclosed a passive investment of 85,640,059 shares, representing a 7.51% stake in Starbucks Corp (SBUX), via a Schedule 13G SEC filing. This institutional ownership filing indicates that Vanguard holds sole voting power over 11,613,831 shares and sole dispositive power over all 85,640,059 shares, consistent with its role as a large asset manager. The filing does not suggest any intent to influence or change the control of Starbucks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-01",
+    "window_start": "2026-04-30 16:00",
+    "window_end": "2026-05-01 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260501T091225",
+            "title": "Danske Bank A S Grows Holdings in The Walt Disney Company $DIS",
+            "summary": "Danske Bank A S increased its stake in The Walt Disney Company by 15.5% in the fourth quarter, bringing its total holdings to 1,433,252 shares valued at approximately $163 million. Several other institutional investors also adjusted their positions in Disney during the same period. The article also covers recent news impacting Walt Disney, including analyst ratings, compensation changes for tech staff, AI initiatives, content decisions, and regulatory concerns regarding FCC review of ABC station licenses.",
+            "text_to_analyze": "Danske Bank A S Grows Holdings in The Walt Disney Company $DIS. Danske Bank A S increased its stake in The Walt Disney Company by 15.5% in the fourth quarter, bringing its total holdings to 1,433,252 shares valued at approximately $163 million. Several other institutional investors also adjusted their positions in Disney during the same period. The article also covers recent news impacting Walt Disney, including analyst ratings, compensation changes for tech staff, AI initiatives, content decisions, and regulatory concerns regarding FCC review of ABC station licenses.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Orlando Sentinel",
+            "date": "20260501T090000",
+            "title": "Hey, it’s May! How Orlando attractions are gearing up for summer 2026",
+            "summary": "Orlando theme parks and attractions are preparing for a busy summer 2026 season with a variety of new and returning experiences. Walt Disney World is reopening re-themed roller coasters and launching new character experiences, while Universal Orlando is introducing summer blockbuster-related attractions and bringing back popular lagoon shows and parades. Additionally, several water parks are hosting after-hours events, and other local attractions like the Orange County Regional History Center and Orlando Science Center are offering special events throughout May.",
+            "text_to_analyze": "Hey, it’s May! How Orlando attractions are gearing up for summer 2026. Orlando theme parks and attractions are preparing for a busy summer 2026 season with a variety of new and returning experiences. Walt Disney World is reopening re-themed roller coasters and launching new character experiences, while Universal Orlando is introducing summer blockbuster-related attractions and bringing back popular lagoon shows and parades. Additionally, several water parks are hosting after-hours events, and other local attractions like the Orange County Regional History Center and Orlando Science Center are offering special events throughout May.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T183921",
+            "title": "Vanguard (NYSE: DIS) reports 7.49% ownership in Disney common stock",
+            "summary": "Vanguard Capital Management has filed a Schedule 13G, disclosing a 7.49% beneficial ownership in Walt Disney Co/The (NYSE: DIS) common stock as of March 31, 2026. This represents 132,734,000 shares, with Vanguard exercising sole dispositive power over all these shares, but sole voting power over only 17,618,328 shares. The filing indicates a passive investment stance rather than activist intent.",
+            "text_to_analyze": "Vanguard (NYSE: DIS) reports 7.49% ownership in Disney common stock. Vanguard Capital Management has filed a Schedule 13G, disclosing a 7.49% beneficial ownership in Walt Disney Co/The (NYSE: DIS) common stock as of March 31, 2026. This represents 132,734,000 shares, with Vanguard exercising sole dispositive power over all these shares, but sole voting power over only 17,618,328 shares. The filing indicates a passive investment stance rather than activist intent.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T180841",
+            "title": "Barclays (DJP) sells $300K autocallable notes linked to DIS, NKE, TSLA",
+            "summary": "Barclays Bank PLC has priced $300,000 of Autocallable Contingent Coupon Barrier Notes due May 3, 2027, linked to the common stock of Disney (DIS), Nike (NKE), and Tesla (TSLA). These notes offer a substantial 11.00% per annum contingent coupon but expose investors to potential principal loss if any underlying asset performs poorly. Investors should be aware of the credit risk of Barclays and the potential exercise of U.K. Bail-in Power.",
+            "text_to_analyze": "Barclays (DJP) sells $300K autocallable notes linked to DIS, NKE, TSLA. Barclays Bank PLC has priced $300,000 of Autocallable Contingent Coupon Barrier Notes due May 3, 2027, linked to the common stock of Disney (DIS), Nike (NKE), and Tesla (TSLA). These notes offer a substantial 11.00% per annum contingent coupon but expose investors to potential principal loss if any underlying asset performs poorly. Investors should be aware of the credit risk of Barclays and the potential exercise of U.K. Bail-in Power.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.727222
+        },
+        {
+            "source": "Gossip Cop",
+            "date": "20260430T173851",
+            "title": "‘King of the Hill’-Themed WD-40 Cans Are Real, I Tell You Hwat",
+            "summary": "WD-40 has teamed up with Disney Entertainment to release a limited-edition King of the Hill-themed can, available at The Home Depot stores nationwide starting June 1. This collaboration celebrates the long-standing, fan-favorite connection between the multi-use product and the animated series, particularly Hank Hill's frequent use of WD-40. The special cans feature iconic imagery from the show, and their release coincides with the premiere of the 15th season of King of the Hill on Hulu and Disney+.",
+            "text_to_analyze": "‘King of the Hill’-Themed WD-40 Cans Are Real, I Tell You Hwat. WD-40 has teamed up with Disney Entertainment to release a limited-edition King of the Hill-themed can, available at The Home Depot stores nationwide starting June 1. This collaboration celebrates the long-standing, fan-favorite connection between the multi-use product and the animated series, particularly Hank Hill's frequent use of WD-40. The special cans feature iconic imagery from the show, and their release coincides with the premiere of the 15th season of King of the Hill on Hulu and Disney+.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.711187
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T160947",
+            "title": "‘King of the Hill’-Themed WD-40® Multi-Use Product to be Introduced at The Home Depot",
+            "summary": "WD-40 Brand is collaborating with Disney Entertainment to launch a limited-edition \"King of the Hill\"-themed can of its Multi-Use Product, available exclusively at The Home Depot from June 1st to August 31st. This partnership celebrates a long-standing connection between the product and the animated series, stemming from a 1998 episode where the product was featured. The collectable can, designed with elements from the show, appeals to fans and DIYers alike.",
+            "text_to_analyze": "‘King of the Hill’-Themed WD-40® Multi-Use Product to be Introduced at The Home Depot. WD-40 Brand is collaborating with Disney Entertainment to launch a limited-edition \"King of the Hill\"-themed can of its Multi-Use Product, available exclusively at The Home Depot from June 1st to August 31st. This partnership celebrates a long-standing connection between the product and the animated series, stemming from a 1998 episode where the product was featured. The collectable can, designed with elements from the show, appeals to fans and DIYers alike.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.638672
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-18",
+    "window_start": "2026-05-15 16:00",
+    "window_end": "2026-05-18 09:27",
+    "articles": [
+        {
+            "source": "Traders Union",
+            "date": "20260517T193857",
+            "title": "Waystar Holding Corp. engages attendees at Florida HFMA Spring Conference with expert insights and giveaway",
+            "summary": "Waystar Holding Corp. is actively participating in the Florida HFMA Spring Conference, offering industry expertise and an interactive engagement at booth 14, including a Nike sneaker giveaway. The company aims to connect face-to-face with industry professionals and provide real-time answers to revenue cycle questions. Waystar has previously emphasized unified mid-cycle integration in healthcare and successfully helped OSF HealthCare improve query rates and financial performance.",
+            "text_to_analyze": "Waystar Holding Corp. engages attendees at Florida HFMA Spring Conference with expert insights and giveaway. Waystar Holding Corp. is actively participating in the Florida HFMA Spring Conference, offering industry expertise and an interactive engagement at booth 14, including a Nike sneaker giveaway. The company aims to connect face-to-face with industry professionals and provide real-time answers to revenue cycle questions. Waystar has previously emphasized unified mid-cycle integration in healthcare and successfully helped OSF HealthCare improve query rates and financial performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.621726
+        },
+        {
+            "source": "TradingView",
+            "date": "20260517T090806",
+            "title": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. Class B stock (BX:NKEUSD) from different traders on TradingView. The perspectives range from bullish predictions for a rebound in 2026, supported by technical analysis and stabilizing fundamentals, to bearish outlooks based on technical indicators and fundamental challenges like declining net income and revenue. Multiple analyses present specific entry points, profit targets, and stop-loss levels, highlighting potential swing trades and long-term investment strategies.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD. This article compiles various trading ideas and analyses for NIKE, Inc. Class B stock (BX:NKEUSD) from different traders on TradingView. The perspectives range from bullish predictions for a rebound in 2026, supported by technical analysis and stabilizing fundamentals, to bearish outlooks based on technical indicators and fundamental challenges like declining net income and revenue. Multiple analyses present specific entry points, profit targets, and stop-loss levels, highlighting potential swing trades and long-term investment strategies.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.975487
+        },
+        {
+            "source": "TradingView",
+            "date": "20260517T080823",
+            "title": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUSD) from multiple contributors on TradingView. It features both bullish and bearish perspectives, discussing technical indicators, fundamental factors like financial results and market boycotts, and provides specific entry/exit points and risk assessments for potential trades. The analyses touch on current valuations, earning reports, and market sentiment, offering diverse viewpoints on Nike's stock performance.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUSD) from multiple contributors on TradingView. It features both bullish and bearish perspectives, discussing technical indicators, fundamental factors like financial results and market boycotts, and provides specific entry/exit points and risk assessments for potential trades. The analyses touch on current valuations, earning reports, and market sentiment, offering diverse viewpoints on Nike's stock performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260517T073807",
+            "title": "NIKE, Inc. Class B Trade Ideas — GPW:NIKE",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. (NKE) from different authors on TradingView. It covers technical analysis indicating potential rebounds or downward pressures, options strategies, cost-cutting measures by Nike, and mixed outlooks ranging from bullish to bearish based on technical indicators, earnings reports, and market sentiment.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — GPW:NIKE. This article compiles various trading ideas and analyses for NIKE, Inc. (NKE) from different authors on TradingView. It covers technical analysis indicating potential rebounds or downward pressures, options strategies, cost-cutting measures by Nike, and mixed outlooks ranging from bullish to bearish based on technical indicators, earnings reports, and market sentiment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260517T053807",
+            "title": "NIKE, Inc. Class B Trade Ideas — GPW:NIKE",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. Class B (GPW:NIKE) from multiple traders on TradingView. Many analysts suggest a buy rating, citing strong support levels, potential for rebound, brand power, and strategic initiatives, despite short-term revenue challenges. Several contributors also discuss risk management strategies, including the use of LEAPS options, and various price targets for potential upside.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — GPW:NIKE. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (GPW:NIKE) from multiple traders on TradingView. Many analysts suggest a buy rating, citing strong support levels, potential for rebound, brand power, and strategic initiatives, despite short-term revenue challenges. Several contributors also discuss risk management strategies, including the use of LEAPS options, and various price targets for potential upside.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260517T040816",
+            "title": "NIKE, Inc. Class B Trade Ideas — AQUISEU:NKED",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. Class B (NKED), with many analysts suggesting a potential rebound for the stock. Technical analyses highlight strong support levels and reversal signals, while fundamental strengths like brand power and strategic initiatives are discussed. Several commentators propose long positions, with various price targets and specific options strategies, even as some acknowledge short-term challenges and past missteps.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — AQUISEU:NKED. This article compiles various trading ideas and analyses for NIKE, Inc. Class B (NKED), with many analysts suggesting a potential rebound for the stock. Technical analyses highlight strong support levels and reversal signals, while fundamental strengths like brand power and strategic initiatives are discussed. Several commentators propose long positions, with various price targets and specific options strategies, even as some acknowledge short-term challenges and past missteps.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260517T003809",
+            "title": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView",
+            "summary": "This article compiles various trade ideas for Nike (NKE) stock following a significant drop due to poor Q4 FY2024 results and disappointing guidance. Analysts and traders present both short and long positions, discussing technical indicators, support levels, and the company's efforts to regain market share. Many suggest potential short-term rebounds or long-term buying opportunities at lower price points, while acknowledging persistent challenges for Nike.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKEUSD — TradingView. This article compiles various trade ideas for Nike (NKE) stock following a significant drop due to poor Q4 FY2024 results and disappointing guidance. Analysts and traders present both short and long positions, discussing technical indicators, support levels, and the company's efforts to regain market share. Many suggest potential short-term rebounds or long-term buying opportunities at lower price points, while acknowledging persistent challenges for Nike.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260516T013859",
+            "title": "Abercrombie And Fitch TJ Watt Deal Tests YPB Growth Potential",
+            "summary": "Abercrombie & Fitch (ANF) has partnered with NFL star TJ Watt to promote its Your Personal Best (YPB) athleticwear line through an in-store fan event and sweepstakes. This move aims to broaden ANF's appeal as a lifestyle brand, drive foot traffic, and collect customer data, testing whether athlete-led marketing can elevate YPB against competitors like Nike and Lululemon. Investors should monitor if this marketing spend translates into sustained sales and brand relevance, especially given broader cost pressures in the apparel industry.",
+            "text_to_analyze": "Abercrombie And Fitch TJ Watt Deal Tests YPB Growth Potential. Abercrombie & Fitch (ANF) has partnered with NFL star TJ Watt to promote its Your Personal Best (YPB) athleticwear line through an in-store fan event and sweepstakes. This move aims to broaden ANF's appeal as a lifestyle brand, drive foot traffic, and collect customer data, testing whether athlete-led marketing can elevate YPB against competitors like Nike and Lululemon. Investors should monitor if this marketing spend translates into sustained sales and brand relevance, especially given broader cost pressures in the apparel industry.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.629051
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260515T201117",
+            "title": "NIKE (NYSE: NKE) chair Mark Parker gifts 22,230 Class B shares",
+            "summary": "NIKE (NYSE: NKE) executive chairman and director Mark G. Parker reported a bona fide gift of 22,230 Class B Common Stock shares on May 14, 2026, at $0.00 per share. This transaction was pre-arranged through a Rule 10b5-1 trading plan adopted on December 24, 2025. Following the gift, Parker directly holds 625,385 Class B shares and indirectly holds 39,823 shares through the NIKE, Inc. 401(k) Plan.",
+            "text_to_analyze": "NIKE (NYSE: NKE) chair Mark Parker gifts 22,230 Class B shares. NIKE (NYSE: NKE) executive chairman and director Mark G. Parker reported a bona fide gift of 22,230 Class B Common Stock shares on May 14, 2026, at $0.00 per share. This transaction was pre-arranged through a Rule 10b5-1 trading plan adopted on December 24, 2025. Following the gift, Parker directly holds 625,385 Class B shares and indirectly holds 39,823 shares through the NIKE, Inc. 401(k) Plan.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-14",
+    "window_start": "2026-05-13 16:00",
+    "window_end": "2026-05-14 09:27",
+    "articles": [
+        {
+            "source": "TODAY.com",
+            "date": "20260514T033835",
+            "title": "Target, Walmart, More Renovate Stores to Win Back Customers",
+            "summary": "Major retailers like Target, Walmart, and Dollar General are investing heavily in store renovations to attract more customers. These upgrades include improved displays, wider aisles, better lighting, and more efficient layouts to support increased online order pickups. The initiatives aim to enhance the in-store shopping experience and convenience.",
+            "text_to_analyze": "Target, Walmart, More Renovate Stores to Win Back Customers. Major retailers like Target, Walmart, and Dollar General are investing heavily in store renovations to attract more customers. These upgrades include improved displays, wider aisles, better lighting, and more efficient layouts to support increased online order pickups. The initiatives aim to enhance the in-store shopping experience and convenience.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.924891
+        },
+        {
+            "source": "San Francisco Chronicle",
+            "date": "20260513T223927",
+            "title": "Oakland loses its only Gap store",
+            "summary": "Oakland's last remaining Gap store on Lakeshore Avenue is scheduled to close this summer after 26 years. This closure follows other major retailers like Target, Sweet July, and Lululemon leaving Oakland, with some citing safety and theft concerns. The Gap spokesperson confirmed the closure but did not provide a reason.",
+            "text_to_analyze": "Oakland loses its only Gap store. Oakland's last remaining Gap store on Lakeshore Avenue is scheduled to close this summer after 26 years. This closure follows other major retailers like Target, Sweet July, and Lululemon leaving Oakland, with some citing safety and theft concerns. The Gap spokesperson confirmed the closure but did not provide a reason.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.633022
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260513T193629",
+            "title": "Target faces tougher sales backdrop after tax refund boost fades",
+            "summary": "Target Corp (NYSE:TGT) is expected to report strong first-quarter results, but Bank of America forecasts a more challenging sales environment in the second quarter as the impact of tax refunds diminishes. The bank maintained its \"Underperform\" rating, raising its price objective to $110 and increasing its Q1 earnings per share forecast. Analysts are cautious about decelerating sales trends, lingering effects of high gas prices, and the lapping of pricing tailwinds from tariffs in the latter half of 2026.",
+            "text_to_analyze": "Target faces tougher sales backdrop after tax refund boost fades. Target Corp (NYSE:TGT) is expected to report strong first-quarter results, but Bank of America forecasts a more challenging sales environment in the second quarter as the impact of tax refunds diminishes. The bank maintained its \"Underperform\" rating, raising its price objective to $110 and increasing its Q1 earnings per share forecast. Analysts are cautious about decelerating sales trends, lingering effects of high gas prices, and the lapping of pricing tailwinds from tariffs in the latter half of 2026.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

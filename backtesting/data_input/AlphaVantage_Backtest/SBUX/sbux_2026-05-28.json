@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-28",
+    "window_start": "2026-05-27 16:00",
+    "window_end": "2026-05-28 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260527T180953",
+            "title": "Barclays (DJP) offers $4.398M auto‑callable notes with 29% contingent coupon",
+            "summary": "Barclays Bank PLC has priced $4.398 million in market-linked, auto-callable notes due May 25, 2029, offering a 29.00% per annum contingent coupon. These notes are linked to the performance of Intel (INTC), Micron (MU), and Starbucks (SBUX) and include contingent downside principal at risk. The securities can be automatically called early and carry risks such as credit exposure to Barclays and potential principal loss if underlying stocks fall below their thresholds.",
+            "text_to_analyze": "Barclays (DJP) offers $4.398M auto‑callable notes with 29% contingent coupon. Barclays Bank PLC has priced $4.398 million in market-linked, auto-callable notes due May 25, 2029, offering a 29.00% per annum contingent coupon. These notes are linked to the performance of Intel (INTC), Micron (MU), and Starbucks (SBUX) and include contingent downside principal at risk. The securities can be automatically called early and carry risks such as credit exposure to Barclays and potential principal loss if underlying stocks fall below their thresholds.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.817013
+        },
+        {
+            "source": "The Korea Times",
+            "date": "20260527T160814",
+            "title": "Starbucks fiasco puts Shinsegae under financial strain",
+            "summary": "A marketing blunder by Starbucks Korea, perceived as mocking South Korea's democracy movements, is creating significant financial strain for its controlling conglomerate, Shinsegae Group. The controversy could lead to a possible buyback of Starbucks Korea by its Seattle-based parent, resulting in a 640 billion won loss for Emart, a Shinsegae affiliate. Additionally, planned refunds for prepaid gift cards and reduced sales due to public outrage pose further financial challenges for the highly profitable coffee chain.",
+            "text_to_analyze": "Starbucks fiasco puts Shinsegae under financial strain. A marketing blunder by Starbucks Korea, perceived as mocking South Korea's democracy movements, is creating significant financial strain for its controlling conglomerate, Shinsegae Group. The controversy could lead to a possible buyback of Starbucks Korea by its Seattle-based parent, resulting in a 640 billion won loss for Emart, a Shinsegae affiliate. Additionally, planned refunds for prepaid gift cards and reduced sales due to public outrage pose further financial challenges for the highly profitable coffee chain.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.958086
+        }
+    ]
+}

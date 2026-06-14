@@ -1,0 +1,153 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-11",
+    "window_start": "2026-05-08 16:00",
+    "window_end": "2026-05-11 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260511T082623",
+            "title": "The Walt Disney Company $DIS Stock Holdings Decreased by Bryn Mawr Trust Advisors LLC",
+            "summary": "Bryn Mawr Trust Advisors LLC significantly reduced its stake in The Walt Disney Company by 36.6% in the fourth quarter, selling 5,544 shares. Despite this, Disney reported strong earnings, beating EPS and revenue estimates, with revenue up 6.5% year over year. Wall Street maintains a \"Moderate Buy\" rating with a target price of $134.47, and several analysts increased their price targets following the positive quarterly results.",
+            "text_to_analyze": "The Walt Disney Company $DIS Stock Holdings Decreased by Bryn Mawr Trust Advisors LLC. Bryn Mawr Trust Advisors LLC significantly reduced its stake in The Walt Disney Company by 36.6% in the fourth quarter, selling 5,544 shares. Despite this, Disney reported strong earnings, beating EPS and revenue estimates, with revenue up 6.5% year over year. Wall Street maintains a \"Moderate Buy\" rating with a target price of $134.47, and several analysts increased their price targets following the positive quarterly results.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.959774
+        },
+        {
+            "source": "StocksBNB",
+            "date": "20260510T223324",
+            "title": "The Walt Disney Company – Investing in long-term growth runway",
+            "summary": "The Walt Disney Company (DIS) received a maintained \"BUY\" recommendation with an unchanged target price of US$130 from Phillip Securities Research. The report highlights Disney's strong Q2 2026 revenue performance, driven by growth in Entertainment and Experiences segments, and continuing improvements in streaming profitability and engagement. The company's integrated IP ecosystem and ongoing investments in parks and cruises are expected to drive sustainable long-term earnings growth.",
+            "text_to_analyze": "The Walt Disney Company – Investing in long-term growth runway. The Walt Disney Company (DIS) received a maintained \"BUY\" recommendation with an unchanged target price of US$130 from Phillip Securities Research. The report highlights Disney's strong Q2 2026 revenue performance, driven by growth in Entertainment and Experiences segments, and continuing improvements in streaming profitability and engagement. The company's integrated IP ecosystem and ongoing investments in parks and cruises are expected to drive sustainable long-term earnings growth.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260510T183916",
+            "title": "WBTN SEC Filings - WEBTOON ENTERTAINMENT INC. 10-K, 10-Q, 8-K Forms",
+            "summary": "This page provides a comprehensive overview of WEBTOON ENTERTAINMENT INC. (WBTN) SEC filings, including 10-K, 10-Q, and 8-K forms, alongside Form 4 insider trading disclosures. Stock Titan offers near real-time updates from the SEC’s EDGAR system, enhanced with AI-powered summaries, impact scoring, and sentiment analysis for key events. Recent filings highlight insider transactions, tax withholdings, Disney's strategic investment, and quarterly financial reports.",
+            "text_to_analyze": "WBTN SEC Filings - WEBTOON ENTERTAINMENT INC. 10-K, 10-Q, 8-K Forms. This page provides a comprehensive overview of WEBTOON ENTERTAINMENT INC. (WBTN) SEC filings, including 10-K, 10-Q, and 8-K forms, alongside Form 4 insider trading disclosures. Stock Titan offers near real-time updates from the SEC’s EDGAR system, enhanced with AI-powered summaries, impact scoring, and sentiment analysis for key events. Recent filings highlight insider transactions, tax withholdings, Disney's strategic investment, and quarterly financial reports.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.702903
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260510T112923",
+            "title": "The Walt Disney Company $DIS Stake Increased by Osprey Private Wealth LLC",
+            "summary": "Osprey Private Wealth LLC significantly increased its stake in The Walt Disney Company (NYSE:DIS) by 20.9% in the fourth quarter, bringing its total holdings to 55,790 shares valued at approximately $6.35 million. This move is consistent with strong institutional and analyst support for Disney, which holds a consensus \"Moderate Buy\" rating and an average price target of $134.47, following impressive recent earnings results that surpassed expectations in both EPS and revenue.",
+            "text_to_analyze": "The Walt Disney Company $DIS Stake Increased by Osprey Private Wealth LLC. Osprey Private Wealth LLC significantly increased its stake in The Walt Disney Company (NYSE:DIS) by 20.9% in the fourth quarter, bringing its total holdings to 55,790 shares valued at approximately $6.35 million. This move is consistent with strong institutional and analyst support for Disney, which holds a consensus \"Moderate Buy\" rating and an average price target of $134.47, following impressive recent earnings results that surpassed expectations in both EPS and revenue.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260509T211200",
+            "title": "Five Below Bets On Viral Brands Technology And Ex Party City Stores",
+            "summary": "Five Below is focusing on viral, influencer-driven product lines like the Love Island Golden Spray Tan Collection and Disney-themed vacation essentials to attract younger shoppers. The company is also expanding by renovating former Party City locations and leveraging advanced analytics and AI for supply chain management. This strategy positions Five Below at the intersection of discount retail and pop culture, aiming for continued relevance through fast-moving trends and accessible pricing.",
+            "text_to_analyze": "Five Below Bets On Viral Brands Technology And Ex Party City Stores. Five Below is focusing on viral, influencer-driven product lines like the Love Island Golden Spray Tan Collection and Disney-themed vacation essentials to attract younger shoppers. The company is also expanding by renovating former Party City locations and leveraging advanced analytics and AI for supply chain management. This strategy positions Five Below at the intersection of discount retail and pop culture, aiming for continued relevance through fast-moving trends and accessible pricing.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.706061
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T120423",
+            "title": "Yacktman Asset Management LP Decreases Stake in The Walt Disney Company $DIS",
+            "summary": "Yacktman Asset Management LP reduced its holdings in The Walt Disney Company by 1.8% in the fourth quarter, selling 23,932 shares, but it remains its 15th largest holding valued at over $151 million. Despite this trimming, analyst sentiment towards Disney remains largely positive with an average price target of $134.47, following strong quarterly results that beat expectations in EPS and revenue. The company also reaffirmed its FY2026 guidance, with analysts highlighting the continued strength in its streaming and theme park segments.",
+            "text_to_analyze": "Yacktman Asset Management LP Decreases Stake in The Walt Disney Company $DIS. Yacktman Asset Management LP reduced its holdings in The Walt Disney Company by 1.8% in the fourth quarter, selling 23,932 shares, but it remains its 15th largest holding valued at over $151 million. Despite this trimming, analyst sentiment towards Disney remains largely positive with an average price target of $134.47, following strong quarterly results that beat expectations in EPS and revenue. The company also reaffirmed its FY2026 guidance, with analysts highlighting the continued strength in its streaming and theme park segments.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.963504
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260509T114423",
+            "title": "The Walt Disney Company stock (US9314271084): Q2 FY26 earnings show revenue growth but lower EPS on prior tax gain comparison",
+            "summary": "The Walt Disney Company (NYSE: DIS) reported increased revenue but lower earnings per share for its Q2 FY26, largely due to a prior-year one-time tax benefit. Revenue grew 7% to $25.2 billion, driven by subscriptions, affiliate fees, and strong performance in its Experiences segment. The company also returned capital to shareholders through share repurchases and dividends.",
+            "text_to_analyze": "The Walt Disney Company stock (US9314271084): Q2 FY26 earnings show revenue growth but lower EPS on prior tax gain comparison. The Walt Disney Company (NYSE: DIS) reported increased revenue but lower earnings per share for its Q2 FY26, largely due to a prior-year one-time tax benefit. Revenue grew 7% to $25.2 billion, driven by subscriptions, affiliate fees, and strong performance in its Experiences segment. The company also returned capital to shareholders through share repurchases and dividends.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T100724",
+            "title": "MGO One Seven LLC Has $7.14 Million Stock Position in The Walt Disney Company $DIS",
+            "summary": "MGO One Seven LLC significantly increased its stake in The Walt Disney Company by 24.6% in Q4, bringing its total holdings to 62,769 shares valued at $7.14 million. This move is part of a broader trend of institutional investors boosting their positions in Disney, with hedge funds and other large investors collectively owning 65.71% of the company's stock. Recent analyst ratings and company performance indicate a positive sentiment for Disney, driven by strong quarterly results, improving streaming, and theme park performance.",
+            "text_to_analyze": "MGO One Seven LLC Has $7.14 Million Stock Position in The Walt Disney Company $DIS. MGO One Seven LLC significantly increased its stake in The Walt Disney Company by 24.6% in Q4, bringing its total holdings to 62,769 shares valued at $7.14 million. This move is part of a broader trend of institutional investors boosting their positions in Disney, with hedge funds and other large investors collectively owning 65.71% of the company's stock. Recent analyst ratings and company performance indicate a positive sentiment for Disney, driven by strong quarterly results, improving streaming, and theme park performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T083727",
+            "title": "Crossmark Global Holdings Inc. Boosts Stake in The Walt Disney Company $DIS",
+            "summary": "Crossmark Global Holdings Inc. increased its stake in The Walt Disney Company by 5.4% in the fourth quarter, bringing its total to 236,242 shares valued at $26.9 million. Disney recently beat earnings expectations with an EPS of $1.57 and revenue of $25.17 billion, while also maintaining its FY2026 EPS guidance. Wall Street analysts generally hold a \"Moderate Buy\" rating for the stock, with an average target price of $134.47.",
+            "text_to_analyze": "Crossmark Global Holdings Inc. Boosts Stake in The Walt Disney Company $DIS. Crossmark Global Holdings Inc. increased its stake in The Walt Disney Company by 5.4% in the fourth quarter, bringing its total to 236,242 shares valued at $26.9 million. Disney recently beat earnings expectations with an EPS of $1.57 and revenue of $25.17 billion, while also maintaining its FY2026 EPS guidance. Wall Street analysts generally hold a \"Moderate Buy\" rating for the stock, with an average target price of $134.47.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.978187
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T083727",
+            "title": "Ethic Inc. Has $23.31 Million Stake in The Walt Disney Company $DIS",
+            "summary": "Ethic Inc. increased its stake in The Walt Disney Company by 4.3% in the fourth quarter, bringing its total holdings to 204,854 shares valued at $23.31 million. Other institutional investors also adjusted their holdings, with 65.71% of the stock owned by hedge funds and institutions. Analysts maintain a \"Moderate Buy\" consensus rating with an average price target of $134.47, following strong Q1 earnings results that beat revenue and EPS expectations.",
+            "text_to_analyze": "Ethic Inc. Has $23.31 Million Stake in The Walt Disney Company $DIS. Ethic Inc. increased its stake in The Walt Disney Company by 4.3% in the fourth quarter, bringing its total holdings to 204,854 shares valued at $23.31 million. Other institutional investors also adjusted their holdings, with 65.71% of the stock owned by hedge funds and institutions. Analysts maintain a \"Moderate Buy\" consensus rating with an average price target of $134.47, following strong Q1 earnings results that beat revenue and EPS expectations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T080729",
+            "title": "Crestwood Advisors Group LLC Has $5.10 Million Stock Holdings in The Walt Disney Company $DIS",
+            "summary": "Crestwood Advisors Group LLC reduced its stake in The Walt Disney Company by 28.7% in Q4, now holding 44,820 shares valued at approximately $5.1 million. Disney exceeded earnings and revenue expectations in its recent quarter, reporting $1.57 EPS on $25.17 billion revenue and raising its FY2026 EPS guidance to $6.64. Analysts maintain a \"Moderate Buy\" rating, with Citigroup increasing its price target to $145, indicating continued bullish sentiment for DIS.",
+            "text_to_analyze": "Crestwood Advisors Group LLC Has $5.10 Million Stock Holdings in The Walt Disney Company $DIS. Crestwood Advisors Group LLC reduced its stake in The Walt Disney Company by 28.7% in Q4, now holding 44,820 shares valued at approximately $5.1 million. Disney exceeded earnings and revenue expectations in its recent quarter, reporting $1.57 EPS on $25.17 billion revenue and raising its FY2026 EPS guidance to $6.64. Analysts maintain a \"Moderate Buy\" rating, with Citigroup increasing its price target to $145, indicating continued bullish sentiment for DIS.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.967264
+        },
+        {
+            "source": "www.marketscreener.com",
+            "date": "20260509T050726",
+            "title": "The Walt Disney Company to Participate in the MoffettNathanson Media, Internet & Communications Conference",
+            "summary": "The Walt Disney Company announced that Hugh Johnston, Senior Executive Vice President and CFO, will participate in a question-and-answer session at the MoffettNathanson Media, Internet & Communications Conference on May 14, 2026. The session is scheduled for 1:30 p.m. ET / 10:30 a.m. PT and will be available to stream live on the company's investor relations website. A recording will also be archived on the site.",
+            "text_to_analyze": "The Walt Disney Company to Participate in the MoffettNathanson Media, Internet & Communications Conference. The Walt Disney Company announced that Hugh Johnston, Senior Executive Vice President and CFO, will participate in a question-and-answer session at the MoffettNathanson Media, Internet & Communications Conference on May 14, 2026. The session is scheduled for 1:30 p.m. ET / 10:30 a.m. PT and will be available to stream live on the company's investor relations website. A recording will also be archived on the site.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260509T013839",
+            "title": "Analysts’ Top Communication Services Picks: Walt Disney (DIS), TKO Group Holdings (TKO)",
+            "summary": "This article highlights two communication services stocks, Walt Disney (DIS) and TKO Group Holdings (TKO), that recently received bullish sentiments from analysts. Rosenblatt Securities maintained a Buy rating for Disney with a Strong Buy consensus, while Roth MKM maintained a Buy rating for TKO Group Holdings, also with a Strong Buy consensus. Both companies show significant upside potential according to the analysts.",
+            "text_to_analyze": "Analysts’ Top Communication Services Picks: Walt Disney (DIS), TKO Group Holdings (TKO). This article highlights two communication services stocks, Walt Disney (DIS) and TKO Group Holdings (TKO), that recently received bullish sentiments from analysts. Rosenblatt Securities maintained a Buy rating for Disney with a Strong Buy consensus, while Roth MKM maintained a Buy rating for TKO Group Holdings, also with a Strong Buy consensus. Both companies show significant upside potential according to the analysts.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.870908
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260508T233954",
+            "title": "Canadian Imperial Bank of Commerce Launches Disney+ Streaming Partnership",
+            "summary": "Canadian Imperial Bank of Commerce (CIBC) has announced a new partnership with Disney+ to offer streaming benefits to eligible CIBC credit card holders. This collaboration aims to provide added value and entertainment options to CIBC clients. Further details about eligibility and benefit redemption are expected to be released by CIBC.",
+            "text_to_analyze": "Canadian Imperial Bank of Commerce Launches Disney+ Streaming Partnership. Canadian Imperial Bank of Commerce (CIBC) has announced a new partnership with Disney+ to offer streaming benefits to eligible CIBC credit card holders. This collaboration aims to provide added value and entertainment options to CIBC clients. Further details about eligibility and benefit redemption are expected to be released by CIBC.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.713563
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260508T182525",
+            "title": "Disney to livestream CFO Hugh Johnston at May 14 conference",
+            "summary": "The Walt Disney Company announced that its Senior Executive Vice President and Chief Financial Officer, Hugh Johnston, will participate in a question-and-answer session at the MoffettNathanson Media, Internet & Communications Conference on May 14, 2026. The session is scheduled for approximately 1:30 p.m. ET / 10:30 a.m. PT and will be livestreamed on Disney's investor relations website. A recording of the event will also be archived online.",
+            "text_to_analyze": "Disney to livestream CFO Hugh Johnston at May 14 conference. The Walt Disney Company announced that its Senior Executive Vice President and Chief Financial Officer, Hugh Johnston, will participate in a question-and-answer session at the MoffettNathanson Media, Internet & Communications Conference on May 14, 2026. The session is scheduled for approximately 1:30 p.m. ET / 10:30 a.m. PT and will be livestreamed on Disney's investor relations website. A recording of the event will also be archived online.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260508T173725",
+            "title": "Landmark Oasis Documentary Film by Steven Knight Coming to Theatres and Disney+ this Year",
+            "summary": "A new documentary about the legendary British band Oasis, created by Steven Knight and directed by Dylan Southern and Will Lovelace, is set to release this year. The film will cover Liam and Noel Gallagher's 2025 reunion tour, \"Oasis Live ’25,\" offering an uplifting account with behind-the-scenes access and the first joint interviews with the brothers in over two decades. It will debut in select IMAX and cinemas globally on September 11, followed by streaming on Disney+ internationally, and Hulu and Disney+ in the U.S.",
+            "text_to_analyze": "Landmark Oasis Documentary Film by Steven Knight Coming to Theatres and Disney+ this Year. A new documentary about the legendary British band Oasis, created by Steven Knight and directed by Dylan Southern and Will Lovelace, is set to release this year. The film will cover Liam and Noel Gallagher's 2025 reunion tour, \"Oasis Live ’25,\" offering an uplifting account with behind-the-scenes access and the first joint interviews with the brothers in over two decades. It will debut in select IMAX and cinemas globally on September 11, followed by streaming on Disney+ internationally, and Hulu and Disney+ in the U.S.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

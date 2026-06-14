@@ -1,0 +1,90 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-20",
+    "window_start": "2026-05-19 16:00",
+    "window_end": "2026-05-20 09:27",
+    "articles": [
+        {
+            "source": "Barron's",
+            "date": "20260520T090837",
+            "title": "Tesla Has Abandoned the Model S and Mercedes Wants to Fill the High-End EV Void",
+            "summary": "Tesla has discontinued its Model S, creating a void in the high-end electric vehicle market. A rival automaker now sees this as an opportunity to introduce its own luxury EV to fill the gap left by Tesla's decision.",
+            "text_to_analyze": "Tesla Has Abandoned the Model S and Mercedes Wants to Fill the High-End EV Void. Tesla has discontinued its Model S, creating a void in the high-end electric vehicle market. A rival automaker now sees this as an opportunity to introduce its own luxury EV to fill the gap left by Tesla's decision.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260520T084018",
+            "title": "Cullen Frost Bankers Inc. Acquires 5,813 Shares of Tesla, Inc. $TSLA",
+            "summary": "Cullen Frost Bankers Inc. increased its stake in Tesla by 9.1% in the fourth quarter, acquiring an additional 5,813 shares to hold 69,513 shares valued at approximately $31.3 million. This purchase contributes to Tesla's significant institutional ownership, which stands at 66.20%. Analyst sentiment for Tesla is mixed, with a \"Hold\" consensus rating and an average price target of $395.20, despite recent price target increases and \"Buy\" ratings from some firms.",
+            "text_to_analyze": "Cullen Frost Bankers Inc. Acquires 5,813 Shares of Tesla, Inc. $TSLA. Cullen Frost Bankers Inc. increased its stake in Tesla by 9.1% in the fourth quarter, acquiring an additional 5,813 shares to hold 69,513 shares valued at approximately $31.3 million. This purchase contributes to Tesla's significant institutional ownership, which stands at 66.20%. Analyst sentiment for Tesla is mixed, with a \"Hold\" consensus rating and an average price target of $395.20, despite recent price target increases and \"Buy\" ratings from some firms.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Work Truck Online",
+            "date": "20260520T040732",
+            "title": "Edison International Teams Up with Tesla for Battery Storage Projects",
+            "summary": "Edison International has partnered with Tesla to launch new Tesla Energy products, focusing on battery storage projects. Southern California Edison (SCE) and SoCore Energy are implementing systems featuring Tesla Powerpacks for both residential and commercial customers. These initiatives aim to expand the use of clean renewable power and reduce battery storage system costs through demand response demonstration projects.",
+            "text_to_analyze": "Edison International Teams Up with Tesla for Battery Storage Projects. Edison International has partnered with Tesla to launch new Tesla Energy products, focusing on battery storage projects. Southern California Edison (SCE) and SoCore Energy are implementing systems featuring Tesla Powerpacks for both residential and commercial customers. These initiatives aim to expand the use of clean renewable power and reduce battery storage system costs through demand response demonstration projects.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.915022
+        },
+        {
+            "source": "MSN",
+            "date": "20260519T221107",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2123",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2123 per share. This announcement highlights the ETF's strategy to provide income through options, with the distribution record date set for June 3, 2026, and the payable date for June 5, 2026. Shareholders should note that distributions are subject to change and are not guaranteed.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2123. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2123 per share. This announcement highlights the ETF's strategy to provide income through options, with the distribution record date set for June 3, 2026, and the payable date for June 5, 2026. Shareholders should note that distributions are subject to change and are not guaranteed.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.737476
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260519T213840",
+            "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
+            "summary": "YouTuber Zack Nelson has called on Elon Musk to address recent reports of Tesla Robotaxi crashes in Austin. TechCrunch revealed unredacted NHTSA documents showing two low-speed incidents since July 2025 involving supervised robotaxis, where a teleoperator intervention led to a crash with a metal fence. This news adds to previous reports of 5 additional Robotaxi crashes in Austin in January, totaling over 14 incidents since mid-2025, amidst ongoing criticism of Tesla's autonomous driving technology compared to competitors like Waymo.",
+            "text_to_analyze": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'. YouTuber Zack Nelson has called on Elon Musk to address recent reports of Tesla Robotaxi crashes in Austin. TechCrunch revealed unredacted NHTSA documents showing two low-speed incidents since July 2025 involving supervised robotaxis, where a teleoperator intervention led to a crash with a metal fence. This news adds to previous reports of 5 additional Robotaxi crashes in Austin in January, totaling over 14 incidents since mid-2025, amidst ongoing criticism of Tesla's autonomous driving technology compared to competitors like Waymo.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260519T211013",
+            "title": "TD Bank (TD) offers autocallable notes with 6.90% contingent interest",
+            "summary": "TD Bank is offering Autocallable Contingent Interest Notes linked to the performance of Meta Platforms (META), NVIDIA (NVDA), and Tesla (TSLA) stocks. These notes provide a 6.90% contingent annual interest rate, with payments dependent on each reference asset meeting monthly performance thresholds. The notes, which have a principal amount of $1,000 and mature on May 20, 2031, also feature monthly call observation dates where they may be automatically redeemed.",
+            "text_to_analyze": "TD Bank (TD) offers autocallable notes with 6.90% contingent interest. TD Bank is offering Autocallable Contingent Interest Notes linked to the performance of Meta Platforms (META), NVIDIA (NVDA), and Tesla (TSLA) stocks. These notes provide a 6.90% contingent annual interest rate, with payments dependent on each reference asset meeting monthly performance thresholds. The notes, which have a principal amount of $1,000 and mature on May 20, 2031, also feature monthly call observation dates where they may be automatically redeemed.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.713692
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260519T210925",
+            "title": "Barclays (DJP) launches Buffered Autocallable Notes linked to TSLA with 20% buffer",
+            "summary": "Barclays Bank PLC is offering Buffered Autocallable Notes linked to Tesla (TSLA) common stock, featuring a 20.00% buffer against losses. These notes have a principal amount of $1,000, an Issue Date of June 2, 2026, and a Maturity Date of May 31, 2030, with a periodic Call Premium of $170 (17.00% per annum) if automatically redeemed. Investors are exposed to Tesla's stock performance with capped upside and significant downside risk if the buffer is breached, making them suitable for investors willing to accept limited upside for partial downside protection and issuer credit risk.",
+            "text_to_analyze": "Barclays (DJP) launches Buffered Autocallable Notes linked to TSLA with 20% buffer. Barclays Bank PLC is offering Buffered Autocallable Notes linked to Tesla (TSLA) common stock, featuring a 20.00% buffer against losses. These notes have a principal amount of $1,000, an Issue Date of June 2, 2026, and a Maturity Date of May 31, 2030, with a periodic Call Premium of $170 (17.00% per annum) if automatically redeemed. Investors are exposed to Tesla's stock performance with capped upside and significant downside risk if the buffer is breached, making them suitable for investors willing to accept limited upside for partial downside protection and issuer credit risk.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.96654
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260519T191013",
+            "title": "TD Bank (TD) 15.05% auto‑callable notes linked to AMD/META/MU/TSLA",
+            "summary": "TD Bank is offering Series H equity-linked, auto-callable notes with a 15.05% annual coupon, maturing in May 2029. These notes are linked to the performance of AMD, META, MU, and TSLA, with payments dependent on the lowest performing stock. The notes feature monthly callable observation dates and a 20% buffered downside protection, exposing investors to potential losses if the lowest performing underlying stock falls significantly below its starting price.",
+            "text_to_analyze": "TD Bank (TD) 15.05% auto‑callable notes linked to AMD/META/MU/TSLA. TD Bank is offering Series H equity-linked, auto-callable notes with a 15.05% annual coupon, maturing in May 2029. These notes are linked to the performance of AMD, META, MU, and TSLA, with payments dependent on the lowest performing stock. The notes feature monthly callable observation dates and a 20% buffered downside protection, exposing investors to potential losses if the lowest performing underlying stock falls significantly below its starting price.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.820731
+        },
+        {
+            "source": "MSN",
+            "date": "20260519T170955",
+            "title": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2013",
+            "summary": "REX TSLA Growth & Income ETF announced a weekly distribution of $0.2013 per share. This distribution provides investors with regular income from the ETF. The announcement highlights the ETF's income-generating aspect related to TSLA.",
+            "text_to_analyze": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2013. REX TSLA Growth & Income ETF announced a weekly distribution of $0.2013 per share. This distribution provides investors with regular income from the ETF. The announcement highlights the ETF's income-generating aspect related to TSLA.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.966129
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-07",
+    "window_start": "2026-05-06 16:00",
+    "window_end": "2026-05-07 09:27",
+    "articles": [
+        {
+            "source": "Barchart.com",
+            "date": "20260507T070939",
+            "title": "Positioning for a Big Move: SBUX Long Straddle Trade Idea",
+            "summary": "This article suggests a long straddle trade idea for Starbucks (SBUX) given its low implied volatility. The strategy involves buying both a call and a put option with the same strike price and expiration, designed to profit from a significant price movement in either direction or an increase in implied volatility. The author outlines the setup for a July 17th expiry straddle with a maximum loss of $1,000 and discusses risk mitigation strategies such as stop losses and position sizing.",
+            "text_to_analyze": "Positioning for a Big Move: SBUX Long Straddle Trade Idea. This article suggests a long straddle trade idea for Starbucks (SBUX) given its low implied volatility. The strategy involves buying both a call and a put option with the same strike price and expiration, designed to profit from a significant price movement in either direction or an increase in implied volatility. The author outlines the setup for a July 17th expiry straddle with a maximum loss of $1,000 and discusses risk mitigation strategies such as stop losses and position sizing.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

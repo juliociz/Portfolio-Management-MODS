@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-11",
+    "window_start": "2026-05-08 16:00",
+    "window_end": "2026-05-11 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260509T124108",
+            "title": "NIKE, Inc. stock (US6541061031): Dividend affirmed as analysts downgrade outlook",
+            "summary": "NIKE, Inc. has affirmed its quarterly dividend at $0.41 per share despite recent analyst downgrades and ongoing revenue pressure, particularly in North America. The company faces challenges including weaker athletic footwear demand, softened direct and digital sales, and a shift towards lower-margin wholesale channels, leading to a 19% stock decline over the past year. Investors are advised to monitor quarterly results, margin trends, and regional demand as key indicators.",
+            "text_to_analyze": "NIKE, Inc. stock (US6541061031): Dividend affirmed as analysts downgrade outlook. NIKE, Inc. has affirmed its quarterly dividend at $0.41 per share despite recent analyst downgrades and ongoing revenue pressure, particularly in North America. The company faces challenges including weaker athletic footwear demand, softened direct and digital sales, and a shift towards lower-margin wholesale channels, leading to a 19% stock decline over the past year. Investors are advised to monitor quarterly results, margin trends, and regional demand as key indicators.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

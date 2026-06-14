@@ -1,0 +1,54 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-07",
+    "window_start": "2026-05-06 16:00",
+    "window_end": "2026-05-07 09:27",
+    "articles": [
+        {
+            "source": "MSN",
+            "date": "20260507T083804",
+            "title": "Walt Disney, NVIDIA Corp. share gains contribute to Dow's 600-point rally",
+            "summary": "The Dow Jones Industrial Average experienced a significant rally, gaining over 600 points, largely driven by the strong performance of Walt Disney and NVIDIA Corp. These considerable share gains from key companies contributed to the overall positive movement of the index. The article highlights the impact of these corporate successes on the broader market.",
+            "text_to_analyze": "Walt Disney, NVIDIA Corp. share gains contribute to Dow's 600-point rally. The Dow Jones Industrial Average experienced a significant rally, gaining over 600 points, largely driven by the strong performance of Walt Disney and NVIDIA Corp. These considerable share gains from key companies contributed to the overall positive movement of the index. The article highlights the impact of these corporate successes on the broader market.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.714857
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260507T083244",
+            "title": "Indivisible Partners Takes Position in The Walt Disney Company $DIS",
+            "summary": "Indivisible Partners recently acquired a new stake of 7,684 shares in The Walt Disney Company, amounting to approximately $874,000. This comes as Disney exceeded Q2 expectations with an adjusted EPS of $1.57 and revenue of $25.17 billion, driven by streaming reaching its first double-digit profit margin. Analysts generally rate DIS as a \"Moderate Buy\" with an average target price of $133.53.",
+            "text_to_analyze": "Indivisible Partners Takes Position in The Walt Disney Company $DIS. Indivisible Partners recently acquired a new stake of 7,684 shares in The Walt Disney Company, amounting to approximately $874,000. This comes as Disney exceeded Q2 expectations with an adjusted EPS of $1.57 and revenue of $25.17 billion, driven by streaming reaching its first double-digit profit margin. Analysts generally rate DIS as a \"Moderate Buy\" with an average target price of $133.53.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "SEC.gov",
+            "date": "20260506T213955",
+            "title": "Press Release of FuboTV Inc., May 6, 2026. - SEC.gov",
+            "summary": "FuboTV Inc. announced its financial results for Q2 fiscal 2026, reporting record global revenue of $1.574 billion and reaffirming its fiscal year 2026 guidance and long-term financial targets. The company detailed progress on cross-selling and product integrations with Disney following their business combination, aiming to drive subscriber growth. Fubo also plans to launch an AI Assistant this fall to personalize the streaming experience.",
+            "text_to_analyze": "Press Release of FuboTV Inc., May 6, 2026. - SEC.gov. FuboTV Inc. announced its financial results for Q2 fiscal 2026, reporting record global revenue of $1.574 billion and reaffirming its fiscal year 2026 guidance and long-term financial targets. The company detailed progress on cross-selling and product integrations with Disney following their business combination, aiming to drive subscriber growth. Fubo also plans to launch an AI Assistant this fall to personalize the streaming experience.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.705259
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260506T181623",
+            "title": "Walt Disney Co Stock (DIS) Moved Up by 6.11% on May 6: A Full Analysis",
+            "summary": "Walt Disney Co (DIS) stock rose by 6.11% on May 6, driven by its fiscal second-quarter 2026 earnings report which surpassed market expectations. Key factors included robust growth in its streaming business, strong performance in Parks and Experiences, and an increased full-year EPS growth outlook along with a higher share repurchase target. The company's strategic priorities under its new CEO also contributed to investor optimism despite some reported risks like a decrease in GAAP diluted EPS and free cash flow.",
+            "text_to_analyze": "Walt Disney Co Stock (DIS) Moved Up by 6.11% on May 6: A Full Analysis. Walt Disney Co (DIS) stock rose by 6.11% on May 6, driven by its fiscal second-quarter 2026 earnings report which surpassed market expectations. Key factors included robust growth in its streaming business, strong performance in Parks and Experiences, and an increased full-year EPS growth outlook along with a higher share repurchase target. The company's strategic priorities under its new CEO also contributed to investor optimism despite some reported risks like a decrease in GAAP diluted EPS and free cash flow.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Business Insider",
+            "date": "20260506T180805",
+            "title": "Why Liberty Formula One is Morgan Stanley's new top stock pick in media and entertainment",
+            "summary": "Morgan Stanley has named Liberty Formula One (FWONK) as its top stock pick in media and entertainment, citing the motorsport's growing global fan base and its position at the intersection of sports and live events. Despite a recently lowered price target from $120 to $117, the bank sees over 31% upside potential, believing the company offers strong cash flows and resilient monetization in an increasingly fragmented world. Liberty Formula One leads Morgan Stanley's \"Live 5\" list, which also includes TKO, Live Nation, Sphere Entertainment, and Disney, all rated Overweight.",
+            "text_to_analyze": "Why Liberty Formula One is Morgan Stanley's new top stock pick in media and entertainment. Morgan Stanley has named Liberty Formula One (FWONK) as its top stock pick in media and entertainment, citing the motorsport's growing global fan base and its position at the intersection of sports and live events. Despite a recently lowered price target from $120 to $117, the bank sees over 31% upside potential, believing the company offers strong cash flows and resilient monetization in an increasingly fragmented world. Liberty Formula One leads Morgan Stanley's \"Live 5\" list, which also includes TKO, Live Nation, Sphere Entertainment, and Disney, all rated Overweight.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.648686
+        }
+    ]
+}

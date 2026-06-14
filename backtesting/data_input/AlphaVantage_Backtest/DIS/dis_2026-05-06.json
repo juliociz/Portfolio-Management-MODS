@@ -1,0 +1,54 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-06",
+    "window_start": "2026-05-05 16:00",
+    "window_end": "2026-05-06 09:27",
+    "articles": [
+        {
+            "source": "Toy World Magazine",
+            "date": "20260506T080903",
+            "title": "Jakks Pacific renews Disney ILY 4Ever global licence through 2027",
+            "summary": "Jakks Pacific has renewed its global licensing agreement with Disney Consumer Products for the Disney ILY 4Ever doll line through December 31, 2027. This extension builds on a nearly three-decade partnership, allowing Jakks Pacific to continue offering fashion-forward dolls and accessories inspired by Disney characters. The renewed agreement also includes the introduction of a new \"Snugg-ily Styles\" range of collectible dolls, further expanding the brand's presence in the toy market.",
+            "text_to_analyze": "Jakks Pacific renews Disney ILY 4Ever global licence through 2027. Jakks Pacific has renewed its global licensing agreement with Disney Consumer Products for the Disney ILY 4Ever doll line through December 31, 2027. This extension builds on a nearly three-decade partnership, allowing Jakks Pacific to continue offering fashion-forward dolls and accessories inspired by Disney characters. The renewed agreement also includes the introduction of a new \"Snugg-ily Styles\" range of collectible dolls, further expanding the brand's presence in the toy market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.840296
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260506T074728",
+            "title": "The Walt Disney Company $DIS Holdings Trimmed by Bokf Na",
+            "summary": "Bokf Na reduced its stake in The Walt Disney Company (NYSE:DIS) by 36.2% in the fourth quarter, selling 58,198 shares and ending with 102,464 shares valued at $11.66 million. Despite the trim, institutional investors collectively own 65.71% of DIS stock, and equity analysts generally rate Disney as a \"Moderate Buy\" with an average target price of $133.53. Investors are closely awaiting Q2 earnings, due May 6, which are expected to cause volatility, while recent corporate actions like job cuts under new CEO Josh D'Amaro present short-term execution and reputational considerations.",
+            "text_to_analyze": "The Walt Disney Company $DIS Holdings Trimmed by Bokf Na. Bokf Na reduced its stake in The Walt Disney Company (NYSE:DIS) by 36.2% in the fourth quarter, selling 58,198 shares and ending with 102,464 shares valued at $11.66 million. Despite the trim, institutional investors collectively own 65.71% of DIS stock, and equity analysts generally rate Disney as a \"Moderate Buy\" with an average target price of $133.53. Investors are closely awaiting Q2 earnings, due May 6, which are expected to cause volatility, while recent corporate actions like job cuts under new CEO Josh D'Amaro present short-term execution and reputational considerations.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260506T072730",
+            "title": "Walt Disney, AMD And 3 Stocks To Watch Heading Into Wednesday",
+            "summary": "This article highlights five stocks—Kraft Heinz Co. (KHC), Super Micro Computer Inc. (SMCI), Walt Disney Co. (DIS), Advanced Micro Devices Inc. (AMD), and Uber Technologies Inc (UBER)—that investors should watch on Wednesday due to upcoming earnings reports or recent strong financial results. Super Micro Computer and AMD both reported better-than-expected earnings and guidance, causing their shares to surge in after-hours trading. Kraft Heinz, Disney, and Uber are also scheduled to release their quarterly results.",
+            "text_to_analyze": "Walt Disney, AMD And 3 Stocks To Watch Heading Into Wednesday. This article highlights five stocks—Kraft Heinz Co. (KHC), Super Micro Computer Inc. (SMCI), Walt Disney Co. (DIS), Advanced Micro Devices Inc. (AMD), and Uber Technologies Inc (UBER)—that investors should watch on Wednesday due to upcoming earnings reports or recent strong financial results. Super Micro Computer and AMD both reported better-than-expected earnings and guidance, causing their shares to surge in after-hours trading. Kraft Heinz, Disney, and Uber are also scheduled to release their quarterly results.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.95555
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260506T021325",
+            "title": "D23 Asia: The Ultimate Disney Fan Event to Make its Debut in Singapore in 2027",
+            "summary": "The Walt Disney Company announced that D23 Asia: The Ultimate Disney Fan Event will debut in Singapore in 2027. This event marks a significant expansion of Disney's global fan celebrations in the Asia Pacific region, offering exclusive access to Disney storytelling, creativity, and innovation for fans, stars, and storytellers. D23 Asia aims to create a distinctive experience specifically for the Asian audience, blending the creativity and fan-first spirit of D23 events worldwide with local relevance.",
+            "text_to_analyze": "D23 Asia: The Ultimate Disney Fan Event to Make its Debut in Singapore in 2027. The Walt Disney Company announced that D23 Asia: The Ultimate Disney Fan Event will debut in Singapore in 2027. This event marks a significant expansion of Disney's global fan celebrations in the Asia Pacific region, offering exclusive access to Disney storytelling, creativity, and innovation for fans, stars, and storytellers. D23 Asia aims to create a distinctive experience specifically for the Asian audience, blending the creativity and fan-first spirit of D23 events worldwide with local relevance.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AllEars.Net",
+            "date": "20260505T170844",
+            "title": "Five Below Is Dropping NEW Disney Essentials for $5 Each",
+            "summary": "Five Below is offering a range of new Disney essentials, all priced at $5 or less, perfect for a Disney vacation. The collection includes practical items like a portable fan, a hands-free neck fan, Toy Story playing cards for entertainment, and a comprehensive travel emergency kit. These budget-friendly items aim to help visitors stay cool, entertained, and prepared during their trips to Disney.",
+            "text_to_analyze": "Five Below Is Dropping NEW Disney Essentials for $5 Each. Five Below is offering a range of new Disney essentials, all priced at $5 or less, perfect for a Disney vacation. The collection includes practical items like a portable fan, a hands-free neck fan, Toy Story playing cards for entertainment, and a comprehensive travel emergency kit. These budget-friendly items aim to help visitors stay cool, entertained, and prepared during their trips to Disney.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.723428
+        }
+    ]
+}

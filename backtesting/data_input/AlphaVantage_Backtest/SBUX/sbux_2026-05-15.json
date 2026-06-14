@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-15",
+    "window_start": "2026-05-14 16:00",
+    "window_end": "2026-05-15 09:27",
+    "articles": [
+        {
+            "source": "Bloomberg Law News",
+            "date": "20260514T214533",
+            "title": "Starbucks Wins Fifth Circuit Challenge to NLRB Firing Ruling",
+            "summary": "Starbucks Corp. has won its appeals court challenge against a National Labor Relations Board (NLRB) ruling regarding the alleged illegal firing of a worker involved in union activities. The Fifth Circuit Court of Appeals vacated the NLRB's decision, sending the case back for further review, citing that the board did not adequately consider contradictory evidence. The case concerns a shift supervisor dismissed from a Starbucks near Albany, N.Y., who was involved in organizing efforts.",
+            "text_to_analyze": "Starbucks Wins Fifth Circuit Challenge to NLRB Firing Ruling. Starbucks Corp. has won its appeals court challenge against a National Labor Relations Board (NLRB) ruling regarding the alleged illegal firing of a worker involved in union activities. The Fifth Circuit Court of Appeals vacated the NLRB's decision, sending the case back for further review, citing that the board did not adequately consider contradictory evidence. The case concerns a shift supervisor dismissed from a Starbucks near Albany, N.Y., who was involved in organizing efforts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260514T175521",
+            "title": "Capital World Investors owns 104.8M SBUX shares (NASDAQ: SBUX)",
+            "summary": "Capital World Investors has reported beneficial ownership of 104,838,568 shares of Starbucks Corp. (NASDAQ: SBUX), which represents 9.2% of the company's believed outstanding shares. This disclosure was made via an amended Schedule 13G/A filing signed on May 13, 2026. The filing attributes sole voting power to 103,833,219 shares and sole dispositive power to all 104,838,568 shares.",
+            "text_to_analyze": "Capital World Investors owns 104.8M SBUX shares (NASDAQ: SBUX). Capital World Investors has reported beneficial ownership of 104,838,568 shares of Starbucks Corp. (NASDAQ: SBUX), which represents 9.2% of the company's believed outstanding shares. This disclosure was made via an amended Schedule 13G/A filing signed on May 13, 2026. The filing attributes sole voting power to 103,833,219 shares and sole dispositive power to all 104,838,568 shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

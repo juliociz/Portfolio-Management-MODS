@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-27",
+    "window_start": "2026-05-26 16:00",
+    "window_end": "2026-05-27 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260527T081659",
+            "title": "Cary Street Partners Financial LLC Acquires 10,900 Shares of Walmart Inc. $WMT",
+            "summary": "Cary Street Partners Financial LLC increased its stake in Walmart Inc. by 26.1% in the fourth quarter, purchasing an additional 10,900 shares to bring its total holdings to 52,633 shares valued at approximately $5.86 million. Despite solid revenue growth in the recent quarter, Walmart's stock has faced margin and sentiment pressure due to higher costs, a lowered UBS price target, and insider sales. Institutional investors and hedge funds own 26.76% of the stock, while insiders have recently sold shares.",
+            "text_to_analyze": "Cary Street Partners Financial LLC Acquires 10,900 Shares of Walmart Inc. $WMT. Cary Street Partners Financial LLC increased its stake in Walmart Inc. by 26.1% in the fourth quarter, purchasing an additional 10,900 shares to bring its total holdings to 52,633 shares valued at approximately $5.86 million. Despite solid revenue growth in the recent quarter, Walmart's stock has faced margin and sentiment pressure due to higher costs, a lowered UBS price target, and insider sales. Institutional investors and hedge funds own 26.76% of the stock, while insiders have recently sold shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.633984
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260527T072100",
+            "title": "Arvest Bank Trust Division Raises Stock Holdings in Walmart Inc. $WMT",
+            "summary": "Arvest Bank Trust Division significantly increased its stake in Walmart Inc. by 15.3% during the fourth quarter, acquiring an additional 60,304 shares, bringing its total to 453,262 shares valued at approximately $50.5 million. This move aligns with a broader trend of increased institutional investment in Walmart, with major firms like Vanguard, AQR Capital, and Amundi also boosting their holdings. Walmart's recent financial performance showed strong revenue growth and met EPS expectations, contributing to a \"Moderate Buy\" consensus among analysts despite some recent stock price pullbacks and target adjustments by some firms.",
+            "text_to_analyze": "Arvest Bank Trust Division Raises Stock Holdings in Walmart Inc. $WMT. Arvest Bank Trust Division significantly increased its stake in Walmart Inc. by 15.3% during the fourth quarter, acquiring an additional 60,304 shares, bringing its total to 453,262 shares valued at approximately $50.5 million. This move aligns with a broader trend of increased institutional investment in Walmart, with major firms like Vanguard, AQR Capital, and Amundi also boosting their holdings. Walmart's recent financial performance showed strong revenue growth and met EPS expectations, contributing to a \"Moderate Buy\" consensus among analysts despite some recent stock price pullbacks and target adjustments by some firms.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.627746
+        },
+        {
+            "source": "TradingView",
+            "date": "20260527T030731",
+            "title": "Dollar Tree (DLTR) Reports Q1: Everything You Need To Know Ahead Of Earnings",
+            "summary": "Dollar Tree (DLTR) is set to release its Q1 earnings, with analysts expecting a 7.1% year-on-year revenue growth. The company met revenue expectations last quarter but missed EBITDA estimates. While some non-discretionary retail peers have shown solid performance, Dollar Tree's stock is down 4.5% over the last month, heading into earnings with an analyst price target significantly above its current share price.",
+            "text_to_analyze": "Dollar Tree (DLTR) Reports Q1: Everything You Need To Know Ahead Of Earnings. Dollar Tree (DLTR) is set to release its Q1 earnings, with analysts expecting a 7.1% year-on-year revenue growth. The company met revenue expectations last quarter but missed EBITDA estimates. While some non-discretionary retail peers have shown solid performance, Dollar Tree's stock is down 4.5% over the last month, heading into earnings with an analyst price target significantly above its current share price.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.730922
+        },
+        {
+            "source": "MSN",
+            "date": "20260526T230833",
+            "title": "Tractor Supply Co. stock underperforms Tuesday when compared to competitors",
+            "summary": "Tractor Supply Co.'s stock (TSCO) fell on Tuesday, underperforming its competitors and the broader market. Shares closed down 0.73%, while the S&P 500 gained 0.25% and competitors like Walmart and Target saw gains. This marks the second consecutive day of losses for Tractor Supply Co. stock.",
+            "text_to_analyze": "Tractor Supply Co. stock underperforms Tuesday when compared to competitors. Tractor Supply Co.'s stock (TSCO) fell on Tuesday, underperforming its competitors and the broader market. Shares closed down 0.73%, while the S&P 500 gained 0.25% and competitors like Walmart and Target saw gains. This marks the second consecutive day of losses for Tractor Supply Co. stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.713236
+        },
+        {
+            "source": "Supermarket Perimeter",
+            "date": "20260526T160828",
+            "title": "Target continues focus on better-for-you foods in 2026",
+            "summary": "Target is continuing its \"Food Forward\" strategy in 2026, focusing on high-growth areas like protein, functional drinks, and better-for-you snacking, with plans to reset nearly half its center store grocery assortment and eliminate synthetic colors from cereals. The company reported first-quarter net sales of $25.4 billion, a 7% increase, driven by strong performance in its Food & Beverage category, which saw sales rise to $6.3 billion. Despite a cautious outlook due to declining consumer sentiment, Target is adjusting its full-year sales growth projection to 4% and plans to open 30 new stores.",
+            "text_to_analyze": "Target continues focus on better-for-you foods in 2026. Target is continuing its \"Food Forward\" strategy in 2026, focusing on high-growth areas like protein, functional drinks, and better-for-you snacking, with plans to reset nearly half its center store grocery assortment and eliminate synthetic colors from cereals. The company reported first-quarter net sales of $25.4 billion, a 7% increase, driven by strong performance in its Food & Beverage category, which saw sales rise to $6.3 billion. Despite a cautious outlook due to declining consumer sentiment, Target is adjusting its full-year sales growth projection to 4% and plans to open 30 new stores.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

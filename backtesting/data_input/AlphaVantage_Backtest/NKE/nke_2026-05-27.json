@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-27",
+    "window_start": "2026-05-26 16:00",
+    "window_end": "2026-05-27 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260527T071700",
+            "title": "NIKE, Inc. $NKE Shares Purchased by Allstate Corp",
+            "summary": "Allstate Corp significantly increased its stake in NIKE, Inc. during the fourth quarter, purchasing an additional 44,936 shares and bringing its total holdings to 88,277 shares valued at approximately $5.6 million. Several other institutional investors also boosted their positions in NKE, with institutions and hedge funds collectively owning 64.25% of the stock. NIKE recently reported better-than-expected quarterly earnings and declared a quarterly dividend of $0.41 per share.",
+            "text_to_analyze": "NIKE, Inc. $NKE Shares Purchased by Allstate Corp. Allstate Corp significantly increased its stake in NIKE, Inc. during the fourth quarter, purchasing an additional 44,936 shares and bringing its total holdings to 88,277 shares valued at approximately $5.6 million. Several other institutional investors also boosted their positions in NKE, with institutions and hedge funds collectively owning 64.25% of the stock. NIKE recently reported better-than-expected quarterly earnings and declared a quarterly dividend of $0.41 per share.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

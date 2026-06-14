@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-13",
+    "window_start": "2026-05-12 16:00",
+    "window_end": "2026-05-13 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260513T074023",
+            "title": "Tesla, Inc. $TSLA Shares Bought by Atlantic Union Bankshares Corp",
+            "summary": "Atlantic Union Bankshares Corp increased its stake in Tesla (NASDAQ:TSLA) by 4.3% in the fourth quarter, bringing its total holdings to 34,597 shares valued at $15.6 million. Despite a recent share price decline, Tesla maintains a high valuation with a P/E ratio of 397.66 and recently beat EPS estimates but missed revenue expectations. Institutional investors collectively own 66.20% of the company's stock, though analysts remain split on its future performance, with a consensus \"Hold\" rating and a target price of $398.42.",
+            "text_to_analyze": "Tesla, Inc. $TSLA Shares Bought by Atlantic Union Bankshares Corp. Atlantic Union Bankshares Corp increased its stake in Tesla (NASDAQ:TSLA) by 4.3% in the fourth quarter, bringing its total holdings to 34,597 shares valued at $15.6 million. Despite a recent share price decline, Tesla maintains a high valuation with a P/E ratio of 397.66 and recently beat EPS estimates but missed revenue expectations. Institutional investors collectively own 66.20% of the company's stock, though analysts remain split on its future performance, with a consensus \"Hold\" rating and a target price of $398.42.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260513T040818",
+            "title": "Ron DeSantis Shares Tesla Cybercab Spotting In Miami, Says It'll Be Interesting To See 'How Locals React'",
+            "summary": "Florida Governor Ron DeSantis shared a sighting of a Tesla Cybercab in Miami, expressing interest in its performance and local reactions. Tesla has listed Miami as a target city for robotaxi expansion in the first half of 2026, alongside other major cities. CEO Elon Musk has set ambitious production goals for the Cybercab, aiming for high-volume output and a low per-mile operating cost.",
+            "text_to_analyze": "Ron DeSantis Shares Tesla Cybercab Spotting In Miami, Says It'll Be Interesting To See 'How Locals React'. Florida Governor Ron DeSantis shared a sighting of a Tesla Cybercab in Miami, expressing interest in its performance and local reactions. Tesla has listed Miami as a target city for robotaxi expansion in the first half of 2026, alongside other major cities. CEO Elon Musk has set ambitious production goals for the Cybercab, aiming for high-volume output and a low per-mile operating cost.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260513T033828",
+            "title": "Ron DeSantis Shares Tesla Cybercab Spotting In Miami, Says It'll Be Interesting To See 'How Locals React'",
+            "summary": "Florida Gov. Ron DeSantis weighed in on a reported Tesla Cybercab sighting in Miami, expressing curiosity about its performance and local reception. Tesla is aiming for robotaxi expansion in several U.S. cities, including Miami, by the first half of 2026, with CEO Elon Musk setting ambitious production goals. The company expects volume production of the Cybercab and Semi this year, with Musk forecasting a low cost per mile, though these figures remain unproven at scale.",
+            "text_to_analyze": "Ron DeSantis Shares Tesla Cybercab Spotting In Miami, Says It'll Be Interesting To See 'How Locals React'. Florida Gov. Ron DeSantis weighed in on a reported Tesla Cybercab sighting in Miami, expressing curiosity about its performance and local reception. Tesla is aiming for robotaxi expansion in several U.S. cities, including Miami, by the first half of 2026, with CEO Elon Musk setting ambitious production goals. The company expects volume production of the Cybercab and Semi this year, with Musk forecasting a low cost per mile, though these figures remain unproven at scale.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260513T010917",
+            "title": "OKLO, NXT, TDIC, SNDK, TSLA: 5 Trending Stocks Today - SanDisk (NASDAQ:SNDK)",
+            "summary": "This article highlights five trending stocks that captured investor attention. Oklo (OKLO) reported better-than-expected first-quarter results with strong cash reserves, while Nextxpower (NXT) surpassed earnings and revenue estimates and announced an acquisition. Dreamland (TDIC) surged due to a new AI-powered image library platform agreement, while SanDisk (SNDK) and Tesla (TSLA) both experienced declines, with Tesla's drop attributed to rising inflation data.",
+            "text_to_analyze": "OKLO, NXT, TDIC, SNDK, TSLA: 5 Trending Stocks Today - SanDisk (NASDAQ:SNDK). This article highlights five trending stocks that captured investor attention. Oklo (OKLO) reported better-than-expected first-quarter results with strong cash reserves, while Nextxpower (NXT) surpassed earnings and revenue estimates and announced an acquisition. Dreamland (TDIC) surged due to a new AI-powered image library platform agreement, while SanDisk (SNDK) and Tesla (TSLA) both experienced declines, with Tesla's drop attributed to rising inflation data.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.744236
+        },
+        {
+            "source": "Sahm",
+            "date": "20260513T003957",
+            "title": "What's Going On With Tesla Stock Tuesday?",
+            "summary": "Tesla Inc. shares dropped approximately 4% on Tuesday following a broader market sell-off triggered by April's Consumer Price Index (CPI) report, which showed headline inflation climbing to 3.8% year-over-year. Geopolitical tensions, particularly an energy shock from the Strait of Hormuz blockade impacting the CPI basket, also contributed to the pressure. Despite the dip, Tesla is still trading above its key moving averages, though momentum indicators like RSI suggest it's overbought, potentially inviting profit-taking.",
+            "text_to_analyze": "What's Going On With Tesla Stock Tuesday?. Tesla Inc. shares dropped approximately 4% on Tuesday following a broader market sell-off triggered by April's Consumer Price Index (CPI) report, which showed headline inflation climbing to 3.8% year-over-year. Geopolitical tensions, particularly an energy shock from the Strait of Hormuz blockade impacting the CPI basket, also contributed to the pressure. Despite the dip, Tesla is still trading above its key moving averages, though momentum indicators like RSI suggest it's overbought, potentially inviting profit-taking.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.926619
+        },
+        {
+            "source": "MEXC Exchange",
+            "date": "20260513T003913",
+            "title": "Inside Cathie Wood’s ARK Innovation ETF: Tesla (TSLA), Coinbase, and AMD Lead the Pack",
+            "summary": "Cathie Wood's ARK Innovation ETF (ARKK) centers its investments on disruptive technologies, with top holdings including Tesla, AMD, Coinbase, and CRISPR Therapeutics. The fund's strategy focuses on AI, gene therapy, financial technology, cryptocurrency infrastructure, and digital streaming. ARKK's portfolio leans towards emerging, higher-risk growth companies, contrasting with traditional large-cap funds.",
+            "text_to_analyze": "Inside Cathie Wood’s ARK Innovation ETF: Tesla (TSLA), Coinbase, and AMD Lead the Pack. Cathie Wood's ARK Innovation ETF (ARKK) centers its investments on disruptive technologies, with top holdings including Tesla, AMD, Coinbase, and CRISPR Therapeutics. The fund's strategy focuses on AI, gene therapy, financial technology, cryptocurrency infrastructure, and digital streaming. ARKK's portfolio leans towards emerging, higher-risk growth companies, contrasting with traditional large-cap funds.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.966688
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260512T230905",
+            "title": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free'",
+            "summary": "A Piper Sandler analyst suggests that buying Tesla stock now could give investors exposure to the Optimus humanoid robot for \"free,\" as its potential value is not yet factored into the current stock price. Elon Musk believes Optimus could contribute significantly to Tesla's future valuation, potentially reaching a $25 trillion market cap for the company. The analyst notes that Optimus and inference-as-a-service could reshape labor markets and global GDP, making them thesis-defining products for Tesla.",
+            "text_to_analyze": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free'. A Piper Sandler analyst suggests that buying Tesla stock now could give investors exposure to the Optimus humanoid robot for \"free,\" as its potential value is not yet factored into the current stock price. Elon Musk believes Optimus could contribute significantly to Tesla's future valuation, potentially reaching a $25 trillion market cap for the company. The analyst notes that Optimus and inference-as-a-service could reshape labor markets and global GDP, making them thesis-defining products for Tesla.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260512T224019",
+            "title": "GraniteShares 1.25x Long TSLA Daily ETF(TSL) Stock Options Chain | Quotes & News",
+            "summary": "This page provides detailed quotes and an options chain for the GraniteShares 1.25x Long TSLA Daily ETF (TSL) as traded on Moomoo. It displays real-time stock performance data including price, daily high/low, volume, and various financial ratios. The article also includes sections for market insights with trending topics like \"Hot AI Stocks,\" \"Crypto Stock Picks,\" and \"ARK ETFs.\"",
+            "text_to_analyze": "GraniteShares 1.25x Long TSLA Daily ETF(TSL) Stock Options Chain | Quotes & News. This page provides detailed quotes and an options chain for the GraniteShares 1.25x Long TSLA Daily ETF (TSL) as traded on Moomoo. It displays real-time stock performance data including price, daily high/low, volume, and various financial ratios. The article also includes sections for market insights with trending topics like \"Hot AI Stocks,\" \"Crypto Stock Picks,\" and \"ARK ETFs.\"",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.640602
+        }
+    ]
+}

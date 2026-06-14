@@ -1,0 +1,63 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-12",
+    "window_start": "2026-05-11 16:00",
+    "window_end": "2026-05-12 09:27",
+    "articles": [
+        {
+            "source": "Yahoo! Finance Canada",
+            "date": "20260512T092400",
+            "title": "Tesla to invest $250 million in battery plant outside Berlin",
+            "summary": "Tesla announced it will invest nearly $250 million to increase battery cell production capacity at its factory near Berlin. This investment aims to boost the annual production capacity at the Gruenheide site to 18 gigawatt hours from 8 GWh, with a significant increase in labor demand anticipated. The company plans for battery cells and electric vehicles to be produced at this single location starting in 2027.",
+            "text_to_analyze": "Tesla to invest $250 million in battery plant outside Berlin. Tesla announced it will invest nearly $250 million to increase battery cell production capacity at its factory near Berlin. This investment aims to boost the annual production capacity at the Gruenheide site to 18 gigawatt hours from 8 GWh, with a significant increase in labor demand anticipated. The company plans for battery cells and electric vehicles to be produced at this single location starting in 2027.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260511T193840",
+            "title": "TSLA Stock Rises After Piper Sandler Declares Optimus Is Free Ahead Of Musk China Visit",
+            "summary": "Tesla Inc. (TSLA) stock rose 4% after Piper Sandler analyst Alexander Potter stated that investors are essentially getting Tesla's Optimus humanoid robot business for free at current share prices, excluding its value from the firm's $400 per share target. The stock also benefited from news of Elon Musk's impending visit to China with President Donald Trump, aiming to strengthen business ties. Potter reiterated a $500 price target for Tesla, with $100 attributed to Optimus and other unanalyzed ventures.",
+            "text_to_analyze": "TSLA Stock Rises After Piper Sandler Declares Optimus Is Free Ahead Of Musk China Visit. Tesla Inc. (TSLA) stock rose 4% after Piper Sandler analyst Alexander Potter stated that investors are essentially getting Tesla's Optimus humanoid robot business for free at current share prices, excluding its value from the firm's $400 per share target. The stock also benefited from news of Elon Musk's impending visit to China with President Donald Trump, aiming to strengthen business ties. Potter reiterated a $500 price target for Tesla, with $100 attributed to Optimus and other unanalyzed ventures.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.953217
+        },
+        {
+            "source": "Reuters",
+            "date": "20260511T161403",
+            "title": "Apple, Boeing, Citi, Tesla, Meta executives to join Trump's China trip",
+            "summary": "Over a dozen CEOs and top executives from major U.S. companies, including Apple, Boeing, Citigroup, Tesla, and Meta, are expected to accompany President Donald Trump on his trip to China this week. The delegation highlights significant corporate interest in U.S.-China relations, with prominent figures like Tim Cook, Larry Fink, and Elon Musk participating.",
+            "text_to_analyze": "Apple, Boeing, Citi, Tesla, Meta executives to join Trump's China trip. Over a dozen CEOs and top executives from major U.S. companies, including Apple, Boeing, Citigroup, Tesla, and Meta, are expected to accompany President Donald Trump on his trip to China this week. The delegation highlights significant corporate interest in U.S.-China relations, with prominent figures like Tim Cook, Larry Fink, and Elon Musk participating.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.917781
+        },
+        {
+            "source": "The Mercury News",
+            "date": "20260511T160700",
+            "title": "Musk, Cook set to join Trump for Xi Summit, White House says",
+            "summary": "The White House is inviting prominent business leaders, including Elon Musk of Tesla, Tim Cook of Apple, and executives from Goldman Sachs, Blackstone, and BlackRock, to accompany President Donald Trump on his trip to China for a summit with Xi Jinping. The delegation aims to secure business deals and purchase agreements, focusing primarily on financial, technology, aerospace, and agricultural firms. Notably absent from the delegation is Nvidia's CEO Jensen Huang, which could signal a setback for the company's AI chip exports to China.",
+            "text_to_analyze": "Musk, Cook set to join Trump for Xi Summit, White House says. The White House is inviting prominent business leaders, including Elon Musk of Tesla, Tim Cook of Apple, and executives from Goldman Sachs, Blackstone, and BlackRock, to accompany President Donald Trump on his trip to China for a summit with Xi Jinping. The delegation aims to secure business deals and purchase agreements, focusing primarily on financial, technology, aerospace, and agricultural firms. Notably absent from the delegation is Nvidia's CEO Jensen Huang, which could signal a setback for the company's AI chip exports to China.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.85731
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260511T160100",
+            "title": "Tesla $400 core value leaves Optimus & AI upside fully unpriced: Piper analyst view",
+            "summary": "Piper Sandler analysts suggest that Tesla's current stock price of $400 per share accurately reflects the value of its Electric Vehicle and energy businesses. This valuation implies that potentially lucrative ventures like Optimus, robotaxis, and artificial intelligence present a significant uncatalyzed upside for investors, not yet factored into the stock price.",
+            "text_to_analyze": "Tesla $400 core value leaves Optimus & AI upside fully unpriced: Piper analyst view. Piper Sandler analysts suggest that Tesla's current stock price of $400 per share accurately reflects the value of its Electric Vehicle and energy businesses. This valuation implies that potentially lucrative ventures like Optimus, robotaxis, and artificial intelligence present a significant uncatalyzed upside for investors, not yet factored into the stock price.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260511T160034",
+            "title": "Tesla heads off trial in Gigafactory Texas assault case tied to mass shooting",
+            "summary": "Tesla has successfully avoided a trial in an assault case linked to a former employee suspected in a mass shooting in Austin. The company was granted a motion for arbitration in the lawsuit brought by Lillian Brady, who alleged she was assaulted at the Gigafactory by Ndiaga Diagne, the same individual later involved in the fatal shooting incident. Brady accused Tesla of failing to provide a safe work environment and not adequately vetting employees.",
+            "text_to_analyze": "Tesla heads off trial in Gigafactory Texas assault case tied to mass shooting. Tesla has successfully avoided a trial in an assault case linked to a former employee suspected in a mass shooting in Austin. The company was granted a motion for arbitration in the lawsuit brought by Lillian Brady, who alleged she was assaulted at the Gigafactory by Ndiaga Diagne, the same individual later involved in the fatal shooting incident. Brady accused Tesla of failing to provide a safe work environment and not adequately vetting employees.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

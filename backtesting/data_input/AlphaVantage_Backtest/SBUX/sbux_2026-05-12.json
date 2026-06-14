@@ -1,0 +1,72 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-12",
+    "window_start": "2026-05-11 16:00",
+    "window_end": "2026-05-12 09:27",
+    "articles": [
+        {
+            "source": "Insider Monkey",
+            "date": "20260512T063934",
+            "title": "Stifel Reaffirms Bullish View on Starbucks Corporation (SBUX)",
+            "summary": "Stifel analyst Chris O’Cull has raised the price recommendation for Starbucks Corporation (SBUX) to $117 from $115, maintaining a Buy rating. This follows Starbucks' Q2 2026 earnings call where the company reported revenue and earnings growth for the first time in over two years, prompting a raise in fiscal 2026 guidance. North America was noted as Starbucks’ best-performing segment, and the company plans to introduce new customer and employee initiatives.",
+            "text_to_analyze": "Stifel Reaffirms Bullish View on Starbucks Corporation (SBUX). Stifel analyst Chris O’Cull has raised the price recommendation for Starbucks Corporation (SBUX) to $117 from $115, maintaining a Buy rating. This follows Starbucks' Q2 2026 earnings call where the company reported revenue and earnings growth for the first time in over two years, prompting a raise in fiscal 2026 guidance. North America was noted as Starbucks’ best-performing segment, and the company plans to introduce new customer and employee initiatives.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MyNorthwest.com",
+            "date": "20260512T023822",
+            "title": "Starbucks lays off 61 more corporate workers in Seattle",
+            "summary": "Starbucks has laid off an additional 61 corporate workers in its Seattle headquarters, specifically within the technology department. This follows previous layoffs affecting both corporate and retail employees, and occurs amidst the company's plan to relocate or hire 2,000 workers for a new Nashville office. Despite these changes, Seattle will remain Starbucks' global headquarters, and the company recently reported strong Q2 growth with revenue reaching $9.5 billion.",
+            "text_to_analyze": "Starbucks lays off 61 more corporate workers in Seattle. Starbucks has laid off an additional 61 corporate workers in its Seattle headquarters, specifically within the technology department. This follows previous layoffs affecting both corporate and retail employees, and occurs amidst the company's plan to relocate or hire 2,000 workers for a new Nashville office. Despite these changes, Seattle will remain Starbucks' global headquarters, and the company recently reported strong Q2 growth with revenue reaching $9.5 billion.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.985383
+        },
+        {
+            "source": "Sahm",
+            "date": "20260511T203500",
+            "title": "5 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+            "summary": "This article identifies five consumer discretionary stocks—QuantumScape (QS), Sweetgreen (SG), Amazon (AMZN), Pinduoduo (PDD), and Starbucks (SBUX)—that recently exhibited significant \"whale\" options trading activity. Benzinga's scanner detected unusual call option movements for these companies, indicating potential trading opportunities based on bullish, bearish, or neutral sentiment among large investors. The article details specific option contracts, strike prices, expiration dates, and trade types for each stock.",
+            "text_to_analyze": "5 Consumer Discretionary Stocks With Whale Alerts In Today's Session. This article identifies five consumer discretionary stocks—QuantumScape (QS), Sweetgreen (SG), Amazon (AMZN), Pinduoduo (PDD), and Starbucks (SBUX)—that recently exhibited significant \"whale\" options trading activity. Benzinga's scanner detected unusual call option movements for these companies, indicating potential trading opportunities based on bullish, bearish, or neutral sentiment among large investors. The article details specific option contracts, strike prices, expiration dates, and trade types for each stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.730737
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260511T195721",
+            "title": "Starbucks lays off 61 Seattle tech employees",
+            "summary": "Starbucks has laid off 61 technology employees in Seattle as part of a significant turnaround effort led by CEO Brian Niccol. This move affects a portion of the approximately 9,500 Starbucks employees in the Seattle area. The article highlights this development amidst other business news and upcoming events in the Puget Sound region.",
+            "text_to_analyze": "Starbucks lays off 61 Seattle tech employees. Starbucks has laid off 61 technology employees in Seattle as part of a significant turnaround effort led by CEO Brian Niccol. This move affects a portion of the approximately 9,500 Starbucks employees in the Seattle area. The article highlights this development amidst other business news and upcoming events in the Puget Sound region.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Seattle Times",
+            "date": "20260511T190825",
+            "title": "Starbucks tech layoffs hit Seattle workers",
+            "summary": "Starbucks is laying off 61 tech workers in Seattle as part of a reorganization within its technology department at the Starbucks Support Center. This move follows the company's internal announcement last month and is part of a broader \"Back to Starbucks\" plan to refocus on the coffeehouse experience. The layoffs, primarily affecting project managers, scrum masters, systems administrators, and technical product managers, are scheduled to begin in June, with affected employees separated by August.",
+            "text_to_analyze": "Starbucks tech layoffs hit Seattle workers. Starbucks is laying off 61 tech workers in Seattle as part of a reorganization within its technology department at the Starbucks Support Center. This move follows the company's internal announcement last month and is part of a broader \"Back to Starbucks\" plan to refocus on the coffeehouse experience. The layoffs, primarily affecting project managers, scrum masters, systems administrators, and technical product managers, are scheduled to begin in June, with affected employees separated by August.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.921993
+        },
+        {
+            "source": "The Economic Times",
+            "date": "20260511T184500",
+            "title": "Starbucks to cut 61 technology jobs in Seattle",
+            "summary": "Starbucks announced it will lay off 61 technology workers at its Seattle headquarters as part of a broader turnaround strategy to enhance customer experience and drive revenue growth. These job cuts are separate from a previous plan to relocate some technology roles to Nashville and follow earlier restructuring efforts including store closures and corporate layoffs. The layoffs are scheduled to begin in June and are not due to relocation.",
+            "text_to_analyze": "Starbucks to cut 61 technology jobs in Seattle. Starbucks announced it will lay off 61 technology workers at its Seattle headquarters as part of a broader turnaround strategy to enhance customer experience and drive revenue growth. These job cuts are separate from a previous plan to relocate some technology roles to Nashville and follow earlier restructuring efforts including store closures and corporate layoffs. The layoffs are scheduled to begin in June and are not due to relocation.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.966892
+        },
+        {
+            "source": "Reuters",
+            "date": "20260511T173823",
+            "title": "Starbucks cuts 61 technology jobs in Seattle",
+            "summary": "Starbucks has cut 61 corporate technology jobs at its Seattle headquarters, as disclosed in a WARN filing. This move is part of the company's turnaround strategy focused on improving customer satisfaction and sales metrics, with the layoffs not related to a planned relocation of some tech jobs to Nashville. The company had previously laid off around 1,100 corporate workers and closed underperforming stores as part of its restructuring efforts.",
+            "text_to_analyze": "Starbucks cuts 61 technology jobs in Seattle. Starbucks has cut 61 corporate technology jobs at its Seattle headquarters, as disclosed in a WARN filing. This move is part of the company's turnaround strategy focused on improving customer satisfaction and sales metrics, with the layoffs not related to a planned relocation of some tech jobs to Nashville. The company had previously laid off around 1,100 corporate workers and closed underperforming stores as part of its restructuring efforts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

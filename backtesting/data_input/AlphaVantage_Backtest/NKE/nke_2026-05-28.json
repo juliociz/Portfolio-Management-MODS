@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-28",
+    "window_start": "2026-05-27 16:00",
+    "window_end": "2026-05-28 09:27",
+    "articles": [
+        {
+            "source": "TradingView",
+            "date": "20260527T183812",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView",
+            "summary": "This page on TradingView compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUS) stock from different traders. The ideas cover short-term and long-term outlooks, technical analyses, and strategies related to Nike's earnings reports, with several traders predicting bullish movements while others suggest caution or bearish plays. The discussions include price targets, entry/exit points, and options strategies.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS — TradingView. This page on TradingView compiles various trade ideas and analyses for NIKE, Inc. Class B (NKEUS) stock from different traders. The ideas cover short-term and long-term outlooks, technical analyses, and strategies related to Nike's earnings reports, with several traders predicting bullish movements while others suggest caution or bearish plays. The discussions include price targets, entry/exit points, and options strategies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

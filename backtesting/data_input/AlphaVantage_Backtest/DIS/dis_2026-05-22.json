@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-22",
+    "window_start": "2026-05-21 16:00",
+    "window_end": "2026-05-22 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260522T083851",
+            "title": "Diamond Hill Capital Management Inc. Sells 182,104 Shares of The Walt Disney Company $DIS",
+            "summary": "Diamond Hill Capital Management Inc. reduced its stake in The Walt Disney Company by 5.7% in the fourth quarter, selling over 182,000 shares but still holding 3,023,740 shares valued at approximately $344 million. This comes as Disney recently exceeded Wall Street's fiscal Q2 expectations and analysts continue to raise price targets, despite the company facing challenges like lawsuits over facial-recognition technology at its theme parks. Other institutional investors like Vanguard Group Inc. and State Street Corp, however, increased their positions.",
+            "text_to_analyze": "Diamond Hill Capital Management Inc. Sells 182,104 Shares of The Walt Disney Company $DIS. Diamond Hill Capital Management Inc. reduced its stake in The Walt Disney Company by 5.7% in the fourth quarter, selling over 182,000 shares but still holding 3,023,740 shares valued at approximately $344 million. This comes as Disney recently exceeded Wall Street's fiscal Q2 expectations and analysts continue to raise price targets, despite the company facing challenges like lawsuits over facial-recognition technology at its theme parks. Other institutional investors like Vanguard Group Inc. and State Street Corp, however, increased their positions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260522T063923",
+            "title": "YieldMax DIS option income strategy ETF announces weekly distribution of $0.0677",
+            "summary": "The YieldMax DIS Option Income Strategy ETF (NYSEARCA:DISO) has declared a weekly distribution of $0.0677 per share for its shareholders. This announcement by the ETF focuses on providing income through an options strategy related to Disney stock.",
+            "text_to_analyze": "YieldMax DIS option income strategy ETF announces weekly distribution of $0.0677. The YieldMax DIS Option Income Strategy ETF (NYSEARCA:DISO) has declared a weekly distribution of $0.0677 per share for its shareholders. This announcement by the ETF focuses on providing income through an options strategy related to Disney stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.708593
+        },
+        {
+            "source": "MSN",
+            "date": "20260521T190952",
+            "title": "YieldMax DIS option income strategy ETF announces weekly distribution of $0.0677",
+            "summary": "The YieldMax DIS option income strategy ETF has declared a weekly distribution of $0.0677 per share. This announcement provides investors with details regarding their forthcoming income from the ETF.",
+            "text_to_analyze": "YieldMax DIS option income strategy ETF announces weekly distribution of $0.0677. The YieldMax DIS option income strategy ETF has declared a weekly distribution of $0.0677 per share. This announcement provides investors with details regarding their forthcoming income from the ETF.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.734928
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260521T181026",
+            "title": "Disney Consumer Products Ushers in a New Era of Collaboration and Culture at Licensing Expo with ‘Icons Unleashed’",
+            "summary": "At this year's Licensing Expo, Disney Consumer Products (DCP) highlighted its strategy to evolve storytelling into enduring franchises and lifestyle businesses, emphasizing collaboration and cultural relevance. Under the theme \"Icons Unleashed,\" Disney showcased how its brands are activated across various lifestyle pillars like fashion, food, music, sports, and wellness, guiding licensees through holiday 2027 and beyond. The company aims to drive year-round engagement and unlock new opportunities by expanding iconic characters across product categories and lifestyle collaborations.",
+            "text_to_analyze": "Disney Consumer Products Ushers in a New Era of Collaboration and Culture at Licensing Expo with ‘Icons Unleashed’. At this year's Licensing Expo, Disney Consumer Products (DCP) highlighted its strategy to evolve storytelling into enduring franchises and lifestyle businesses, emphasizing collaboration and cultural relevance. Under the theme \"Icons Unleashed,\" Disney showcased how its brands are activated across various lifestyle pillars like fashion, food, music, sports, and wellness, guiding licensees through holiday 2027 and beyond. The company aims to drive year-round engagement and unlock new opportunities by expanding iconic characters across product categories and lifestyle collaborations.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-21",
+    "window_start": "2026-05-20 16:00",
+    "window_end": "2026-05-21 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260521T090726",
+            "title": "Envestnet Portfolio Solutions Inc. Acquires 21,594 Shares of The Walt Disney Company $DIS",
+            "summary": "Envestnet Portfolio Solutions Inc. increased its stake in The Walt Disney Company (NYSE:DIS) by 38.5% in the fourth quarter, acquiring an additional 21,594 shares to hold a total of 77,741 shares valued at $8.85 million. Other institutional investors also modified their holdings, reflecting strong overall institutional interest with hedge funds and institutions owning 65.71% of the stock. Analysts generally maintain a \"Moderate Buy\" rating for Disney with a consensus price target of $134.47, following the company's recent earnings beat of $1.57 EPS on $25.17 billion in revenue.",
+            "text_to_analyze": "Envestnet Portfolio Solutions Inc. Acquires 21,594 Shares of The Walt Disney Company $DIS. Envestnet Portfolio Solutions Inc. increased its stake in The Walt Disney Company (NYSE:DIS) by 38.5% in the fourth quarter, acquiring an additional 21,594 shares to hold a total of 77,741 shares valued at $8.85 million. Other institutional investors also modified their holdings, reflecting strong overall institutional interest with hedge funds and institutions owning 65.71% of the stock. Analysts generally maintain a \"Moderate Buy\" rating for Disney with a consensus price target of $134.47, following the company's recent earnings beat of $1.57 EPS on $25.17 billion in revenue.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260521T082334",
+            "title": "Northwestern Mutual Wealth Management Co. Cuts Position in The Walt Disney Company $DIS",
+            "summary": "Northwestern Mutual Wealth Management Co. significantly reduced its stake in The Walt Disney Company by 52.5% in the fourth quarter, selling over 151,000 shares. Despite this, Wall Street analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $134.47, following recent upgrades and a better-than-expected earnings report. The article also touches upon positive park developments and ongoing legal risks related to a facial-recognition lawsuit.",
+            "text_to_analyze": "Northwestern Mutual Wealth Management Co. Cuts Position in The Walt Disney Company $DIS. Northwestern Mutual Wealth Management Co. significantly reduced its stake in The Walt Disney Company by 52.5% in the fourth quarter, selling over 151,000 shares. Despite this, Wall Street analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $134.47, following recent upgrades and a better-than-expected earnings report. The article also touches upon positive park developments and ongoing legal risks related to a facial-recognition lawsuit.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

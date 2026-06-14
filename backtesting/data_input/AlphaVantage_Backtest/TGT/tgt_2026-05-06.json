@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-06",
+    "window_start": "2026-05-05 16:00",
+    "window_end": "2026-05-06 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260506T081125",
+            "title": "Bokf Na Sells 3,344 Shares of Costco Wholesale Corporation $COST",
+            "summary": "Bokf Na has reduced its stake in Costco Wholesale Corporation (NASDAQ:COST) by 11.2% in the fourth quarter, selling 3,344 shares and now holding 26,593 shares valued at approximately $22.93 million. This comes as institutional investors collectively own 68.48% of the company's stock, though several other major funds increased their positions. Meanwhile, Costco recently raised its quarterly dividend and analysts maintain a \"Moderate Buy\" rating with an average price target of $1,045.97, reflecting positive sentiment despite some valuation concerns.",
+            "text_to_analyze": "Bokf Na Sells 3,344 Shares of Costco Wholesale Corporation $COST. Bokf Na has reduced its stake in Costco Wholesale Corporation (NASDAQ:COST) by 11.2% in the fourth quarter, selling 3,344 shares and now holding 26,593 shares valued at approximately $22.93 million. This comes as institutional investors collectively own 68.48% of the company's stock, though several other major funds increased their positions. Meanwhile, Costco recently raised its quarterly dividend and analysts maintain a \"Moderate Buy\" rating with an average price target of $1,045.97, reflecting positive sentiment despite some valuation concerns.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.619677
+        },
+        {
+            "source": "NJBIZ",
+            "date": "20260506T030849",
+            "title": "Mama’s Creations expands Walmart, Target distribution",
+            "summary": "Mama’s Creations is significantly expanding its distribution of family-sized meal solutions and Mama Mancini’s brand products to Walmart and Target stores nationwide. This expansion will see new flame-grilled chicken items and popular Italian-style offerings reaching 2,000 Walmart locations and Mama Mancini's products in 750 Target stores. The company emphasizes its operational capacity and reliability in handling complex refrigerated fresh distribution, marking a major step in its strategic vision to elevate the prepared food category.",
+            "text_to_analyze": "Mama’s Creations expands Walmart, Target distribution. Mama’s Creations is significantly expanding its distribution of family-sized meal solutions and Mama Mancini’s brand products to Walmart and Target stores nationwide. This expansion will see new flame-grilled chicken items and popular Italian-style offerings reaching 2,000 Walmart locations and Mama Mancini's products in 750 Target stores. The company emphasizes its operational capacity and reliability in handling complex refrigerated fresh distribution, marking a major step in its strategic vision to elevate the prepared food category.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.857278
+        },
+        {
+            "source": "Deli Market News",
+            "date": "20260505T171010",
+            "title": "Mama’s Creations Redefines the Modern Deli Experience with Major National Retail Expansion; Chris Darling Comments",
+            "summary": "Mama's Creations Inc. has expanded its retail presence by rolling out premium prepared meals to 2,000 Walmart and 750 Target locations nationwide. This strategic move addresses the growing consumer demand for convenient, restaurant-quality meal solutions in grocery stores and supports retailers facing labor shortages. The expansion includes new items and existing fan favorites, backed by a comprehensive marketing program to ensure strong market penetration.",
+            "text_to_analyze": "Mama’s Creations Redefines the Modern Deli Experience with Major National Retail Expansion; Chris Darling Comments. Mama's Creations Inc. has expanded its retail presence by rolling out premium prepared meals to 2,000 Walmart and 750 Target locations nationwide. This strategic move addresses the growing consumer demand for convenient, restaurant-quality meal solutions in grocery stores and supports retailers facing labor shortages. The expansion includes new items and existing fan favorites, backed by a comprehensive marketing program to ensure strong market penetration.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.739228
+        }
+    ]
+}

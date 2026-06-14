@@ -1,0 +1,27 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-15",
+    "window_start": "2026-05-14 16:00",
+    "window_end": "2026-05-15 09:27",
+    "articles": [
+        {
+            "source": "The Globe and Mail",
+            "date": "20260514T210949",
+            "title": "How Lucid Went From Near-Term Upside to Major Disappointment",
+            "summary": "Lucid Group, despite launching its Gravity SUV and having an opportunity to gain market share from Tesla, continues to face significant production and supplier issues. A recent recall due to a rear-seat defect and a widened net loss of $1 billion in the first quarter have dashed investor hopes. The company has suspended full-year production guidance, implemented a 12% workforce reduction to conserve cash, and is now focusing on a significant production ramp-up in 2027.",
+            "text_to_analyze": "How Lucid Went From Near-Term Upside to Major Disappointment. Lucid Group, despite launching its Gravity SUV and having an opportunity to gain market share from Tesla, continues to face significant production and supplier issues. A recent recall due to a rear-seat defect and a widened net loss of $1 billion in the first quarter have dashed investor hopes. The company has suspended full-year production guidance, implemented a 12% workforce reduction to conserve cash, and is now focusing on a significant production ramp-up in 2027.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.60675
+        },
+        {
+            "source": "Electrek",
+            "date": "20260514T210830",
+            "title": "Tesla Solar Roof is on life support as it pivot to panels",
+            "summary": "Tesla's Solar Roof, once hailed as revolutionary, has largely failed to meet its ambitious targets, with Tesla installing only about 3,000 systems since its 2016 launch. The company is now quietly shifting its focus to conventional solar panels, leaving existing Solar Roof customers with significant service issues and unfulfilled promises. This strategic pivot highlights the economic challenges and deployment failures of the Solar Roof product compared to traditional solar panel solutions.",
+            "text_to_analyze": "Tesla Solar Roof is on life support as it pivot to panels. Tesla's Solar Roof, once hailed as revolutionary, has largely failed to meet its ambitious targets, with Tesla installing only about 3,000 systems since its 2016 launch. The company is now quietly shifting its focus to conventional solar panels, leaving existing Solar Roof customers with significant service issues and unfulfilled promises. This strategic pivot highlights the economic challenges and deployment failures of the Solar Roof product compared to traditional solar panel solutions.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

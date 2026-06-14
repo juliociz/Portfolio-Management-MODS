@@ -1,0 +1,144 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-04",
+    "window_start": "2026-05-01 16:00",
+    "window_end": "2026-05-04 09:27",
+    "articles": [
+        {
+            "source": "Autonocion.com",
+            "date": "20260503T210836",
+            "title": "A Tesla Owner Spent $73 to Sue Tesla. He Just Walked Away With $10,600",
+            "summary": "A Tesla owner successfully sued Tesla in small claims court for $10,600 after paying $73 in fees. The lawsuit stemmed from the false promise of Full Self-Driving (FSD) capabilities, which the owner argued never reached the Level 5 autonomy Elon Musk advertised. This case highlights a potential precedent for other FSD purchasers seeking refunds, especially since Tesla's legal team offered little defense.",
+            "text_to_analyze": "A Tesla Owner Spent $73 to Sue Tesla. He Just Walked Away With $10,600. A Tesla owner successfully sued Tesla in small claims court for $10,600 after paying $73 in fees. The lawsuit stemmed from the false promise of Full Self-Driving (FSD) capabilities, which the owner argued never reached the Level 5 autonomy Elon Musk advertised. This case highlights a potential precedent for other FSD purchasers seeking refunds, especially since Tesla's legal team offered little defense.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CarBuzz",
+            "date": "20260503T163924",
+            "title": "Toyota Is Taking The Fight To BMW And Tesla, But Not With Cars",
+            "summary": "Toyota Motor Manufacturing Canada (TMMC) is implementing humanoid robots named Digit from Agility Robotics in its Ontario plants, joining BMW and Tesla in using advanced robotics for manufacturing. These robots will handle repetitive, physically demanding tasks, allowing human workers to be reassigned to more value-added roles. This move aims to improve efficiency and worker safety, though concerns about job displacement are also noted.",
+            "text_to_analyze": "Toyota Is Taking The Fight To BMW And Tesla, But Not With Cars. Toyota Motor Manufacturing Canada (TMMC) is implementing humanoid robots named Digit from Agility Robotics in its Ontario plants, joining BMW and Tesla in using advanced robotics for manufacturing. These robots will handle repetitive, physically demanding tasks, allowing human workers to be reassigned to more value-added roles. This move aims to improve efficiency and worker safety, though concerns about job displacement are also noted.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.80867
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260503T153135",
+            "title": "Teslas Among Fastest-Selling Used Cars, Depreciate Less Than EV Rivals",
+            "summary": "A new study reveals that Tesla vehicles are among the quickest to sell on the used car market and depreciate significantly less than their non-Tesla EV rivals. This trend comes as demand for hybrids has also increased, suggesting a shift in consumer preferences in the used vehicle market. Despite a drop in overall EV market share in California, Tesla's Model Y remains the best-selling vehicle in the state.",
+            "text_to_analyze": "Teslas Among Fastest-Selling Used Cars, Depreciate Less Than EV Rivals. A new study reveals that Tesla vehicles are among the quickest to sell on the used car market and depreciate significantly less than their non-Tesla EV rivals. This trend comes as demand for hybrids has also increased, suggesting a shift in consumer preferences in the used vehicle market. Despite a drop in overall EV market share in California, Tesla's Model Y remains the best-selling vehicle in the state.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260503T100853",
+            "title": "UBS Group AG Decreases Holdings in Direxion Daily TSLA Bull 2X Shares $TSLL",
+            "summary": "UBS Group AG significantly reduced its stake in Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) by 34.3% in the fourth quarter, selling over 2.7 million shares and now holding 5.21 million shares valued at approximately $99.6 million. The leveraged ETF, which provides 1.5x exposure to Tesla stock, recently announced a quarterly dividend of $0.0994. Despite UBS's reduction, several other investment firms either increased their holdings or initiated new stakes in TSLL.",
+            "text_to_analyze": "UBS Group AG Decreases Holdings in Direxion Daily TSLA Bull 2X Shares $TSLL. UBS Group AG significantly reduced its stake in Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) by 34.3% in the fourth quarter, selling over 2.7 million shares and now holding 5.21 million shares valued at approximately $99.6 million. The leveraged ETF, which provides 1.5x exposure to Tesla stock, recently announced a quarterly dividend of $0.0994. Despite UBS's reduction, several other investment firms either increased their holdings or initiated new stakes in TSLL.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.71756
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260503T073237",
+            "title": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo",
+            "summary": "Tesla has expanded its unsupervised Robotaxi operations to Dallas and Houston, adding to its existing Austin fleet, bringing the total to 25 unsupervised vehicles across these three Texas cities. Despite this growth, the company remains significantly behind Alphabet Inc.'s Waymo in terms of fleet size, service area, and completed rides, as Waymo operates in 10 cities and completes 500,000 rides weekly. Other companies like Uber, WeRide, and Baidu's Apollo Go are also making strides in the global robotaxi market through partnerships and expanded services.",
+            "text_to_analyze": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo. Tesla has expanded its unsupervised Robotaxi operations to Dallas and Houston, adding to its existing Austin fleet, bringing the total to 25 unsupervised vehicles across these three Texas cities. Despite this growth, the company remains significantly behind Alphabet Inc.'s Waymo in terms of fleet size, service area, and completed rides, as Waymo operates in 10 cities and completes 500,000 rides weekly. Other companies like Uber, WeRide, and Baidu's Apollo Go are also making strides in the global robotaxi market through partnerships and expanded services.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260502T130257",
+            "title": "Benzinga Bulls And Bears: Apple, Intel, Tesla — And Markets Extend April Rally",
+            "summary": "US stock markets extended their April rally, driven by optimism around AI infrastructure spending and strong company earnings from tech and semiconductor firms. This article highlights several bullish and bearish calls on key stocks including Apple, Intel, Tesla, Amazon, AMD, Bloom Energy, Enphase Energy, Roblox, and Clorox, detailing their recent performance and contributing factors. It also touches on concerns regarding inflation persistence and engineered market sentiment, especially concerning Tesla.",
+            "text_to_analyze": "Benzinga Bulls And Bears: Apple, Intel, Tesla — And Markets Extend April Rally. US stock markets extended their April rally, driven by optimism around AI infrastructure spending and strong company earnings from tech and semiconductor firms. This article highlights several bullish and bearish calls on key stocks including Apple, Intel, Tesla, Amazon, AMD, Bloom Energy, Enphase Energy, Roblox, and Clorox, detailing their recent performance and contributing factors. It also touches on concerns regarding inflation persistence and engineered market sentiment, especially concerning Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.837548
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260502T100000",
+            "title": "Tesla Semi production ramps up with first vehicle off high-volume line",
+            "summary": "Tesla has announced that its first Semi truck has rolled off the high-volume production line at Gigafactory Nevada, marking a significant milestone after its initial unveiling in 2017. The electric truck, boasting a 500-mile range model costing $300,000 and a 300-mile range version at $260,000, is now entering operational pilots with companies like MDB Transportation for last-mile container moves. Additionally, infrastructure for the Semi is expanding, with Pilot Travel Centers partnering to install Megachargers at truck stops across major interstates, and Tesla actively recruiting talent to support commercial operations and manufacturing in Texas.",
+            "text_to_analyze": "Tesla Semi production ramps up with first vehicle off high-volume line. Tesla has announced that its first Semi truck has rolled off the high-volume production line at Gigafactory Nevada, marking a significant milestone after its initial unveiling in 2017. The electric truck, boasting a 500-mile range model costing $300,000 and a 300-mile range version at $260,000, is now entering operational pilots with companies like MDB Transportation for last-mile container moves. Additionally, infrastructure for the Semi is expanding, with Pilot Travel Centers partnering to install Megachargers at truck stops across major interstates, and Tesla actively recruiting talent to support commercial operations and manufacturing in Texas.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CleanTechnica",
+            "date": "20260502T033837",
+            "title": "Tesla Got $573 Million from SpaceX and xAI in 2025",
+            "summary": "Tesla generated over half a billion dollars in revenue in 2025 by selling products to Elon Musk's other companies, SpaceX and xAI. The bulk of this, $430.1 million, came from xAI purchasing Tesla Megapacks, while SpaceX contributed $143.3 million, reportedly including Cybertruck sales. This financial interchange highlights the intertwined operations and potential strategic collaborations between Musk's various ventures, even as Tesla faces challenges like Cybertruck sales.",
+            "text_to_analyze": "Tesla Got $573 Million from SpaceX and xAI in 2025. Tesla generated over half a billion dollars in revenue in 2025 by selling products to Elon Musk's other companies, SpaceX and xAI. The bulk of this, $430.1 million, came from xAI purchasing Tesla Megapacks, while SpaceX contributed $143.3 million, reportedly including Cybertruck sales. This financial interchange highlights the intertwined operations and potential strategic collaborations between Musk's various ventures, even as Tesla faces challenges like Cybertruck sales.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "富途牛牛",
+            "date": "20260502T010953",
+            "title": "Roundhill TSLA WeeklyPay ETF To Go Ex-Dividend On May 4th, 2026 With 0.12047 USD Dividend Per Share",
+            "summary": "The Roundhill TSLA WeeklyPay ETF (NYSEARCA:TSLW) will go ex-dividend on May 4th, 2026. Shareholders recorded on this date will receive a dividend of 0.12047 USD per share. This announcement is significant for investors tracking dividend distributions from this ETF.",
+            "text_to_analyze": "Roundhill TSLA WeeklyPay ETF To Go Ex-Dividend On May 4th, 2026 With 0.12047 USD Dividend Per Share. The Roundhill TSLA WeeklyPay ETF (NYSEARCA:TSLW) will go ex-dividend on May 4th, 2026. Shareholders recorded on this date will receive a dividend of 0.12047 USD per share. This announcement is significant for investors tracking dividend distributions from this ETF.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.92976
+        },
+        {
+            "source": "MSN",
+            "date": "20260501T214009",
+            "title": "Cathie Wood’s ARK Invest adds BitMine shares as it offloads $30M in Tesla stock",
+            "summary": "Cathie Wood's ARK Invest has strategically acquired shares in BitMine (OTCQB: BTMN) while simultaneously selling off a significant portion of its Tesla (NASDAQ: TSLA) stock, valued at $30 million. This move suggests a shifting investment focus within ARK's portfolio.",
+            "text_to_analyze": "Cathie Wood’s ARK Invest adds BitMine shares as it offloads $30M in Tesla stock. Cathie Wood's ARK Invest has strategically acquired shares in BitMine (OTCQB: BTMN) while simultaneously selling off a significant portion of its Tesla (NASDAQ: TSLA) stock, valued at $30 million. This move suggests a shifting investment focus within ARK's portfolio.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.840548
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260501T203004",
+            "title": "Tesla, Nvidia, Intel: April's Most-Searched Tickers Revealed - Amazon.com (NASDAQ:AMZN), Avis Budget Gr",
+            "summary": "Benzinga Pro has released its list of the most-searched tickers for April, highlighting continued strong interest in technology stocks, particularly semiconductors. The SPDR S&P 500 ETF Trust (SPY) remained the top-searched ticker, while Tesla (TSLA) surged to second place. Intel (INTC) and SanDisk (SNDK) rejoined the top 10 after significant year-to-date gains and increased search interest.",
+            "text_to_analyze": "Tesla, Nvidia, Intel: April's Most-Searched Tickers Revealed - Amazon.com (NASDAQ:AMZN), Avis Budget Gr. Benzinga Pro has released its list of the most-searched tickers for April, highlighting continued strong interest in technology stocks, particularly semiconductors. The SPDR S&P 500 ETF Trust (SPY) remained the top-searched ticker, while Tesla (TSLA) surged to second place. Intel (INTC) and SanDisk (SNDK) rejoined the top 10 after significant year-to-date gains and increased search interest.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.902789
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260501T195300",
+            "title": "Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April?",
+            "summary": "In April, Rivian (RIVN) stock outperformed both Tesla (TSLA) and Lucid Group (LCID), surging 9% due to a $1 billion Volkswagen investment and a $4.5 billion Department of Energy loan, alongside strong Q1 earnings. Tesla saw a modest 3% gain, while Lucid Group experienced a significant 33% decline following a large Q4 EPS miss and negative free cash flow, highlighting the varied performance of EV stocks influenced by scale, execution, and cash burn.",
+            "text_to_analyze": "Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April?. In April, Rivian (RIVN) stock outperformed both Tesla (TSLA) and Lucid Group (LCID), surging 9% due to a $1 billion Volkswagen investment and a $4.5 billion Department of Energy loan, alongside strong Q1 earnings. Tesla saw a modest 3% gain, while Lucid Group experienced a significant 33% decline following a large Q4 EPS miss and negative free cash flow, highlighting the varied performance of EV stocks influenced by scale, execution, and cash burn.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.84652
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260501T180830",
+            "title": "Tesla, Atlassian among market cap stock movers on Friday",
+            "summary": "Friday's market saw significant stock movements, with Tesla and Atlassian among the companies experiencing notable changes in their market cap. Oracle and Atlassian rallied due to positive news, while Roblox and Summit Therapeutics faced declines. The article details these movers across mega-cap, large-cap, mid-cap, and small-cap categories.",
+            "text_to_analyze": "Tesla, Atlassian among market cap stock movers on Friday. Friday's market saw significant stock movements, with Tesla and Atlassian among the companies experiencing notable changes in their market cap. Oracle and Atlassian rallied due to positive news, while Roblox and Summit Therapeutics faced declines. The article details these movers across mega-cap, large-cap, mid-cap, and small-cap categories.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.947723
+        },
+        {
+            "source": "Automotive News",
+            "date": "20260501T173826",
+            "title": "Tesla reports Elon Musk compensation at $158 billion for 2025",
+            "summary": "Tesla reported Elon Musk's compensation for 2025 at $158 billion, but he did not realize this amount because performance targets were not met. Musk draws no salary from Tesla. The article also touches on related automotive news, including April U.S. auto sales declines and updates on tariffs and EV cancellations.",
+            "text_to_analyze": "Tesla reports Elon Musk compensation at $158 billion for 2025. Tesla reported Elon Musk's compensation for 2025 at $158 billion, but he did not realize this amount because performance targets were not met. Musk draws no salary from Tesla. The article also touches on related automotive news, including April U.S. auto sales declines and updates on tariffs and EV cancellations.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Tesla Oracle",
+            "date": "20260501T173819",
+            "title": "Musk teases Bill Gates as the first Tesla Semi rolls off the volume production line at Giga Nevada",
+            "summary": "Tesla has officially begun volume production of its Semi-truck at Giga Nevada, an achievement marked by CEO Elon Musk with a light-hearted taunt directed at Bill Gates. This jab stems from a past conversation where Gates had expressed skepticism about the feasibility of long-range electric semi-trucks, despite Tesla already having them in operation with companies like Pepsi. The article highlights Tesla's continued innovation and the commencement of commercial production for the highly anticipated electric truck.",
+            "text_to_analyze": "Musk teases Bill Gates as the first Tesla Semi rolls off the volume production line at Giga Nevada. Tesla has officially begun volume production of its Semi-truck at Giga Nevada, an achievement marked by CEO Elon Musk with a light-hearted taunt directed at Bill Gates. This jab stems from a past conversation where Gates had expressed skepticism about the feasibility of long-range electric semi-trucks, despite Tesla already having them in operation with companies like Pepsi. The article highlights Tesla's continued innovation and the commencement of commercial production for the highly anticipated electric truck.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

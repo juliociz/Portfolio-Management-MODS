@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-29",
+    "window_start": "2026-05-28 16:00",
+    "window_end": "2026-05-29 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260529T092245",
+            "title": "Harbour Investments Inc. Grows Position in The TJX Companies, Inc. $TJX",
+            "summary": "Harbour Investments Inc. significantly increased its stake in The TJX Companies, Inc. by 211.8% in the fourth quarter, now holding 14,080 shares valued at approximately $2.16 million. This increase follows TJX Companies reporting strong quarterly results that surpassed analyst expectations, with earnings of $1.19 per share and revenue of $14.32 billion. The company also raised its quarterly dividend to $0.48 per share, maintaining a \"Buy\" consensus rating from analysts with an average price target of $174.58.",
+            "text_to_analyze": "Harbour Investments Inc. Grows Position in The TJX Companies, Inc. $TJX. Harbour Investments Inc. significantly increased its stake in The TJX Companies, Inc. by 211.8% in the fourth quarter, now holding 14,080 shares valued at approximately $2.16 million. This increase follows TJX Companies reporting strong quarterly results that surpassed analyst expectations, with earnings of $1.19 per share and revenue of $14.32 billion. The company also raised its quarterly dividend to $0.48 per share, maintaining a \"Buy\" consensus rating from analysts with an average price target of $174.58.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.641809
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260529T084500",
+            "title": "Fideuram Asset Management Ireland dac Purchases New Position in Walmart Inc. $WMT",
+            "summary": "Fideuram Asset Management Ireland dac initiated a new position in Walmart Inc. (NASDAQ:WMT) during the fourth quarter, acquiring 65,755 shares valued at approximately $7.33 million. This comes as Walmart maintains a \"Moderate Buy\" consensus rating from analysts, with a target price of $138.71, following a solid latest quarter where EPS matched estimates and revenue exceeded expectations. The company also raised its FY2027 guidance, reflecting positive operational momentum.",
+            "text_to_analyze": "Fideuram Asset Management Ireland dac Purchases New Position in Walmart Inc. $WMT. Fideuram Asset Management Ireland dac initiated a new position in Walmart Inc. (NASDAQ:WMT) during the fourth quarter, acquiring 65,755 shares valued at approximately $7.33 million. This comes as Walmart maintains a \"Moderate Buy\" consensus rating from analysts, with a target price of $138.71, following a solid latest quarter where EPS matched estimates and revenue exceeded expectations. The company also raised its FY2027 guidance, reflecting positive operational momentum.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.615139
+        },
+        {
+            "source": "BizWest",
+            "date": "20260529T010227",
+            "title": "Trader Joe’s, Target planned in Lafayette",
+            "summary": "Trader Joe's and Target are identified as potential tenants for The Range mixed-use development in Lafayette, Colorado, according to recently updated plans submitted to city planners. The development, located at Arapahoe Road and U.S. Highway 287, would bring these major retailers to the area. This news was published as part of a subscriber-only article.",
+            "text_to_analyze": "Trader Joe’s, Target planned in Lafayette. Trader Joe's and Target are identified as potential tenants for The Range mixed-use development in Lafayette, Colorado, according to recently updated plans submitted to city planners. The development, located at Arapahoe Road and U.S. Highway 287, would bring these major retailers to the area. This news was published as part of a subscriber-only article.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260528T211029",
+            "title": "Target executive Cornell sells $6.49 million in company stock",
+            "summary": "Brian C. Cornell, an executive at Target Corp. (NYSE:TGT), sold 50,000 shares of company stock on May 27, 2026, totaling approximately $6.49 million. The sales were conducted indirectly through a trust, with shares trading between $129.8383 and $130.5459. Following the transactions, Cornell's direct and indirect holdings in Target stock stand at 133,506 shares and 193,270 shares through the trust, respectively.",
+            "text_to_analyze": "Target executive Cornell sells $6.49 million in company stock. Brian C. Cornell, an executive at Target Corp. (NYSE:TGT), sold 50,000 shares of company stock on May 27, 2026, totaling approximately $6.49 million. The sales were conducted indirectly through a trust, with shares trading between $129.8383 and $130.5459. Following the transactions, Cornell's direct and indirect holdings in Target stock stand at 133,506 shares and 193,270 shares through the trust, respectively.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260528T210837",
+            "title": "Target (NYSE: TGT) executive Brian Cornell sells 50,000 shares via trust",
+            "summary": "Brian C. Cornell, an executive at Target Corp (NYSE: TGT), sold 50,000 shares of common stock on May 27, 2026, through a trust. The sales occurred at volume-weighted average prices of $130.5459 and $129.8383 per share. Despite these sales, Cornell retains substantial holdings indirectly through trusts, directly, and in his 401(k) plan, indicating continued significant exposure to Target's equity.",
+            "text_to_analyze": "Target (NYSE: TGT) executive Brian Cornell sells 50,000 shares via trust. Brian C. Cornell, an executive at Target Corp (NYSE: TGT), sold 50,000 shares of common stock on May 27, 2026, through a trust. The sales occurred at volume-weighted average prices of $130.5459 and $129.8383 per share. Despite these sales, Cornell retains substantial holdings indirectly through trusts, directly, and in his 401(k) plan, indicating continued significant exposure to Target's equity.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.92128
+        }
+    ]
+}

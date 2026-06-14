@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-05",
+    "window_start": "2026-05-04 16:00",
+    "window_end": "2026-05-05 09:27",
+    "articles": [
+        {
+            "source": "Investing.com",
+            "date": "20260504T203517",
+            "title": "Starbucks launches $1.1 billion tender offer for senior notes",
+            "summary": "Starbucks Corporation announced a tender offer to repurchase up to $1.1 billion of its senior notes across two pools, aiming to manage its $24.4 billion debt load. The offer includes various due dates and interest rates, with differing consideration eligibility based on early versus late tender submissions. This move follows strong fiscal second-quarter 2026 results and several analyst price target increases for SBUX.",
+            "text_to_analyze": "Starbucks launches $1.1 billion tender offer for senior notes. Starbucks Corporation announced a tender offer to repurchase up to $1.1 billion of its senior notes across two pools, aiming to manage its $24.4 billion debt load. The offer includes various due dates and interest rates, with differing consideration eligibility based on early versus late tender submissions. This move follows strong fiscal second-quarter 2026 results and several analyst price target increases for SBUX.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.911011
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260504T200917",
+            "title": "Starbucks moves to buy back up to $1.1B of debt, with May 15 deadline",
+            "summary": "Starbucks Corporation announced the commencement of cash tender offers to repurchase up to $1.1 billion of eight series of senior notes, divided into two pools with different maximum amounts. The offers include an early tender payment incentive for holders who tender their notes by May 15, 2026, with the overall tender offers expiring on June 2, 2026. This debt repurchase aims to optimize the company's financial structure, and Starbucks has engaged several financial institutions as dealer managers and a tender and information agent for the transactions.",
+            "text_to_analyze": "Starbucks moves to buy back up to $1.1B of debt, with May 15 deadline. Starbucks Corporation announced the commencement of cash tender offers to repurchase up to $1.1 billion of eight series of senior notes, divided into two pools with different maximum amounts. The offers include an early tender payment incentive for holders who tender their notes by May 15, 2026, with the overall tender offers expiring on June 2, 2026. This debt repurchase aims to optimize the company's financial structure, and Starbucks has engaged several financial institutions as dealer managers and a tender and information agent for the transactions.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260504T170958",
+            "title": "6 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+            "summary": "This article identifies six consumer discretionary stocks that showed \"whale alerts\" in today's trading session, indicating significant options activity. These alerts track transactions made by entities with large sums of money, which can signal potential trading opportunities for others. The article details specific put and call option trades for companies like Cava Group, Home Depot, and Starbucks, including their expiration dates, strike prices, and the sentiment (bearish or neutral) associated with each trade.",
+            "text_to_analyze": "6 Consumer Discretionary Stocks With Whale Alerts In Today's Session. This article identifies six consumer discretionary stocks that showed \"whale alerts\" in today's trading session, indicating significant options activity. These alerts track transactions made by entities with large sums of money, which can signal potential trading opportunities for others. The article details specific put and call option trades for companies like Cava Group, Home Depot, and Starbucks, including their expiration dates, strike prices, and the sentiment (bearish or neutral) associated with each trade.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.834254
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260504T161921",
+            "title": "Jim Cramer Big, Explosive Prediction About Starbucks (SBUX)",
+            "summary": "Jim Cramer predicted that Starbucks (SBUX) could be a \"multi-year rocket ship\" following the company's strong second-quarter earnings report. Starbucks saw its shares rise by 8.5% on April 29th after reporting $6.9 billion in net revenue and raising its fiscal year 2026 earnings per share forecast. This positive outlook from Cramer came after he had consistently defended the company and its CEO throughout 2025.",
+            "text_to_analyze": "Jim Cramer Big, Explosive Prediction About Starbucks (SBUX). Jim Cramer predicted that Starbucks (SBUX) could be a \"multi-year rocket ship\" following the company's strong second-quarter earnings report. Starbucks saw its shares rise by 8.5% on April 29th after reporting $6.9 billion in net revenue and raising its fiscal year 2026 earnings per share forecast. This positive outlook from Cramer came after he had consistently defended the company and its CEO throughout 2025.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260504T160425",
+            "title": "Is Starbucks Stock a Buy After Its 2026 Turnaround Report?",
+            "summary": "Starbucks reported a strong Q2 fiscal 2026 with record net revenue of $9.53 billion, up 9%, and global comparable sales increasing 6.2%. The company's \"Back to Starbucks\" program is driving top-line growth, with North America showing significant transaction increases. While the stock has outperformed the market and guidance was raised, its low-to-mid 30s P/E valuation implies a reliance on sustained execution and future margin expansion.",
+            "text_to_analyze": "Is Starbucks Stock a Buy After Its 2026 Turnaround Report?. Starbucks reported a strong Q2 fiscal 2026 with record net revenue of $9.53 billion, up 9%, and global comparable sales increasing 6.2%. The company's \"Back to Starbucks\" program is driving top-line growth, with North America showing significant transaction increases. While the stock has outperformed the market and guidance was raised, its low-to-mid 30s P/E valuation implies a reliance on sustained execution and future margin expansion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

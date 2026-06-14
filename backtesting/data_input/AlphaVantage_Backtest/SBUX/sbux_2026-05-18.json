@@ -1,0 +1,81 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-18",
+    "window_start": "2026-05-15 16:00",
+    "window_end": "2026-05-18 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260517T085639",
+            "title": "Starbucks Corporation $SBUX Shares Purchased by DNB Asset Management AS",
+            "summary": "DNB Asset Management AS increased its stake in Starbucks Corporation by 15.1% in the fourth quarter, now owning 411,540 shares valued at $34.66 million. Several other institutional investors also adjusted their holdings, with Vanguard Group Inc. and Capital Research Global Investors holding significant stakes. Starbucks reported strong Q1 earnings, beating analyst estimates, and announced a quarterly dividend of $0.62 per share.",
+            "text_to_analyze": "Starbucks Corporation $SBUX Shares Purchased by DNB Asset Management AS. DNB Asset Management AS increased its stake in Starbucks Corporation by 15.1% in the fourth quarter, now owning 411,540 shares valued at $34.66 million. Several other institutional investors also adjusted their holdings, with Vanguard Group Inc. and Capital Research Global Investors holding significant stakes. Starbucks reported strong Q1 earnings, beating analyst estimates, and announced a quarterly dividend of $0.62 per share.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Northwest Arkansas Democrat-Gazette",
+            "date": "20260517T070335",
+            "title": "Dress codes: no way to fix what’s broken",
+            "summary": "This article argues that corporate crackdowns on employee dress codes by companies like Target and Starbucks are attempts by management to reassert control in an era of AI anxiety and layoffs. While dress codes can signal professionalism, the author contends they are often more about optics than solving real business problems, such as understaffing, and can decrease worker satisfaction. The piece suggests that genuine improvements come from substantive investments in employees, like better pay and staffing, rather than superficial directives on attire.",
+            "text_to_analyze": "Dress codes: no way to fix what’s broken. This article argues that corporate crackdowns on employee dress codes by companies like Target and Starbucks are attempts by management to reassert control in an era of AI anxiety and layoffs. While dress codes can signal professionalism, the author contends they are often more about optics than solving real business problems, such as understaffing, and can decrease worker satisfaction. The piece suggests that genuine improvements come from substantive investments in employees, like better pay and staffing, rather than superficial directives on attire.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TechStock²",
+            "date": "20260516T143424",
+            "title": "Starbucks Stock Faces Monday Breakout Test After $400 Million Layoff Shock",
+            "summary": "Starbucks announced plans to cut 300 U.S. corporate jobs and close several regional support offices as part of CEO Brian Niccol's \"Back to Starbucks\" turnaround strategy. The company anticipates $400 million in restructuring charges, largely non-cash, but still reported strong fiscal second-quarter sales growth. Investors are watching to see if these cost-cutting measures signal financial discipline or underlying strain as the stock heads into a crucial Monday trading session.",
+            "text_to_analyze": "Starbucks Stock Faces Monday Breakout Test After $400 Million Layoff Shock. Starbucks announced plans to cut 300 U.S. corporate jobs and close several regional support offices as part of CEO Brian Niccol's \"Back to Starbucks\" turnaround strategy. The company anticipates $400 million in restructuring charges, largely non-cash, but still reported strong fiscal second-quarter sales growth. Investors are watching to see if these cost-cutting measures signal financial discipline or underlying strain as the stock heads into a crucial Monday trading session.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.964081
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260516T050853",
+            "title": "Starbucks to open first corporate office in India for tech expansion",
+            "summary": "Starbucks plans to open its first corporate technology office in India in fiscal year 2027, aiming to cut $2 billion in expenditures. This move will insource critical technical roles previously handled by third-party contractors, marking a shift towards a proprietary tech ecosystem. The company expects to begin recruitment once a site is finalized later this year, as part of a broader strategy to reduce reliance on external service providers and streamline its global retail technology.",
+            "text_to_analyze": "Starbucks to open first corporate office in India for tech expansion. Starbucks plans to open its first corporate technology office in India in fiscal year 2027, aiming to cut $2 billion in expenditures. This move will insource critical technical roles previously handled by third-party contractors, marking a shift towards a proprietary tech ecosystem. The company expects to begin recruitment once a site is finalized later this year, as part of a broader strategy to reduce reliance on external service providers and streamline its global retail technology.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260516T003623",
+            "title": "Starbucks gets $2.6B in note tenders for $1.3B debt buyback cap",
+            "summary": "Starbucks announced the early results and upsizing of its cash tender offers for eight series of notes, increasing the aggregate cap for tendered notes to $1.3 billion. The company received $2.598 billion in valid tenders by the early tender date, exceeding the new cap, and expects to accept tenders up to the cap based on specified priority levels. The withdrawal deadline has passed, and Starbucks anticipates an early settlement date of May 20, 2026, for accepted notes.",
+            "text_to_analyze": "Starbucks gets $2.6B in note tenders for $1.3B debt buyback cap. Starbucks announced the early results and upsizing of its cash tender offers for eight series of notes, increasing the aggregate cap for tendered notes to $1.3 billion. The company received $2.598 billion in valid tenders by the early tender date, exceeding the new cap, and expects to accept tenders up to the cap based on specified priority levels. The withdrawal deadline has passed, and Starbucks anticipates an early settlement date of May 20, 2026, for accepted notes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260515T211142",
+            "title": "Starbucks laying off 300 workers, closes regional support offices",
+            "summary": "Starbucks plans to lay off 300 support staff employees and close its regional support offices located in Chicago, Dallas, Atlanta, and Southern California. This decision is part of an ongoing restructuring plan orchestrated by Starbucks CEO Brian Niccol. The article also mentions previous layoffs by Starbucks, including dozens of tech employees and nearly 1,000 Seattle-area employees.",
+            "text_to_analyze": "Starbucks laying off 300 workers, closes regional support offices. Starbucks plans to lay off 300 support staff employees and close its regional support offices located in Chicago, Dallas, Atlanta, and Southern California. This decision is part of an ongoing restructuring plan orchestrated by Starbucks CEO Brian Niccol. The article also mentions previous layoffs by Starbucks, including dozens of tech employees and nearly 1,000 Seattle-area employees.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Boston Herald",
+            "date": "20260515T181200",
+            "title": "Ticker: Trump says China agreed to buy 200 Boeing planes; Starbucks to lay off 300 US corporate workers",
+            "summary": "Donald Trump announced that China agreed to purchase 200 Boeing planes as a result of a summit with Chinese President Xi Jinping, though neither China nor Boeing has confirmed the deal. Separately, Starbucks announced it is laying off 300 corporate employees and closing several U.S. offices as part of a turnaround strategy, with no impact on coffeehouse workers.",
+            "text_to_analyze": "Ticker: Trump says China agreed to buy 200 Boeing planes; Starbucks to lay off 300 US corporate workers. Donald Trump announced that China agreed to purchase 200 Boeing planes as a result of a summit with Chinese President Xi Jinping, though neither China nor Boeing has confirmed the deal. Separately, Starbucks announced it is laying off 300 corporate employees and closing several U.S. offices as part of a turnaround strategy, with no impact on coffeehouse workers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.918463
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260515T174125",
+            "title": "Tex-Mex restaurant joins Starbucks in growing lineup at downtown's Peabody Union",
+            "summary": "Long Shot Hospitality is bringing its popular Tex-Mex concept, Ometeo, to Nashville's Peabody Union development. This marks their first expansion outside of Washington, D.C. The decision was reinforced by Starbucks' plan to occupy the entire office building next door.",
+            "text_to_analyze": "Tex-Mex restaurant joins Starbucks in growing lineup at downtown's Peabody Union. Long Shot Hospitality is bringing its popular Tex-Mex concept, Ometeo, to Nashville's Peabody Union development. This marks their first expansion outside of Washington, D.C. The decision was reinforced by Starbucks' plan to occupy the entire office building next door.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.900591
+        }
+    ]
+}

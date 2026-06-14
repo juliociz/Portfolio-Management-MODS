@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-19",
+    "window_start": "2026-05-18 16:00",
+    "window_end": "2026-05-19 09:27",
+    "articles": [
+        {
+            "source": "The Business Journals",
+            "date": "20260518T182657",
+            "title": "Walt Disney World names new president to lead Central Florida's largest employer",
+            "summary": "Joe Schott has been named the new president of Walt Disney World, succeeding Josh D'Amaro. This leadership change comes as Walt Disney World embarks on significant expansion plans, including new themed areas and a nearly 1,000-room hotel. The outgoing president, D'Amaro, is retiring after a period of significant growth and change at the company.",
+            "text_to_analyze": "Walt Disney World names new president to lead Central Florida's largest employer. Joe Schott has been named the new president of Walt Disney World, succeeding Josh D'Amaro. This leadership change comes as Walt Disney World embarks on significant expansion plans, including new themed areas and a nearly 1,000-room hotel. The outgoing president, D'Amaro, is retiring after a period of significant growth and change at the company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.967975
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260518T163727",
+            "title": "'Disney Blockbuster Summer' Brings the Best in Storytelling and Experiences to Give Fans an Unforgettable Season",
+            "summary": "Disney is launching its \"Disney Blockbuster Summer\" campaign, featuring highly anticipated films like \"Star Wars: The Mandalorian and Grogu,\" \"Toy Story 5,\" and \"Moana.\" The initiative aims to offer fans immersive experiences across movies, Disney+, theme parks, and consumer products. This multi-faceted campaign seeks to create lasting memories through storytelling and interactive engagement throughout the summer season.",
+            "text_to_analyze": "'Disney Blockbuster Summer' Brings the Best in Storytelling and Experiences to Give Fans an Unforgettable Season. Disney is launching its \"Disney Blockbuster Summer\" campaign, featuring highly anticipated films like \"Star Wars: The Mandalorian and Grogu,\" \"Toy Story 5,\" and \"Moana.\" The initiative aims to offer fans immersive experiences across movies, Disney+, theme parks, and consumer products. This multi-faceted campaign seeks to create lasting memories through storytelling and interactive engagement throughout the summer season.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

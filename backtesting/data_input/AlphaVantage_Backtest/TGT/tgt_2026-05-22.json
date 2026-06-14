@@ -1,0 +1,45 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-22",
+    "window_start": "2026-05-21 16:00",
+    "window_end": "2026-05-22 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260522T041430",
+            "title": "Dollar Tree stock (US2567461080): investors react to weak outlook and strategic review of Family Dollar",
+            "summary": "Dollar Tree has initiated a strategic review of its Family Dollar chain and announced the closure of 970 underperforming stores after reporting mixed Q1 2025 results. This move aims to address margin pressures and unlock value despite near-term earnings challenges. The company faces intense competition and operational complexities, particularly with Family Dollar, which targets lower-income markets and has struggled with profitability and shrink.",
+            "text_to_analyze": "Dollar Tree stock (US2567461080): investors react to weak outlook and strategic review of Family Dollar. Dollar Tree has initiated a strategic review of its Family Dollar chain and announced the closure of 970 underperforming stores after reporting mixed Q1 2025 results. This move aims to address margin pressures and unlock value despite near-term earnings challenges. The company faces intense competition and operational complexities, particularly with Family Dollar, which targets lower-income markets and has struggled with profitability and shrink.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.558142
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260522T003830",
+            "title": "Target Corp Earnings Call Signals Cautious Rebound",
+            "summary": "Target Corporation's Q1 earnings call revealed a cautiously optimistic outlook, with better-than-expected sales, strong digital growth, and improved margins. Despite these positive indicators, management acknowledged ongoing challenges such as cost pressures and uneven category recovery. The company raised its full-year net sales outlook, signaling confidence while emphasizing the need for disciplined execution in a fragile consumer environment.",
+            "text_to_analyze": "Target Corp Earnings Call Signals Cautious Rebound. Target Corporation's Q1 earnings call revealed a cautiously optimistic outlook, with better-than-expected sales, strong digital growth, and improved margins. Despite these positive indicators, management acknowledged ongoing challenges such as cost pressures and uneven category recovery. The company raised its full-year net sales outlook, signaling confidence while emphasizing the need for disciplined execution in a fragile consumer environment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260521T190938",
+            "title": "Protara Therapeutics Inc stock (US87612E1064): analyst optimism contrasts with volatile share price",
+            "summary": "Protara Therapeutics Inc. (TARA) is a clinical-stage biopharmaceutical company focused on rare diseases and oncology, attracting significant analyst optimism despite its volatile, single-digit share price. Analysts, including Piper Sandler, project substantial upside, with a consensus 12-month price target of $25.20 against a recent closing price of $4.76. The company's value drivers are its clinical pipeline and potential regulatory approvals, which carry inherent risks related to trial outcomes, regulatory hurdles, and financing needs typical of the biotech sector.",
+            "text_to_analyze": "Protara Therapeutics Inc stock (US87612E1064): analyst optimism contrasts with volatile share price. Protara Therapeutics Inc. (TARA) is a clinical-stage biopharmaceutical company focused on rare diseases and oncology, attracting significant analyst optimism despite its volatile, single-digit share price. Analysts, including Piper Sandler, project substantial upside, with a consensus 12-month price target of $25.20 against a recent closing price of $4.76. The company's value drivers are its clinical pipeline and potential regulatory approvals, which carry inherent risks related to trial outcomes, regulatory hurdles, and financing needs typical of the biotech sector.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.636065
+        },
+        {
+            "source": "TradingView",
+            "date": "20260521T161032",
+            "title": "Bath and Body Works (BBWI) Stock Is Up, What You Need To Know",
+            "summary": "Shares of Bath & Body Works (BBWI) rose by 3.9% after major retailers like Target, Lowe's, and TJX reported stronger-than-expected first-quarter earnings, signaling a potential positive shift in consumer spending. This follows a previous drop in BBWI's stock due to a hotter-than-expected Producer Price Index report. Despite the recent bump from retail earnings, BBWI's stock is still down 19.4% year-to-date and significantly below its 52-week high.",
+            "text_to_analyze": "Bath and Body Works (BBWI) Stock Is Up, What You Need To Know. Shares of Bath & Body Works (BBWI) rose by 3.9% after major retailers like Target, Lowe's, and TJX reported stronger-than-expected first-quarter earnings, signaling a potential positive shift in consumer spending. This follows a previous drop in BBWI's stock due to a hotter-than-expected Producer Price Index report. Despite the recent bump from retail earnings, BBWI's stock is still down 19.4% year-to-date and significantly below its 52-week high.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.631729
+        }
+    ]
+}

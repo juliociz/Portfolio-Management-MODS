@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-01",
+    "window_start": "2026-04-30 16:00",
+    "window_end": "2026-05-01 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260430T183834",
+            "title": "Wealthfront Advisers LLC Acquires 36,162 Shares of Target Corporation $TGT",
+            "summary": "Wealthfront Advisers LLC significantly increased its stake in Target Corporation during the fourth quarter of 2025, acquiring an additional 36,162 shares, bringing its total to 70,315 shares valued at approximately $6.87 million. This increase of 105.9% reflects confidence despite mixed analyst sentiment, with Target having recently beaten Q4 EPS expectations. The company also announced a quarterly dividend and provided FY 2026 guidance.",
+            "text_to_analyze": "Wealthfront Advisers LLC Acquires 36,162 Shares of Target Corporation $TGT. Wealthfront Advisers LLC significantly increased its stake in Target Corporation during the fourth quarter of 2025, acquiring an additional 36,162 shares, bringing its total to 70,315 shares valued at approximately $6.87 million. This increase of 105.9% reflects confidence despite mixed analyst sentiment, with Target having recently beaten Q4 EPS expectations. The company also announced a quarterly dividend and provided FY 2026 guidance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260430T180823",
+            "title": "Vanguard reports 34.0M shares of Target (NYSE: TGT) in Schedule 13G",
+            "summary": "Vanguard Capital Management has filed a Schedule 13G, disclosing beneficial ownership of 34,035,678 shares of Target Corp (NYSE: TGT) common stock, which represents a 7.51% stake in the company. The filing indicates Vanguard possesses sole dispositive power over all these shares and sole voting power over 4,627,750 shares. This disclosure, signed on April 30, 2026, by the Head of Global Fund Administration, emphasizes a passive investment approach.",
+            "text_to_analyze": "Vanguard reports 34.0M shares of Target (NYSE: TGT) in Schedule 13G. Vanguard Capital Management has filed a Schedule 13G, disclosing beneficial ownership of 34,035,678 shares of Target Corp (NYSE: TGT) common stock, which represents a 7.51% stake in the company. The filing indicates Vanguard possesses sole dispositive power over all these shares and sole voting power over 4,627,750 shares. This disclosure, signed on April 30, 2026, by the Head of Global Fund Administration, emphasizes a passive investment approach.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260430T164700",
+            "title": "Target Corp. stock outperforms competitors on strong trading day",
+            "summary": "Target Corp. (TGT) shares increased by 1.47% to $129.75, outperforming its competitors and the broader market on a strong trading day. The S&P 500 Index and the Dow Jones Industrial Average also saw significant gains. This marks the second consecutive day of gains for Target's stock.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors on strong trading day. Target Corp. (TGT) shares increased by 1.47% to $129.75, outperforming its competitors and the broader market on a strong trading day. The S&P 500 Index and the Dow Jones Industrial Average also saw significant gains. This marks the second consecutive day of gains for Target's stock.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

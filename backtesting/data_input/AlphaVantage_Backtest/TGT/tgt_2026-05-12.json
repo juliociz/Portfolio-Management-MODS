@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-12",
+    "window_start": "2026-05-11 16:00",
+    "window_end": "2026-05-12 09:27",
+    "articles": [
+        {
+            "source": "Progressive Grocer",
+            "date": "20260511T183825",
+            "title": "Target Dishes on Comprehensive Store Remodels",
+            "summary": "Target is accelerating its store remodeling efforts, investing approximately $5 billion this year in over 130 remodels and 30 new stores to enhance the shopping experience. These transformations focus on creating more intuitive layouts, expanding assortments, and improving convenience for services like Order Pickup and Drive Up. The comprehensive upgrades aim to strengthen Target's physical stores as a key differentiator and support its long-term growth and fulfillment services.",
+            "text_to_analyze": "Target Dishes on Comprehensive Store Remodels. Target is accelerating its store remodeling efforts, investing approximately $5 billion this year in over 130 remodels and 30 new stores to enhance the shopping experience. These transformations focus on creating more intuitive layouts, expanding assortments, and improving convenience for services like Order Pickup and Drive Up. The comprehensive upgrades aim to strengthen Target's physical stores as a key differentiator and support its long-term growth and fulfillment services.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Chain Store Age",
+            "date": "20260511T175424",
+            "title": "Target in biggest store remodel program in a decade — here are the details",
+            "summary": "Target is embarking on its most extensive store remodeling program in over a decade, updating more than 130 locations this year, opening 30 new stores, and upgrading supply chain technology. The remodels will feature expanded grocery selections, modern aesthetics, improved order fulfillment areas, and enhanced guest amenities. These efforts aim to create a more intuitive, inspiring, and convenient shopping experience for customers while also reducing energy costs and strengthening the stores' role in fulfillment.",
+            "text_to_analyze": "Target in biggest store remodel program in a decade — here are the details. Target is embarking on its most extensive store remodeling program in over a decade, updating more than 130 locations this year, opening 30 new stores, and upgrading supply chain technology. The remodels will feature expanded grocery selections, modern aesthetics, improved order fulfillment areas, and enhanced guest amenities. These efforts aim to create a more intuitive, inspiring, and convenient shopping experience for customers while also reducing energy costs and strengthening the stores' role in fulfillment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

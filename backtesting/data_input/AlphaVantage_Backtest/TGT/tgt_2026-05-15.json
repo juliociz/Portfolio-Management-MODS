@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-15",
+    "window_start": "2026-05-14 16:00",
+    "window_end": "2026-05-15 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260515T023903",
+            "title": "Branchout Food Q1 2026 Earnings Call: Complete Transcript",
+            "summary": "Branchout Food (NASDAQ: BOF) held its first-quarter earnings conference call, detailing strategies for increased factory utilization and customer expansion through partnerships with major retailers like Costco, Sam's Club, Walmart, and Target. The company is investing in inventory buildup for a record Q2, exploring a tolling opportunity for drying services, and projects significant revenue growth in the second half of 2026 with improved liquidity from recent financing.",
+            "text_to_analyze": "Branchout Food Q1 2026 Earnings Call: Complete Transcript. Branchout Food (NASDAQ: BOF) held its first-quarter earnings conference call, detailing strategies for increased factory utilization and customer expansion through partnerships with major retailers like Costco, Sam's Club, Walmart, and Target. The company is investing in inventory buildup for a record Q2, exploring a tolling opportunity for drying services, and projects significant revenue growth in the second half of 2026 with improved liquidity from recent financing.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.630741
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260515T000827",
+            "title": "Trillium urges Target (TGT) shareholders to oppose Executive Chair Cornell, Lead Director Leahy",
+            "summary": "Trillium Asset Management has filed an exempt solicitation urging Target (TGT) shareholders to vote against Executive Chair Brian Cornell and Lead Independent Director Christine Leahy at the upcoming June 10, 2026 Annual Meeting. Trillium cites Target's multi-year underperformance against the S&P 500 Consumer Discretionary Index, recurring sales declines, reputational damage, and governance concerns regarding the decision to retain Cornell as Executive Chair after promoting an insider to CEO. The letter highlights significant share repurchases that failed to boost stock price and substantial compensation for Mr. Cornell.",
+            "text_to_analyze": "Trillium urges Target (TGT) shareholders to oppose Executive Chair Cornell, Lead Director Leahy. Trillium Asset Management has filed an exempt solicitation urging Target (TGT) shareholders to vote against Executive Chair Brian Cornell and Lead Independent Director Christine Leahy at the upcoming June 10, 2026 Annual Meeting. Trillium cites Target's multi-year underperformance against the S&P 500 Consumer Discretionary Index, recurring sales declines, reputational damage, and governance concerns regarding the decision to retain Cornell as Executive Chair after promoting an insider to CEO. The letter highlights significant share repurchases that failed to boost stock price and substantial compensation for Mr. Cornell.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260514T202035",
+            "title": "Target Corp stock (US8725901040): shares react to latest quarterly update",
+            "summary": "The article discusses Target Corp's business model, key revenue drivers, and its significance for US investors following its latest quarterly update. It highlights the retailer's mix of essential and discretionary categories, its increasing reliance on digital and same-day services, and its role as an indicator of broader consumer spending trends. The analysis emphasizes how Target balances competitive pricing with profitability and focuses on store-based fulfillment, reflecting current shifts in household budgets and market dynamics.",
+            "text_to_analyze": "Target Corp stock (US8725901040): shares react to latest quarterly update. The article discusses Target Corp's business model, key revenue drivers, and its significance for US investors following its latest quarterly update. It highlights the retailer's mix of essential and discretionary categories, its increasing reliance on digital and same-day services, and its role as an indicator of broader consumer spending trends. The analysis emphasizes how Target balances competitive pricing with profitability and focuses on store-based fulfillment, reflecting current shifts in household budgets and market dynamics.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

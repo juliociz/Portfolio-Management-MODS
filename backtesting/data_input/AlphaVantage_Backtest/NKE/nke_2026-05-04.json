@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-04",
+    "window_start": "2026-05-01 16:00",
+    "window_end": "2026-05-04 09:27",
+    "articles": [
+        {
+            "source": "TIKR.com",
+            "date": "20260503T153750",
+            "title": "Nike vs Lululemon: Which Beaten Down Fashion Stock Can Turn It Around First?",
+            "summary": "This article analyzes Nike and Lululemon, two fashion stocks currently facing challenges, to determine which has a better chance of recovery. Nike is dealing with self-inflicted strategic missteps and is undergoing a major reset, while Lululemon is experiencing natural deceleration in its core North American market. The article concludes that Nike's stock appears undervalued with a higher potential upside due to its credible recovery plan, whereas Lululemon's stock is perceived as fairly valued, reflecting a structural repricing due to maturing growth.",
+            "text_to_analyze": "Nike vs Lululemon: Which Beaten Down Fashion Stock Can Turn It Around First?. This article analyzes Nike and Lululemon, two fashion stocks currently facing challenges, to determine which has a better chance of recovery. Nike is dealing with self-inflicted strategic missteps and is undergoing a major reset, while Lululemon is experiencing natural deceleration in its core North American market. The article concludes that Nike's stock appears undervalued with a higher potential upside due to its credible recovery plan, whereas Lululemon's stock is perceived as fairly valued, reflecting a structural repricing due to maturing growth.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.917046
+        },
+        {
+            "source": "Sahm",
+            "date": "20260502T190801",
+            "title": "Nike Criticism Over Wages And Taxes Adds To ESG Investment Risks",
+            "summary": "Nike is facing renewed scrutiny regarding its labor practices and tax contributions, as Oregon educators and Asian garment workers demand action on alleged supply chain human rights issues, wage theft, and calls for increased public education funding. This criticism adds significant environmental, social, and governance (ESG) risks for Nike, impacting its brand perception and raising questions about capital allocation amid a period of declining stock performance and existing leadership challenges. Investors are advised to monitor management's response to these allegations, as they could influence the company's long-term risk assessment and turnaround efforts.",
+            "text_to_analyze": "Nike Criticism Over Wages And Taxes Adds To ESG Investment Risks. Nike is facing renewed scrutiny regarding its labor practices and tax contributions, as Oregon educators and Asian garment workers demand action on alleged supply chain human rights issues, wage theft, and calls for increased public education funding. This criticism adds significant environmental, social, and governance (ESG) risks for Nike, impacting its brand perception and raising questions about capital allocation amid a period of declining stock performance and existing leadership challenges. Investors are advised to monitor management's response to these allegations, as they could influence the company's long-term risk assessment and turnaround efforts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

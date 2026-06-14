@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-05",
+    "window_start": "2026-05-04 16:00",
+    "window_end": "2026-05-05 09:27",
+    "articles": [
+        {
+            "source": "www.marketscreener.com",
+            "date": "20260504T170000",
+            "title": "Nike, Inc. Declares Quarterly Cash Dividend on Class A and Class B Common Stock, Payable on July 1, 2026",
+            "summary": "Nike, Inc. has announced a quarterly cash dividend of $0.41 per share for its Class A and Class B Common Stock. The dividend is payable on July 1, 2026, to shareholders of record as of June 1, 2026. This announcement was made following a declaration by the company's Board of Directors.",
+            "text_to_analyze": "Nike, Inc. Declares Quarterly Cash Dividend on Class A and Class B Common Stock, Payable on July 1, 2026. Nike, Inc. has announced a quarterly cash dividend of $0.41 per share for its Class A and Class B Common Stock. The dividend is payable on July 1, 2026, to shareholders of record as of June 1, 2026. This announcement was made following a declaration by the company's Board of Directors.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.973935
+        }
+    ]
+}

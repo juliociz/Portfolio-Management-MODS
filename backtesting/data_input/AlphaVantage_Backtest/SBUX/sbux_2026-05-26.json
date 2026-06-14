@@ -1,0 +1,18 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-26",
+    "window_start": "2026-05-25 16:00",
+    "window_end": "2026-05-26 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260526T073241",
+            "title": "Starbucks Korea Is Seeing Sales Drop After A Controversial 'Tank Day' Marketing Campaign Sparked Politica",
+            "summary": "Starbucks Korea is experiencing a significant sales decline due to a controversial \"Tank Day\" marketing campaign that coincided with the anniversary of the May 18 Gwangju Uprising. The campaign, which invoked a politically sensitive event, led to public outrage and an apology from Shinsegae Group chairman Chung Yong-jin, who operates Starbucks Korea. This incident occurs as Starbucks global implements a restructuring plan, including job cuts and office closures, with analysts like TD Cowen maintaining a positive outlook on the company's turnaround efforts despite the Korean unit's misstep.",
+            "text_to_analyze": "Starbucks Korea Is Seeing Sales Drop After A Controversial 'Tank Day' Marketing Campaign Sparked Politica. Starbucks Korea is experiencing a significant sales decline due to a controversial \"Tank Day\" marketing campaign that coincided with the anniversary of the May 18 Gwangju Uprising. The campaign, which invoked a politically sensitive event, led to public outrage and an apology from Shinsegae Group chairman Chung Yong-jin, who operates Starbucks Korea. This incident occurs as Starbucks global implements a restructuring plan, including job cuts and office closures, with analysts like TD Cowen maintaining a positive outlook on the company's turnaround efforts despite the Korean unit's misstep.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

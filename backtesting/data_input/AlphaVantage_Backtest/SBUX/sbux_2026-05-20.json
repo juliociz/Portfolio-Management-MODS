@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-20",
+    "window_start": "2026-05-19 16:00",
+    "window_end": "2026-05-20 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260520T091926",
+            "title": "HighTower Advisors LLC Purchases 350,364 Shares of Starbucks Corporation $SBUX",
+            "summary": "HighTower Advisors LLC increased its stake in Starbucks Corporation by 24.2% in the fourth quarter, purchasing an additional 350,364 shares and bringing their total holdings to 1,795,943 shares valued at $151,236,000. Other hedge funds also adjusted their positions in Starbucks, with institutional investors owning 72.29% of the company's stock. Starbucks recently released strong earnings results, reporting $0.50 EPS which beat analyst estimates, and announced a quarterly dividend of $0.62 per share.",
+            "text_to_analyze": "HighTower Advisors LLC Purchases 350,364 Shares of Starbucks Corporation $SBUX. HighTower Advisors LLC increased its stake in Starbucks Corporation by 24.2% in the fourth quarter, purchasing an additional 350,364 shares and bringing their total holdings to 1,795,943 shares valued at $151,236,000. Other hedge funds also adjusted their positions in Starbucks, with institutional investors owning 72.29% of the company's stock. Starbucks recently released strong earnings results, reporting $0.50 EPS which beat analyst estimates, and announced a quarterly dividend of $0.62 per share.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.991329
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260520T053928",
+            "title": "Starbucks stock (US8552441094): investors react to Q2 results and leadership news",
+            "summary": "Starbucks recently reported disappointing fiscal second-quarter results and cut its full-year guidance, leading to a sharp sell-off in its stock. The company's core business relies on company-operated and licensed stores, digital engagement, and brand partnerships, but faces challenges from macroeconomic conditions and competition, particularly in China. Investors are closely monitoring its earnings, capital allocation, and regional growth as these factors influence its future performance and market valuation.",
+            "text_to_analyze": "Starbucks stock (US8552441094): investors react to Q2 results and leadership news. Starbucks recently reported disappointing fiscal second-quarter results and cut its full-year guidance, leading to a sharp sell-off in its stock. The company's core business relies on company-operated and licensed stores, digital engagement, and brand partnerships, but faces challenges from macroeconomic conditions and competition, particularly in China. Investors are closely monitoring its earnings, capital allocation, and regional growth as these factors influence its future performance and market valuation.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.972429
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260519T201130",
+            "title": "Starbucks Corp stock (US8552441094): dividend yield, price swings and what’s next for the coffee giant",
+            "summary": "This article examines Starbucks Corp (SBUX) stock, focusing on its dividend yield, recent price volatility, and future outlook amidst changing consumer demand. It details the company's core business model, key revenue drivers, and competitive position in the global coffee market, highlighting its brand strength and digital strategies. The piece also discusses Starbucks' significance for US investors, linking its performance to consumer health and international market exposure, while emphasizing a balance of risks and rewards for potential investors.",
+            "text_to_analyze": "Starbucks Corp stock (US8552441094): dividend yield, price swings and what’s next for the coffee giant. This article examines Starbucks Corp (SBUX) stock, focusing on its dividend yield, recent price volatility, and future outlook amidst changing consumer demand. It details the company's core business model, key revenue drivers, and competitive position in the global coffee market, highlighting its brand strength and digital strategies. The piece also discusses Starbucks' significance for US investors, linking its performance to consumer health and international market exposure, while emphasizing a balance of risks and rewards for potential investors.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

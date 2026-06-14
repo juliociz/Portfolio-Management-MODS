@@ -1,0 +1,135 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-11",
+    "window_start": "2026-05-08 16:00",
+    "window_end": "2026-05-11 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260511T073826",
+            "title": "China Is Investigating EV Makers As Owners Say Their Cars Lost Up To 125 Miles Of Range After Updates—And",
+            "summary": "Chinese authorities are investigating EV manufacturers after owners reported significant range reduction (up to 125 miles) and longer charging times following software updates, suspected to be \"battery locking.\" While Tesla and BYD were among the companies reportedly summoned, they deny involvement. This probe comes amid varying sales performances for these companies in the Chinese market.",
+            "text_to_analyze": "China Is Investigating EV Makers As Owners Say Their Cars Lost Up To 125 Miles Of Range After Updates—And. Chinese authorities are investigating EV manufacturers after owners reported significant range reduction (up to 125 miles) and longer charging times following software updates, suspected to be \"battery locking.\" While Tesla and BYD were among the companies reportedly summoned, they deny involvement. This probe comes amid varying sales performances for these companies in the Chinese market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260511T013826",
+            "title": "Elon Musk's Vocal Social Media Critic Bought A Cybertruck For Its 'Safety,' Here's What The Tesla CEO Had To Say About It",
+            "summary": "Tesla CEO Elon Musk has defended the Cybertruck's design and safety features after critic Brian Krassenstein purchased one, citing family safety and fuel economy. Musk highlighted the vehicle's \"bulletproof tank\" performance and its ultra-hard stainless steel body panels as key advantages. The Cybertruck has received strong safety ratings from the IIHS and NHTSA, and Tesla continues to show high brand loyalty among repeat buyers.",
+            "text_to_analyze": "Elon Musk's Vocal Social Media Critic Bought A Cybertruck For Its 'Safety,' Here's What The Tesla CEO Had To Say About It. Tesla CEO Elon Musk has defended the Cybertruck's design and safety features after critic Brian Krassenstein purchased one, citing family safety and fuel economy. Musk highlighted the vehicle's \"bulletproof tank\" performance and its ultra-hard stainless steel body panels as key advantages. The Cybertruck has received strong safety ratings from the IIHS and NHTSA, and Tesla continues to show high brand loyalty among repeat buyers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Inc.com",
+            "date": "20260511T000330",
+            "title": "Tesla Once Again Recalls Its RWD Cybertrucks—All 173 of ‘Em",
+            "summary": "Tesla has issued another recall for all 173 of its rear-wheel-drive Cybertrucks due to a defect in the brake rotor stud holes that could cause wheels to separate. This is the latest of 11 recalls for the discontinued model, though Tesla reports no related collisions, fatalities, or injuries. The company offers a free fix for the issue, which affects models with 18-inch steel wheels.",
+            "text_to_analyze": "Tesla Once Again Recalls Its RWD Cybertrucks—All 173 of ‘Em. Tesla has issued another recall for all 173 of its rear-wheel-drive Cybertrucks due to a defect in the brake rotor stud holes that could cause wheels to separate. This is the latest of 11 recalls for the discontinued model, though Tesla reports no related collisions, fatalities, or injuries. The company offers a free fix for the issue, which affects models with 18-inch steel wheels.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260510T140524",
+            "title": "Tesla recalls every Cybertruck RWD ever sold — all 173 of them — because the wheels could fall off",
+            "summary": "Tesla has issued a recall for all 173 Cybertruck RWD models ever sold due to a defect where the wheels could fall off. This issue stems from cracks in the brake rotor holes caused by road irregularities, potentially leading to wheel stud separation. The recall comes as Cybertruck sales have reportedly declined significantly, and is concurrent with another recall for over 200,000 other Tesla models due to delayed rearview camera images.",
+            "text_to_analyze": "Tesla recalls every Cybertruck RWD ever sold — all 173 of them — because the wheels could fall off. Tesla has issued a recall for all 173 Cybertruck RWD models ever sold due to a defect where the wheels could fall off. This issue stems from cracks in the brake rotor holes caused by road irregularities, potentially leading to wheel stud separation. The recall comes as Cybertruck sales have reportedly declined significantly, and is concurrent with another recall for over 200,000 other Tesla models due to delayed rearview camera images.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260510T133826",
+            "title": "Tesla (TSLA): Top 10 Battery Technology Stock To Buy",
+            "summary": "Tesla, Inc. (NASDAQ: TSLA) is highlighted as one of the top battery technology stocks to buy. The article discusses a recent win for Tesla as the U.S. National Highway Traffic Safety Administration (NHTSA) closed a probe into Model Y steering wheel issues without requiring a recall, though further action may be taken if new defects surface. Needham also reiterated a hold rating on TSLA, citing AI progress and vertical integration but warning about potential challenges to margin outperformance and high capital expenditure.",
+            "text_to_analyze": "Tesla (TSLA): Top 10 Battery Technology Stock To Buy. Tesla, Inc. (NASDAQ: TSLA) is highlighted as one of the top battery technology stocks to buy. The article discusses a recent win for Tesla as the U.S. National Highway Traffic Safety Administration (NHTSA) closed a probe into Model Y steering wheel issues without requiring a recall, though further action may be taken if new defects surface. Needham also reiterated a hold rating on TSLA, citing AI progress and vertical integration but warning about potential challenges to margin outperformance and high capital expenditure.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260510T110858",
+            "title": "Weekend Round-Up: Uber's Massive Quarter, Tesla's Recall, Lucid's Earnings, Spirit Airlines' Buyout Plan",
+            "summary": "This week's business wrap-up highlights significant actions from major companies. Uber reported strong Q1 revenue and adjusted earnings despite missing overall revenue estimates, while Tesla initiated a massive recall of over 218,000 vehicles for a rearview camera issue. Lucid Group's stock dropped following a Q1 revenue miss, and a fan-led buyout plan for Spirit Airlines, inspired by the Green Bay Packers, gained substantial pledges. Toyota, meanwhile, forecasted a significant 22% profit drop due to geopolitical conflicts and U.S. tariffs.",
+            "text_to_analyze": "Weekend Round-Up: Uber's Massive Quarter, Tesla's Recall, Lucid's Earnings, Spirit Airlines' Buyout Plan. This week's business wrap-up highlights significant actions from major companies. Uber reported strong Q1 revenue and adjusted earnings despite missing overall revenue estimates, while Tesla initiated a massive recall of over 218,000 vehicles for a rearview camera issue. Lucid Group's stock dropped following a Q1 revenue miss, and a fan-led buyout plan for Spirit Airlines, inspired by the Green Bay Packers, gained substantial pledges. Toyota, meanwhile, forecasted a significant 22% profit drop due to geopolitical conflicts and U.S. tariffs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.907151
+        },
+        {
+            "source": "The Economic Times",
+            "date": "20260510T040748",
+            "title": "Intel CEO who won over Trump and Musk now needs a breakthrough",
+            "summary": "Intel CEO Lip-Bu Tan has revitalized the struggling chipmaker by forging strategic alliances with tech giants like Apple and Tesla, and even securing a deal with former US President Donald Trump. While these external partnerships have driven Intel's stock to a record high, Tan now faces the challenge of implementing internal changes and product innovations to regain market share in semiconductor manufacturing and leverage the AI boom. He aims to build a strong internal leadership team by the end of June to achieve these goals.",
+            "text_to_analyze": "Intel CEO who won over Trump and Musk now needs a breakthrough. Intel CEO Lip-Bu Tan has revitalized the struggling chipmaker by forging strategic alliances with tech giants like Apple and Tesla, and even securing a deal with former US President Donald Trump. While these external partnerships have driven Intel's stock to a record high, Tan now faces the challenge of implementing internal changes and product innovations to regain market share in semiconductor manufacturing and leverage the AI boom. He aims to build a strong internal leadership team by the end of June to achieve these goals.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.643159
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260509T111003",
+            "title": "[424B2] BARCLAYS BANK PLC Prospectus Supplement",
+            "summary": "Barclays Bank PLC is offering contingent coupon, autocallable Notes linked to the common stock of NVIDIA, Palantir Technologies, and Tesla. These Notes offer a significant quarterly contingent coupon of $48.50 per $1,000 (19.40% per annum) if underlying stocks meet specified conditions, but investors risk potential loss of principal if the least performing underlier falls below its barrier value. The offering is subject to Barclays Bank PLC’s creditworthiness and U.K. Bail-in Power regulations, with a neutral impact and sentiment according to Rhea-AI.",
+            "text_to_analyze": "[424B2] BARCLAYS BANK PLC Prospectus Supplement. Barclays Bank PLC is offering contingent coupon, autocallable Notes linked to the common stock of NVIDIA, Palantir Technologies, and Tesla. These Notes offer a significant quarterly contingent coupon of $48.50 per $1,000 (19.40% per annum) if underlying stocks meet specified conditions, but investors risk potential loss of principal if the least performing underlier falls below its barrier value. The offering is subject to Barclays Bank PLC’s creditworthiness and U.K. Bail-in Power regulations, with a neutral impact and sentiment according to Rhea-AI.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.769974
+        },
+        {
+            "source": "MSN",
+            "date": "20260509T040910",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2369",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2369 per share for its shareholders. This announcement provides investors with details regarding the payout from the ETF's income strategy, which is focused on options related to Tesla stock.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2369. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2369 per share for its shareholders. This announcement provides investors with details regarding the payout from the ETF's income strategy, which is focused on options related to Tesla stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.932331
+        },
+        {
+            "source": "MSN",
+            "date": "20260509T034017",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2369",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.2369 per share. This distribution is payable on or about May 10, 2024, to shareholders of record as of May 09, 2024. Investors should note the ex-dividend date is May 09, 2024.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2369. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.2369 per share. This distribution is payable on or about May 10, 2024, to shareholders of record as of May 09, 2024. Investors should note the ex-dividend date is May 09, 2024.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.612004
+        },
+        {
+            "source": "Fox Business",
+            "date": "20260508T225500",
+            "title": "Tesla recalls Cybertrucks over fears wheels could fall off while driving",
+            "summary": "Tesla is recalling 173 Cybertrucks due to a potential defect where wheel studs could separate, leading to wheels detaching. The issue is linked to stress on the brake rotors in vehicles with 18-inch steel wheels, stemming from a pre-production testing oversight. Although one customer reported vibrations and cracked rotors, no crashes or injuries have been reported.",
+            "text_to_analyze": "Tesla recalls Cybertrucks over fears wheels could fall off while driving. Tesla is recalling 173 Cybertrucks due to a potential defect where wheel studs could separate, leading to wheels detaching. The issue is linked to stress on the brake rotors in vehicles with 18-inch steel wheels, stemming from a pre-production testing oversight. Although one customer reported vibrations and cracked rotors, no crashes or injuries have been reported.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260508T210932",
+            "title": "Tesla recalls more than 200,000 EVs, 173 Cybertrucks over safety issues",
+            "summary": "Tesla is recalling over 200,000 electric vehicles due to a rearview camera software issue that causes the image to appear blank for up to 11 seconds. Additionally, 173 Cybertrucks are being recalled over concerns that cracking in the wheel rotor could lead to the wheel stud separating from the hub, increasing crash risks. This marks another recall for Cybertrucks, with nearly 116,000 recalled in 2025 alone, though Tesla is not aware of any accidents or injuries related to these specific problems.",
+            "text_to_analyze": "Tesla recalls more than 200,000 EVs, 173 Cybertrucks over safety issues. Tesla is recalling over 200,000 electric vehicles due to a rearview camera software issue that causes the image to appear blank for up to 11 seconds. Additionally, 173 Cybertrucks are being recalled over concerns that cracking in the wheel rotor could lead to the wheel stud separating from the hub, increasing crash risks. This marks another recall for Cybertrucks, with nearly 116,000 recalled in 2025 alone, though Tesla is not aware of any accidents or injuries related to these specific problems.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260508T183700",
+            "title": "INTC Stock Hits New All-Time High After Intel, Apple Reportedly Reach Preliminary Chipmaking Agreement",
+            "summary": "Intel (INTC) shares surged to a new all-time high after reports indicated a preliminary agreement with Apple (AAPL) for Intel to manufacture chips for Apple devices. This deal is expected to significantly boost Intel's Foundry unit, which has been underperforming with a recent $2.4 billion operating loss, and follows Apple CEO Tim Cook's concerns about advanced chip shortages impacting iPhone supply. The news also comes as Intel expands its collaborations with other major tech companies like Tesla and Google for chip manufacturing and AI infrastructure.",
+            "text_to_analyze": "INTC Stock Hits New All-Time High After Intel, Apple Reportedly Reach Preliminary Chipmaking Agreement. Intel (INTC) shares surged to a new all-time high after reports indicated a preliminary agreement with Apple (AAPL) for Intel to manufacture chips for Apple devices. This deal is expected to significantly boost Intel's Foundry unit, which has been underperforming with a recent $2.4 billion operating loss, and follows Apple CEO Tim Cook's concerns about advanced chip shortages impacting iPhone supply. The news also comes as Intel expands its collaborations with other major tech companies like Tesla and Google for chip manufacturing and AI infrastructure.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.639902
+        },
+        {
+            "source": "Gizmodo",
+            "date": "20260508T164531",
+            "title": "Tesla Recalls Cybertrucks Over Concerns Their Wheels Could Come Off",
+            "summary": "Tesla is recalling 173 Cybertrucks (model years 2024-2026) equipped with 18-inch steel wheels due to a potential issue where wheel studs could separate from the brake rotor, leading to loss of vehicle control. The problem, which Tesla initially identified during pre-production testing but failed to address in early production due to a \"change management error,\" involves cracks forming in the stud holes under certain driving conditions. The recall also sheds light on the very low demand for the discontinued budget Cybertruck variant.",
+            "text_to_analyze": "Tesla Recalls Cybertrucks Over Concerns Their Wheels Could Come Off. Tesla is recalling 173 Cybertrucks (model years 2024-2026) equipped with 18-inch steel wheels due to a potential issue where wheel studs could separate from the brake rotor, leading to loss of vehicle control. The problem, which Tesla initially identified during pre-production testing but failed to address in early production due to a \"change management error,\" involves cracks forming in the stud holes under certain driving conditions. The recall also sheds light on the very low demand for the discontinued budget Cybertruck variant.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

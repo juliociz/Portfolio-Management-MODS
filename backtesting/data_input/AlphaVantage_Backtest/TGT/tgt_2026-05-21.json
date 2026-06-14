@@ -1,0 +1,90 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-21",
+    "window_start": "2026-05-20 16:00",
+    "window_end": "2026-05-21 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260521T072741",
+            "title": "Walmart Inc. $WMT Shares Bought by ABN Amro Investment Solutions",
+            "summary": "ABN Amro Investment Solutions significantly increased its stake in Walmart Inc. (WMT) during the fourth quarter, boosting its holdings by 239.9% to 204,499 shares valued at approximately $22.8 million. This comes as Walmart continues to receive bullish analyst attention, with a consensus \"Buy\" rating and an average target price of $138.88. The company has demonstrated strong operating momentum, consistently beating EPS and revenue estimates, and analysts are closely watching its upcoming earnings report for indications of consumer resilience and potential further stock appreciation.",
+            "text_to_analyze": "Walmart Inc. $WMT Shares Bought by ABN Amro Investment Solutions. ABN Amro Investment Solutions significantly increased its stake in Walmart Inc. (WMT) during the fourth quarter, boosting its holdings by 239.9% to 204,499 shares valued at approximately $22.8 million. This comes as Walmart continues to receive bullish analyst attention, with a consensus \"Buy\" rating and an average target price of $138.88. The company has demonstrated strong operating momentum, consistently beating EPS and revenue estimates, and analysts are closely watching its upcoming earnings report for indications of consumer resilience and potential further stock appreciation.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.63625
+        },
+        {
+            "source": "Gotrade",
+            "date": "20260521T070953",
+            "title": "Analyst Stock Picks: Target, Sea Limited, JD.com in Focus",
+            "summary": "Wall Street analysts are focusing on key single-name stock ideas across retail, Southeast Asian tech, and AI infrastructure this week, including Target (TGT), Sea Limited (SE), and JD.com (JD). These discussions come amid weakening global consumer sentiment and elevated oil prices, prompting investors to look for defensive names and growth stories with reasonable valuations. Lumentum (LITE) is also highlighted as a beneficiary of AI infrastructure demand.",
+            "text_to_analyze": "Analyst Stock Picks: Target, Sea Limited, JD.com in Focus. Wall Street analysts are focusing on key single-name stock ideas across retail, Southeast Asian tech, and AI infrastructure this week, including Target (TGT), Sea Limited (SE), and JD.com (JD). These discussions come amid weakening global consumer sentiment and elevated oil prices, prompting investors to look for defensive names and growth stories with reasonable valuations. Lumentum (LITE) is also highlighted as a beneficiary of AI infrastructure demand.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.944936
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260521T051357",
+            "title": "Kroger Co. stock (US5010441013): Analyst sentiment and valuation in focus after fresh institutional buying",
+            "summary": "Kroger Co. stock is gaining attention due to new institutional buying and updated analyst data. The North Dakota State Investment Board recently initiated a $1.3 million position, and 16 brokerages rate the stock a \"Moderate Buy\" with an average 12-month price target of $74.87. While some valuations suggest potential undervaluation based on earnings, other metrics indicate the shares might be overvalued, leading to a mixed outlook for long-term predictability.",
+            "text_to_analyze": "Kroger Co. stock (US5010441013): Analyst sentiment and valuation in focus after fresh institutional buying. Kroger Co. stock is gaining attention due to new institutional buying and updated analyst data. The North Dakota State Investment Board recently initiated a $1.3 million position, and 16 brokerages rate the stock a \"Moderate Buy\" with an average 12-month price target of $74.87. While some valuations suggest potential undervaluation based on earnings, other metrics indicate the shares might be overvalued, leading to a mixed outlook for long-term predictability.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.619278
+        },
+        {
+            "source": "StockStory",
+            "date": "20260520T201057",
+            "title": "Tapestry, Deckers, and Travel + Leisure Shares Are Soaring, What You Need To Know",
+            "summary": "Shares of Tapestry, Deckers, and Travel + Leisure jumped after major retailers reported stronger-than-expected first-quarter earnings, signaling a potential turn in consumer discretionary momentum. The positive results, particularly from discount-oriented retailers like Target, suggest that American household spending is more resilient than analysts anticipated, despite inflation. Tapestry's shares are up 5.2% since the beginning of the year, although they are still trading below their 52-week high.",
+            "text_to_analyze": "Tapestry, Deckers, and Travel + Leisure Shares Are Soaring, What You Need To Know. Shares of Tapestry, Deckers, and Travel + Leisure jumped after major retailers reported stronger-than-expected first-quarter earnings, signaling a potential turn in consumer discretionary momentum. The positive results, particularly from discount-oriented retailers like Target, suggest that American household spending is more resilient than analysts anticipated, despite inflation. Tapestry's shares are up 5.2% since the beginning of the year, although they are still trading below their 52-week high.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.62324
+        },
+        {
+            "source": "TradingView",
+            "date": "20260520T194011",
+            "title": "Tapestry, Deckers, and Travel + Leisure Shares Are Soaring, What You Need To Know",
+            "summary": "Shares of Tapestry, Deckers, and Travel + Leisure jumped after major retailers like Target, Lowe's, and TJX reported stronger-than-expected first-quarter earnings, signaling a potential recovery in consumer discretionary spending. These positive reports suggest that American household spending is more resilient than analysts anticipated, with consumers still spending despite inflation, particularly on value-oriented goods. Tapestry, in particular, has seen a 5.2% increase year-to-date, despite a recent dip due to inflation concerns.",
+            "text_to_analyze": "Tapestry, Deckers, and Travel + Leisure Shares Are Soaring, What You Need To Know. Shares of Tapestry, Deckers, and Travel + Leisure jumped after major retailers like Target, Lowe's, and TJX reported stronger-than-expected first-quarter earnings, signaling a potential recovery in consumer discretionary spending. These positive reports suggest that American household spending is more resilient than analysts anticipated, with consumers still spending despite inflation, particularly on value-oriented goods. Tapestry, in particular, has seen a 5.2% increase year-to-date, despite a recent dip due to inflation concerns.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.638058
+        },
+        {
+            "source": "TradingView",
+            "date": "20260520T193843",
+            "title": "Williams-Sonoma and Sally Beauty Shares Are Soaring, What You Need To Know",
+            "summary": "Williams-Sonoma and Sally Beauty shares jumped after major retailers like Target, Lowe's, and TJX reported better-than-expected first-quarter earnings, signaling resilience in consumer spending. This positive trend, particularly from discount retailers, suggests consumers are still spending despite inflation, especially on value-oriented products. The article also notes Sally Beauty's volatility and its previous drop due to a higher-than-expected Producer Price Index report.",
+            "text_to_analyze": "Williams-Sonoma and Sally Beauty Shares Are Soaring, What You Need To Know. Williams-Sonoma and Sally Beauty shares jumped after major retailers like Target, Lowe's, and TJX reported better-than-expected first-quarter earnings, signaling resilience in consumer spending. This positive trend, particularly from discount retailers, suggests consumers are still spending despite inflation, especially on value-oriented products. The article also notes Sally Beauty's volatility and its previous drop due to a higher-than-expected Producer Price Index report.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.739714
+        },
+        {
+            "source": "Sahm",
+            "date": "20260520T190956",
+            "title": "Nasdaq Gains 100 Points; Target Earnings Top Views",
+            "summary": "U.S. stocks saw mixed trading with the Nasdaq Composite gaining 100 points, while the Dow was down and the S&P 500 rose. Target Corp (NYSE: TGT) reported strong first-quarter earnings and raised its FY2026 sales forecast, beating analyst expectations. Several individual stocks experienced significant movements, with Silexion Therapeutics Corp, GCL Global Holdings Ltd, and Capstone Holding Corp shares rising, and Jayud Global Logistics Ltd, 707 Cayman Holdings Ltd, and Lichen International Ltd shares falling.",
+            "text_to_analyze": "Nasdaq Gains 100 Points; Target Earnings Top Views. U.S. stocks saw mixed trading with the Nasdaq Composite gaining 100 points, while the Dow was down and the S&P 500 rose. Target Corp (NYSE: TGT) reported strong first-quarter earnings and raised its FY2026 sales forecast, beating analyst expectations. Several individual stocks experienced significant movements, with Silexion Therapeutics Corp, GCL Global Holdings Ltd, and Capstone Holding Corp shares rising, and Jayud Global Logistics Ltd, 707 Cayman Holdings Ltd, and Lichen International Ltd shares falling.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.948769
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260520T180831",
+            "title": "Stronger Q1 lifts Target (NYSE: TGT) sales 6.7% and EPS outlook",
+            "summary": "Target Corporation reported strong first-quarter 2026 results, with net sales increasing 6.7% to $25.4 billion and comparable sales growing 5.6%. The company raised its full-year 2026 guidance, now expecting net sales growth of approximately 4% and GAAP and Adjusted EPS near the high end of its previous range of $7.50 to $8.50. Despite a GAAP EPS decline due to prior-year one-time gains, Adjusted EPS rose 31.6% to $1.71, reflecting improved underlying profitability.",
+            "text_to_analyze": "Stronger Q1 lifts Target (NYSE: TGT) sales 6.7% and EPS outlook. Target Corporation reported strong first-quarter 2026 results, with net sales increasing 6.7% to $25.4 billion and comparable sales growing 5.6%. The company raised its full-year 2026 guidance, now expecting net sales growth of approximately 4% and GAAP and Adjusted EPS near the high end of its previous range of $7.50 to $8.50. Despite a GAAP EPS decline due to prior-year one-time gains, Adjusted EPS rose 31.6% to $1.71, reflecting improved underlying profitability.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Morningstar",
+            "date": "20260520T180027",
+            "title": "Target Earnings: Traffic Surges, but Recovery Still Demands Heavy Investment",
+            "summary": "Target's first-quarter results showed a 5.6% increase in comparable sales and a 32% rise in adjusted EPS, driven by successful category resets and operational improvements. Despite these positive indicators and a 4.4% traffic increase, the company faces an intensely competitive retail landscape and macroeconomic pressures on consumers. Target plans significant investments in grocery and beauty, but its midmarket positioning and reliance on heavy reinvestment keep its long-term sales growth forecast low.",
+            "text_to_analyze": "Target Earnings: Traffic Surges, but Recovery Still Demands Heavy Investment. Target's first-quarter results showed a 5.6% increase in comparable sales and a 32% rise in adjusted EPS, driven by successful category resets and operational improvements. Despite these positive indicators and a 4.4% traffic increase, the company faces an intensely competitive retail landscape and macroeconomic pressures on consumers. Target plans significant investments in grocery and beauty, but its midmarket positioning and reliance on heavy reinvestment keep its long-term sales growth forecast low.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-08",
+    "window_start": "2026-05-07 16:00",
+    "window_end": "2026-05-08 09:27",
+    "articles": [
+        {
+            "source": "Investing.com",
+            "date": "20260508T000819",
+            "title": "Starbucks CEO, international, sells $233,621 in company stock",
+            "summary": "Brady Brewer, CEO International at Starbucks Corp, sold 2,229 shares of company stock for $233,621 on May 5, 2026. This transaction occurred as Starbucks shares traded near their 52-week high and were up 24% year-to-date. In other news, Starbucks reported strong Q2 2026 financial results, exceeding market expectations for both EPS and revenue.",
+            "text_to_analyze": "Starbucks CEO, international, sells $233,621 in company stock. Brady Brewer, CEO International at Starbucks Corp, sold 2,229 shares of company stock for $233,621 on May 5, 2026. This transaction occurred as Starbucks shares traded near their 52-week high and were up 24% year-to-date. In other news, Starbucks reported strong Q2 2026 financial results, exceeding market expectations for both EPS and revenue.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.97906
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260507T223835",
+            "title": "Starbucks (SBUX) executive sells 2,229 shares in planned stock trade",
+            "summary": "Starbucks' CEO of International, Brady Brewer, sold 2,229 shares of SBUX common stock at an average price of $104.81 per share, totaling approximately $233,621. This transaction was conducted under a pre-arranged Rule 10b5-1 trading plan. After the sale, Brewer directly holds 81,558.502 shares of Starbucks stock.",
+            "text_to_analyze": "Starbucks (SBUX) executive sells 2,229 shares in planned stock trade. Starbucks' CEO of International, Brady Brewer, sold 2,229 shares of SBUX common stock at an average price of $104.81 per share, totaling approximately $233,621. This transaction was conducted under a pre-arranged Rule 10b5-1 trading plan. After the sale, Brewer directly holds 81,558.502 shares of Starbucks stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.996663
+        }
+    ]
+}

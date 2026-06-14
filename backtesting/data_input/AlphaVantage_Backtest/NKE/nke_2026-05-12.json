@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-12",
+    "window_start": "2026-05-11 16:00",
+    "window_end": "2026-05-12 09:27",
+    "articles": [
+        {
+            "source": "Investing.com UK",
+            "date": "20260511T210918",
+            "title": "U.S. shares higher at close of trade; Dow Jones Industrial Average up 0.19%",
+            "summary": "U.S. equities closed higher on Monday, with the Dow Jones Industrial Average rising 0.19%, the S&P 500 climbing 0.19%, and the NASDAQ Composite adding 0.10%. Gains were primarily driven by the Oil & Gas, Basic Materials, and Industrials sectors. Caterpillar, Honeywell International, and Cisco Systems were among the top performers on the Dow, while Nike, Walt Disney Company, and International Business Machines saw declines.",
+            "text_to_analyze": "U.S. shares higher at close of trade; Dow Jones Industrial Average up 0.19%. U.S. equities closed higher on Monday, with the Dow Jones Industrial Average rising 0.19%, the S&P 500 climbing 0.19%, and the NASDAQ Composite adding 0.10%. Gains were primarily driven by the Oil & Gas, Basic Materials, and Industrials sectors. Caterpillar, Honeywell International, and Cisco Systems were among the top performers on the Dow, while Nike, Walt Disney Company, and International Business Machines saw declines.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.740749
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-21",
+    "window_start": "2026-05-20 16:00",
+    "window_end": "2026-05-21 09:27",
+    "articles": [
+        {
+            "source": "McDonald’s Corporation",
+            "date": "20260520T214042",
+            "title": "McDonald’s Laces Up with Basketball Star Devin Booker to Debut the Nike Book 2 McDonald’s Sneaker",
+            "summary": "McDonald's is collaborating with NBA star Devin Booker to launch the limited-edition Nike Book 2 McDonald's sneaker. These sneakers, inspired by Booker's Arizona roots and a unique McDonald's location with turquoise arches in Sedona, will be available in two colorways. Fans can enter a sweepstakes via the McDonald's app for a Friends & Family edition or purchase a general release version on Nike.com starting June 2.",
+            "text_to_analyze": "McDonald’s Laces Up with Basketball Star Devin Booker to Debut the Nike Book 2 McDonald’s Sneaker. McDonald's is collaborating with NBA star Devin Booker to launch the limited-edition Nike Book 2 McDonald's sneaker. These sneakers, inspired by Booker's Arizona roots and a unique McDonald's location with turquoise arches in Sedona, will be available in two colorways. Fans can enter a sweepstakes via the McDonald's app for a Friends & Family edition or purchase a general release version on Nike.com starting June 2.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.821142
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-29",
+    "window_start": "2026-05-28 16:00",
+    "window_end": "2026-05-29 09:27",
+    "articles": [
+        {
+            "source": "Business Standard",
+            "date": "20260529T021521",
+            "title": "Starbucks to weigh AI usage into account in tech workers' bonuses",
+            "summary": "Starbucks is linking a quarter of its tech workers' bonuses to their adoption of artificial intelligence tools, aiming to boost efficiency and justify AI spending across the company. The move reflects a growing trend among corporations to integrate AI into their workflows and measure its utilization by employees. This bonus structure also considers other departmental priorities and individual performance, even as Starbucks recently scaled back another AI initiative related to inventory counting.",
+            "text_to_analyze": "Starbucks to weigh AI usage into account in tech workers' bonuses. Starbucks is linking a quarter of its tech workers' bonuses to their adoption of artificial intelligence tools, aiming to boost efficiency and justify AI spending across the company. The move reflects a growing trend among corporations to integrate AI into their workflows and measure its utilization by employees. This bonus structure also considers other departmental priorities and individual performance, even as Starbucks recently scaled back another AI initiative related to inventory counting.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260528T211220",
+            "title": "Starbucks Suffers Significant Drop in Sales in South Korea",
+            "summary": "Starbucks is experiencing a significant drop in sales in South Korea due to a controversial \"Tank Day\" marketing campaign. The campaign coincided with the anniversary of the Gwangju Uprising crackdown, leading to public outcry, boycotts, and a harsh rebuke from South Korean President Lee Jae Myung. Starbucks has since withdrawn the campaign, issued an apology, and disciplined employees involved, highlighting serious flaws in Starbucks Korea's risk management.",
+            "text_to_analyze": "Starbucks Suffers Significant Drop in Sales in South Korea. Starbucks is experiencing a significant drop in sales in South Korea due to a controversial \"Tank Day\" marketing campaign. The campaign coincided with the anniversary of the Gwangju Uprising crackdown, leading to public outcry, boycotts, and a harsh rebuke from South Korean President Lee Jae Myung. Starbucks has since withdrawn the campaign, issued an apology, and disciplined employees involved, highlighting serious flaws in Starbucks Korea's risk management.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.921391
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260528T193821",
+            "title": "Starbucks ties tech worker bonuses to AI usage goals - Bloomberg",
+            "summary": "Starbucks is linking a portion of its technology workers' bonuses to their adoption and utilization of artificial intelligence. A quarter of tech employee bonuses will depend on department-wide AI adoption goals, specifically tracking AI use in the company's \"Back to Starbucks\" initiatives. This move aims to improve efficiency and customer experience, with software developers required to use an AI assistant multiple times weekly.",
+            "text_to_analyze": "Starbucks ties tech worker bonuses to AI usage goals - Bloomberg. Starbucks is linking a portion of its technology workers' bonuses to their adoption and utilization of artificial intelligence. A quarter of tech employee bonuses will depend on department-wide AI adoption goals, specifically tracking AI use in the company's \"Back to Starbucks\" initiatives. This move aims to improve efficiency and customer experience, with software developers required to use an AI assistant multiple times weekly.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260528T170200",
+            "title": "Starbucks Suffers Significant Drop in Sales in South Korea",
+            "summary": "Starbucks Korea is experiencing a significant drop in sales following a controversial \"Tank Day\" marketing campaign, which inadvertently coincided with the anniversary of the Gwangju Uprising crackdown. The campaign, perceived as mocking pro-democracy activists, led to boycotts, a presidential rebuke, and the removal of involved employees and the head of Starbucks Korea. This incident has exposed serious flaws in the company's risk management in the country.",
+            "text_to_analyze": "Starbucks Suffers Significant Drop in Sales in South Korea. Starbucks Korea is experiencing a significant drop in sales following a controversial \"Tank Day\" marketing campaign, which inadvertently coincided with the anniversary of the Gwangju Uprising crackdown. The campaign, perceived as mocking pro-democracy activists, led to boycotts, a presidential rebuke, and the removal of involved employees and the head of Starbucks Korea. This incident has exposed serious flaws in the company's risk management in the country.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260528T163800",
+            "title": "Starbucks Corp. stock outperforms competitors despite losses on the day",
+            "summary": "Shares of Starbucks Corp. (SBUX) fell 1.32% to $100.75 on Thursday, even as the broader stock market, represented by the S&P 500 Index and Dow Jones Industrial Average, saw gains. Despite the daily loss, the stock demonstrated outperformance compared to some competitors. Starbucks closed 7.47% below its 52-week high of $108.88.",
+            "text_to_analyze": "Starbucks Corp. stock outperforms competitors despite losses on the day. Shares of Starbucks Corp. (SBUX) fell 1.32% to $100.75 on Thursday, even as the broader stock market, represented by the S&P 500 Index and Dow Jones Industrial Average, saw gains. Despite the daily loss, the stock demonstrated outperformance compared to some competitors. Starbucks closed 7.47% below its 52-week high of $108.88.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

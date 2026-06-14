@@ -1,0 +1,54 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-07",
+    "window_start": "2026-05-06 16:00",
+    "window_end": "2026-05-07 09:27",
+    "articles": [
+        {
+            "source": "Reuters",
+            "date": "20260507T085404",
+            "title": "Tesla's China-made EV sales rise 36% in April, year-on-year",
+            "summary": "Tesla's China-made electric vehicle sales saw a 36% year-on-year increase in April, marking the sixth consecutive month of growth, despite intensifying competition. Deliveries of Model 3 and Model Y from its Shanghai factory, including exports, totaled 79,478 units, which was a 7.2% decrease from March. This growth highlights Tesla's continued performance in key markets.",
+            "text_to_analyze": "Tesla's China-made EV sales rise 36% in April, year-on-year. Tesla's China-made electric vehicle sales saw a 36% year-on-year increase in April, marking the sixth consecutive month of growth, despite intensifying competition. Deliveries of Model 3 and Model Y from its Shanghai factory, including exports, totaled 79,478 units, which was a 7.2% decrease from March. This growth highlights Tesla's continued performance in key markets.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.960516
+        },
+        {
+            "source": "www.marketscreener.com",
+            "date": "20260507T050926",
+            "title": "Medalist Diversified, Inc. Announces DST Sponsor Platform; Inaugural Tesla-Leased Offering Available to Accredited 1031 Investors",
+            "summary": "Medalist Diversified, Inc. (NASDAQ: MDRR) has launched its Delaware Statutory Trust (DST) sponsor platform, MDRR Sponsor TRS, LLC, to offer accredited 1031 exchange investors a publicly-traded platform with SEC-reporting transparency. The inaugural offering, MDRR XXV DST 1, features a Tesla-leased facility in Pensacola, Florida, and is available through registered broker-dealers and investment advisors. The company plans to expand its distribution network and focus on commercial real estate leased to institutional tenants.",
+            "text_to_analyze": "Medalist Diversified, Inc. Announces DST Sponsor Platform; Inaugural Tesla-Leased Offering Available to Accredited 1031 Investors. Medalist Diversified, Inc. (NASDAQ: MDRR) has launched its Delaware Statutory Trust (DST) sponsor platform, MDRR Sponsor TRS, LLC, to offer accredited 1031 exchange investors a publicly-traded platform with SEC-reporting transparency. The inaugural offering, MDRR XXV DST 1, features a Tesla-leased facility in Pensacola, Florida, and is available through registered broker-dealers and investment advisors. The company plans to expand its distribution network and focus on commercial real estate leased to institutional tenants.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.859668
+        },
+        {
+            "source": "The National Law Review",
+            "date": "20260507T000944",
+            "title": "Macerich Acquires Annapolis Mall for $272 Million",
+            "summary": "Macerich has acquired Annapolis Mall for $260 million, plus an additional $12 million for an adjacent vacant Sears parcel, totaling $272 million. The company expects the acquisition to yield attractive returns, with an initial net operating income (NOI) of approximately 9.2% and a stabilized pro forma yield of about 11.0% by 2030, driven by a strategic investment plan and new tenant additions like Dick's House of Sport, Tesla, and Uniqlo. This off-market deal, funded with cash on hand and borrowings, aims to enhance Macerich's presence in a strong Washington, D.C. adjacent market and align with its \"Path Forward Plan\" for de-leveraging and growth.",
+            "text_to_analyze": "Macerich Acquires Annapolis Mall for $272 Million. Macerich has acquired Annapolis Mall for $260 million, plus an additional $12 million for an adjacent vacant Sears parcel, totaling $272 million. The company expects the acquisition to yield attractive returns, with an initial net operating income (NOI) of approximately 9.2% and a stabilized pro forma yield of about 11.0% by 2030, driven by a strategic investment plan and new tenant additions like Dick's House of Sport, Tesla, and Uniqlo. This off-market deal, funded with cash on hand and borrowings, aims to enhance Macerich's presence in a strong Washington, D.C. adjacent market and align with its \"Path Forward Plan\" for de-leveraging and growth.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.569342
+        },
+        {
+            "source": "ABC27",
+            "date": "20260506T193230",
+            "title": "Tesla recalling more than 200,000 vehicles",
+            "summary": "Tesla has issued a recall for over 200,000 vehicles, including certain Model 3, Model Y, Model S, and Model X cars, due to a rearview camera defect. The National Highway Traffic Safety Administration (NHTSA) states that the camera image may be delayed when reversing, increasing crash risk. Tesla will provide an over-the-air software update to fix the issue, with notifications to owners expected by July 3, 2026.",
+            "text_to_analyze": "Tesla recalling more than 200,000 vehicles. Tesla has issued a recall for over 200,000 vehicles, including certain Model 3, Model Y, Model S, and Model X cars, due to a rearview camera defect. The National Highway Traffic Safety Administration (NHTSA) states that the camera image may be delayed when reversing, increasing crash risk. Tesla will provide an over-the-air software update to fix the issue, with notifications to owners expected by July 3, 2026.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260506T190924",
+            "title": "Ford Exits EVs As Toyota Move In",
+            "summary": "Ford has largely exited the EV business, while Toyota is making a move to expand its EV fleet, with its full electric shift expected to begin in 2026. This comes as Toyota, the world's largest car company, aims to develop a diverse lineup of vehicles including EVs, gas, plugins, and hydrogen, anticipating potential future oil supply anxieties and capitalizing on growing EV markets outside the US. Toyota faces significant challenges in the American EV market, where Tesla dominates and legacy automakers like Ford have struggled.",
+            "text_to_analyze": "Ford Exits EVs As Toyota Move In. Ford has largely exited the EV business, while Toyota is making a move to expand its EV fleet, with its full electric shift expected to begin in 2026. This comes as Toyota, the world's largest car company, aims to develop a diverse lineup of vehicles including EVs, gas, plugins, and hydrogen, anticipating potential future oil supply anxieties and capitalizing on growing EV markets outside the US. Toyota faces significant challenges in the American EV market, where Tesla dominates and legacy automakers like Ford have struggled.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.62024
+        }
+    ]
+}

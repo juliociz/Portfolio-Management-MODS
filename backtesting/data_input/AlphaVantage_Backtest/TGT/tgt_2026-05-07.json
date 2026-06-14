@@ -1,0 +1,18 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-07",
+    "window_start": "2026-05-06 16:00",
+    "window_end": "2026-05-07 09:27",
+    "articles": [
+        {
+            "source": "MarketWatch",
+            "date": "20260506T164800",
+            "title": "Target Corp. stock rises Wednesday, still underperforms market",
+            "summary": "Shares of Target Corp. (TGT) increased by 1.06% on Wednesday, closing at $130.19. This rise occurred during a strong trading session for the broader market, with the S&P 500 Index and Dow Jones Industrial Average also seeing gains. Despite the stock's second consecutive day of increases, it still underperformed compared to the overall market performance.",
+            "text_to_analyze": "Target Corp. stock rises Wednesday, still underperforms market. Shares of Target Corp. (TGT) increased by 1.06% on Wednesday, closing at $130.19. This rise occurred during a strong trading session for the broader market, with the S&P 500 Index and Dow Jones Industrial Average also seeing gains. Despite the stock's second consecutive day of increases, it still underperformed compared to the overall market performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

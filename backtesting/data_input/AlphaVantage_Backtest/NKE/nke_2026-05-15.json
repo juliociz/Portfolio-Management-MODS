@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-15",
+    "window_start": "2026-05-14 16:00",
+    "window_end": "2026-05-15 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260515T000810",
+            "title": "Nike Tariff Lawsuit Adds Pressure To Margins And Investor Confidence",
+            "summary": "Nike is facing a proposed class-action lawsuit alleging unlawful tariff-related pricing practices, claiming the company passed illegal costs to consumers without refunds after tariffs were struck down. This lawsuit adds to existing pressures on Nike's profitability and margins, raising concerns for investors about future pricing, potential settlements, and the company's brand perception. The outcome could impact Nike's direct-to-consumer strategy and margin repair efforts, as well as influencing how it communicates government-related charges and structures future price increases.",
+            "text_to_analyze": "Nike Tariff Lawsuit Adds Pressure To Margins And Investor Confidence. Nike is facing a proposed class-action lawsuit alleging unlawful tariff-related pricing practices, claiming the company passed illegal costs to consumers without refunds after tariffs were struck down. This lawsuit adds to existing pressures on Nike's profitability and margins, raising concerns for investors about future pricing, potential settlements, and the company's brand perception. The outcome could impact Nike's direct-to-consumer strategy and margin repair efforts, as well as influencing how it communicates government-related charges and structures future price increases.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260514T192315",
+            "title": "Shoe Carnival Inc stock (US8322481093): Family footwear retailer with value focus",
+            "summary": "Shoe Carnival Inc (SCVL) is a US family footwear retailer operating over 400 stores in 35 states, offering value-priced shoes, apparel, and accessories from brands like Nike and Skechers. The company targets budget-conscious families and relies significantly on physical sales, with an e-commerce platform contributing 10-15% of revenue. Its business model emphasizes a fun shopping experience, private labels, and strategic partnerships, providing investors exposure to consumer discretionary spending in the Midwest and Southern US.",
+            "text_to_analyze": "Shoe Carnival Inc stock (US8322481093): Family footwear retailer with value focus. Shoe Carnival Inc (SCVL) is a US family footwear retailer operating over 400 stores in 35 states, offering value-priced shoes, apparel, and accessories from brands like Nike and Skechers. The company targets budget-conscious families and relies significantly on physical sales, with an e-commerce platform contributing 10-15% of revenue. Its business model emphasizes a fun shopping experience, private labels, and strategic partnerships, providing investors exposure to consumer discretionary spending in the Midwest and Southern US.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.637497
+        }
+    ]
+}

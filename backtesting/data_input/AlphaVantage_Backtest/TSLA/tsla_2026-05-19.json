@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-19",
+    "window_start": "2026-05-18 16:00",
+    "window_end": "2026-05-19 09:27",
+    "articles": [
+        {
+            "source": "Stocktwits",
+            "date": "20260519T080830",
+            "title": "TSLA Stock Dips Premarket: Tesla Influencer Warns Selling Tesla For SpaceX IPO Could Be ‘Lose-Lose’ Trade",
+            "summary": "A Tesla influencer has warned against selling TSLA stock to invest in the upcoming SpaceX IPO, citing limited allocation for retail investors which could lead to a \"lose-lose\" situation. Despite the excitement, a recent poll shows most traders prefer to use cash for SpaceX purchases rather than selling existing holdings. The debate comes as Tesla continues its aggressive push into AI, robotics, and autonomous driving, while SpaceX is increasingly viewed as an AI and robotics play itself.",
+            "text_to_analyze": "TSLA Stock Dips Premarket: Tesla Influencer Warns Selling Tesla For SpaceX IPO Could Be ‘Lose-Lose’ Trade. A Tesla influencer has warned against selling TSLA stock to invest in the upcoming SpaceX IPO, citing limited allocation for retail investors which could lead to a \"lose-lose\" situation. Despite the excitement, a recent poll shows most traders prefer to use cash for SpaceX purchases rather than selling existing holdings. The debate comes as Tesla continues its aggressive push into AI, robotics, and autonomous driving, while SpaceX is increasingly viewed as an AI and robotics play itself.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260519T073949",
+            "title": "Coatue Cuts Tesla Position By 96%, Trims Nvidia While Buying Lucid And Hertz",
+            "summary": "Hedge fund Coatue Management significantly reduced its stake in Tesla by 96% and trimmed positions in Nvidia, Microsoft, and Amazon during Q1. Simultaneously, Coatue opened new positions in Lucid Group and Hertz, indicating a potential shift from mega-cap tech to distressed or recovery-focused stocks. The fund also invested in other beaten-down names like Peloton, AMC, and Beyond Meat, while maintaining some semiconductor exposure.",
+            "text_to_analyze": "Coatue Cuts Tesla Position By 96%, Trims Nvidia While Buying Lucid And Hertz. Hedge fund Coatue Management significantly reduced its stake in Tesla by 96% and trimmed positions in Nvidia, Microsoft, and Amazon during Q1. Simultaneously, Coatue opened new positions in Lucid Group and Hertz, indicating a potential shift from mega-cap tech to distressed or recovery-focused stocks. The fund also invested in other beaten-down names like Peloton, AMC, and Beyond Meat, while maintaining some semiconductor exposure.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.996237
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260518T203953",
+            "title": "Barclays AutoCallable Notes linked to Tesla (DJP) with contingent coupons",
+            "summary": "Barclays Bank PLC is offering AutoCallable Contingent Coupon Notes linked to Tesla (TSLA) common stock. These notes have a principal amount of $1,000, an expected annual contingent coupon of 17.00% ($42.50 per note), and a scheduled maturity date of December 2, 2027, with potential for early automatic calls based on TSLA's performance. Payments are unsecured obligations of Barclays and are subject to issuer credit risk and the potential exercise of U.K. Bail-in Power, meaning investors could lose up to 100% of their principal.",
+            "text_to_analyze": "Barclays AutoCallable Notes linked to Tesla (DJP) with contingent coupons. Barclays Bank PLC is offering AutoCallable Contingent Coupon Notes linked to Tesla (TSLA) common stock. These notes have a principal amount of $1,000, an expected annual contingent coupon of 17.00% ($42.50 per note), and a scheduled maturity date of December 2, 2027, with potential for early automatic calls based on TSLA's performance. Payments are unsecured obligations of Barclays and are subject to issuer credit risk and the potential exercise of U.K. Bail-in Power, meaning investors could lose up to 100% of their principal.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.972751
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260518T193841",
+            "title": "Elon Musk's Tesla Army Faces Space X IPO: Will Capital Rotate From TSLA Into SPCX?",
+            "summary": "With Space Exploration Technologies Corp (SpaceX) expected to IPO soon, potentially valued at $1.75 trillion, questions are arising about capital rotation from Tesla Inc (TSLA) into the new listing. Analysts suggest that the SpaceX IPO, which might offer a larger percentage of shares to retail investors, could weigh on Tesla, especially given Elon Musk's apparent focus on SpaceX and the company's recent acquisition of xAI, making it a direct competitor in AI and robotics. Retail investors own a significant portion of Tesla, and the new offering could split this base, although merger speculation between the two companies remains low according to Polymarket and Kalshi.",
+            "text_to_analyze": "Elon Musk's Tesla Army Faces Space X IPO: Will Capital Rotate From TSLA Into SPCX?. With Space Exploration Technologies Corp (SpaceX) expected to IPO soon, potentially valued at $1.75 trillion, questions are arising about capital rotation from Tesla Inc (TSLA) into the new listing. Analysts suggest that the SpaceX IPO, which might offer a larger percentage of shares to retail investors, could weigh on Tesla, especially given Elon Musk's apparent focus on SpaceX and the company's recent acquisition of xAI, making it a direct competitor in AI and robotics. Retail investors own a significant portion of Tesla, and the new offering could split this base, although merger speculation between the two companies remains low according to Polymarket and Kalshi.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260518T190921",
+            "title": "Tesla’s 18.97% Weight in XLY Explains Why It Beat VCR by 9 Points in Five Years",
+            "summary": "This article analyzes why the Consumer Discretionary Select Sector SPDR Fund (XLY) outperformed the Vanguard Consumer Discretionary ETF (VCR) over the past five years. The primary reason for XLY's outperformance is its concentrated weighting in Tesla and Amazon, with Tesla alone accounting for 18.97% of the fund. While XLY's concentration led to higher returns over five years, VCR's broader exposure to approximately 300 stocks proved more beneficial over a ten-year period.",
+            "text_to_analyze": "Tesla’s 18.97% Weight in XLY Explains Why It Beat VCR by 9 Points in Five Years. This article analyzes why the Consumer Discretionary Select Sector SPDR Fund (XLY) outperformed the Vanguard Consumer Discretionary ETF (VCR) over the past five years. The primary reason for XLY's outperformance is its concentrated weighting in Tesla and Amazon, with Tesla alone accounting for 18.97% of the fund. While XLY's concentration led to higher returns over five years, VCR's broader exposure to approximately 300 stocks proved more beneficial over a ten-year period.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.918358
+        },
+        {
+            "source": "Stock Traders Daily",
+            "date": "20260518T174000",
+            "title": "Behavioral Patterns of TSLP and Institutional Flows",
+            "summary": "This article analyzes behavioral patterns of TSLP (Kurv Yield Premium Strategy Tesla ETF) and institutional flows, noting weak near-term sentiment but strong mid and long-term outlooks. It details AI-generated trading strategies including long, breakout, and short positions with specific entry, target, and stop-loss levels. The piece also provides multi-timeframe signal analysis, highlighting support and resistance levels for TSLP.",
+            "text_to_analyze": "Behavioral Patterns of TSLP and Institutional Flows. This article analyzes behavioral patterns of TSLP (Kurv Yield Premium Strategy Tesla ETF) and institutional flows, noting weak near-term sentiment but strong mid and long-term outlooks. It details AI-generated trading strategies including long, breakout, and short positions with specific entry, target, and stop-loss levels. The piece also provides multi-timeframe signal analysis, highlighting support and resistance levels for TSLP.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.735363
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260518T170903",
+            "title": "Barclays (DJP) $864K AutoCallable notes tied to TSLA due 2030",
+            "summary": "Barclays is offering $864,000 in AutoCallable Notes due May 17, 2030, linked to Tesla (TSLA) common stock. These notes pay a periodic Call Premium of $200 per $1,000 (20.00% per annum) and are automatically redeemed if Tesla's closing price meets or exceeds the Call Value of $443.30. Investors face the risk of losing up to 100% of their principal if Tesla's stock falls below a barrier value of $310.31 at maturity and the notes have not been automatically called, and are also subject to Barclays' credit risk and potential U.K. Bail-in Power.",
+            "text_to_analyze": "Barclays (DJP) $864K AutoCallable notes tied to TSLA due 2030. Barclays is offering $864,000 in AutoCallable Notes due May 17, 2030, linked to Tesla (TSLA) common stock. These notes pay a periodic Call Premium of $200 per $1,000 (20.00% per annum) and are automatically redeemed if Tesla's closing price meets or exceeds the Call Value of $443.30. Investors face the risk of losing up to 100% of their principal if Tesla's stock falls below a barrier value of $310.31 at maturity and the notes have not been automatically called, and are also subject to Barclays' credit risk and potential U.K. Bail-in Power.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.811789
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260518T163658",
+            "title": "Viking Global Opens Fresh Apple Stake Worth Nearly $1 Billion As Big Tech Trade Roars Back",
+            "summary": "Viking Global Investors has opened a new position in Apple (NASDAQ: AAPL) worth nearly $1 billion, signaling a renewed interest in Big Tech. The hedge fund also increased stakes in Tesla and Carvana, while adding new positions in Meta Platforms, Reddit, CoreWeave, FedEx, Hasbro, and Home Depot, indicating a diversified strategy beyond just AI. This move suggests institutional investors are once again valuing scale, cash flow, and AI opportunities in mega-cap technology companies.",
+            "text_to_analyze": "Viking Global Opens Fresh Apple Stake Worth Nearly $1 Billion As Big Tech Trade Roars Back. Viking Global Investors has opened a new position in Apple (NASDAQ: AAPL) worth nearly $1 billion, signaling a renewed interest in Big Tech. The hedge fund also increased stakes in Tesla and Carvana, while adding new positions in Meta Platforms, Reddit, CoreWeave, FedEx, Hasbro, and Home Depot, indicating a diversified strategy beyond just AI. This move suggests institutional investors are once again valuing scale, cash flow, and AI opportunities in mega-cap technology companies.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.648195
+        }
+    ]
+}
