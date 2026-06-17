@@ -1,0 +1,54 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-28",
+    "window_start": "2026-04-27 16:00",
+    "window_end": "2026-04-28 09:27",
+    "articles": [
+        {
+            "source": "Reuters",
+            "date": "20260428T073355",
+            "title": "US ends probe on Tesla Model Y vehicles without manufacturer action",
+            "summary": "The U.S. National Highway Traffic Safety Administration (NHTSA) has closed a probe into 120,089 Tesla Model Y vehicles without requiring any manufacturer action. The investigation was initiated following reports of steering wheels detaching due to a missing retaining bolt.",
+            "text_to_analyze": "US ends probe on Tesla Model Y vehicles without manufacturer action. The U.S. National Highway Traffic Safety Administration (NHTSA) has closed a probe into 120,089 Tesla Model Y vehicles without requiring any manufacturer action. The investigation was initiated following reports of steering wheels detaching due to a missing retaining bolt.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260428T043925",
+            "title": "Roundhill TSLA WeeklyPay ETF announces weekly distribution of $0.1497",
+            "summary": "Roundhill TSLA WeeklyPay ETF has declared a weekly distribution of $0.1497 per share. The distribution will be paid on May 3, 2024, to shareholders of record as of April 30, 2024.",
+            "text_to_analyze": "Roundhill TSLA WeeklyPay ETF announces weekly distribution of $0.1497. Roundhill TSLA WeeklyPay ETF has declared a weekly distribution of $0.1497 per share. The distribution will be paid on May 3, 2024, to shareholders of record as of April 30, 2024.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260427T193917",
+            "title": "Wall Street Analysts Are Bullish on Top Consumer Cyclical Picks",
+            "summary": "The article highlights bullish sentiments from Wall Street analysts on top consumer cyclical picks, specifically Lithia Motors (LAD) and Tesla (TSLA). Craig-Hallum maintained a Buy rating for Lithia Motors with a consensus price target suggesting a 21.3% upside, while Deutsche Bank maintained a Buy rating for Tesla with a price target of $465.00. Both companies received positive analyst coverage, indicating potential growth in the sector.",
+            "text_to_analyze": "Wall Street Analysts Are Bullish on Top Consumer Cyclical Picks. The article highlights bullish sentiments from Wall Street analysts on top consumer cyclical picks, specifically Lithia Motors (LAD) and Tesla (TSLA). Craig-Hallum maintained a Buy rating for Lithia Motors with a consensus price target suggesting a 21.3% upside, while Deutsche Bank maintained a Buy rating for Tesla with a price target of $465.00. Both companies received positive analyst coverage, indicating potential growth in the sector.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.919602
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260427T183935",
+            "title": "Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Stock Price Down 5.7% - What's Next?",
+            "summary": "Direxion Daily TSLA Bull 2X Shares (TSLL) saw its stock price drop by 5.7% during mid-day trading on Monday, with a significant decline in trading volume. The ETF, which offers 1.5x leveraged exposure to Tesla, trades below its 50- and 200-day moving averages and has a high beta, indicating high volatility. Despite the recent price dip, the fund paid a quarterly dividend, and several institutional investors either initiated or increased their positions.",
+            "text_to_analyze": "Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Stock Price Down 5.7% - What's Next?. Direxion Daily TSLA Bull 2X Shares (TSLL) saw its stock price drop by 5.7% during mid-day trading on Monday, with a significant decline in trading volume. The ETF, which offers 1.5x leveraged exposure to Tesla, trades below its 50- and 200-day moving averages and has a high beta, indicating high volatility. Despite the recent price dip, the fund paid a quarterly dividend, and several institutional investors either initiated or increased their positions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.725072
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260427T170833",
+            "title": "Tesla May Be A Canary In The Coal Mine For Engineered Market Sentiment - Cyabra (NASDAQ:CYAB), Tesla (NAS",
+            "summary": "A Cyabra analysis revealed that 37% of accounts driving viral Tesla narratives on X in March 2025 were fake, indicating a rising trend of coordinated influence campaigns targeting high-profile companies. This suggests that engineered sentiment could increasingly impact market signals, making it harder for investors to rely on traditional metrics. The Tesla case study points to a broader structural issue where tactics previously seen in political events are now affecting publicly traded companies.",
+            "text_to_analyze": "Tesla May Be A Canary In The Coal Mine For Engineered Market Sentiment - Cyabra (NASDAQ:CYAB), Tesla (NAS. A Cyabra analysis revealed that 37% of accounts driving viral Tesla narratives on X in March 2025 were fake, indicating a rising trend of coordinated influence campaigns targeting high-profile companies. This suggests that engineered sentiment could increasingly impact market signals, making it harder for investors to rely on traditional metrics. The Tesla case study points to a broader structural issue where tactics previously seen in political events are now affecting publicly traded companies.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

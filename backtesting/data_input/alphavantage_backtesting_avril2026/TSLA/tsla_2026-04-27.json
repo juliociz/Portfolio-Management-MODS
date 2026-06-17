@@ -1,0 +1,180 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-27",
+    "window_start": "2026-04-24 16:00",
+    "window_end": "2026-04-27 09:27",
+    "articles": [
+        {
+            "source": "MSN",
+            "date": "20260427T073946",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF declares $0.2517 dividend",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (NYSEARCA:TSLY) has declared a monthly dividend of $0.2517 per share. The ex-dividend date is May 03, 2024, with the payment date scheduled for May 07, 2024. This dividend announcement highlights the fund's income generation strategy.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF declares $0.2517 dividend. The YieldMax Short TSLA Option Income Strategy ETF (NYSEARCA:TSLY) has declared a monthly dividend of $0.2517 per share. The ex-dividend date is May 03, 2024, with the payment date scheduled for May 07, 2024. This dividend announcement highlights the fund's income generation strategy.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.649207
+        },
+        {
+            "source": "MSN",
+            "date": "20260427T073946",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF declares $0.2534 dividend",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a monthly dividend of $0.2534 per share for April 2026. This dividend is payable on May 8, 2026, to shareholders of record as of May 2, 2026, with an ex-dividend date of May 1, 2026.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF declares $0.2534 dividend. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a monthly dividend of $0.2534 per share for April 2026. This dividend is payable on May 8, 2026, to shareholders of record as of May 2, 2026, with an ex-dividend date of May 1, 2026.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.606668
+        },
+        {
+            "source": "Wccftech",
+            "date": "20260427T073802",
+            "title": "Google Is Reportedly A Major Intel Foundry Customer, Will Use EMIB Advanced Packaging For Next-Gen TPU",
+            "summary": "Google's forthcoming TPUv8e AI chip is rumored to be manufactured by Intel Foundry, employing its EMIB advanced packaging technology. This development marks a significant win for Intel, expanding its foundry customer base which already includes Tesla. While Google's current TPU8i and TPU8t chips utilize TSMC's CoWoS technology, the shift to Intel for the TPUv8e underscores Intel's growing presence in the AI chip manufacturing landscape, with EMIB offering a potentially more versatile and cost-effective solution.",
+            "text_to_analyze": "Google Is Reportedly A Major Intel Foundry Customer, Will Use EMIB Advanced Packaging For Next-Gen TPU. Google's forthcoming TPUv8e AI chip is rumored to be manufactured by Intel Foundry, employing its EMIB advanced packaging technology. This development marks a significant win for Intel, expanding its foundry customer base which already includes Tesla. While Google's current TPU8i and TPU8t chips utilize TSMC's CoWoS technology, the shift to Intel for the TPUv8e underscores Intel's growing presence in the AI chip manufacturing landscape, with EMIB offering a potentially more versatile and cost-effective solution.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.553548
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260427T061033",
+            "title": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Sees Significant Decrease in Short Interest",
+            "summary": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) experienced a significant 43.3% decrease in short interest, falling to 30,843 shares as of April 15th. This reduction leaves a days-to-cover ratio of 0.0, based on its average daily trading volume. Despite this, several institutional investors, including SBI Securities, PayPay Securities, Private Advisor Group, and Ridgecrest Wealth, increased their stakes, with Optiver Holding B.V. initiating a new position.",
+            "text_to_analyze": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Sees Significant Decrease in Short Interest. Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) experienced a significant 43.3% decrease in short interest, falling to 30,843 shares as of April 15th. This reduction leaves a days-to-cover ratio of 0.0, based on its average daily trading volume. Despite this, several institutional investors, including SBI Securities, PayPay Securities, Private Advisor Group, and Ridgecrest Wealth, increased their stakes, with Optiver Holding B.V. initiating a new position.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.893455
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260427T054300",
+            "title": "Tesla: AI And Robotics Shift Is The Real Story (NASDAQ:TSLA)",
+            "summary": "Tesla reported strong Q1'26 results, featuring improved gross margins and significant free cash flow growth, despite a revenue miss. The company is advancing its AI and robotics initiatives, with mass production of Optimus Humanoid targeted for late 2026 and increased capital expenditure for AI infrastructure. The author maintains a buy rating, citing catalysts like robotaxi development and strategic capital allocation, while acknowledging risks related to EV incentives and autonomous driving.",
+            "text_to_analyze": "Tesla: AI And Robotics Shift Is The Real Story (NASDAQ:TSLA). Tesla reported strong Q1'26 results, featuring improved gross margins and significant free cash flow growth, despite a revenue miss. The company is advancing its AI and robotics initiatives, with mass production of Optimus Humanoid targeted for late 2026 and increased capital expenditure for AI infrastructure. The author maintains a buy rating, citing catalysts like robotaxi development and strategic capital allocation, while acknowledging risks related to EV incentives and autonomous driving.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260427T042206",
+            "title": "Alibaba-Backed DeepRoute.ai Says More Than 300,000 Cars Now Use Its Assisted-Driving System Across Chinese Roads",
+            "summary": "Alibaba-backed DeepRoute.ai announced that over 300,000 cars in China are now using its advanced assisted-driving system, with a projected increase of 1 million more vehicles this year. The company is focusing on integrating high-end driving features into mass-market vehicles and has shifted to a large-model autonomous-driving strategy. This expansion aligns with China's broader \"AI Plus\" initiative to embed AI into various industries, including automotive, amidst growing competition from other Chinese automakers and the push by Tesla for full regulatory approval of its FSD in China.",
+            "text_to_analyze": "Alibaba-Backed DeepRoute.ai Says More Than 300,000 Cars Now Use Its Assisted-Driving System Across Chinese Roads. Alibaba-backed DeepRoute.ai announced that over 300,000 cars in China are now using its advanced assisted-driving system, with a projected increase of 1 million more vehicles this year. The company is focusing on integrating high-end driving features into mass-market vehicles and has shifted to a large-model autonomous-driving strategy. This expansion aligns with China's broader \"AI Plus\" initiative to embed AI into various industries, including automotive, amidst growing competition from other Chinese automakers and the push by Tesla for full regulatory approval of its FSD in China.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.8043
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260427T040825",
+            "title": "Analyst Questions Why Tesla's 90% Value Hasn't Evaporated Following Elon Musk's FSD Admission: 'It's Astonishing…'",
+            "summary": "GLJ Research founder Gordon Johnson criticized Tesla's Full Self-Driving (FSD) progress and questioned the company's valuation after Elon Musk admitted that HW3 chips wouldn't support Unsupervised FSD. Johnson believes 80-90% of Tesla's valuation is tied to FSD, and its lack of readiness should have significantly impacted the stock. Despite these concerns, Tesla reported a 16% year-over-year revenue increase and beat analyst earnings estimates for the first quarter of 2026.",
+            "text_to_analyze": "Analyst Questions Why Tesla's 90% Value Hasn't Evaporated Following Elon Musk's FSD Admission: 'It's Astonishing…'. GLJ Research founder Gordon Johnson criticized Tesla's Full Self-Driving (FSD) progress and questioned the company's valuation after Elon Musk admitted that HW3 chips wouldn't support Unsupervised FSD. Johnson believes 80-90% of Tesla's valuation is tied to FSD, and its lack of readiness should have significantly impacted the stock. Despite these concerns, Tesla reported a 16% year-over-year revenue increase and beat analyst earnings estimates for the first quarter of 2026.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MoneyDJ",
+            "date": "20260427T033911",
+            "title": "ProShares二倍做多TSLA ETF-TSLI-ETF基本資料",
+            "summary": "This article provides basic information about the ProShares Ultra TSLA ETF (TSLI), a leveraged ETF designed to deliver twice the daily return of Tesla stock. It details the fund's issuer, core investment strategy, key financial metrics like assets under management, expense ratios, and trading information.",
+            "text_to_analyze": "ProShares二倍做多TSLA ETF-TSLI-ETF基本資料. This article provides basic information about the ProShares Ultra TSLA ETF (TSLI), a leveraged ETF designed to deliver twice the daily return of Tesla stock. It details the fund's issuer, core investment strategy, key financial metrics like assets under management, expense ratios, and trading information.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.91566
+        },
+        {
+            "source": "AUTO Connected Car News",
+            "date": "20260426T234011",
+            "title": "Autonomous & Self-Driving Vehicle News Tesla, Pony.ai, NVIDIA, Moia, Beep, Innoviz, SiMa.ai, Hesai, Karsan, WeRide, PlusAI, Arbe & Zoox. | auto connected car news",
+            "summary": "This article provides an extensive update on various developments in the autonomous and self-driving vehicle industry, featuring companies like Tesla, Pony.ai, NVIDIA, and Zoox. Key highlights include Tesla's robotaxi pricing shifts, legal challenges regarding its FSD capabilities, and expansion of charging infrastructure, alongside new L4 domain controllers from Pony.ai, large-scale microtransit deployments by Moia America and Beep, and advancements in LiDAR technology from Innoviz and Hesai. The report also covers commercial deployments of autonomous buses, multi-chip compatibility for ADAS solutions, a SPAC merger termination for PlusAI, and the growing consumer demand for eyes-off autonomous features.",
+            "text_to_analyze": "Autonomous & Self-Driving Vehicle News Tesla, Pony.ai, NVIDIA, Moia, Beep, Innoviz, SiMa.ai, Hesai, Karsan, WeRide, PlusAI, Arbe & Zoox. | auto connected car news. This article provides an extensive update on various developments in the autonomous and self-driving vehicle industry, featuring companies like Tesla, Pony.ai, NVIDIA, and Zoox. Key highlights include Tesla's robotaxi pricing shifts, legal challenges regarding its FSD capabilities, and expansion of charging infrastructure, alongside new L4 domain controllers from Pony.ai, large-scale microtransit deployments by Moia America and Beep, and advancements in LiDAR technology from Innoviz and Hesai. The report also covers commercial deployments of autonomous buses, multi-chip compatibility for ADAS solutions, a SPAC merger termination for PlusAI, and the growing consumer demand for eyes-off autonomous features.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.917447
+        },
+        {
+            "source": "MSN",
+            "date": "20260426T054106",
+            "title": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0515",
+            "summary": "The GraniteShares YieldBOOST TSLA ETF has declared a weekly cash distribution of $0.0515 per share for its shareholders. The distribution is payable on April 30, 2026, to shareholders of record as of April 29, 2026, with an ex-dividend date of April 29, 2026.",
+            "text_to_analyze": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0515. The GraniteShares YieldBOOST TSLA ETF has declared a weekly cash distribution of $0.0515 per share for its shareholders. The distribution is payable on April 30, 2026, to shareholders of record as of April 29, 2026, with an ex-dividend date of April 29, 2026.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.824221
+        },
+        {
+            "source": "MSN",
+            "date": "20260426T043954",
+            "title": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0515",
+            "summary": "The GraniteShares YieldBOOST TSLA ETF (NYSE Arca: HTSL) has announced a weekly distribution of $0.0515 per share, payable on May 2, 2026, to shareholders of record as of April 30, 2026. HTSL aims to provide income and leveraged exposure to Tesla (TSLA) stock by employing an equity collateralized put writing strategy.",
+            "text_to_analyze": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0515. The GraniteShares YieldBOOST TSLA ETF (NYSE Arca: HTSL) has announced a weekly distribution of $0.0515 per share, payable on May 2, 2026, to shareholders of record as of April 30, 2026. HTSL aims to provide income and leveraged exposure to Tesla (TSLA) stock by employing an equity collateralized put writing strategy.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.848948
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260425T230926",
+            "title": "HSBC Adjusts Tesla Price Target to $123 From $127, Maintains Reduce Rating",
+            "summary": "HSBC has lowered its price target for Tesla (TSLA) shares to $123 from $127. The firm maintained its \"Reduce\" rating on the electric vehicle maker's stock. This adjustment reflects HSBC's ongoing cautious outlook on Tesla's financial prospects.",
+            "text_to_analyze": "HSBC Adjusts Tesla Price Target to $123 From $127, Maintains Reduce Rating. HSBC has lowered its price target for Tesla (TSLA) shares to $123 from $127. The firm maintained its \"Reduce\" rating on the electric vehicle maker's stock. This adjustment reflects HSBC's ongoing cautious outlook on Tesla's financial prospects.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barchart",
+            "date": "20260425T210828",
+            "title": "Dan Ives: Tesla Is ‘Morphing into a Physical AI Stalwart’ So Don’t Sweat the CapEx and Just Buy TSLA Stock",
+            "summary": "Wedbush analyst Dan Ives maintains an \"Outperform\" rating and a Street-high $600 price target on Tesla, believing its significant CapEx is essential for the company's transformation into a \"physical AI stalwart.\" Despite recent stock underperformance due to concerns about margins, demand, and valuation, Tesla reported a Q1 revenue increase of 16% year-over-year and a 52% rise in non-GAAP EPS. While analysts have mixed feelings overall, the consensus price target suggests a 7.82% upside, with Ives' target indicating a 59.5% upside from current levels as the company invests heavily in AI, robotics, and autonomous technology.",
+            "text_to_analyze": "Dan Ives: Tesla Is ‘Morphing into a Physical AI Stalwart’ So Don’t Sweat the CapEx and Just Buy TSLA Stock. Wedbush analyst Dan Ives maintains an \"Outperform\" rating and a Street-high $600 price target on Tesla, believing its significant CapEx is essential for the company's transformation into a \"physical AI stalwart.\" Despite recent stock underperformance due to concerns about margins, demand, and valuation, Tesla reported a Q1 revenue increase of 16% year-over-year and a 52% rise in non-GAAP EPS. While analysts have mixed feelings overall, the consensus price target suggests a 7.82% upside, with Ives' target indicating a 59.5% upside from current levels as the company invests heavily in AI, robotics, and autonomous technology.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.970633
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260425T193956",
+            "title": "Key deals this week: Helix Energy, Tesla, QXO, USA Rare Earth and more (LLY:NYSE)",
+            "summary": "This article details significant deals across various sectors reported this week. Key announcements include Helix Energy Solutions and Hornbeck Offshore Services merging in an all-stock deal and a disclosure from Tesla.",
+            "text_to_analyze": "Key deals this week: Helix Energy, Tesla, QXO, USA Rare Earth and more (LLY:NYSE). This article details significant deals across various sectors reported this week. Key announcements include Helix Energy Solutions and Hornbeck Offshore Services merging in an all-stock deal and a disclosure from Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.633698
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260425T143908",
+            "title": "Tesla Inc : RBC Cuts Target Price to $480 Fro",
+            "summary": "This article indicates that RBC has reduced its target price for Tesla Inc. (TSLA) stock to $480. RBC Capital Markets maintained an \"Outperform\" rating on Tesla despite the reduction. The analyst, Simon Siegel, also adjusted his estimates for the company.",
+            "text_to_analyze": "Tesla Inc : RBC Cuts Target Price to $480 Fro. This article indicates that RBC has reduced its target price for Tesla Inc. (TSLA) stock to $480. RBC Capital Markets maintained an \"Outperform\" rating on Tesla despite the reduction. The analyst, Simon Siegel, also adjusted his estimates for the company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260425T061026",
+            "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Lululemon Athletica (LULU), Tesla (TSLA) and Amazon (AMZN)",
+            "summary": "Analysts have issued mixed ratings for several consumer cyclical companies. Lululemon Athletica received a Hold rating from William Blair with a $163.00 price target, while Tesla also maintained a Hold rating from Goldman Sachs with a $375.00 price target. In contrast, Amazon received a Buy rating from UBS with a price target of $304.00.",
+            "text_to_analyze": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Lululemon Athletica (LULU), Tesla (TSLA) and Amazon (AMZN). Analysts have issued mixed ratings for several consumer cyclical companies. Lululemon Athletica received a Hold rating from William Blair with a $163.00 price target, while Tesla also maintained a Hold rating from Goldman Sachs with a $375.00 price target. In contrast, Amazon received a Buy rating from UBS with a price target of $304.00.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.918067
+        },
+        {
+            "source": "TradingView",
+            "date": "20260425T050833",
+            "title": "Tesla remains weak below the $400 level for NASDAQ:TSLA by FOREXcom",
+            "summary": "Tesla stock has experienced a difficult trading week, declining over 3% in recent sessions due to concerns about slowing demand and the need for price reductions, despite slightly beating EPS expectations. The stock remains in a bearish downtrend, respecting a trendline from December 2025, with key resistance at $400 and $435, and support at the 2026 low of $344. Technical indicators like RSI and MACD suggest a neutral phase, with continued weakness expected if selling pressure persists.",
+            "text_to_analyze": "Tesla remains weak below the $400 level for NASDAQ:TSLA by FOREXcom. Tesla stock has experienced a difficult trading week, declining over 3% in recent sessions due to concerns about slowing demand and the need for price reductions, despite slightly beating EPS expectations. The stock remains in a bearish downtrend, respecting a trendline from December 2025, with key resistance at $400 and $435, and support at the 2026 low of $344. Technical indicators like RSI and MACD suggest a neutral phase, with continued weakness expected if selling pressure persists.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260425T030828",
+            "title": "Why Tesla's Latest Earnings Don't Justify Its Massive Valuation",
+            "summary": "Tesla CEO Elon Musk is prioritizing long-term growth through increased capital expenditures, but analysts like Wells Fargo's Colin Langan argue that recent earnings do not justify the company's high valuation. Langan points to significant one-time items boosting earnings and a lack of near-term product catalysts and raised concerns about the execution risk of Tesla's \"vision-only\" autonomous driving approach. Tesla shares were up 0.53% at $375.70 in premarket trading.",
+            "text_to_analyze": "Why Tesla's Latest Earnings Don't Justify Its Massive Valuation. Tesla CEO Elon Musk is prioritizing long-term growth through increased capital expenditures, but analysts like Wells Fargo's Colin Langan argue that recent earnings do not justify the company's high valuation. Langan points to significant one-time items boosting earnings and a lack of near-term product catalysts and raised concerns about the execution risk of Tesla's \"vision-only\" autonomous driving approach. Tesla shares were up 0.53% at $375.70 in premarket trading.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260424T210918",
+            "title": "EXCLUSIVE: Ross Gerber Says He's A 'Tesla Lover, Elon Critic' – Why He Sees Himself As The Tesla Hero And Not A Villain",
+            "summary": "Ross Gerber, CEO of Gerber Kawasaki, describes himself as a \"Tesla lover, Elon critic,\" believing he acts as a hero for Tesla by advocating for the company while criticizing Elon Musk's political narratives. Gerber emphasizes that Tesla is a public company and Musk's personal views should not dominate its brand, arguing that these divisive opinions harm the company's image and sales potential. He highlights his past support for Tesla and Musk, and his current concern that Musk's leadership is negatively impacting the brand, urging a separation of Musk's personal opinions from Tesla's public image.",
+            "text_to_analyze": "EXCLUSIVE: Ross Gerber Says He's A 'Tesla Lover, Elon Critic' – Why He Sees Himself As The Tesla Hero And Not A Villain. Ross Gerber, CEO of Gerber Kawasaki, describes himself as a \"Tesla lover, Elon critic,\" believing he acts as a hero for Tesla by advocating for the company while criticizing Elon Musk's political narratives. Gerber emphasizes that Tesla is a public company and Musk's personal views should not dominate its brand, arguing that these divisive opinions harm the company's image and sales potential. He highlights his past support for Tesla and Musk, and his current concern that Musk's leadership is negatively impacting the brand, urging a separation of Musk's personal opinions from Tesla's public image.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.908717
+        }
+    ]
+}

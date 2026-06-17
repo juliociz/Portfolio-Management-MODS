@@ -1,0 +1,63 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-24",
+    "window_start": "2026-04-23 16:00",
+    "window_end": "2026-04-24 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260424T063808",
+            "title": "Nike Restructures With Layoffs As UEFA Push And Valuation Questions Emerge",
+            "summary": "Nike is implementing major global layoffs as part of its \"Win Now\" restructuring plan, aiming for improved efficiency after sustained stock pressure. Concurrently, the company is in talks to secure a high-profile UEFA sponsorship for men's competitions, which would end Adidas's long-standing run. These strategic moves—cost-cutting through layoffs and a brand-focused sports deal—are intended to reshape investor perception and stabilize Nike's long-term market position amidst its recent stock performance declines.",
+            "text_to_analyze": "Nike Restructures With Layoffs As UEFA Push And Valuation Questions Emerge. Nike is implementing major global layoffs as part of its \"Win Now\" restructuring plan, aiming for improved efficiency after sustained stock pressure. Concurrently, the company is in talks to secure a high-profile UEFA sponsorship for men's competitions, which would end Adidas's long-standing run. These strategic moves—cost-cutting through layoffs and a brand-focused sports deal—are intended to reshape investor perception and stabilize Nike's long-term market position amidst its recent stock performance declines.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Boston Globe",
+            "date": "20260423T232637",
+            "title": "Hasbro preliminary sales beat estimates, buoyed by ‘Magic’ - The Boston Globe",
+            "summary": "Hasbro reported preliminary first-quarter revenue exceeding analyst estimates, largely due to the strong performance of its fantasy card game, Magic: The Gathering, despite a prior cybersecurity attack. The article also covers various other business news, including the increasing age of CEOs, concerns about forced labor cotton in Labubu dolls, Spirit Airlines' financial discussions with the US government, Nike's corporate job cuts, accelerated insurance coverage for breakthrough medical devices, Kellogg's reintroduction of toy prizes in cereal, and a dip in US long-term mortgage rates.",
+            "text_to_analyze": "Hasbro preliminary sales beat estimates, buoyed by ‘Magic’ - The Boston Globe. Hasbro reported preliminary first-quarter revenue exceeding analyst estimates, largely due to the strong performance of its fantasy card game, Magic: The Gathering, despite a prior cybersecurity attack. The article also covers various other business news, including the increasing age of CEOs, concerns about forced labor cotton in Labubu dolls, Spirit Airlines' financial discussions with the US government, Nike's corporate job cuts, accelerated insurance coverage for breakthrough medical devices, Kellogg's reintroduction of toy prizes in cereal, and a dip in US long-term mortgage rates.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.646948
+        },
+        {
+            "source": "The Albertan",
+            "date": "20260423T230753",
+            "title": "Lululemon shares tumble 13% after former Nike exec named new CEO",
+            "summary": "Lululemon's share price dropped over 13% after the company named former Nike executive Heidi O’Neill as its new CEO. Analysts are divided on the appointment, with some suggesting the market desired a \"turnaround CEO\" rather than a \"growth CEO\" given Lululemon's recent challenges with competition and shareholder criticism. Others believe O'Neill's experience in activewear and customer-focused companies makes her a logical choice to inject new energy and innovation into the brand.",
+            "text_to_analyze": "Lululemon shares tumble 13% after former Nike exec named new CEO. Lululemon's share price dropped over 13% after the company named former Nike executive Heidi O’Neill as its new CEO. Analysts are divided on the appointment, with some suggesting the market desired a \"turnaround CEO\" rather than a \"growth CEO\" given Lululemon's recent challenges with competition and shareholder criticism. Others believe O'Neill's experience in activewear and customer-focused companies makes her a logical choice to inject new energy and innovation into the brand.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.710597
+        },
+        {
+            "source": "Sahm",
+            "date": "20260423T193759",
+            "title": "Lululemon Stock Slides After Company Names New CEO",
+            "summary": "Lululemon Athletica Inc (NASDAQ: LULU) shares fell in after-hours trading following the announcement of a CEO transition. Heidi O’Neill, formerly of Nike Inc (NYSE: NKE), has been named the new CEO, effective September 8, 2026. Lululemon's stock was down 5.78% at $154 after the bell.",
+            "text_to_analyze": "Lululemon Stock Slides After Company Names New CEO. Lululemon Athletica Inc (NASDAQ: LULU) shares fell in after-hours trading following the announcement of a CEO transition. Heidi O’Neill, formerly of Nike Inc (NYSE: NKE), has been named the new CEO, effective September 8, 2026. Lululemon's stock was down 5.78% at $154 after the bell.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.81091
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260423T163657",
+            "title": "Lululemon shares drop after CEO change amplifies ongoing brand reset efforts",
+            "summary": "Lululemon's shares dropped nearly 12% after the company named former Nike executive Heidi O’Neill as its new CEO, signaling ongoing efforts to revive its U.S. business amidst weakening sales and increased competition. The leadership change comes as Lululemon's market value has significantly decreased, and analysts remain cautious about the effectiveness of these changes in addressing deeper operational concerns and a proxy fight led by founder Chip Wilson. The company is hoping O’Neill can strengthen product focus and re-energize its core customer base.",
+            "text_to_analyze": "Lululemon shares drop after CEO change amplifies ongoing brand reset efforts. Lululemon's shares dropped nearly 12% after the company named former Nike executive Heidi O’Neill as its new CEO, signaling ongoing efforts to revive its U.S. business amidst weakening sales and increased competition. The leadership change comes as Lululemon's market value has significantly decreased, and analysts remain cautious about the effectiveness of these changes in addressing deeper operational concerns and a proxy fight led by founder Chip Wilson. The company is hoping O’Neill can strengthen product focus and re-energize its core customer base.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.644806
+        },
+        {
+            "source": "MSN",
+            "date": "20260423T160903",
+            "title": "Nike's China warning hits footwear stocks, Rocky Brands leads Quant ratings list",
+            "summary": "This article is a placeholder with no content. It refers to Nike's warning affecting footwear stocks and Rocky Brands leading Quant ratings.",
+            "text_to_analyze": "Nike's China warning hits footwear stocks, Rocky Brands leads Quant ratings list. This article is a placeholder with no content. It refers to Nike's warning affecting footwear stocks and Rocky Brands leading Quant ratings.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.940064
+        }
+    ]
+}

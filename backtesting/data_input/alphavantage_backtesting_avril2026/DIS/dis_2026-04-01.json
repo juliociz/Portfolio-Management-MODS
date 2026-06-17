@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-01",
+    "window_start": "2026-03-31 16:00",
+    "window_end": "2026-04-01 09:27",
+    "articles": [
+        {
+            "source": "Investing.com",
+            "date": "20260401T083839",
+            "title": "Raymond James upgrades Disney stock rating on valuation opportunity",
+            "summary": "Raymond James has upgraded Walt Disney (NYSE:DIS) stock rating from Market Perform to Outperform, setting a price target of $115.00, citing an attractive valuation opportunity amidst current macro and international visitation headwinds. Despite potential challenges in its Experiences segment and macro risks, the firm views the risk-reward profile as attractive and the stock as historically cheap. This upgrade aligns with InvestingPro data suggesting Disney is undervalued, highlighting a low P/E ratio relative to near-term earnings growth.",
+            "text_to_analyze": "Raymond James upgrades Disney stock rating on valuation opportunity. Raymond James has upgraded Walt Disney (NYSE:DIS) stock rating from Market Perform to Outperform, setting a price target of $115.00, citing an attractive valuation opportunity amidst current macro and international visitation headwinds. Despite potential challenges in its Experiences segment and macro risks, the firm views the risk-reward profile as attractive and the stock as historically cheap. This upgrade aligns with InvestingPro data suggesting Disney is undervalued, highlighting a low P/E ratio relative to near-term earnings growth.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.990898
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260401T073728",
+            "title": "Brookstone Capital Management Has $14.39 Million Stock Position in The Walt Disney Company $DIS",
+            "summary": "Brookstone Capital Management increased its stake in The Walt Disney Company (NYSE:DIS) by 8.1% in Q4, now holding 126,456 shares valued at $14.39 million. This comes as institutional investors collectively own about 65.7% of the stock. Despite a Q1 revenue beat, significant growth in streaming operating income, and analyst support, the company faces near-term PR and execution risks due to setbacks in AI initiatives like the collapsed Sora/OpenAI collaboration and an AI Olaf malfunction.",
+            "text_to_analyze": "Brookstone Capital Management Has $14.39 Million Stock Position in The Walt Disney Company $DIS. Brookstone Capital Management increased its stake in The Walt Disney Company (NYSE:DIS) by 8.1% in Q4, now holding 126,456 shares valued at $14.39 million. This comes as institutional investors collectively own about 65.7% of the stock. Despite a Q1 revenue beat, significant growth in streaming operating income, and analyst support, the company faces near-term PR and execution risks due to setbacks in AI initiatives like the collapsed Sora/OpenAI collaboration and an AI Olaf malfunction.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.960963
+        },
+        {
+            "source": "South Florida Reporter",
+            "date": "20260401T050751",
+            "title": "General Mills Embraces the Rainbow: A Natural Makeover for Lucky Charms and Trix",
+            "summary": "General Mills is committing to remove all certified synthetic dyes from its U.S. cereal portfolio by summer 2026, spearheading this change with new Lucky Charms Unicorn Cotton Candy and Tropical Trix with Disney's Moana. This initiative is a response to consumer demand, regulatory pressures, and advancements in food science, particularly in stable natural pigments. The company aims for its entire U.S. retail portfolio to be free of synthetic dyes by the end of 2027, learning from a previous attempt in 2016 to introduce natural Trix.",
+            "text_to_analyze": "General Mills Embraces the Rainbow: A Natural Makeover for Lucky Charms and Trix. General Mills is committing to remove all certified synthetic dyes from its U.S. cereal portfolio by summer 2026, spearheading this change with new Lucky Charms Unicorn Cotton Candy and Tropical Trix with Disney's Moana. This initiative is a response to consumer demand, regulatory pressures, and advancements in food science, particularly in stable natural pigments. The company aims for its entire U.S. retail portfolio to be free of synthetic dyes by the end of 2027, learning from a previous attempt in 2016 to introduce natural Trix.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.570874
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260401T003730",
+            "title": "Mickey & Friends Saddle Up For A Reimagining Of Disney Songs With A Spectacular Line Up Of Country Music Stars",
+            "summary": "Disney has announced an all-new country EP titled \"Main Street Country,\" set to release on April 3, featuring award-winning artists who reimagine classic Disney songs with a country twist. The EP includes performances by Kane and Katelyn Brown, Restless Road, Dasha, Maddie & Tae, and BRELAND, covering iconic tracks from films like \"Beauty and the Beast,\" \"Hannah Montana: The Movie,\" and \"Hercules.\" This initiative follows the success of a pop-punk Disney cover album and continues the Mickey & Friends music series, blending nostalgia with modern country storytelling.",
+            "text_to_analyze": "Mickey & Friends Saddle Up For A Reimagining Of Disney Songs With A Spectacular Line Up Of Country Music Stars. Disney has announced an all-new country EP titled \"Main Street Country,\" set to release on April 3, featuring award-winning artists who reimagine classic Disney songs with a country twist. The EP includes performances by Kane and Katelyn Brown, Restless Road, Dasha, Maddie & Tae, and BRELAND, covering iconic tracks from films like \"Beauty and the Beast,\" \"Hannah Montana: The Movie,\" and \"Hercules.\" This initiative follows the success of a pop-punk Disney cover album and continues the Mickey & Friends music series, blending nostalgia with modern country storytelling.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

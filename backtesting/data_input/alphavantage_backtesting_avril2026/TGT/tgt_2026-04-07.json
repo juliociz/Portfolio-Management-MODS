@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-04-07",
+    "window_start": "2026-04-06 16:00",
+    "window_end": "2026-04-07 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260407T070831",
+            "title": "Brian Cornell (TGT) receives stock award as Target withholds shares for taxes",
+            "summary": "Target executive Brian C. Cornell received 50,777 shares of common stock as a performance unit award under the company's 2020 Long-Term Incentive Plan. Subsequently, 21,697 shares were withheld by Target at $120.76 per share to cover tax obligations. This Form 4 filing indicates a routine equity compensation event and tax withholding, rather than open-market trading by the executive.",
+            "text_to_analyze": "Brian Cornell (TGT) receives stock award as Target withholds shares for taxes. Target executive Brian C. Cornell received 50,777 shares of common stock as a performance unit award under the company's 2020 Long-Term Incentive Plan. Subsequently, 21,697 shares were withheld by Target at $120.76 per share to cover tax obligations. This Form 4 filing indicates a routine equity compensation event and tax withholding, rather than open-market trading by the executive.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Sun",
+            "date": "20260406T181406",
+            "title": "Walmart shoppers hit with new bag ban policy – and US state adds $500 fines",
+            "summary": "Beaufort, South Carolina, is proposing new legislation to ban all plastic bags and foam products, impacting retailers like Walmart and Target. The updated policy aims to close loopholes from a 2018 ban by mandating cloth reusable bags with stitched handles. Businesses violating the new rules could face fines up to $500 and potential revocation of their business licenses.",
+            "text_to_analyze": "Walmart shoppers hit with new bag ban policy – and US state adds $500 fines. Beaufort, South Carolina, is proposing new legislation to ban all plastic bags and foam products, impacting retailers like Walmart and Target. The updated policy aims to close loopholes from a 2018 ban by mandating cloth reusable bags with stitched handles. Businesses violating the new rules could face fines up to $500 and potential revocation of their business licenses.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.63406
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260406T164800",
+            "title": "Target Corp. stock outperforms competitors on strong trading day",
+            "summary": "Target Corp. (TGT) stock rallied 1.46% to $122.21 on Monday, outperforming key market indexes like the S&P 500 and the Dow Jones Industrial Average. The company's stock closed 3.01% below its 52-week high of $126.00, achieved on March 4th. This strong performance occurred during an overall positive trading session for the stock market.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors on strong trading day. Target Corp. (TGT) stock rallied 1.46% to $122.21 on Monday, outperforming key market indexes like the S&P 500 and the Dow Jones Industrial Average. The company's stock closed 3.01% below its 52-week high of $126.00, achieved on March 4th. This strong performance occurred during an overall positive trading session for the stock market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

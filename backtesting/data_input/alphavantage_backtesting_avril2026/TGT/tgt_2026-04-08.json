@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-04-08",
+    "window_start": "2026-04-07 16:00",
+    "window_end": "2026-04-08 09:27",
+    "articles": [
+        {
+            "source": "The Sun",
+            "date": "20260407T200908",
+            "title": "Shoppers warned over long lines as Target self-checkout lanes are CUT at stores",
+            "summary": "Rhode Island lawmakers are considering a bill that would limit self-checkout kiosks in stores like Target and Walmart to a maximum of eight per store. The proposal also requires one cashier for every two self-checkout machines and additional staff to oversee them, potentially leading to longer lines for shoppers. Supporters argue it protects jobs and ensures grocery workers' hours, while retailers claim self-checkout helps manage small orders and improve efficiency.",
+            "text_to_analyze": "Shoppers warned over long lines as Target self-checkout lanes are CUT at stores. Rhode Island lawmakers are considering a bill that would limit self-checkout kiosks in stores like Target and Walmart to a maximum of eight per store. The proposal also requires one cashier for every two self-checkout machines and additional staff to oversee them, potentially leading to longer lines for shoppers. Supporters argue it protects jobs and ensures grocery workers' hours, while retailers claim self-checkout helps manage small orders and improve efficiency.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.855509
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260407T180846",
+            "title": "Target outperformance signals shift to more durable growth, says Jefferies",
+            "summary": "Jefferies has reiterated a 'Buy' rating on Target (NYSE:TGT) with a $140 price target, noting the company's shares are up 20% this year due to improving business trends. Analysts highlighted stabilized margins, increasing contributions from higher-margin revenue streams like advertising and membership, and effective cost control under CEO Michael Fiddelke as key drivers. The firm believes Target's outperformance reflects a shift towards more durable growth, anticipating continued momentum and earnings growth through operational improvements.",
+            "text_to_analyze": "Target outperformance signals shift to more durable growth, says Jefferies. Jefferies has reiterated a 'Buy' rating on Target (NYSE:TGT) with a $140 price target, noting the company's shares are up 20% this year due to improving business trends. Analysts highlighted stabilized margins, increasing contributions from higher-margin revenue streams like advertising and membership, and effective cost control under CEO Michael Fiddelke as key drivers. The firm believes Target's outperformance reflects a shift towards more durable growth, anticipating continued momentum and earnings growth through operational improvements.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.30415
+        },
+        {
+            "source": "Chain Store Age",
+            "date": "20260407T172541",
+            "title": "Target brings back Car Seat Trade-In program for 10th year",
+            "summary": "Target is bringing back its Car Seat Trade-In program for the 10th year, offering shoppers a 20% Target Circle Bonus for trading in old car seats. This year, the bonus can be applied not just to new car seats or baby gear, but also to toys, food and beverage, and apparel. The program has recycled over 58 million pounds of materials, preventing them from ending up in landfills.",
+            "text_to_analyze": "Target brings back Car Seat Trade-In program for 10th year. Target is bringing back its Car Seat Trade-In program for the 10th year, offering shoppers a 20% Target Circle Bonus for trading in old car seats. This year, the bonus can be applied not just to new car seats or baby gear, but also to toys, food and beverage, and apparel. The program has recycled over 58 million pounds of materials, preventing them from ending up in landfills.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo",
+            "date": "20260407T165000",
+            "title": "Popular discount retailer opening new store in Henrietta",
+            "summary": "Ross Dress for Less is expanding its presence in the Rochester, NY area with a new store opening in Henrietta, next to Target, and another underway in Irondequoit. The Henrietta location involves a $1.2 million renovation of a former Babies R Us, while the Irondequoit store takes over a former Big Lots space. These additions will bring the total number of Ross stores in the greater Rochester market to four.",
+            "text_to_analyze": "Popular discount retailer opening new store in Henrietta. Ross Dress for Less is expanding its presence in the Rochester, NY area with a new store opening in Henrietta, next to Target, and another underway in Irondequoit. The Henrietta location involves a $1.2 million renovation of a former Babies R Us, while the Irondequoit store takes over a former Big Lots space. These additions will bring the total number of Ross stores in the greater Rochester market to four.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.63468
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260407T164900",
+            "title": "Target Corp. stock underperforms Tuesday when compared to competitors",
+            "summary": "Target Corp. (TGT) stock declined by 2.20% on Tuesday, closing at $119.52. This performance was in contrast to the broader stock market, as the S&P 500 Index rose, while the Dow Jones Industrial Average fell slightly. The company's stock finished 5.14% below its 52-week high.",
+            "text_to_analyze": "Target Corp. stock underperforms Tuesday when compared to competitors. Target Corp. (TGT) stock declined by 2.20% on Tuesday, closing at $119.52. This performance was in contrast to the broader stock market, as the S&P 500 Index rose, while the Dow Jones Industrial Average fell slightly. The company's stock finished 5.14% below its 52-week high.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

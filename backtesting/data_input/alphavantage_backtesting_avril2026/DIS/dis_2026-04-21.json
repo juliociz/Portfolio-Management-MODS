@@ -1,0 +1,54 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-21",
+    "window_start": "2026-04-20 16:00",
+    "window_end": "2026-04-21 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260421T080729",
+            "title": "Belpointe Asset Management LLC Cuts Position in The Walt Disney Company $DIS",
+            "summary": "Belpointe Asset Management LLC significantly reduced its stake in The Walt Disney Company (NYSE:DIS) by 30.2% in the fourth quarter of the prior year, selling 7,499 shares and ending with 17,308 shares valued at approximately $1.97 million. Despite this reduction, analyst sentiment remains largely positive, with a \"Moderate Buy\" consensus rating and a target price of $133.53. Disney recently surpassed earnings estimates with an EPS of $1.63 and revenue of $25.98 billion, indicating solid financial performance.",
+            "text_to_analyze": "Belpointe Asset Management LLC Cuts Position in The Walt Disney Company $DIS. Belpointe Asset Management LLC significantly reduced its stake in The Walt Disney Company (NYSE:DIS) by 30.2% in the fourth quarter of the prior year, selling 7,499 shares and ending with 17,308 shares valued at approximately $1.97 million. Despite this reduction, analyst sentiment remains largely positive, with a \"Moderate Buy\" consensus rating and a target price of $133.53. Disney recently surpassed earnings estimates with an EPS of $1.63 and revenue of $25.98 billion, indicating solid financial performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.940899
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260421T073728",
+            "title": "The Walt Disney Company stock (US9314271084): Is streaming profitability now the real turning point?",
+            "summary": "The Walt Disney Company's streaming services have achieved profitability, marking a significant milestone for the company and raising questions about sustained growth. This report analyzes Disney's diversified business model, strategic growth drivers, market position, and competitive landscape. It also considers relevance for investors in the U.S. and English-speaking markets, analyst views, and potential risks and open questions that could impact investor decisions.",
+            "text_to_analyze": "The Walt Disney Company stock (US9314271084): Is streaming profitability now the real turning point?. The Walt Disney Company's streaming services have achieved profitability, marking a significant milestone for the company and raising questions about sustained growth. This report analyzes Disney's diversified business model, strategic growth drivers, market position, and competitive landscape. It also considers relevance for investors in the U.S. and English-speaking markets, analyst views, and potential risks and open questions that could impact investor decisions.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260420T203727",
+            "title": "The Walt Disney Company stock (US9314271084): Is streaming profitability now the real test?",
+            "summary": "The Walt Disney Company is facing a pivotal test as it shifts towards streaming profitability while balancing its traditional entertainment strongholds. For investors, the company's ability to leverage its iconic intellectual property, diversify revenue streams, and adapt to evolving digital consumption habits will determine its sustained growth. The article explores Disney's business model, competitive advantages, market drivers, and risks, highlighting the importance of streaming metrics and park recovery for its future performance.",
+            "text_to_analyze": "The Walt Disney Company stock (US9314271084): Is streaming profitability now the real test?. The Walt Disney Company is facing a pivotal test as it shifts towards streaming profitability while balancing its traditional entertainment strongholds. For investors, the company's ability to leverage its iconic intellectual property, diversify revenue streams, and adapt to evolving digital consumption habits will determine its sustained growth. The article explores Disney's business model, competitive advantages, market drivers, and risks, highlighting the importance of streaming metrics and park recovery for its future performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "qz.com",
+            "date": "20260420T193759",
+            "title": "Netflix's Global Expansion Still Wide Open: More Upside Ahead?",
+            "summary": "Netflix is poised for significant growth, targeting 1 billion users, as it currently reaches less than 45% of broadband households and holds only 5% of global TV viewership, with management estimating a $670 billion addressable market. International expansion, particularly in Asia-Pacific, and diversified revenue streams like advertising, are key drivers. Despite facing stiff competition from Amazon and Disney, Netflix's scale and monetization efforts position it for continued growth, though its valuation appears high compared to the industry.",
+            "text_to_analyze": "Netflix's Global Expansion Still Wide Open: More Upside Ahead?. Netflix is poised for significant growth, targeting 1 billion users, as it currently reaches less than 45% of broadband households and holds only 5% of global TV viewership, with management estimating a $670 billion addressable market. International expansion, particularly in Asia-Pacific, and diversified revenue streams like advertising, are key drivers. Despite facing stiff competition from Amazon and Disney, Netflix's scale and monetization efforts position it for continued growth, though its valuation appears high compared to the industry.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.604696
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260420T173720",
+            "title": "The Walt Disney Company stock (US9314271084): Is streaming profitability now the real test?",
+            "summary": "This article examines The Walt Disney Company's (US9314271084) shift towards streaming profitability and its implications for investors. It details Disney's diversified business model including parks, studio entertainment, and direct-to-consumer services, emphasizing the critical role of streaming profitability for future growth and investor value. The piece also covers analyst views, market positioning, competitive advantages, and potential risks for Disney.",
+            "text_to_analyze": "The Walt Disney Company stock (US9314271084): Is streaming profitability now the real test?. This article examines The Walt Disney Company's (US9314271084) shift towards streaming profitability and its implications for investors. It details Disney's diversified business model including parks, studio entertainment, and direct-to-consumer services, emphasizing the critical role of streaming profitability for future growth and investor value. The piece also covers analyst views, market positioning, competitive advantages, and potential risks for Disney.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

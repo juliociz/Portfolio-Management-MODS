@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-08",
+    "window_start": "2026-04-07 16:00",
+    "window_end": "2026-04-08 09:27",
+    "articles": [
+        {
+            "source": "Yahoo",
+            "date": "20260407T193723",
+            "title": "CEO Gaffe of the Week: Deckers Outdoor",
+            "summary": "This article criticizes Deckers Outdoor's CEO, Angel Martinez, for what the author deems poor decision-making, specifically highlighting an ill-conceived advertising campaign featuring Tom Brady in New York City. The article also discusses Deckers' ongoing struggles with international expansion costs, rising sheepskin prices, and the company's dependency on the Ugg brand. It contrasts Deckers' performance with other companies like Michael Kors, Nike, Ford, and FedEx, which have also faced challenges in Europe.",
+            "text_to_analyze": "CEO Gaffe of the Week: Deckers Outdoor. This article criticizes Deckers Outdoor's CEO, Angel Martinez, for what the author deems poor decision-making, specifically highlighting an ill-conceived advertising campaign featuring Tom Brady in New York City. The article also discusses Deckers' ongoing struggles with international expansion costs, rising sheepskin prices, and the company's dependency on the Ugg brand. It contrasts Deckers' performance with other companies like Michael Kors, Nike, Ford, and FedEx, which have also faced challenges in Europe.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.637976
+        }
+    ]
+}

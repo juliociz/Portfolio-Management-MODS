@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-09",
+    "window_start": "2026-04-08 16:00",
+    "window_end": "2026-04-09 09:27",
+    "articles": [
+        {
+            "source": "Barchart.com",
+            "date": "20260409T063832",
+            "title": "SBUX Price History for Starbucks Corp Stock",
+            "summary": "This article provides historical price data for Starbucks Corp (SBUX) stock, detailing its 52-week key points, including highs and lows, and Fibonacci levels. It also presents the frequency of new highs and lows over various periods, from 5-day to 20-year spans, indicating the percentage difference from the last recorded extreme. The content emphasizes Barchart's tools for accessing and downloading historical market data for stocks, options, indices, futures, and currencies.",
+            "text_to_analyze": "SBUX Price History for Starbucks Corp Stock. This article provides historical price data for Starbucks Corp (SBUX) stock, detailing its 52-week key points, including highs and lows, and Fibonacci levels. It also presents the frequency of new highs and lows over various periods, from 5-day to 20-year spans, indicating the percentage difference from the last recorded extreme. The content emphasizes Barchart's tools for accessing and downloading historical market data for stocks, options, indices, futures, and currencies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260408T231041",
+            "title": "Starbucks (SBUX) exec sells 1,641 shares under Rule 10b5-1 plan",
+            "summary": "Brady Brewer, CEO International of Starbucks (SBUX), sold 1,641 shares of common stock at $90.00 per share on April 6, 2026. This transaction was carried out under a pre-arranged Rule 10b5-1 trading plan adopted on December 3, 2025. Following the sale, Mr. Brewer directly holds 84,375.502 shares, indicating the sale represents a small portion of his total equity.",
+            "text_to_analyze": "Starbucks (SBUX) exec sells 1,641 shares under Rule 10b5-1 plan. Brady Brewer, CEO International of Starbucks (SBUX), sold 1,641 shares of common stock at $90.00 per share on April 6, 2026. This transaction was carried out under a pre-arranged Rule 10b5-1 trading plan adopted on December 3, 2025. Following the sale, Mr. Brewer directly holds 84,375.502 shares, indicating the sale represents a small portion of his total equity.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.330622
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260408T163800",
+            "title": "Starbucks Corp. stock rises Wednesday, still underperforms market",
+            "summary": "Starbucks Corp. (SBUX) shares rose 2.10% on Wednesday to $97.21, marking its third consecutive day of gains. Despite this rise, Starbucks underperformed the broader market, as the S&P 500 Index increased by 2.51% and the Dow Jones Industrial Average gained 2.85%.",
+            "text_to_analyze": "Starbucks Corp. stock rises Wednesday, still underperforms market. Starbucks Corp. (SBUX) shares rose 2.10% on Wednesday to $97.21, marking its third consecutive day of gains. Despite this rise, Starbucks underperformed the broader market, as the S&P 500 Index increased by 2.51% and the Dow Jones Industrial Average gained 2.85%.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

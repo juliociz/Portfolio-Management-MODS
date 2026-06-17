@@ -1,0 +1,18 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-24",
+    "window_start": "2026-04-23 16:00",
+    "window_end": "2026-04-24 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260424T080532",
+            "title": "Starbucks Corporation $SBUX Shares Bought by Absher Wealth Management LLC",
+            "summary": "Absher Wealth Management LLC increased its holdings in Starbucks Corporation by 14.9% during the fourth quarter, now owning 360,227 shares valued at $30,335,000. Several other institutional investors also adjusted their stakes in the company. The article also provides a financial overview of Starbucks, including recent earnings, dividends, analyst ratings, and insider transactions.",
+            "text_to_analyze": "Starbucks Corporation $SBUX Shares Bought by Absher Wealth Management LLC. Absher Wealth Management LLC increased its holdings in Starbucks Corporation by 14.9% during the fourth quarter, now owning 360,227 shares valued at $30,335,000. Several other institutional investors also adjusted their stakes in the company. The article also provides a financial overview of Starbucks, including recent earnings, dividends, analyst ratings, and insider transactions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-30",
+    "window_start": "2026-04-29 16:00",
+    "window_end": "2026-04-30 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260430T082125",
+            "title": "Cannon Capital Management Inc. Invests $1.51 Million in The Walt Disney Company $DIS",
+            "summary": "Cannon Capital Management Inc. has acquired a new stake of 13,295 shares in The Walt Disney Company, amounting to approximately $1.51 million, making it 1.3% of their holdings. Other major investors like Viking Global and Vanguard also adjusted their positions, with institutional investors now holding about 65.71% of Disney stock. The company faces mixed sentiment, with positive news regarding ESPN's future within Disney but negative sentiment around regulatory and political controversies impacting ABC licenses and DEI practices.",
+            "text_to_analyze": "Cannon Capital Management Inc. Invests $1.51 Million in The Walt Disney Company $DIS. Cannon Capital Management Inc. has acquired a new stake of 13,295 shares in The Walt Disney Company, amounting to approximately $1.51 million, making it 1.3% of their holdings. Other major investors like Viking Global and Vanguard also adjusted their positions, with institutional investors now holding about 65.71% of Disney stock. The company faces mixed sentiment, with positive news regarding ESPN's future within Disney but negative sentiment around regulatory and political controversies impacting ABC licenses and DEI practices.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Total Licensing",
+            "date": "20260429T230123",
+            "title": "The Walt Disney Company & King Jouet, launch first-ever “Star Wars™ Store by King Jouet” pop-up store in Paris",
+            "summary": "The Walt Disney Company and King Jouet have launched the first-ever \"Star Wars™ Store by King Jouet\" pop-up store in Paris. This 300m² immersive experience, located in Les Halles, features two dedicated spaces for classic characters and \"The Mandalorian and Grogu,\" designed to celebrate upcoming Star Wars releases and anniversaries. The store offers exclusive products, experiential events, a lightsaber creation station, a Star Wars-themed café, and over 1,000 product references including books, toys, fashion, and beauty items.",
+            "text_to_analyze": "The Walt Disney Company & King Jouet, launch first-ever “Star Wars™ Store by King Jouet” pop-up store in Paris. The Walt Disney Company and King Jouet have launched the first-ever \"Star Wars™ Store by King Jouet\" pop-up store in Paris. This 300m² immersive experience, located in Les Halles, features two dedicated spaces for classic characters and \"The Mandalorian and Grogu,\" designed to celebrate upcoming Star Wars releases and anniversaries. The store offers exclusive products, experiential events, a lightsaber creation station, a Star Wars-themed café, and over 1,000 product references including books, toys, fashion, and beauty items.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Trend Hunter",
+            "date": "20260429T203906",
+            "title": "Cinematic Fruit Partnerships",
+            "summary": "Del Monte has announced a partnership with Disney and Pixar's Toy Story 5 in the UK to bring animated elements to their fresh fruit ranges. This collaboration aims to promote fruit purchases, offering on-pack promotions and consumer competitions with exclusive prizes between May and September 2026. The initiative leverages cinematic magic to enhance grocery retail experiences and drive cross-media consumer engagement.",
+            "text_to_analyze": "Cinematic Fruit Partnerships. Del Monte has announced a partnership with Disney and Pixar's Toy Story 5 in the UK to bring animated elements to their fresh fruit ranges. This collaboration aims to promote fruit purchases, offering on-pack promotions and consumer competitions with exclusive prizes between May and September 2026. The initiative leverages cinematic magic to enhance grocery retail experiences and drive cross-media consumer engagement.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.878243
+        },
+        {
+            "source": "Trend Hunter",
+            "date": "20260429T203402",
+            "title": "Cinematic Fruit Partnerships",
+            "summary": "Del Monte and Disney and Pixar have announced a partnership for the upcoming release of \"Toy Story 5,\" bringing cinematic magic to the fruit aisle in the UK and other international markets from May to September 2026. This collaboration will feature animated elements on Del Monte's fresh, prepared, and freshly cut products, aiming to boost fruit purchases and offer exclusive prizes through an on-pack promotion and consumer competition. This initiative highlights trends in branded fresh-produce collaborations, movie tie-in retail promotions, and animated packaging experiences, with implications for grocery retail, consumer packaged goods, and entertainment marketing partnerships.",
+            "text_to_analyze": "Cinematic Fruit Partnerships. Del Monte and Disney and Pixar have announced a partnership for the upcoming release of \"Toy Story 5,\" bringing cinematic magic to the fruit aisle in the UK and other international markets from May to September 2026. This collaboration will feature animated elements on Del Monte's fresh, prepared, and freshly cut products, aiming to boost fruit purchases and offer exclusive prizes through an on-pack promotion and consumer competition. This initiative highlights trends in branded fresh-produce collaborations, movie tie-in retail promotions, and animated packaging experiences, with implications for grocery retail, consumer packaged goods, and entertainment marketing partnerships.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

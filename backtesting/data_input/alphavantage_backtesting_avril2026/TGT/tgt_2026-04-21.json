@@ -1,0 +1,81 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-04-21",
+    "window_start": "2026-04-20 16:00",
+    "window_end": "2026-04-21 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260421T041423",
+            "title": "Target Corp stock (US8725901040): Why mobile-first delivery now matters more for retail investors",
+            "summary": "Google's 2026 Discover Core Update is changing how retail investors, especially those tracking Target Corp (NYSE:TGT), receive market insights. This update delivers tailored, high-density financial information directly to mobile feeds, bypassing traditional search. It emphasizes mobile-optimized content with strong E-E-A-T, providing faster access to crucial data like sales trends, inventory strategies, and consumer spending, thus offering a proactive edge in understanding Target's performance and market position.",
+            "text_to_analyze": "Target Corp stock (US8725901040): Why mobile-first delivery now matters more for retail investors. Google's 2026 Discover Core Update is changing how retail investors, especially those tracking Target Corp (NYSE:TGT), receive market insights. This update delivers tailored, high-density financial information directly to mobile feeds, bypassing traditional search. It emphasizes mobile-optimized content with strong E-E-A-T, providing faster access to crucial data like sales trends, inventory strategies, and consumer spending, thus offering a proactive edge in understanding Target's performance and market position.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260421T024715",
+            "title": "Multimillion-dollar land deals close for Target-anchored shopping center",
+            "summary": "Groundwork for a new Target-anchored shopping center in a Shelby County city is moving forward after two multimillion-dollar land sales. More than 20 acres have traded hands, marking a significant milestone in the development of the new shopping center. The article, however, does not provide further details on the names of buyers or sellers or the financial figures involved in the land deals.",
+            "text_to_analyze": "Multimillion-dollar land deals close for Target-anchored shopping center. Groundwork for a new Target-anchored shopping center in a Shelby County city is moving forward after two multimillion-dollar land sales. More than 20 acres have traded hands, marking a significant milestone in the development of the new shopping center. The article, however, does not provide further details on the names of buyers or sellers or the financial figures involved in the land deals.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260421T023715",
+            "title": "Target Corp. stock (US87612E1064): Is everyday essentials dominance enough to drive sustained gains?",
+            "summary": "Target Corp. (TGT) is leveraging its \"cheap chic\" strategy and strong private label business to drive steady demand in the U.S. retail market, despite intensifying competition and economic headwinds. The company's focus on affordable essentials, omnichannel integration, and curated shopping experience aims to maintain its competitive edge against rivals like Walmart and Amazon. Investors are monitoring its ability to sustain growth and adapt to shifting consumer habits, with analysts generally holding a balanced view on its trajectory.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): Is everyday essentials dominance enough to drive sustained gains?. Target Corp. (TGT) is leveraging its \"cheap chic\" strategy and strong private label business to drive steady demand in the U.S. retail market, despite intensifying competition and economic headwinds. The company's focus on affordable essentials, omnichannel integration, and curated shopping experience aims to maintain its competitive edge against rivals like Walmart and Amazon. Investors are monitoring its ability to sustain growth and adapt to shifting consumer habits, with analysts generally holding a balanced view on its trajectory.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260421T020833",
+            "title": "Target Corp. stock (US87612E1064): Is everyday essentials dominance enough to drive sustained gains?",
+            "summary": "Target Corporation's focus on affordable everyday essentials and private labels positions it for steady demand in the U.S. retail market, offering a \"cheap chic\" strategy that attracts middle-income shoppers. The company leverages its physical stores for omnichannel fulfillment, grows its grocery business, and differentiates itself from competitors through curated selections and brand loyalty. While facing risks from inflation and intense competition, analysts view Target as a defensive retail play with growth potential tied to consumer spending recovery.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): Is everyday essentials dominance enough to drive sustained gains?. Target Corporation's focus on affordable everyday essentials and private labels positions it for steady demand in the U.S. retail market, offering a \"cheap chic\" strategy that attracts middle-income shoppers. The company leverages its physical stores for omnichannel fulfillment, grows its grocery business, and differentiates itself from competitors through curated selections and brand loyalty. While facing risks from inflation and intense competition, analysts view Target as a defensive retail play with growth potential tied to consumer spending recovery.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business of Fashion",
+            "date": "20260420T213703",
+            "title": "Amazon Fixed Prices of Levi’s, Hanes Apparel, California Authorities Allege",
+            "summary": "California authorities allege that Amazon.com Inc. fixed the prices of Levi’s and Hanes apparel. The e-commerce giant allegedly leveraged its bargaining power to pressure vendors into raising prices on competing retail sites like Walmart and Target, thereby artificially inflating product prices to protect its own profit margins.",
+            "text_to_analyze": "Amazon Fixed Prices of Levi’s, Hanes Apparel, California Authorities Allege. California authorities allege that Amazon.com Inc. fixed the prices of Levi’s and Hanes apparel. The e-commerce giant allegedly leveraged its bargaining power to pressure vendors into raising prices on competing retail sites like Walmart and Target, thereby artificially inflating product prices to protect its own profit margins.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.90676
+        },
+        {
+            "source": "Chain Store Age",
+            "date": "20260420T173818",
+            "title": "Target to undertake 13 ‘community activations’ in 2026 — here’s where",
+            "summary": "Target has announced its plans for 13 \"Bullseye Builds\" community activations in 2026, investing $1 million to revitalize shared spaces in neighborhoods where the company operates. These projects involve Target team members, nonprofits, and community members working together to address local needs, building on the 25 community spaces already improved since the program's launch in 2024. The initiative emphasizes local partnerships, community-led solutions, and the integration of Target's design expertise to create inspiring and functional spaces.",
+            "text_to_analyze": "Target to undertake 13 ‘community activations’ in 2026 — here’s where. Target has announced its plans for 13 \"Bullseye Builds\" community activations in 2026, investing $1 million to revitalize shared spaces in neighborhoods where the company operates. These projects involve Target team members, nonprofits, and community members working together to address local needs, building on the 25 community spaces already improved since the program's launch in 2024. The initiative emphasizes local partnerships, community-led solutions, and the integration of Target's design expertise to create inspiring and functional spaces.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260420T164800",
+            "title": "Target Corp. stock outperforms competitors on strong trading day",
+            "summary": "Target Corp. (TGT) shares rose 1.83% to $130.18 on a trading day where the S&P 500 and Dow Jones Industrial Average experienced declines. This marks the stock's fifth consecutive day of gains, demonstrating strong performance against a broader market downturn.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors on strong trading day. Target Corp. (TGT) shares rose 1.83% to $130.18 on a trading day where the S&P 500 and Dow Jones Industrial Average experienced declines. This marks the stock's fifth consecutive day of gains, demonstrating strong performance against a broader market downturn.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260420T163842",
+            "title": "Target plans 13 community-space makeovers with $1M and volunteer teams",
+            "summary": "Target Corporation announced its 2026 Bullseye Builds program, investing $1 million to complete 13 community space makeovers with the help of Target team volunteers. This program expands on an initiative started in 2024, which has already transformed 25 community spaces. The first 2026 projects will launch in May in Denver and Las Vegas, focusing on community-designed spaces that meet local needs.",
+            "text_to_analyze": "Target plans 13 community-space makeovers with $1M and volunteer teams. Target Corporation announced its 2026 Bullseye Builds program, investing $1 million to complete 13 community space makeovers with the help of Target team volunteers. This program expands on an initiative started in 2024, which has already transformed 25 community spaces. The first 2026 projects will launch in May in Denver and Las Vegas, focusing on community-designed spaces that meet local needs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.991042
+        }
+    ]
+}

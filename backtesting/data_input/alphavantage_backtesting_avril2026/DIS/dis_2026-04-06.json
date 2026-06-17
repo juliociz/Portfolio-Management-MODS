@@ -1,0 +1,63 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-06",
+    "window_start": "2026-04-03 16:00",
+    "window_end": "2026-04-06 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260406T090735",
+            "title": "Capricorn Fund Managers Ltd Buys Shares of 10,332 The Walt Disney Company $DIS",
+            "summary": "Capricorn Fund Managers Ltd has acquired 10,332 shares of The Walt Disney Company, a new position valued at approximately $1.175 million. This move is part of broader institutional interest, with other major firms also increasing their stakes in Disney. Analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $132.81, despite some mixed sentiment regarding dividend safety and short-term operational concerns.",
+            "text_to_analyze": "Capricorn Fund Managers Ltd Buys Shares of 10,332 The Walt Disney Company $DIS. Capricorn Fund Managers Ltd has acquired 10,332 shares of The Walt Disney Company, a new position valued at approximately $1.175 million. This move is part of broader institutional interest, with other major firms also increasing their stakes in Disney. Analysts maintain a \"Moderate Buy\" rating for Disney, with an average price target of $132.81, despite some mixed sentiment regarding dividend safety and short-term operational concerns.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260406T041057",
+            "title": "Winners And Losers Of Q4: Performance Food Group (NYSE:PFGC) Vs The Rest Of The Consumer Discretionary Stocks",
+            "summary": "This article analyzes the performance of various consumer discretionary stocks in Q4. It highlights Performance Food Group (PFGC), Figs (FIGS), Mattel (MAT), Disney (DIS), and Latham (SWIM), detailing their revenues, analyst estimate beats or misses, and stock performance post-earnings. The report notes a mixed Q4 for the sector overall, with some companies like Figs performing strongly, while others like Mattel experienced significant declines.",
+            "text_to_analyze": "Winners And Losers Of Q4: Performance Food Group (NYSE:PFGC) Vs The Rest Of The Consumer Discretionary Stocks. This article analyzes the performance of various consumer discretionary stocks in Q4. It highlights Performance Food Group (PFGC), Figs (FIGS), Mattel (MAT), Disney (DIS), and Latham (SWIM), detailing their revenues, analyst estimate beats or misses, and stock performance post-earnings. The report notes a mixed Q4 for the sector overall, with some companies like Figs performing strongly, while others like Mattel experienced significant declines.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.645263
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260406T000726",
+            "title": "Perpetual Ltd Acquires 9,726 Shares of The Walt Disney Company $DIS",
+            "summary": "Perpetual Ltd significantly increased its holdings in The Walt Disney Company, adding 9,726 shares in Q4 to bring its total to 13,741 shares valued at approximately $1.56 million. Analyst sentiment for Disney is largely positive, with a \"Moderate Buy\" consensus and an average price target of $132.81, supported by recent earnings beats and positive outlooks for its parks division. Despite some positive indicators, the company faces challenges including streaming growth driven by price hikes rather than new subscribers, and negative sentiment regarding dividend safety and park guest experience issues.",
+            "text_to_analyze": "Perpetual Ltd Acquires 9,726 Shares of The Walt Disney Company $DIS. Perpetual Ltd significantly increased its holdings in The Walt Disney Company, adding 9,726 shares in Q4 to bring its total to 13,741 shares valued at approximately $1.56 million. Analyst sentiment for Disney is largely positive, with a \"Moderate Buy\" consensus and an average price target of $132.81, supported by recent earnings beats and positive outlooks for its parks division. Despite some positive indicators, the company faces challenges including streaming growth driven by price hikes rather than new subscribers, and negative sentiment regarding dividend safety and park guest experience issues.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260404T223738",
+            "title": "Whalen Wealth Management Inc. Takes Position in The Walt Disney Company $DIS",
+            "summary": "Whalen Wealth Management Inc. initiated a position in The Walt Disney Company (NYSE:DIS) during the fourth quarter, acquiring 6,172 shares valued at approximately $702,000. Analyst sentiment for Disney is mixed but generally positive, with a \"Moderate Buy\" consensus rating and an average price target of $132.81. The company recently surpassed quarterly EPS and revenue estimates, and its stock has a 52-week trading range of $80.10 to $124.69.",
+            "text_to_analyze": "Whalen Wealth Management Inc. Takes Position in The Walt Disney Company $DIS. Whalen Wealth Management Inc. initiated a position in The Walt Disney Company (NYSE:DIS) during the fourth quarter, acquiring 6,172 shares valued at approximately $702,000. Analyst sentiment for Disney is mixed but generally positive, with a \"Moderate Buy\" consensus rating and an average price target of $132.81. The company recently surpassed quarterly EPS and revenue estimates, and its stock has a 52-week trading range of $80.10 to $124.69.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.955663
+        },
+        {
+            "source": "TradingView",
+            "date": "20260404T213732",
+            "title": "Walt Disney Company Trade Ideas — BSESOF:WDP",
+            "summary": "This article compiles various trade ideas and analyses for The Walt Disney Company (WDP/DIS). Contributors offer bullish and bearish outlooks based on technical analysis, earnings reports, streaming subscriber growth, and overall market sentiment. Many analyses highlight Disney's strong core business, recovery in theme parks, and potential for streaming growth, while some also discuss the suspension of dividends and high operating costs.",
+            "text_to_analyze": "Walt Disney Company Trade Ideas — BSESOF:WDP. This article compiles various trade ideas and analyses for The Walt Disney Company (WDP/DIS). Contributors offer bullish and bearish outlooks based on technical analysis, earnings reports, streaming subscriber growth, and overall market sentiment. Many analyses highlight Disney's strong core business, recovery in theme parks, and potential for streaming growth, while some also discuss the suspension of dividends and high operating costs.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.333768
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260403T200738",
+            "title": "Disney (DIS) director Froman awarded 1,088 shares in stock grant",
+            "summary": "Disney director Michael B. G. Froman was granted 1,087.7 shares of Disney Common Stock at $96.96 per share as a stock award, increasing his direct holdings to 23,184 shares. This transaction, filed on a Form 4, is part of his compensation under Disney's Amended and Restated 2011 Stock Incentive Plan, which also includes various stock units in lieu of cash retainers and quarterly grants. The grant reflects a neutral impact on the company's sentiment but significantly adds to Froman's direct and indirect stock ownership.",
+            "text_to_analyze": "Disney (DIS) director Froman awarded 1,088 shares in stock grant. Disney director Michael B. G. Froman was granted 1,087.7 shares of Disney Common Stock at $96.96 per share as a stock award, increasing his direct holdings to 23,184 shares. This transaction, filed on a Form 4, is part of his compensation under Disney's Amended and Restated 2011 Stock Incentive Plan, which also includes various stock units in lieu of cash retainers and quarterly grants. The grant reflects a neutral impact on the company's sentiment but significantly adds to Froman's direct and indirect stock ownership.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

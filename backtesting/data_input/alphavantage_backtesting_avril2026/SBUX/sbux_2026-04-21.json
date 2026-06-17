@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-21",
+    "window_start": "2026-04-20 16:00",
+    "window_end": "2026-04-21 09:27",
+    "articles": [
+        {
+            "source": "The Globe and Mail",
+            "date": "20260421T091031",
+            "title": "Analysts’ Top Consumer Cyclical Picks: Starbucks (SBUX), Packaging (PKG)",
+            "summary": "This article highlights two consumer cyclical stocks, Starbucks (SBUX) and Packaging (PKG), that have received bullish sentiments from analysts. Tigress Financial reiterated a Buy rating for Starbucks with a $122.00 price target, while Bank of America Securities maintained a Buy rating on Packaging. Both companies have a \"Moderate Buy\" consensus among analysts, predicting an upside from their current stock levels.",
+            "text_to_analyze": "Analysts’ Top Consumer Cyclical Picks: Starbucks (SBUX), Packaging (PKG). This article highlights two consumer cyclical stocks, Starbucks (SBUX) and Packaging (PKG), that have received bullish sentiments from analysts. Tigress Financial reiterated a Buy rating for Starbucks with a $122.00 price target, while Bank of America Securities maintained a Buy rating on Packaging. Both companies have a \"Moderate Buy\" consensus among analysts, predicting an upside from their current stock levels.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.998817
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260421T022743",
+            "title": "Starbucks Corp stock (US8552441094): Is its global store expansion model still the real growth engine?",
+            "summary": "Starbucks faces the challenge of sustaining profitability through global expansion amidst rising costs and competition. The company's strategy focuses on tripling stores by the end of the decade, particularly in China and the U.S., while also leveraging digital initiatives and premiumization to maintain growth. Investors should monitor quarterly comparable sales, particularly in the U.S. and China, and watch for margin guidance and new product launches to assess future performance.",
+            "text_to_analyze": "Starbucks Corp stock (US8552441094): Is its global store expansion model still the real growth engine?. Starbucks faces the challenge of sustaining profitability through global expansion amidst rising costs and competition. The company's strategy focuses on tripling stores by the end of the decade, particularly in China and the U.S., while also leveraging digital initiatives and premiumization to maintain growth. Investors should monitor quarterly comparable sales, particularly in the U.S. and China, and watch for margin guidance and new product launches to assess future performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.954875
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260420T194414",
+            "title": "Sources: Starbucks making official expansion announcement on April 21",
+            "summary": "Starbucks is set to make an official announcement regarding a new corporate operations office in Davidson County, Nashville, on April 21. Governor Bill Lee will join Starbucks executives for what is believed to be a lease in the Peabody Union high-rise. This follows an earlier announcement about the coffee giant's plans for a Nashville office later this year, with expectations of \"hundreds, if not thousands\" of new jobs.",
+            "text_to_analyze": "Sources: Starbucks making official expansion announcement on April 21. Starbucks is set to make an official announcement regarding a new corporate operations office in Davidson County, Nashville, on April 21. Governor Bill Lee will join Starbucks executives for what is believed to be a lease in the Peabody Union high-rise. This follows an earlier announcement about the coffee giant's plans for a Nashville office later this year, with expectations of \"hundreds, if not thousands\" of new jobs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MyNewsLA.com",
+            "date": "20260420T174137",
+            "title": "Starbucks Wins Round in Court in Burn Accident Case",
+            "summary": "A Los Angeles Superior Court judge has temporarily denied a USC student's request for internal information from Starbucks in a burn accident lawsuit. The student, Sala Lily Shabdiz, alleges she suffered severe burns from a spilled hot tea due to a poorly secured lid and how the cup was handed to her. The judge cited her failure to adequately negotiate with Starbucks before filing the motion.",
+            "text_to_analyze": "Starbucks Wins Round in Court in Burn Accident Case. A Los Angeles Superior Court judge has temporarily denied a USC student's request for internal information from Starbucks in a burn accident lawsuit. The student, Sala Lily Shabdiz, alleges she suffered severe burns from a spilled hot tea due to a poorly secured lid and how the cup was handed to her. The judge cited her failure to adequately negotiate with Starbucks before filing the motion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.998499
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260420T163900",
+            "title": "Starbucks Corp. stock underperforms Monday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) shares fell by 1.05% on Monday, closing at $98.95. This underperformance occurred during a generally negative trading session for the broader market, with both the S&P 500 Index and Dow Jones Industrial Average also declining. The drop ended a two-day winning streak for Starbucks stock.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Monday when compared to competitors. Starbucks Corp. (SBUX) shares fell by 1.05% on Monday, closing at $98.95. This underperformance occurred during a generally negative trading session for the broader market, with both the S&P 500 Index and Dow Jones Industrial Average also declining. The drop ended a two-day winning streak for Starbucks stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

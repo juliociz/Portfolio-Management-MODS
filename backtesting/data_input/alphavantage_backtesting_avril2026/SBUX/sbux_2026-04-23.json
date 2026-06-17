@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-23",
+    "window_start": "2026-04-22 16:00",
+    "window_end": "2026-04-23 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260423T080842",
+            "title": "Boston Trust Walden Corp Sells 12,058 Shares of Starbucks Corporation $SBUX",
+            "summary": "Boston Trust Walden Corp reduced its stake in Starbucks Corporation by 6.6% in Q4, selling 12,058 shares and finishing the quarter with 169,644 shares valued at approximately $14.29 million. Starbucks recently reported Q4 EPS of $0.56, missing estimates, but revenue rose to $9.92 billion, exceeding consensus, and declared a quarterly dividend of $0.62. The article also highlights recent insider selling, institutional ownership, and analyst ratings for Starbucks.",
+            "text_to_analyze": "Boston Trust Walden Corp Sells 12,058 Shares of Starbucks Corporation $SBUX. Boston Trust Walden Corp reduced its stake in Starbucks Corporation by 6.6% in Q4, selling 12,058 shares and finishing the quarter with 169,644 shares valued at approximately $14.29 million. Starbucks recently reported Q4 EPS of $0.56, missing estimates, but revenue rose to $9.92 billion, exceeding consensus, and declared a quarterly dividend of $0.62. The article also highlights recent insider selling, institutional ownership, and analyst ratings for Starbucks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260423T080335",
+            "title": "Seattle could lose hundreds of millions in tax revenue as Starbucks expands in Tennessee",
+            "summary": "This article discusses the potential financial impact on Seattle as Starbucks expands its operations in Tennessee. Seattle could reportedly lose hundreds of millions in tax revenue due to Starbucks' increased presence outside of the state. The move highlights the ongoing trend of companies relocating or expanding in states with more favorable tax environments.",
+            "text_to_analyze": "Seattle could lose hundreds of millions in tax revenue as Starbucks expands in Tennessee. This article discusses the potential financial impact on Seattle as Starbucks expands its operations in Tennessee. Seattle could reportedly lose hundreds of millions in tax revenue due to Starbucks' increased presence outside of the state. The move highlights the ongoing trend of companies relocating or expanding in states with more favorable tax environments.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bloomberg.com",
+            "date": "20260423T003200",
+            "title": "Starbucks Hunts for Another Tech Office, Including Abroad",
+            "summary": "Starbucks is actively seeking a new location for its technology division, contemplating both domestic and international cities, to further reduce tech-related expenses. This initiative follows the company's recent announcement of a new office in Nashville and a reported $100 million in tech spending cuts over the last three months, as disclosed by CTO Anand Varadarajan. The move aims to optimize operational costs for the coffee chain.",
+            "text_to_analyze": "Starbucks Hunts for Another Tech Office, Including Abroad. Starbucks is actively seeking a new location for its technology division, contemplating both domestic and international cities, to further reduce tech-related expenses. This initiative follows the company's recent announcement of a new office in Nashville and a reported $100 million in tech spending cuts over the last three months, as disclosed by CTO Anand Varadarajan. The move aims to optimize operational costs for the coffee chain.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.933962
+        },
+        {
+            "source": "Fox Business",
+            "date": "20260422T212804",
+            "title": "Seattle could lose hundreds of millions in tax revenue as Starbucks expands in Tennessee",
+            "summary": "Seattle faces a potential loss of up to $750 million in tax revenue as Starbucks announced a $100 million investment and 2,000 new jobs in Nashville, Tennessee. This move comes as Seattle's Tax Foundation ranking for doing business has plummeted and the state recently implemented a \"millionaires tax,\" contrasting sharply with Tennessee Governor Bill Lee's welcoming stance. Seattle Mayor Katie Wilson's past encouragement to boycott Starbucks also highlights the differing business climates between the two states.",
+            "text_to_analyze": "Seattle could lose hundreds of millions in tax revenue as Starbucks expands in Tennessee. Seattle faces a potential loss of up to $750 million in tax revenue as Starbucks announced a $100 million investment and 2,000 new jobs in Nashville, Tennessee. This move comes as Seattle's Tax Foundation ranking for doing business has plummeted and the state recently implemented a \"millionaires tax,\" contrasting sharply with Tennessee Governor Bill Lee's welcoming stance. Seattle Mayor Katie Wilson's past encouragement to boycott Starbucks also highlights the differing business climates between the two states.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.951054
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260422T190816",
+            "title": "Starbucks will use part of Asurion's Gulch HQ for its temporary home",
+            "summary": "Starbucks, which recently announced a 2,000-job corporate hub in Nashville, will temporarily occupy office space in Asurion's Gulch headquarters. This interim arrangement will last until Starbucks's 250,000 square feet of office space is ready. The move highlights the ongoing expansion of major companies into Nashville.",
+            "text_to_analyze": "Starbucks will use part of Asurion's Gulch HQ for its temporary home. Starbucks, which recently announced a 2,000-job corporate hub in Nashville, will temporarily occupy office space in Asurion's Gulch headquarters. This interim arrangement will last until Starbucks's 250,000 square feet of office space is ready. The move highlights the ongoing expansion of major companies into Nashville.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

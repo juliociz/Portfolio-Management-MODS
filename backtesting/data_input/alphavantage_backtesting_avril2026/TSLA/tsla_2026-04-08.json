@@ -1,0 +1,54 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-08",
+    "window_start": "2026-04-07 16:00",
+    "window_end": "2026-04-08 09:27",
+    "articles": [
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260408T061100",
+            "title": "Cramer: Tesla can’t trade on hopes forever",
+            "summary": "Jim Cramer emphasizes that Tesla's stock can't rely on future hopes indefinitely, as 2025 financial results showed significant declines in revenue, operating income, and vehicle deliveries. While there's a theoretical bull case based on robotaxis, Optimus robots, and energy business growth, the market is currently valuing Tesla like a tech platform rather than a car company, with high P/E multiples. Cramer suggests investors need tangible proof of these future ventures or else the stock risks reverting to traditional auto industry valuations, but still cautions against betting against Elon Musk's long-term vision.",
+            "text_to_analyze": "Cramer: Tesla can’t trade on hopes forever. Jim Cramer emphasizes that Tesla's stock can't rely on future hopes indefinitely, as 2025 financial results showed significant declines in revenue, operating income, and vehicle deliveries. While there's a theoretical bull case based on robotaxis, Optimus robots, and energy business growth, the market is currently valuing Tesla like a tech platform rather than a car company, with high P/E multiples. Cramer suggests investors need tangible proof of these future ventures or else the stock risks reverting to traditional auto industry valuations, but still cautions against betting against Elon Musk's long-term vision.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Polymarket",
+            "date": "20260407T223841",
+            "title": "Tesla (TSLA) closes above ___ on April 8? Trading Odds & Predictions",
+            "summary": "This Polymarket article outlines the trading odds and predictions for Tesla (TSLA) closing prices on April 8, 2026, featuring various price targets and their associated probabilities. It details the resolution rules for the prediction market, based on Yahoo Finance closing prices, including provisions for shortened sessions, trading halts, and corporate actions like stock splits. The article also provides a retrospective on Tesla's stock performance on April 8, noting its closing price of $343.25 amidst volatility due to Q1 2026 delivery shortfalls and future strategic moves into robotaxi and robotics.",
+            "text_to_analyze": "Tesla (TSLA) closes above ___ on April 8? Trading Odds & Predictions. This Polymarket article outlines the trading odds and predictions for Tesla (TSLA) closing prices on April 8, 2026, featuring various price targets and their associated probabilities. It details the resolution rules for the prediction market, based on Yahoo Finance closing prices, including provisions for shortened sessions, trading halts, and corporate actions like stock splits. The article also provides a retrospective on Tesla's stock performance on April 8, noting its closing price of $343.25 amidst volatility due to Q1 2026 delivery shortfalls and future strategic moves into robotaxi and robotics.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260407T213137",
+            "title": "Travis County votes to withhold some Tesla incentives",
+            "summary": "Travis County has decided to withhold some incentives from Tesla, despite the company significantly exceeding its investment and job creation targets for its gigafactory. The county cited insufficient reporting from Tesla as the reason for cutting funds. This decision comes despite Tesla's massive overperformance on its agreed-upon goals.",
+            "text_to_analyze": "Travis County votes to withhold some Tesla incentives. Travis County has decided to withhold some incentives from Tesla, despite the company significantly exceeding its investment and job creation targets for its gigafactory. The county cited insufficient reporting from Tesla as the reason for cutting funds. This decision comes despite Tesla's massive overperformance on its agreed-upon goals.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.316105
+        },
+        {
+            "source": "SiliconANGLE",
+            "date": "20260407T202554",
+            "title": "Intel joins Elon Musk’s Terafab chip manufacturing initiative",
+            "summary": "Intel Corp. announced its participation in Elon Musk's Terafab initiative, a collaboration between SpaceX and Tesla focused on building a semiconductor manufacturing hub for AI and robotics chips. Intel's involvement, which caused its shares to climb 4%, could include plant construction, maintenance, and providing its advanced chip packaging technologies. The Terafab campus in Texas aims to produce 1 TW/year of compute and will feature two fabs for edge processors and orbital AI data center chips.",
+            "text_to_analyze": "Intel joins Elon Musk’s Terafab chip manufacturing initiative. Intel Corp. announced its participation in Elon Musk's Terafab initiative, a collaboration between SpaceX and Tesla focused on building a semiconductor manufacturing hub for AI and robotics chips. Intel's involvement, which caused its shares to climb 4%, could include plant construction, maintenance, and providing its advanced chip packaging technologies. The Terafab campus in Texas aims to produce 1 TW/year of compute and will feature two fabs for edge processors and orbital AI data center chips.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.821287
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260407T173503",
+            "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+            "summary": "This article details \"whale activity\" in ten Consumer Discretionary sector stocks, including Amazon.com, Tesla, and Carnival, based on unusual options trading. It provides a table and bullet-by-bullet explanations of specific call and put option sweeps and trades, indicating sentiment (bullish, bearish, neutral), expiration dates, strike prices, total trade prices, open interest, and volume for each company. The author emphasizes that such alerts can help traders identify potential significant trading opportunities, as large-sum transactions can cause option prices to deviate from their normal values.",
+            "text_to_analyze": "10 Consumer Discretionary Stocks Whale Activity In Today's Session. This article details \"whale activity\" in ten Consumer Discretionary sector stocks, including Amazon.com, Tesla, and Carnival, based on unusual options trading. It provides a table and bullet-by-bullet explanations of specific call and put option sweeps and trades, indicating sentiment (bullish, bearish, neutral), expiration dates, strike prices, total trade prices, open interest, and volume for each company. The author emphasizes that such alerts can help traders identify potential significant trading opportunities, as large-sum transactions can cause option prices to deviate from their normal values.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.806689
+        }
+    ]
+}

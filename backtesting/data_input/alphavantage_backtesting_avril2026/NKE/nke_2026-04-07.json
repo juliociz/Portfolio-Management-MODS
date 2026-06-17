@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-07",
+    "window_start": "2026-04-06 16:00",
+    "window_end": "2026-04-07 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260407T015209",
+            "title": "Nike (NKE) director sells 49% LP stake tied to 2.3M Class B shares",
+            "summary": "Nike director Travis A. Knight restructured his indirect holdings of NIKE Class B Common Stock, involving the sale of a 49% limited partnership interest in Three Strings Investors, L.P., which holds NIKE shares, to a children's trust for $288,317,000. This transaction, tied to 2,300,480 shares, is an internal estate and ownership structuring move rather than a market trade. Knight's remaining partnership interest was assigned to his revocable trust, and he disclaims beneficial ownership of shares held by Three Strings except for his pecuniary interest.",
+            "text_to_analyze": "Nike (NKE) director sells 49% LP stake tied to 2.3M Class B shares. Nike director Travis A. Knight restructured his indirect holdings of NIKE Class B Common Stock, involving the sale of a 49% limited partnership interest in Three Strings Investors, L.P., which holds NIKE shares, to a children's trust for $288,317,000. This transaction, tied to 2,300,480 shares, is an internal estate and ownership structuring move rather than a market trade. Knight's remaining partnership interest was assigned to his revocable trust, and he disclaims beneficial ownership of shares held by Three Strings except for his pecuniary interest.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260406T173930",
+            "title": "[424B2] ROYAL BANK OF CANADA Prospectus Supplement",
+            "summary": "Royal Bank of Canada is offering Enhanced Return Barrier Notes linked to the performance of NIKE Class B and RH common stock, with a total public offering price of $650,000. These Notes feature a 365% Participation Rate and are due April 5, 2029, but do not pay interest and are subject to RBC's credit risk. Investors face potential principal loss if the least performing underlier falls below 75% of its initial value, and there are uncertainties regarding the Notes' tax treatment and secondary market liquidity.",
+            "text_to_analyze": "[424B2] ROYAL BANK OF CANADA Prospectus Supplement. Royal Bank of Canada is offering Enhanced Return Barrier Notes linked to the performance of NIKE Class B and RH common stock, with a total public offering price of $650,000. These Notes feature a 365% Participation Rate and are due April 5, 2029, but do not pay interest and are subject to RBC's credit risk. Investors face potential principal loss if the least performing underlier falls below 75% of its initial value, and there are uncertainties regarding the Notes' tax treatment and secondary market liquidity.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.865124
+        }
+    ]
+}

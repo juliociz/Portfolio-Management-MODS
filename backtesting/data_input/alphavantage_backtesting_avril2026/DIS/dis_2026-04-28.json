@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-28",
+    "window_start": "2026-04-27 16:00",
+    "window_end": "2026-04-28 09:27",
+    "articles": [
+        {
+            "source": "Adgully.com",
+            "date": "20260428T063728",
+            "title": "Mahesh Samat moves on from The Walt Disney Company after long-standing leadership tenure",
+            "summary": "Mahesh Samat has announced his departure from The Walt Disney Company after a significant career with the organization. His roles included Global Head – Publishing and Branded Retail, EVP, Consumer, Games and Publishing for APAC, and Managing Director in India. Samat has a four-decade career across various industries and previously founded Epic Television Networks.",
+            "text_to_analyze": "Mahesh Samat moves on from The Walt Disney Company after long-standing leadership tenure. Mahesh Samat has announced his departure from The Walt Disney Company after a significant career with the organization. His roles included Global Head – Publishing and Branded Retail, EVP, Consumer, Games and Publishing for APAC, and Managing Director in India. Samat has a four-decade career across various industries and previously founded Epic Television Networks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Indian Television Dot Com",
+            "date": "20260428T054827",
+            "title": "Mahesh Samat steps down from The Walt Disney Company after 9 years",
+            "summary": "Mahesh Samat has retired from The Walt Disney Company after nine years, concluding a four-decade career spanning FMCG, healthcare, media, and entertainment. He held various senior leadership roles at Disney, including global head of publishing and branded retail and managing director for India. Samat also founded Epic Television Networks and held positions at Johnson & Johnson.",
+            "text_to_analyze": "Mahesh Samat steps down from The Walt Disney Company after 9 years. Mahesh Samat has retired from The Walt Disney Company after nine years, concluding a four-decade career spanning FMCG, healthcare, media, and entertainment. He held various senior leadership roles at Disney, including global head of publishing and branded retail and managing director for India. Samat also founded Epic Television Networks and held positions at Johnson & Johnson.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.968173
+        },
+        {
+            "source": "Fox News",
+            "date": "20260427T220726",
+            "title": "Disney's political fight with Ron DeSantis cost company years of theme park expansion, court records reveal",
+            "summary": "Disney's political dispute with Florida Governor Ron DeSantis over the \"Parental Rights in Education Act\" led to significant delays and increased costs for theme park expansions, according to newly revealed court records. Executives reportedly slowed down projects at Magic Kingdom due to concerns about working with a DeSantis-controlled board. The company's decision to engage in the political debate, which had no direct bearing on its core business, resulted in millions spent on high-powered lawyers and missed opportunities for growth.",
+            "text_to_analyze": "Disney's political fight with Ron DeSantis cost company years of theme park expansion, court records reveal. Disney's political dispute with Florida Governor Ron DeSantis over the \"Parental Rights in Education Act\" led to significant delays and increased costs for theme park expansions, according to newly revealed court records. Executives reportedly slowed down projects at Magic Kingdom due to concerns about working with a DeSantis-controlled board. The company's decision to engage in the political debate, which had no direct bearing on its core business, resulted in millions spent on high-powered lawyers and missed opportunities for growth.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260427T210849",
+            "title": "Focus on Disney ETFs Post Q2 Earnings",
+            "summary": "The Walt Disney Company reported strong Q2 fiscal 2024 earnings, beating Zacks Consensus Estimate by 8.04% with adjusted earnings of $1.21 per share and revenue growth of 1.2%. Despite missing revenue consensus slightly and a subsequent 9% stock dip due to concerns about the theme park division, several ETFs with significant Disney exposure are highlighted as potentially impacted. These include AdvisorShares Gerber Kawasaki ETF (GK), Vanguard Communication Services ETF (VOX), Fidelity MSCI Communication Services Index ETF (FCOM), ALPS Global Travel Beneficiaries ETF (JRNY), and iShares Global Comm Services ETF (IXP).",
+            "text_to_analyze": "Focus on Disney ETFs Post Q2 Earnings. The Walt Disney Company reported strong Q2 fiscal 2024 earnings, beating Zacks Consensus Estimate by 8.04% with adjusted earnings of $1.21 per share and revenue growth of 1.2%. Despite missing revenue consensus slightly and a subsequent 9% stock dip due to concerns about the theme park division, several ETFs with significant Disney exposure are highlighted as potentially impacted. These include AdvisorShares Gerber Kawasaki ETF (GK), Vanguard Communication Services ETF (VOX), Fidelity MSCI Communication Services Index ETF (FCOM), ALPS Global Travel Beneficiaries ETF (JRNY), and iShares Global Comm Services ETF (IXP).",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.841078
+        }
+    ]
+}

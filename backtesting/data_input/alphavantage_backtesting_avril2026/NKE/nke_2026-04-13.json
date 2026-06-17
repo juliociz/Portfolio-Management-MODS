@@ -1,0 +1,36 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-13",
+    "window_start": "2026-04-10 16:00",
+    "window_end": "2026-04-13 09:27",
+    "articles": [
+        {
+            "source": "GuruFocus",
+            "date": "20260413T013814",
+            "title": "Nike Inc (UKEX:NKE) Bonds",
+            "summary": "This page from GuruFocus provides a financial overview of Nike Inc (UKEX:NKE) bonds. It displays key financial metrics such as P/E ratio, P/B ratio, market capitalization, and enterprise value. The platform also notes two severe warning signs detected for NKE by GuruFocus, encouraging users to sign up for a free trial to investigate further.",
+            "text_to_analyze": "Nike Inc (UKEX:NKE) Bonds. This page from GuruFocus provides a financial overview of Nike Inc (UKEX:NKE) bonds. It displays key financial metrics such as P/E ratio, P/B ratio, market capitalization, and enterprise value. The platform also notes two severe warning signs detected for NKE by GuruFocus, encouraging users to sign up for a free trial to investigate further.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260411T173815",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKE",
+            "summary": "This article compiles various trade ideas for NIKE, Inc. Class B (BVL:NKE) from different analysts and traders on TradingView, offering both bullish and bearish perspectives. Analysts discuss technical indicators such as moving averages, RSI, and chart patterns, alongside some fundamental highlights like revenue, earnings, and debt figures. The diverse analyses present potential shorting opportunities due to loss of bullish momentum and bearish channels, as well as long positions based on strong fundamentals, golden cross formations, and inverse head and shoulders patterns.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKE. This article compiles various trade ideas for NIKE, Inc. Class B (BVL:NKE) from different analysts and traders on TradingView, offering both bullish and bearish perspectives. Analysts discuss technical indicators such as moving averages, RSI, and chart patterns, alongside some fundamental highlights like revenue, earnings, and debt figures. The diverse analyses present potential shorting opportunities due to loss of bullish momentum and bearish channels, as well as long positions based on strong fundamentals, golden cross formations, and inverse head and shoulders patterns.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260410T202506",
+            "title": "NIKE (NKE) director John Rogers Jr. adds 4,000 Class B shares",
+            "summary": "NIKE, Inc. director John W. Rogers Jr. purchased 4,000 shares of NIKE Class B Common Stock in an open-market transaction at an average price of $43.34 per share. This transaction increased his direct holdings to 41,022 shares. The purchase aligns with the company's policy allowing market trades by officers and directors after quarterly earnings releases or under approved Rule 10b5-1 trading plans.",
+            "text_to_analyze": "NIKE (NKE) director John Rogers Jr. adds 4,000 Class B shares. NIKE, Inc. director John W. Rogers Jr. purchased 4,000 shares of NIKE Class B Common Stock in an open-market transaction at an average price of $43.34 per share. This transaction increased his direct holdings to 41,022 shares. The purchase aligns with the company's policy allowing market trades by officers and directors after quarterly earnings releases or under approved Rule 10b5-1 trading plans.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

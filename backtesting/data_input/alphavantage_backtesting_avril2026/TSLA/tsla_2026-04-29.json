@@ -1,0 +1,45 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-29",
+    "window_start": "2026-04-28 16:00",
+    "window_end": "2026-04-29 09:27",
+    "articles": [
+        {
+            "source": "The Verge",
+            "date": "20260429T091440",
+            "title": "General Motors is adding Gemini to four million cars",
+            "summary": "General Motors is integrating Google's Gemini AI assistant into approximately four million vehicles across the US, targeting model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in. This upgrade, delivered via over-the-air updates, aims to provide a more intuitive and conversational in-car experience for tasks like messaging, navigation, and music. Additionally, GM announced its Super Cruise advanced driver-assist system has surpassed one billion hands-free miles, demonstrating its growing adoption and competitive stance against rivals like Tesla.",
+            "text_to_analyze": "General Motors is adding Gemini to four million cars. General Motors is integrating Google's Gemini AI assistant into approximately four million vehicles across the US, targeting model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in. This upgrade, delivered via over-the-air updates, aims to provide a more intuitive and conversational in-car experience for tasks like messaging, navigation, and music. Additionally, GM announced its Super Cruise advanced driver-assist system has surpassed one billion hands-free miles, demonstrating its growing adoption and competitive stance against rivals like Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.610277
+        },
+        {
+            "source": "Sahm",
+            "date": "20260429T063811",
+            "title": "Meta Teams Up With Overview Energy To Harness 'First-of-Its-Kind' Space Solar Power For Its Data Centers",
+            "summary": "Meta Platforms Inc. has announced a partnership with space startup Overview Energy to use space-based solar energy for its data centers by 2030, with a demonstration planned for 2028. This deal provides Meta with early access to up to 1 gigawatt of capacity and reflects a broader trend among tech giants investing in renewable energy sources. Other tech companies like Tesla and major firms including Microsoft and Amazon are also increasing their focus on solar and nuclear power for data centers to address energy needs and environmental concerns.",
+            "text_to_analyze": "Meta Teams Up With Overview Energy To Harness 'First-of-Its-Kind' Space Solar Power For Its Data Centers. Meta Platforms Inc. has announced a partnership with space startup Overview Energy to use space-based solar energy for its data centers by 2030, with a demonstration planned for 2028. This deal provides Meta with early access to up to 1 gigawatt of capacity and reflects a broader trend among tech giants investing in renewable energy sources. Other tech companies like Tesla and major firms including Microsoft and Amazon are also increasing their focus on solar and nuclear power for data centers to address energy needs and environmental concerns.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.624248
+        },
+        {
+            "source": "GlobeNewswire",
+            "date": "20260428T213002",
+            "title": "SunCar Technology Reports Financial Results for Full Year 2025",
+            "summary": "SunCar Technology Group Inc. reported a transformational year in 2025, achieving record annual revenue of $489 million and profitability in the second half of the year, with Q4 revenue up 17% year-over-year. The company highlighted its strategic AI partnership with ByteDance, which is enhancing AI-centric auto insurance and services, and expanded collaborations with major EV companies like Tesla, Xiaomi, and NIO. SunCar also secured significant contracts in its auto services segment, including an estimated $50 million concierge chauffeur contract with Agricultural Bank of China.",
+            "text_to_analyze": "SunCar Technology Reports Financial Results for Full Year 2025. SunCar Technology Group Inc. reported a transformational year in 2025, achieving record annual revenue of $489 million and profitability in the second half of the year, with Q4 revenue up 17% year-over-year. The company highlighted its strategic AI partnership with ByteDance, which is enhancing AI-centric auto insurance and services, and expanded collaborations with major EV companies like Tesla, Xiaomi, and NIO. SunCar also secured significant contracts in its auto services segment, including an estimated $50 million concierge chauffeur contract with Agricultural Bank of China.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.641833
+        },
+        {
+            "source": "Japan Today",
+            "date": "20260428T200935",
+            "title": "Honda delays self-driving tech rollout to 2028 after halting U.S. EV plan",
+            "summary": "Honda Motor Co. is delaying the rollout of its AI-based self-driving technology from 2027 to 2028, following the cancellation of planned electric vehicle models in North America. The technology will now be introduced in hybrid vehicles, including the Vezel SUV in Japan, amidst intensifying competition in autonomous driving from companies like Tesla and Nissan.",
+            "text_to_analyze": "Honda delays self-driving tech rollout to 2028 after halting U.S. EV plan. Honda Motor Co. is delaying the rollout of its AI-based self-driving technology from 2027 to 2028, following the cancellation of planned electric vehicle models in North America. The technology will now be introduced in hybrid vehicles, including the Vezel SUV in Japan, amidst intensifying competition in autonomous driving from companies like Tesla and Nissan.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.715051
+        }
+    ]
+}

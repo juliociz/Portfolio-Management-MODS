@@ -1,0 +1,198 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-20",
+    "window_start": "2026-04-17 16:00",
+    "window_end": "2026-04-20 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260420T071434",
+            "title": "Enphase Speicher: Battery Storage Edge Sharpens Amid Solar Market Shifts",
+            "summary": "Enphase Speicher, the company's home battery system (IQ Battery series), is gaining traction due to its modular design, seamless integration with solar, and grid-support capabilities. This positions Enphase Energy strongly in the energy transition amidst rising utility costs and increasing demand for reliable home backup power. The article highlights market drivers like extreme weather and policy tailwinds, Enphase's expansion strategy, and its competitive edge against rivals like Tesla Powerwall.",
+            "text_to_analyze": "Enphase Speicher: Battery Storage Edge Sharpens Amid Solar Market Shifts. Enphase Speicher, the company's home battery system (IQ Battery series), is gaining traction due to its modular design, seamless integration with solar, and grid-support capabilities. This positions Enphase Energy strongly in the energy transition amidst rising utility costs and increasing demand for reliable home backup power. The article highlights market drivers like extreme weather and policy tailwinds, Enphase's expansion strategy, and its competitive edge against rivals like Tesla Powerwall.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.629387
+        },
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260420T071000",
+            "title": "Zacks Investment Ideas feature highlights Tesla",
+            "summary": "Zacks Investment Ideas highlights Tesla, Inc. (TSLA), noting that despite recent stock pressure due to slowing vehicle deliveries, the company is poised for a turnaround. This optimism is driven by strong growth in energy storage, advancements in Full Self-Driving (FSD), and progress on Optimus and Robotaxi initiatives, which are expected to offset near-term automotive market concerns. The article suggests Tesla's long-term earnings trajectory remains constructive, supported by its diverse business segments beyond just vehicle sales.",
+            "text_to_analyze": "Zacks Investment Ideas feature highlights Tesla. Zacks Investment Ideas highlights Tesla, Inc. (TSLA), noting that despite recent stock pressure due to slowing vehicle deliveries, the company is poised for a turnaround. This optimism is driven by strong growth in energy storage, advancements in Full Self-Driving (FSD), and progress on Optimus and Robotaxi initiatives, which are expected to offset near-term automotive market concerns. The article suggests Tesla's long-term earnings trajectory remains constructive, supported by its diverse business segments beyond just vehicle sales.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260420T060708",
+            "title": "American Express, Tesla and Halliburton are part of Zacks Earnings Preview",
+            "summary": "Zacks.com has released its earnings preview, highlighting that American Express (AXP), Tesla (TSLA), and Halliburton (HAL) are among the companies expected to announce earnings surprises. The article notes that early Q1 results indicate a strong earnings outlook, particularly within the Finance sector, and that positive estimate revisions are expanding beyond the Tech sector. Forecasts for Q2 2026 project a 19.4% earnings growth on 9.1% higher revenues, with estimates rising for key sectors like Tech, Energy, Basic Materials, Utilities, and Business Services despite cuts in others.",
+            "text_to_analyze": "American Express, Tesla and Halliburton are part of Zacks Earnings Preview. Zacks.com has released its earnings preview, highlighting that American Express (AXP), Tesla (TSLA), and Halliburton (HAL) are among the companies expected to announce earnings surprises. The article notes that early Q1 results indicate a strong earnings outlook, particularly within the Finance sector, and that positive estimate revisions are expanding beyond the Tech sector. Forecasts for Q2 2026 project a 19.4% earnings growth on 9.1% higher revenues, with estimates rising for key sectors like Tech, Energy, Basic Materials, Utilities, and Business Services despite cuts in others.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.895892
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260420T010942",
+            "title": "$Direxion Daily TSLA Bull 2X Shares (TSLL.US)$ My stock portfolio skyrocketed! 🚀",
+            "summary": "This post features a community comment from a user named \"ロンチー\" on the moomoo platform, excitedly exclaiming that their stock portfolio, specifically involving Direxion Daily TSLA Bull 2X Shares (TSLL.US), has \"skyrocketed!\" The post is brief and serves as a social share within the investment community.",
+            "text_to_analyze": "$Direxion Daily TSLA Bull 2X Shares (TSLL.US)$ My stock portfolio skyrocketed! 🚀. This post features a community comment from a user named \"ロンチー\" on the moomoo platform, excitedly exclaiming that their stock portfolio, specifically involving Direxion Daily TSLA Bull 2X Shares (TSLL.US), has \"skyrocketed!\" The post is brief and serves as a social share within the investment community.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.745321
+        },
+        {
+            "source": "Barron's",
+            "date": "20260419T180016",
+            "title": "Tesla, Intel, Boeing, Capital One, and Many More Stocks to Watch This Week",
+            "summary": "This article lists several prominent stocks, including Tesla, Intel, Boeing, and Capital One, for investors to monitor this week. It notes that the S&P 500 and Nasdaq Composite indexes recently closed at record highs for the third consecutive week, with Wall Street seemingly concluding that the Iran conflict is over.",
+            "text_to_analyze": "Tesla, Intel, Boeing, Capital One, and Many More Stocks to Watch This Week. This article lists several prominent stocks, including Tesla, Intel, Boeing, and Capital One, for investors to monitor this week. It notes that the S&P 500 and Nasdaq Composite indexes recently closed at record highs for the third consecutive week, with Wall Street seemingly concluding that the Iran conflict is over.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.704749
+        },
+        {
+            "source": "Barchart.com",
+            "date": "20260419T170833",
+            "title": "Tesla Earnings, Hormuz and Other Key Things to Watch this Week",
+            "summary": "This article highlights key events for the upcoming week, focusing on geopolitical tensions surrounding the Strait of Hormuz and major corporate earnings reports. The Strait of Hormuz situation is marked by conflicting statements from Iranian officials and potential U.S. military action, leading to extreme energy market volatility. Simultaneously, earnings from companies like Tesla, Intel, and Boeing will offer crucial insights into the automotive, aerospace, technology, and commodity sectors amidst global uncertainties.",
+            "text_to_analyze": "Tesla Earnings, Hormuz and Other Key Things to Watch this Week. This article highlights key events for the upcoming week, focusing on geopolitical tensions surrounding the Strait of Hormuz and major corporate earnings reports. The Strait of Hormuz situation is marked by conflicting statements from Iranian officials and potential U.S. military action, leading to extreme energy market volatility. Simultaneously, earnings from companies like Tesla, Intel, and Boeing will offer crucial insights into the automotive, aerospace, technology, and commodity sectors amidst global uncertainties.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.852969
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260419T160830",
+            "title": "Weekend Round-Up: Tesla's Legal Woes, Ford's Rejig, Uber's Robotaxi Bet, Lucid's New CEO And CarMax's Q4",
+            "summary": "This automotive industry round-up covers Tesla's escalating legal challenges and regulatory investigations, Ford's strategic restructuring of its Model E unit to boost profitability, Uber's substantial investment in robotaxi technology, and Lucid Group's new CEO and expanded partnership with Uber for its robotaxi service. Additionally, it previews CarMax's anticipated Q4 financial results amid leadership changes.",
+            "text_to_analyze": "Weekend Round-Up: Tesla's Legal Woes, Ford's Rejig, Uber's Robotaxi Bet, Lucid's New CEO And CarMax's Q4. This automotive industry round-up covers Tesla's escalating legal challenges and regulatory investigations, Ford's strategic restructuring of its Model E unit to boost profitability, Uber's substantial investment in robotaxi technology, and Lucid Group's new CEO and expanded partnership with Uber for its robotaxi service. Additionally, it previews CarMax's anticipated Q4 financial results amid leadership changes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.949247
+        },
+        {
+            "source": "The Motley Fool",
+            "date": "20260419T142500",
+            "title": "Lucid Group Stock Is Down 67% in 12 Months. Here's Why.",
+            "summary": "Lucid Group's stock has fallen by approximately two-thirds in the past year, largely due to challenges common to EV start-ups, including immense capital requirements and difficulties in achieving scaled production and profitability. The company has yet to post a profit or positive gross margins and faces uncertainty regarding the release of affordable EV models, unlike competitors like Tesla and Rivian. While the author believes Lucid will remain in business due to strategic investors, he advises against investing in the stock due to its high-risk profile and better alternatives like Rivian.",
+            "text_to_analyze": "Lucid Group Stock Is Down 67% in 12 Months. Here's Why.. Lucid Group's stock has fallen by approximately two-thirds in the past year, largely due to challenges common to EV start-ups, including immense capital requirements and difficulties in achieving scaled production and profitability. The company has yet to post a profit or positive gross margins and faces uncertainty regarding the release of affordable EV models, unlike competitors like Tesla and Rivian. While the author believes Lucid will remain in business due to strategic investors, he advises against investing in the stock due to its high-risk profile and better alternatives like Rivian.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.63597
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260419T113745",
+            "title": "Earnings week ahead: TSLA, IBM, T, INTC, GE, BA, UNH, NOW, PM, CMCSA, and more",
+            "summary": "The upcoming week features a packed earnings calendar with reports from major companies across various sectors, including technology, industrials, financials, healthcare, and energy. These reports will offer crucial insights into economic momentum, corporate spending, global demand trends, and inflation signals. Investors will be particularly focused on results from Tesla, IBM, Intel, General Electric, and UnitedHealth Group, among others, to gauge market sentiment and future outlooks.",
+            "text_to_analyze": "Earnings week ahead: TSLA, IBM, T, INTC, GE, BA, UNH, NOW, PM, CMCSA, and more. The upcoming week features a packed earnings calendar with reports from major companies across various sectors, including technology, industrials, financials, healthcare, and energy. These reports will offer crucial insights into economic momentum, corporate spending, global demand trends, and inflation signals. Investors will be particularly focused on results from Tesla, IBM, Intel, General Electric, and UnitedHealth Group, among others, to gauge market sentiment and future outlooks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.92676
+        },
+        {
+            "source": "TipRanks",
+            "date": "20260419T093845",
+            "title": "Tesla (TSLA) Expands Robotaxi Service Ahead of Earnings as AI Strategy Faces Test",
+            "summary": "Tesla is expanding its robotaxi service by launching driverless Model Y vehicles in Dallas and Houston ahead of its April 22 earnings call. This move underscores Tesla's AI-driven growth strategy as it faces competition from Waymo and Zoox. Investors are looking to the upcoming earnings report for details on the robotaxi service's scalability, revenue potential, and a clear timeline for wider deployment.",
+            "text_to_analyze": "Tesla (TSLA) Expands Robotaxi Service Ahead of Earnings as AI Strategy Faces Test. Tesla is expanding its robotaxi service by launching driverless Model Y vehicles in Dallas and Houston ahead of its April 22 earnings call. This move underscores Tesla's AI-driven growth strategy as it faces competition from Waymo and Zoox. Investors are looking to the upcoming earnings report for details on the robotaxi service's scalability, revenue potential, and a clear timeline for wider deployment.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260419T043829",
+            "title": "Tesla Expands Robotaxi Rollout To Dallas, Houston After Austin Launch Ahead Of Q1 Earnings - Tesla (NASDA",
+            "summary": "Tesla has expanded its robotaxi service to Dallas and Houston, adding to its existing operations in Austin, Texas. This move comes ahead of the company's first-quarter earnings report. While the robotaxi market is projected to reach $168 billion by 2035, Tesla's current presence in these new cities appears limited, with only one active vehicle reported in each by Robotaxi Tracker.",
+            "text_to_analyze": "Tesla Expands Robotaxi Rollout To Dallas, Houston After Austin Launch Ahead Of Q1 Earnings - Tesla (NASDA. Tesla has expanded its robotaxi service to Dallas and Houston, adding to its existing operations in Austin, Texas. This move comes ahead of the company's first-quarter earnings report. While the robotaxi market is projected to reach $168 billion by 2035, Tesla's current presence in these new cities appears limited, with only one active vehicle reported in each by Robotaxi Tracker.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.314356
+        },
+        {
+            "source": "Reuters",
+            "date": "20260418T190840",
+            "title": "Tesla rolls out robotaxis in Dallas and Houston",
+            "summary": "Tesla has launched its self-driving taxi service in Dallas and Houston, Texas. CEO Elon Musk announced the rollout via an X post, encouraging users to try the new \"Tesla Robotaxi\" service in these cities. This move expands Tesla's presence in the autonomous vehicle market in major US cities.",
+            "text_to_analyze": "Tesla rolls out robotaxis in Dallas and Houston. Tesla has launched its self-driving taxi service in Dallas and Houston, Texas. CEO Elon Musk announced the rollout via an X post, encouraging users to try the new \"Tesla Robotaxi\" service in these cities. This move expands Tesla's presence in the autonomous vehicle market in major US cities.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.349438
+        },
+        {
+            "source": "Techi",
+            "date": "20260418T180809",
+            "title": "Best US Renewable Energy Stocks 2026: NextEra, Tesla, First Solar",
+            "summary": "This article highlights four top U.S. renewable energy stocks for 2026: NextEra Energy (NEE), Tesla (TSLA), First Solar (FSLR), and Enphase Energy (ENPH). It emphasizes that solar power is now cheaper than the cheapest fossil fuel alternative and that battery storage is rapidly expanding. The piece details each company's role in the evolving energy landscape, their financial performance, and key competitive advantages, while also addressing potential risks to the sector.",
+            "text_to_analyze": "Best US Renewable Energy Stocks 2026: NextEra, Tesla, First Solar. This article highlights four top U.S. renewable energy stocks for 2026: NextEra Energy (NEE), Tesla (TSLA), First Solar (FSLR), and Enphase Energy (ENPH). It emphasizes that solar power is now cheaper than the cheapest fossil fuel alternative and that battery storage is rapidly expanding. The piece details each company's role in the evolving energy landscape, their financial performance, and key competitive advantages, while also addressing potential risks to the sector.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.943687
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260418T140500",
+            "title": "Notable analyst calls this week: Tesla, Qualcomm and Biogen among top picks",
+            "summary": "This article highlights key analyst calls for the week, focusing on upgrades and downgrades for major companies. J.P. Morgan downgraded Qualcomm due to competitive pressures and macroeconomic concerns, while UBS upgraded Tesla, citing a more favorable risk-reward profile despite ongoing challenges. Biogen's acquisition of Apellis is seen as a positive, providing new revenue streams to offset losses and improve its investment outlook.",
+            "text_to_analyze": "Notable analyst calls this week: Tesla, Qualcomm and Biogen among top picks. This article highlights key analyst calls for the week, focusing on upgrades and downgrades for major companies. J.P. Morgan downgraded Qualcomm due to competitive pressures and macroeconomic concerns, while UBS upgraded Tesla, citing a more favorable risk-reward profile despite ongoing challenges. Biogen's acquisition of Apellis is seen as a positive, providing new revenue streams to offset losses and improve its investment outlook.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.942355
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260418T130905",
+            "title": "$Direxion Daily TSLA Bull 2X Shares (TSLL.US)$ thank you Elon supporters😍",
+            "summary": "An investor expresses gratitude to \"Elon supporters\" regarding Direxion Daily TSLA Bull 2X Shares (TSLL.US). The post was shared in the moomoo Community and received a few interactions. Another user commented on day trading strategy, emphasizing reaching targets and market correctness.",
+            "text_to_analyze": "$Direxion Daily TSLA Bull 2X Shares (TSLL.US)$ thank you Elon supporters😍. An investor expresses gratitude to \"Elon supporters\" regarding Direxion Daily TSLA Bull 2X Shares (TSLL.US). The post was shared in the moomoo Community and received a few interactions. Another user commented on day trading strategy, emphasizing reaching targets and market correctness.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.723381
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260418T124136",
+            "title": "Tesla Set to Launch New Model Y Variant to Kickstart Sluggish Indian Sales",
+            "summary": "Tesla is reportedly introducing a new, larger Model Y L SUV variant in India to combat slow sales in the country. This six-seat, long-wheelbase vehicle, which will feature a three-row seating layout for the Indian market, is Tesla's first new product launch in India and is aimed at capturing a share of the growing Indian passenger car market, despite high import tariffs and strong competition.",
+            "text_to_analyze": "Tesla Set to Launch New Model Y Variant to Kickstart Sluggish Indian Sales. Tesla is reportedly introducing a new, larger Model Y L SUV variant in India to combat slow sales in the country. This six-seat, long-wheelbase vehicle, which will feature a three-row seating layout for the Indian market, is Tesla's first new product launch in India and is aimed at capturing a share of the growing Indian passenger car market, despite high import tariffs and strong competition.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260418T123928",
+            "title": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0525",
+            "summary": "The GraniteShares YieldBOOST TSLA ETF has announced a weekly distribution of $0.0525 per share. Shareholders of record by April 22, 2026, will receive this dividend, which is payable on April 23, 2026. This announcement highlights the ETF's consistent dividend policy for investors.",
+            "text_to_analyze": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0525. The GraniteShares YieldBOOST TSLA ETF has announced a weekly distribution of $0.0525 per share. Shareholders of record by April 22, 2026, will receive this dividend, which is payable on April 23, 2026. This announcement highlights the ETF's consistent dividend policy for investors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.72976
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260418T120854",
+            "title": "Roundhill TSLA WeeklyPay ETF To Go Ex-Dividend On April 20th, 2026 With 0.14974 USD Dividend Per Share",
+            "summary": "The Roundhill TSLA WeeklyPay ETF (NYSEARCA:TSLW) is scheduled to go ex-dividend on April 20th, 2026. Shareholders will receive a dividend of 0.14974 USD per share. This information is important for investors tracking dividend payouts.",
+            "text_to_analyze": "Roundhill TSLA WeeklyPay ETF To Go Ex-Dividend On April 20th, 2026 With 0.14974 USD Dividend Per Share. The Roundhill TSLA WeeklyPay ETF (NYSEARCA:TSLW) is scheduled to go ex-dividend on April 20th, 2026. Shareholders will receive a dividend of 0.14974 USD per share. This information is important for investors tracking dividend payouts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.818597
+        },
+        {
+            "source": "Shifting Gears with Phoebe Wall Howard",
+            "date": "20260418T000739",
+            "title": "Top exec exits Ford. What's next.",
+            "summary": "Doug Field, Ford's top tech executive overseeing EVs, digital design, and software, is leaving the company after nearly five years. His departure comes as the EV market's growth has slowed, prompting a reassessment of major projects. Field, who previously held key roles at Apple and Tesla, will be succeeded by his protégé Alan Clarke, who will lead Ford's Advanced Electric Vehicle Development team, focusing on affordable EV programs.",
+            "text_to_analyze": "Top exec exits Ford. What's next.. Doug Field, Ford's top tech executive overseeing EVs, digital design, and software, is leaving the company after nearly five years. His departure comes as the EV market's growth has slowed, prompting a reassessment of major projects. Field, who previously held key roles at Apple and Tesla, will be succeeded by his protégé Alan Clarke, who will lead Ford's Advanced Electric Vehicle Development team, focusing on affordable EV programs.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.623619
+        },
+        {
+            "source": "MSN",
+            "date": "20260417T211057",
+            "title": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0525",
+            "summary": "The GraniteShares YieldBOOST TSLA ETF has declared a weekly cash distribution of $0.0525 per share. This distribution will be paid on April 26, 2026, to shareholders who are on record as of April 24, 2026. This announcement provides investors with details regarding the fund's upcoming payout.",
+            "text_to_analyze": "GraniteShares YieldBOOST TSLA ETF announces weekly distribution of $0.0525. The GraniteShares YieldBOOST TSLA ETF has declared a weekly cash distribution of $0.0525 per share. This distribution will be paid on April 26, 2026, to shareholders who are on record as of April 24, 2026. This announcement provides investors with details regarding the fund's upcoming payout.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.848438
+        },
+        {
+            "source": "Morningstar",
+            "date": "20260417T183920",
+            "title": "What’s Happening in the Markets This Week",
+            "summary": "This article forecasts upcoming economic releases and company earnings for the week of April 20, 2026. Key reports include March retail sales and initial unemployment claims. Major companies like Tesla, UnitedHealth Group, and several airlines (American and United) are scheduled to release their quarterly results.",
+            "text_to_analyze": "What’s Happening in the Markets This Week. This article forecasts upcoming economic releases and company earnings for the week of April 20, 2026. Key reports include March retail sales and initial unemployment claims. Major companies like Tesla, UnitedHealth Group, and several airlines (American and United) are scheduled to release their quarterly results.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.800695
+        }
+    ]
+}

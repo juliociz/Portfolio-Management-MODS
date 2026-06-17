@@ -1,0 +1,45 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-04-16",
+    "window_start": "2026-04-15 16:00",
+    "window_end": "2026-04-16 09:27",
+    "articles": [
+        {
+            "source": "Finviz",
+            "date": "20260416T090000",
+            "title": "Reynolds Wrap Introduces New Hearts Fun Foil, Adding a Heartfelt Touch to Everyday Moments",
+            "summary": "Reynolds Wrap has launched a new \"Hearts Fun Foil,\" an embossed aluminum foil featuring a playful heart design intended to add a thoughtful touch to everyday kitchen activities and gestures. This new product is a permanent addition to the Fun Foil lineup and aims to help consumers elevate heartfelt gestures year-round, whether for gifting food, covering dishes, or sending leftovers. It is available nationwide at major retailers like Walmart, Target, and Amazon.",
+            "text_to_analyze": "Reynolds Wrap Introduces New Hearts Fun Foil, Adding a Heartfelt Touch to Everyday Moments. Reynolds Wrap has launched a new \"Hearts Fun Foil,\" an embossed aluminum foil featuring a playful heart design intended to add a thoughtful touch to everyday kitchen activities and gestures. This new product is a permanent addition to the Fun Foil lineup and aims to help consumers elevate heartfelt gestures year-round, whether for gifting food, covering dishes, or sending leftovers. It is available nationwide at major retailers like Walmart, Target, and Amazon.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.637153
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260416T002844",
+            "title": "Is Ulta’s Messi Fragrances And Virtue Labs Push Altering The Investment Case For Ulta Beauty (ULTA)?",
+            "summary": "Ulta Beauty is expanding its partnerships with Virtue Labs and launching Messi Fragrances exclusively, utilizing its physical footprint and omni-channel reach. While these moves strengthen Ulta's role as a launch platform for beauty brands and enhance its haircare assortment, they do not fundamentally change the investment focus on preserving margins and offsetting rising store costs or the eventual loss of the Target partnership. Analysts project Ulta's revenue to reach $13.8 billion and earnings to hit $1.3 billion by 2028, with a fair value estimate suggesting a 27% upside.",
+            "text_to_analyze": "Is Ulta’s Messi Fragrances And Virtue Labs Push Altering The Investment Case For Ulta Beauty (ULTA)?. Ulta Beauty is expanding its partnerships with Virtue Labs and launching Messi Fragrances exclusively, utilizing its physical footprint and omni-channel reach. While these moves strengthen Ulta's role as a launch platform for beauty brands and enhance its haircare assortment, they do not fundamentally change the investment focus on preserving margins and offsetting rising store costs or the eventual loss of the Target partnership. Analysts project Ulta's revenue to reach $13.8 billion and earnings to hit $1.3 billion by 2028, with a fair value estimate suggesting a 27% upside.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.644564
+        },
+        {
+            "source": "HomePage News",
+            "date": "20260415T223840",
+            "title": "Target Celebrates Pokémon Anniversary with Limited-Time Collection",
+            "summary": "Target Corporation is launching an exclusive, limited-time Pokémon collection to celebrate the franchise's 30th anniversary, becoming the only U.S.-based mass retailer to partner with The Pokémon Co. Int’l for this milestone. The collection will feature over 100 items across various categories, with nearly half priced under $20, and will roll out in two phases starting May 2. The initiative includes a social-first marketing campaign featuring Pokémon fans and creators, along with immersive in-store experiences and giveaways at select Target locations.",
+            "text_to_analyze": "Target Celebrates Pokémon Anniversary with Limited-Time Collection. Target Corporation is launching an exclusive, limited-time Pokémon collection to celebrate the franchise's 30th anniversary, becoming the only U.S.-based mass retailer to partner with The Pokémon Co. Int’l for this milestone. The collection will feature over 100 items across various categories, with nearly half priced under $20, and will roll out in two phases starting May 2. The initiative includes a social-first marketing campaign featuring Pokémon fans and creators, along with immersive in-store experiences and giveaways at select Target locations.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260415T164900",
+            "title": "Target Corp. stock outperforms competitors on strong trading day",
+            "summary": "Target Corp. (TGT) shares rose 2.79% to $122.87 on Wednesday, outperforming the mixed market performance. This marks the second consecutive day of gains for Target's stock, despite the Dow Jones Industrial Average experiencing a slight fall. The S&P 500 Index saw a modest increase during the same trading session.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors on strong trading day. Target Corp. (TGT) shares rose 2.79% to $122.87 on Wednesday, outperforming the mixed market performance. This marks the second consecutive day of gains for Target's stock, despite the Dow Jones Industrial Average experiencing a slight fall. The S&P 500 Index saw a modest increase during the same trading session.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

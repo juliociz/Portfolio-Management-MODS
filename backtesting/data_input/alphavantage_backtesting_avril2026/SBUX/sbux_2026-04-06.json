@@ -1,0 +1,90 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-06",
+    "window_start": "2026-04-03 16:00",
+    "window_end": "2026-04-06 09:27",
+    "articles": [
+        {
+            "source": "Verdict Food Service",
+            "date": "20260406T081547",
+            "title": "Starbucks completes JV deal with Boyu Capital in China",
+            "summary": "Starbucks has finalized a joint venture deal with private equity firm Boyu Capital, giving Boyu Capital control of 60% of Starbucks China's retail operations. Starbucks will retain the remaining 40% shareholding while continuing to own and license its brand and intellectual property to the JV. This partnership aims to expand Starbucks' presence in China, with a long-term goal of increasing the network to 20,000 outlets.",
+            "text_to_analyze": "Starbucks completes JV deal with Boyu Capital in China. Starbucks has finalized a joint venture deal with private equity firm Boyu Capital, giving Boyu Capital control of 60% of Starbucks China's retail operations. Starbucks will retain the remaining 40% shareholding while continuing to own and license its brand and intellectual property to the JV. This partnership aims to expand Starbucks' presence in China, with a long-term goal of increasing the network to 20,000 outlets.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "El Paso Times",
+            "date": "20260406T023855",
+            "title": "What restaurants are open on Easter Sunday? What about stores?",
+            "summary": "This article provides a comprehensive list of restaurants and stores that will be open or closed on Easter Sunday, April 5, 2026. It details the operating hours for major retailers like Walmart, Costco, and Whole Foods, as well as popular food establishments such as McDonald's, Starbucks, and Chick-fil-A, to help individuals plan their holiday activities.",
+            "text_to_analyze": "What restaurants are open on Easter Sunday? What about stores?. This article provides a comprehensive list of restaurants and stores that will be open or closed on Easter Sunday, April 5, 2026. It details the operating hours for major retailers like Walmart, Costco, and Whole Foods, as well as popular food establishments such as McDonald's, Starbucks, and Chick-fil-A, to help individuals plan their holiday activities.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.643729
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260404T230332",
+            "title": "Starbucks Pumpkin Spice Latte: The Seasonal Phenomenon Driving Consumer Staples Revenue in North America",
+            "summary": "Starbucks' Pumpkin Spice Latte (PSL) continues to be a major revenue driver, generating over $500 million annually in the U.S. alone and reinforcing brand loyalty. The 2026 iteration features subtle enhancements and extends into various formats, strategically boosting foot traffic and digital orders for Starbucks. The PSL also plays a significant role in investor confidence, influencing Starbucks' Q3/Q4 earnings and contributing to the company's defensive appeal within consumer staples.",
+            "text_to_analyze": "Starbucks Pumpkin Spice Latte: The Seasonal Phenomenon Driving Consumer Staples Revenue in North America. Starbucks' Pumpkin Spice Latte (PSL) continues to be a major revenue driver, generating over $500 million annually in the U.S. alone and reinforcing brand loyalty. The 2026 iteration features subtle enhancements and extends into various formats, strategically boosting foot traffic and digital orders for Starbucks. The PSL also plays a significant role in investor confidence, influencing Starbucks' Q3/Q4 earnings and contributing to the company's defensive appeal within consumer staples.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.922314
+        },
+        {
+            "source": "Eastern Progress",
+            "date": "20260404T221058",
+            "title": "Should You Invest in the Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD)?",
+            "summary": "This article evaluates the Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD), a passively managed fund designed to provide broad exposure to the Consumer Discretionary sector. It highlights the ETF's structure, cost-effectiveness, sector allocations, top holdings like Tapestry Inc and Starbucks Corp, and year-to-date performance. The article also suggests alternative ETFs for investors interested in the Consumer Discretionary segment.",
+            "text_to_analyze": "Should You Invest in the Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD)?. This article evaluates the Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD), a passively managed fund designed to provide broad exposure to the Consumer Discretionary sector. It highlights the ETF's structure, cost-effectiveness, sector allocations, top holdings like Tapestry Inc and Starbucks Corp, and year-to-date performance. The article also suggests alternative ETFs for investors interested in the Consumer Discretionary segment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.605096
+        },
+        {
+            "source": "Yahoo",
+            "date": "20260404T210839",
+            "title": "Target opens massive new West Orange location with 280 jobs",
+            "summary": "A new 150,000-square-foot Target store recently opened in West Orange Plaza, creating approximately 280 jobs and expanding shopping options for the Essex County community. This is Target's 55th location in New Jersey and includes features such as drive-up service, a CVS pharmacy, and a Starbucks cafe. The opening is part of a larger redevelopment effort by Levin Management Corp. at the plaza.",
+            "text_to_analyze": "Target opens massive new West Orange location with 280 jobs. A new 150,000-square-foot Target store recently opened in West Orange Plaza, creating approximately 280 jobs and expanding shopping options for the Essex County community. This is Target's 55th location in New Jersey and includes features such as drive-up service, a CVS pharmacy, and a Starbucks cafe. The opening is part of a larger redevelopment effort by Levin Management Corp. at the plaza.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.649004
+        },
+        {
+            "source": "The Sun",
+            "date": "20260404T192658",
+            "title": "Starbucks confirms changes to tipping system at certain locations from July 1",
+            "summary": "Starbucks is implementing several changes starting July 1, including an expanded tipping system for customers using its mobile app or card payments. Additionally, the company is introducing a bonus program for workers, offering up to $1,200 annually, and shifting to weekly pay for all U.S. partners by August. These initiatives are expected to increase worker pay by 5-8% on average.",
+            "text_to_analyze": "Starbucks confirms changes to tipping system at certain locations from July 1. Starbucks is implementing several changes starting July 1, including an expanded tipping system for customers using its mobile app or card payments. Additionally, the company is introducing a bonus program for workers, offering up to $1,200 annually, and shifting to weekly pay for all U.S. partners by August. These initiatives are expected to increase worker pay by 5-8% on average.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260404T183849",
+            "title": "Jim Cramer Discusses Starbucks (SBUX) CEO’s Turnaround Algorithm",
+            "summary": "Jim Cramer has consistently highlighted Starbucks (SBUX) CEO Brian Niccol's turnaround strategy, which he sees as successful, particularly when compared to Nike. Cramer, whose charitable trust holds a significant position in Starbucks, notes improvements in customer service and employee rosters. Guggenheim also recently raised its price target for SBUX to $95, maintaining a Neutral rating, and increased its Q2 same-store sales growth estimate despite reducing earnings projections for future fiscal years.",
+            "text_to_analyze": "Jim Cramer Discusses Starbucks (SBUX) CEO’s Turnaround Algorithm. Jim Cramer has consistently highlighted Starbucks (SBUX) CEO Brian Niccol's turnaround strategy, which he sees as successful, particularly when compared to Nike. Cramer, whose charitable trust holds a significant position in Starbucks, notes improvements in customer service and employee rosters. Guggenheim also recently raised its price target for SBUX to $95, maintaining a Neutral rating, and increased its Q2 same-store sales growth estimate despite reducing earnings projections for future fiscal years.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "NW Labor Press",
+            "date": "20260403T182240",
+            "title": "Starbucks set to restart bargaining in April",
+            "summary": "Starbucks Workers United are set to restart contract negotiations with Starbucks in April after a nationwide strike that tapered off from December to February. The union submitted a comprehensive contract proposal including a $17 wage floor and annual raises, along with various protections for workers. This comes amidst ongoing unfair labor practice charges against Starbucks and shareholder activism regarding the company's labor relations.",
+            "text_to_analyze": "Starbucks set to restart bargaining in April. Starbucks Workers United are set to restart contract negotiations with Starbucks in April after a nationwide strike that tapered off from December to February. The union submitted a comprehensive contract proposal including a $17 wage floor and annual raises, along with various protections for workers. This comes amidst ongoing unfair labor practice charges against Starbucks and shareholder activism regarding the company's labor relations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "StockStory",
+            "date": "20260403T163904",
+            "title": "Winners And Losers Of Q4: Wendy's (NASDAQ:WEN) Vs The Rest Of The Traditional Fast Food Stocks",
+            "summary": "The article analyzes the Q4 performance of several traditional fast-food stocks, highlighting Wendy's (WEN) and comparing it to peers like Krispy Kreme (DNUT), Jack in the Box (JACK), Restaurant Brands (QSR), and Starbucks (SBUX). While the sector generally showed strong Q4 revenues, individual company performances varied, with Krispy Kreme excelling and Jack in the Box struggling significantly. The broader market experienced shifts from AI concerns to geopolitical risks with the US-Iran conflict dominating investor psychology.",
+            "text_to_analyze": "Winners And Losers Of Q4: Wendy's (NASDAQ:WEN) Vs The Rest Of The Traditional Fast Food Stocks. The article analyzes the Q4 performance of several traditional fast-food stocks, highlighting Wendy's (WEN) and comparing it to peers like Krispy Kreme (DNUT), Jack in the Box (JACK), Restaurant Brands (QSR), and Starbucks (SBUX). While the sector generally showed strong Q4 revenues, individual company performances varied, with Krispy Kreme excelling and Jack in the Box struggling significantly. The broader market experienced shifts from AI concerns to geopolitical risks with the US-Iran conflict dominating investor psychology.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.632544
+        }
+    ]
+}

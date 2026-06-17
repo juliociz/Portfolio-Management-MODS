@@ -1,0 +1,144 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-29",
+    "window_start": "2026-04-28 16:00",
+    "window_end": "2026-04-29 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260429T085232",
+            "title": "Covenant Asset Management LLC Reduces Stock Position in Starbucks Corporation $SBUX",
+            "summary": "Covenant Asset Management LLC significantly reduced its stake in Starbucks Corporation by 60% in the fourth quarter, selling 12,339 shares and retaining 8,243 shares valued at approximately $694,000. Despite this, Starbucks reported strong Q2 earnings, beating estimates and raising full-year guidance, though concerns about negative return on equity and low net margins persist. Analysts generally maintain a \"Moderate Buy\" rating with an average price target of $104.75, reflecting cautious optimism for the company's turnaround efforts.",
+            "text_to_analyze": "Covenant Asset Management LLC Reduces Stock Position in Starbucks Corporation $SBUX. Covenant Asset Management LLC significantly reduced its stake in Starbucks Corporation by 60% in the fourth quarter, selling 12,339 shares and retaining 8,243 shares valued at approximately $694,000. Despite this, Starbucks reported strong Q2 earnings, beating estimates and raising full-year guidance, though concerns about negative return on equity and low net margins persist. Analysts generally maintain a \"Moderate Buy\" rating with an average price target of $104.75, reflecting cautious optimism for the company's turnaround efforts.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.973998
+        },
+        {
+            "source": "NDTV Profit",
+            "date": "20260429T012315",
+            "title": "Starbucks' US Rebound Shows Turnaround Plans Are Resonating",
+            "summary": "Starbucks reported better-than-expected quarterly results, with comparable sales rising 6.2% and the company increasing its full-year sales outlook. CEO Brian Niccol's turnaround plan, focusing on store upgrades, staffing, and marketing, is yielding positive results, particularly in the US. The company plans to add 150 to 175 net US stores this year and is opening a new Nashville office to expand in the US Southeast.",
+            "text_to_analyze": "Starbucks' US Rebound Shows Turnaround Plans Are Resonating. Starbucks reported better-than-expected quarterly results, with comparable sales rising 6.2% and the company increasing its full-year sales outlook. CEO Brian Niccol's turnaround plan, focusing on store upgrades, staffing, and marketing, is yielding positive results, particularly in the US. The company plans to add 150 to 175 net US stores this year and is opening a new Nashville office to expand in the US Southeast.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.343579
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260428T214134",
+            "title": "Earnings call transcript: Starbucks Q2 2026 beats expectations, stock rises",
+            "summary": "Starbucks (SBUX) reported strong Q2 FY2026 results, exceeding analyst expectations with an EPS of $0.50 and revenue of $9.5 billion. This marks the first time in over two years the company has achieved both top-line and bottom-line growth, driven by its \"Back to Starbucks Strategy,\" strong comparable store sales in North America, and successful product innovations. The company's stock rose by 0.74% in after-hours trading, and management raised its full-year fiscal 2026 guidance, expressing confidence in continued growth through operational improvements, menu innovation, and an enhanced Starbucks Rewards program.",
+            "text_to_analyze": "Earnings call transcript: Starbucks Q2 2026 beats expectations, stock rises. Starbucks (SBUX) reported strong Q2 FY2026 results, exceeding analyst expectations with an EPS of $0.50 and revenue of $9.5 billion. This marks the first time in over two years the company has achieved both top-line and bottom-line growth, driven by its \"Back to Starbucks Strategy,\" strong comparable store sales in North America, and successful product innovations. The company's stock rose by 0.74% in after-hours trading, and management raised its full-year fiscal 2026 guidance, expressing confidence in continued growth through operational improvements, menu innovation, and an enhanced Starbucks Rewards program.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CNBC",
+            "date": "20260428T211606",
+            "title": "Stocks making the biggest moves after hours: Robinhood, Booking Holdings, Starbucks, Visa & more",
+            "summary": "This article details the after-hours stock performance of several major companies following their first-quarter earnings reports and updated guidance. Notable movers include Booking Holdings, whose shares fell due to lowered full-year earnings guidance, while Starbucks and Visa saw increases after surpassing expectations and raising forecasts. Other companies like Robinhood, Mondelez, Enphase Energy, Seagate Technology, NXP Semiconductors, F5, CoStar Group, O-I Glass, Rush Street Interactive, Bloom Energy, and Brown-Forman also experienced significant stock movements based on their financial results and corporate announcements.",
+            "text_to_analyze": "Stocks making the biggest moves after hours: Robinhood, Booking Holdings, Starbucks, Visa & more. This article details the after-hours stock performance of several major companies following their first-quarter earnings reports and updated guidance. Notable movers include Booking Holdings, whose shares fell due to lowered full-year earnings guidance, while Starbucks and Visa saw increases after surpassing expectations and raising forecasts. Other companies like Robinhood, Mondelez, Enphase Energy, Seagate Technology, NXP Semiconductors, F5, CoStar Group, O-I Glass, Rush Street Interactive, Bloom Energy, and Brown-Forman also experienced significant stock movements based on their financial results and corporate announcements.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.894043
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260428T204016",
+            "title": "Starbucks tops estimates as US demand drives sales surge",
+            "summary": "Starbucks surpassed Wall Street's expectations for quarterly revenue and profit, driven by strong US demand and improved comparable sales. The company reported fiscal second-quarter revenue of $9.5 billion and adjusted earnings per share of $0.50, outperforming estimates. Starbucks also raised its full-year forecast for global and US comparable sales growth to 5% or greater and adjusted earnings per share to a range of $2.25 to $2.45.",
+            "text_to_analyze": "Starbucks tops estimates as US demand drives sales surge. Starbucks surpassed Wall Street's expectations for quarterly revenue and profit, driven by strong US demand and improved comparable sales. The company reported fiscal second-quarter revenue of $9.5 billion and adjusted earnings per share of $0.50, outperforming estimates. Starbucks also raised its full-year forecast for global and US comparable sales growth to 5% or greater and adjusted earnings per share to a range of $2.25 to $2.45.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Chain Store Age",
+            "date": "20260428T203817",
+            "title": "Starbucks earnings, sales top estimates; North American comps jump 7.1%",
+            "summary": "Starbucks (SBUX) reported stronger-than-expected earnings and revenue due to its \"Back to Starbucks\" turnaround plan, driven by increased traffic and average ticket sales. The company raised its full-year outlook, with North American comparable store sales increasing 7.1%, though operating income saw a slight decrease due to labor investments and inflation.",
+            "text_to_analyze": "Starbucks earnings, sales top estimates; North American comps jump 7.1%. Starbucks (SBUX) reported stronger-than-expected earnings and revenue due to its \"Back to Starbucks\" turnaround plan, driven by increased traffic and average ticket sales. The company raised its full-year outlook, with North American comparable store sales increasing 7.1%, though operating income saw a slight decrease due to labor investments and inflation.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.987907
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260428T202616",
+            "title": "Starbucks Earnings Top Expectations, CEO Says Q2 'Marked The Turn In Our Turnaround' - Starbucks (NASDAQ",
+            "summary": "Starbucks reported stronger-than-expected fiscal second-quarter earnings, with revenue reaching $9.53 billion and adjusted earnings per share hitting 50 cents, surpassing analyst estimates. CEO Brian Niccol stated the quarter \"marked the turn in our turnaround,\" driven by the \"Back to Starbucks\" plan. The company saw growth in comparable store sales globally and in North America, opened 11 new stores, and declared a cash dividend of 62 cents per share.",
+            "text_to_analyze": "Starbucks Earnings Top Expectations, CEO Says Q2 'Marked The Turn In Our Turnaround' - Starbucks (NASDAQ. Starbucks reported stronger-than-expected fiscal second-quarter earnings, with revenue reaching $9.53 billion and adjusted earnings per share hitting 50 cents, surpassing analyst estimates. CEO Brian Niccol stated the quarter \"marked the turn in our turnaround,\" driven by the \"Back to Starbucks\" plan. The company saw growth in comparable store sales globally and in North America, opened 11 new stores, and declared a cash dividend of 62 cents per share.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "KVUE",
+            "date": "20260428T201820",
+            "title": "Starbucks: Fiscal Q2 Earnings Snapshot",
+            "summary": "Starbucks Corp. reported strong fiscal second-quarter earnings, exceeding Wall Street expectations. The company announced net income of $510.9 million, or 45 cents per share, with adjusted earnings of 50 cents per share. Revenue for the period reached $9.53 billion, also surpassing analysts' forecasts.",
+            "text_to_analyze": "Starbucks: Fiscal Q2 Earnings Snapshot. Starbucks Corp. reported strong fiscal second-quarter earnings, exceeding Wall Street expectations. The company announced net income of $510.9 million, or 45 cents per share, with adjusted earnings of 50 cents per share. Revenue for the period reached $9.53 billion, also surpassing analysts' forecasts.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Chain Store Age",
+            "date": "20260428T201520",
+            "title": "Starbucks earnings, sales top estimates; North American comps jump 7.1%",
+            "summary": "Starbucks reported stronger-than-expected earnings and revenue for its latest quarter, marking its second consecutive quarter of traffic growth. The company also saw a significant 7.1% jump in North American comparable store sales. Starbucks ended the quarter with a total of 41,129 stores globally.",
+            "text_to_analyze": "Starbucks earnings, sales top estimates; North American comps jump 7.1%. Starbucks reported stronger-than-expected earnings and revenue for its latest quarter, marking its second consecutive quarter of traffic growth. The company also saw a significant 7.1% jump in North American comparable store sales. Starbucks ended the quarter with a total of 41,129 stores globally.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260428T201516",
+            "title": "Starbucks stock surges as earnings, revenue top expectations",
+            "summary": "Starbucks stock surged over 5% after reporting strong second-quarter earnings, exceeding revenue and same-store sales growth expectations. The company also raised its full-year profit and sales outlooks, signaling positive momentum from CEO Brian Niccol's turnaround strategies. Analysts attributed the success to improvements in operations, labor investments, and effective marketing.",
+            "text_to_analyze": "Starbucks stock surges as earnings, revenue top expectations. Starbucks stock surged over 5% after reporting strong second-quarter earnings, exceeding revenue and same-store sales growth expectations. The company also raised its full-year profit and sales outlooks, signaling positive momentum from CEO Brian Niccol's turnaround strategies. Analysts attributed the success to improvements in operations, labor investments, and effective marketing.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260428T200620",
+            "title": "Starbucks (Nasdaq: SBUX) lifts 2026 outlook after strong Q2 growth",
+            "summary": "Starbucks reported strong financial results for its fiscal Q2 2026, with consolidated net revenues increasing 9% to $9.5 billion and global comparable store sales up 6.2%. The company raised its fiscal 2026 outlook, projecting global and U.S. comparable store sales growth of at least 5% and non-GAAP EPS between $2.25 and $2.45, reflecting confidence in its \"Back to Starbucks\" turnaround plan despite margin pressures in North America. Notably, the International segment showed significant operating margin expansion after classifying China retail assets as held for sale.",
+            "text_to_analyze": "Starbucks (Nasdaq: SBUX) lifts 2026 outlook after strong Q2 growth. Starbucks reported strong financial results for its fiscal Q2 2026, with consolidated net revenues increasing 9% to $9.5 billion and global comparable store sales up 6.2%. The company raised its fiscal 2026 outlook, projecting global and U.S. comparable store sales growth of at least 5% and non-GAAP EPS between $2.25 and $2.45, reflecting confidence in its \"Back to Starbucks\" turnaround plan despite margin pressures in North America. Notably, the International segment showed significant operating margin expansion after classifying China retail assets as held for sale.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260428T200523",
+            "title": "More people are buying Starbucks as transactions rise 3.8%",
+            "summary": "Starbucks reported strong financial results for its Q2 fiscal year 2026, with consolidated net revenues increasing 9% to $9.5 billion. Global comparable store sales rose by 6.2%, driven by a 3.8% increase in comparable transactions and a 2.3% increase in average ticket. The company also raised its fiscal year 2026 guidance for comparable store sales growth and non-GAAP EPS, attributing the positive performance to its \"Back to Starbucks\" plan.",
+            "text_to_analyze": "More people are buying Starbucks as transactions rise 3.8%. Starbucks reported strong financial results for its Q2 fiscal year 2026, with consolidated net revenues increasing 9% to $9.5 billion. Global comparable store sales rose by 6.2%, driven by a 3.8% increase in comparable transactions and a 2.3% increase in average ticket. The company also raised its fiscal year 2026 guidance for comparable store sales growth and non-GAAP EPS, attributing the positive performance to its \"Back to Starbucks\" plan.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "GuruFocus",
+            "date": "20260428T192254",
+            "title": "McDonald's (MCD) to Introduce New Crafted Beverages on May 6",
+            "summary": "McDonald's (MCD) will launch six new crafted beverages in U.S. locations starting May 6, targeting younger consumers and competing with Starbucks and Dunkin'. The company, with a strong market position and a GF Score of 86/100, aims to enhance customer engagement and sales. Despite strong profitability and growth potential, recent insider selling and a moderate financial strength rating suggest investors should proceed with caution.",
+            "text_to_analyze": "McDonald's (MCD) to Introduce New Crafted Beverages on May 6. McDonald's (MCD) will launch six new crafted beverages in U.S. locations starting May 6, targeting younger consumers and competing with Starbucks and Dunkin'. The company, with a strong market position and a GF Score of 86/100, aims to enhance customer engagement and sales. Despite strong profitability and growth potential, recent insider selling and a moderate financial strength rating suggest investors should proceed with caution.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.621173
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260428T162000",
+            "title": "Starbucks reports stronger than expected quarterly sales as turnaround gains traction",
+            "summary": "Starbucks announced stronger-than-expected fiscal second-quarter sales, with global same-store sales rising 6.2%, surpassing Wall Street forecasts. This positive performance is attributed to improved service, increased staffing during rush hours, and store redesigns. The company also raised its full-year earnings and same-store sales guidance, indicating a successful turnaround.",
+            "text_to_analyze": "Starbucks reports stronger than expected quarterly sales as turnaround gains traction. Starbucks announced stronger-than-expected fiscal second-quarter sales, with global same-store sales rising 6.2%, surpassing Wall Street forecasts. This positive performance is attributed to improved service, increased staffing during rush hours, and store redesigns. The company also raised its full-year earnings and same-store sales guidance, indicating a successful turnaround.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "International Business Times Australia",
+            "date": "20260428T160100",
+            "title": "Starbucks Stock 2026 Outlook: Buy the Dip or Sell on China Weakness?",
+            "summary": "Starbucks faces a challenging 2026 due to slowing sales in China, intense competition, and changing consumer habits, dividing Wall Street analysts on its stock outlook. While the company shows stability in the U.S. and other international markets, its performance in China remains a critical determinant for its future growth and stock valuation. Analysts suggest a cautious \"Buy\" or \"Hold\" for long-term investors, emphasizing the importance of China's recovery and operational improvements.",
+            "text_to_analyze": "Starbucks Stock 2026 Outlook: Buy the Dip or Sell on China Weakness?. Starbucks faces a challenging 2026 due to slowing sales in China, intense competition, and changing consumer habits, dividing Wall Street analysts on its stock outlook. While the company shows stability in the U.S. and other international markets, its performance in China remains a critical determinant for its future growth and stock valuation. Analysts suggest a cautious \"Buy\" or \"Hold\" for long-term investors, emphasizing the importance of China's recovery and operational improvements.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.987892
+        }
+    ]
+}

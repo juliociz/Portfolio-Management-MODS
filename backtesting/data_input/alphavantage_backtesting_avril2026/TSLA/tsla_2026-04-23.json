@@ -1,0 +1,108 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-23",
+    "window_start": "2026-04-22 16:00",
+    "window_end": "2026-04-23 09:27",
+    "articles": [
+        {
+            "source": "Morningstar",
+            "date": "20260423T083825",
+            "title": "Tesla Earnings: Shares Fall Slightly as Management Raises Capital Expenditure Guidance",
+            "summary": "Tesla's first-quarter earnings showed strong year-over-year operating profits and free cash flow, but shares fell slightly after management raised 2026 capital expenditure guidance to over $25 billion, tripling 2025 levels. This significant investment is directed towards the company's transition to autonomous vehicles and humanoid robots, which Morningstar views as a positive long-term strategy given the progress in these areas. Despite the increased capex and negative free cash flow guidance for the remainder of the year, Morningstar maintains a fair value estimate of $400 for Tesla, advising investors to await a greater margin of safety before buying.",
+            "text_to_analyze": "Tesla Earnings: Shares Fall Slightly as Management Raises Capital Expenditure Guidance. Tesla's first-quarter earnings showed strong year-over-year operating profits and free cash flow, but shares fell slightly after management raised 2026 capital expenditure guidance to over $25 billion, tripling 2025 levels. This significant investment is directed towards the company's transition to autonomous vehicles and humanoid robots, which Morningstar views as a positive long-term strategy given the progress in these areas. Despite the increased capex and negative free cash flow guidance for the remainder of the year, Morningstar maintains a fair value estimate of $400 for Tesla, advising investors to await a greater margin of safety before buying.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260423T062939",
+            "title": "Musk says Tesla, SpaceX to use Intel’s 14A tech in Terafab, lifting Intel shares (INTC:NASDAQ)",
+            "summary": "Elon Musk announced that Tesla and SpaceX will utilize Intel's 14A technology for their \"Terafab\" project. This news provided a boost to Intel's manufacturing revival efforts, with Intel shares rising approximately 3% in postmarket trading following the announcement.",
+            "text_to_analyze": "Musk says Tesla, SpaceX to use Intel’s 14A tech in Terafab, lifting Intel shares (INTC:NASDAQ). Elon Musk announced that Tesla and SpaceX will utilize Intel's 14A technology for their \"Terafab\" project. This news provided a boost to Intel's manufacturing revival efforts, with Intel shares rising approximately 3% in postmarket trading following the announcement.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.932508
+        },
+        {
+            "source": "Talk Business & Politics",
+            "date": "20260423T031019",
+            "title": "Electric vehicle test, cancer support part of ArcBest ‘Impact Report’",
+            "summary": "ArcBest has released its 2025 Impact Report, detailing environmental programs and initiatives focused on employee well-being and corporate responsibility. Key highlights include a successful three-week test of a Tesla Class 8 electric truck, along with various efforts in waste reduction, renewable energy, and facility upgrades. The report also outlines new employee benefits such as a cancer support program and updated dental coverage.",
+            "text_to_analyze": "Electric vehicle test, cancer support part of ArcBest ‘Impact Report’. ArcBest has released its 2025 Impact Report, detailing environmental programs and initiatives focused on employee well-being and corporate responsibility. Key highlights include a successful three-week test of a Tesla Class 8 electric truck, along with various efforts in waste reduction, renewable energy, and facility upgrades. The report also outlines new employee benefits such as a cancer support program and updated dental coverage.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.6452
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260423T030855",
+            "title": "iShares MSCI World ETF's Tech-Heavy Bet Faces a Critical Week",
+            "summary": "The iShares MSCI World ETF, heavily weighted in technology, faces a critical week as key tech companies like Tesla, Apple, and Microsoft report earnings. Tesla's recent struggles put pressure on the ETF, which allocates a significant portion to the information technology sector. Additionally, a major overhaul of MSCI's index methodology in May 2026 is expected to cause significant portfolio adjustments for the fund.",
+            "text_to_analyze": "iShares MSCI World ETF's Tech-Heavy Bet Faces a Critical Week. The iShares MSCI World ETF, heavily weighted in technology, faces a critical week as key tech companies like Tesla, Apple, and Microsoft report earnings. Tesla's recent struggles put pressure on the ETF, which allocates a significant portion to the information technology sector. Additionally, a major overhaul of MSCI's index methodology in May 2026 is expected to cause significant portfolio adjustments for the fund.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.99144
+        },
+        {
+            "source": "MSN",
+            "date": "20260423T024008",
+            "title": "YieldMax TSLA option income strategy ETF announces weekly distribution of $0.2955",
+            "summary": "The YieldMax TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2955 per share. This announcement highlights the ETF's strategy of generating income, likely through options trading strategies related to Tesla stock. Investors in TSLY can expect to receive this distribution.",
+            "text_to_analyze": "YieldMax TSLA option income strategy ETF announces weekly distribution of $0.2955. The YieldMax TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2955 per share. This announcement highlights the ETF's strategy of generating income, likely through options trading strategies related to Tesla stock. Investors in TSLY can expect to receive this distribution.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.836256
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260423T020905",
+            "title": "$Direxion Daily TSLA Bull 2X Shares (TSLL.US)$ 🥴🥴🥴",
+            "summary": "The article is a single post by user \"Bluey Bruno\" on the Moomoo Community discussing $Direxion Daily TSLA Bull 2X Shares (TSLL.US)$. It features a somewhat humorous sentiment represented by the \"🥴🥴🥴\" emojis. The post is part of a larger discussion about Tesla's stock and its AI5 chip milestone.",
+            "text_to_analyze": "$Direxion Daily TSLA Bull 2X Shares (TSLL.US)$ 🥴🥴🥴. The article is a single post by user \"Bluey Bruno\" on the Moomoo Community discussing $Direxion Daily TSLA Bull 2X Shares (TSLL.US)$. It features a somewhat humorous sentiment represented by the \"🥴🥴🥴\" emojis. The post is part of a larger discussion about Tesla's stock and its AI5 chip milestone.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.825049
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260423T004040",
+            "title": "Today’s Market Recap: Nasdaq Hits Record High as Tech Rallies on AI Growth; Tesla Q1 Beats Estimates Amid Spending Surge",
+            "summary": "The Nasdaq Composite achieved a new record high, with the S&P 500 and Nasdaq seeing significant gains driven by mega-cap tech stocks, Alphabet, and semiconductor companies benefiting from AI demand. Tesla's Q1 results showed strong revenue and earnings growth, though the company plans for substantial capital expenditures. Meanwhile, Google and OpenAI advanced AI with new chips and tools, while broader markets reacted to potential ceasefire talks between the U.S. and Iran and a political dispute over tariff refunds.",
+            "text_to_analyze": "Today’s Market Recap: Nasdaq Hits Record High as Tech Rallies on AI Growth; Tesla Q1 Beats Estimates Amid Spending Surge. The Nasdaq Composite achieved a new record high, with the S&P 500 and Nasdaq seeing significant gains driven by mega-cap tech stocks, Alphabet, and semiconductor companies benefiting from AI demand. Tesla's Q1 results showed strong revenue and earnings growth, though the company plans for substantial capital expenditures. Meanwhile, Google and OpenAI advanced AI with new chips and tools, while broader markets reacted to potential ceasefire talks between the U.S. and Iran and a political dispute over tariff refunds.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.930991
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260422T233821",
+            "title": "Tesla increases spending plans as company reports positive free cash flow",
+            "summary": "Tesla has significantly raised its spending forecast to over US$25-billion for the year, focusing on AI, robotics, and芯片 to boost future revenue streams. Despite investor skepticism causing a stock dip, the company reported a positive free cash flow of US$1.44-billion in the first quarter, surprising analysts who had expected a cash burn. Tesla is accelerating its plans for autonomous Cybercabs and robotaxis, and continues to develop a cheaper electric SUV, though its core automotive business faces pressure from competitors.",
+            "text_to_analyze": "Tesla increases spending plans as company reports positive free cash flow. Tesla has significantly raised its spending forecast to over US$25-billion for the year, focusing on AI, robotics, and芯片 to boost future revenue streams. Despite investor skepticism causing a stock dip, the company reported a positive free cash flow of US$1.44-billion in the first quarter, surprising analysts who had expected a cash burn. Tesla is accelerating its plans for autonomous Cybercabs and robotaxis, and continues to develop a cheaper electric SUV, though its core automotive business faces pressure from competitors.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260422T223321",
+            "title": "Tesla's Musk says company plans to use Intel's 14A process for Terafab",
+            "summary": "Tesla CEO Elon Musk announced that the company intends to utilize Intel's advanced 14A manufacturing process for its Terafab project, which aims to produce chips for AI, robotics, and data centers. Tesla and SpaceX have joined Intel's Terafab AI chip complex, with Musk expressing confidence in the 14A process's maturity and Intel's relationship. This move could bolster investor confidence in Intel's next-generation manufacturing, given its past struggles with chip yield.",
+            "text_to_analyze": "Tesla's Musk says company plans to use Intel's 14A process for Terafab. Tesla CEO Elon Musk announced that the company intends to utilize Intel's advanced 14A manufacturing process for its Terafab project, which aims to produce chips for AI, robotics, and data centers. Tesla and SpaceX have joined Intel's Terafab AI chip complex, with Musk expressing confidence in the 14A process's maturity and Intel's relationship. This move could bolster investor confidence in Intel's next-generation manufacturing, given its past struggles with chip yield.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Not a Tesla App",
+            "date": "20260422T184312",
+            "title": "Tesla Expands Cybertruck V2G Capabilities to California to Help Stabilize Electrical Grid",
+            "summary": "Tesla is expanding its Cybertruck Vehicle-to-Grid (V2G) and Vehicle-to-Everything (V2X) capabilities to California, allowing Cybertruck owners in PG&E's service territory to use their vehicles to support the electrical grid and earn money. This initiative, called Powershare Grid Support, requires specific hardware including the Cybertruck, a Tesla Powershare Gateway, and a Tesla Universal Wall Connector. This expansion follows a successful launch in Texas and aims to use EVs as mobile power banks to stabilize grids and provide backup power.",
+            "text_to_analyze": "Tesla Expands Cybertruck V2G Capabilities to California to Help Stabilize Electrical Grid. Tesla is expanding its Cybertruck Vehicle-to-Grid (V2G) and Vehicle-to-Everything (V2X) capabilities to California, allowing Cybertruck owners in PG&E's service territory to use their vehicles to support the electrical grid and earn money. This initiative, called Powershare Grid Support, requires specific hardware including the Cybertruck, a Tesla Powershare Gateway, and a Tesla Universal Wall Connector. This expansion follows a successful launch in Texas and aims to use EVs as mobile power banks to stabilize grids and provide backup power.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Dailyhunt",
+            "date": "20260422T163921",
+            "title": "PG&E Approves Tesla Cybertruck For First-Of-Its-Kind Grid Program",
+            "summary": "PG&E has approved the Tesla Cybertruck and its charging equipment for a new residential Vehicle-to-Everything (V2X) program in California, allowing customers to power homes and sell electricity back to the grid. This initiative, utilizing Tesla's Powershare technology, is the state's first AC-based vehicle-to-grid system and aims to promote EV adoption as flexible energy assets. The article also provides a technical analysis of PG&E's stock, its company context, upcoming earnings, and analyst outlook.",
+            "text_to_analyze": "PG&E Approves Tesla Cybertruck For First-Of-Its-Kind Grid Program. PG&E has approved the Tesla Cybertruck and its charging equipment for a new residential Vehicle-to-Everything (V2X) program in California, allowing customers to power homes and sell electricity back to the grid. This initiative, utilizing Tesla's Powershare technology, is the state's first AC-based vehicle-to-grid system and aims to promote EV adoption as flexible energy assets. The article also provides a technical analysis of PG&E's stock, its company context, upcoming earnings, and analyst outlook.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.929265
+        }
+    ]
+}

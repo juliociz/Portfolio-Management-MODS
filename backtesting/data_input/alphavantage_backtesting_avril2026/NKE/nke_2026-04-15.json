@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-15",
+    "window_start": "2026-04-14 16:00",
+    "window_end": "2026-04-15 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260414T202721",
+            "title": "Nike (NYSE: NKE) CEO Elliott Hill adds to stake with open-market buy",
+            "summary": "NIKE, Inc. President and CEO Elliott Hill recently increased his stake in the company by purchasing 23,660.235 shares of Class B Common Stock at $42.265 per share in an open-market transaction. This purchase, made on April 13, 2026, increased his direct holdings to 265,247.235 shares. The transaction, permitted under company policy during a post-earnings trading window, signal's the CEO's confidence in the company.",
+            "text_to_analyze": "Nike (NYSE: NKE) CEO Elliott Hill adds to stake with open-market buy. NIKE, Inc. President and CEO Elliott Hill recently increased his stake in the company by purchasing 23,660.235 shares of Class B Common Stock at $42.265 per share in an open-market transaction. This purchase, made on April 13, 2026, increased his direct holdings to 265,247.235 shares. The transaction, permitted under company policy during a post-earnings trading window, signal's the CEO's confidence in the company.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260414T202521",
+            "title": "Director at Nike (NYSE: NKE) adds 25,000 Class B shares",
+            "summary": "Timothy D. Cook, a director at Nike (NYSE: NKE), purchased 25,000 shares of Class B Common Stock for $42.43 per share, totaling $1.06 million. This open-market transaction increased his direct holdings to 130,480 Class B shares. The acquisition was conducted within Nike's trading policy guidelines, which permit insider trading during specific windows or under approved 10b5-1 trading plans.",
+            "text_to_analyze": "Director at Nike (NYSE: NKE) adds 25,000 Class B shares. Timothy D. Cook, a director at Nike (NYSE: NKE), purchased 25,000 shares of Class B Common Stock for $42.43 per share, totaling $1.06 million. This open-market transaction increased his direct holdings to 130,480 Class B shares. The acquisition was conducted within Nike's trading policy guidelines, which permit insider trading during specific windows or under approved 10b5-1 trading plans.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

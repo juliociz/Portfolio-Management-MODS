@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-08",
+    "window_start": "2026-04-07 16:00",
+    "window_end": "2026-04-08 09:27",
+    "articles": [
+        {
+            "source": "Connect CRE",
+            "date": "20260407T204054",
+            "title": "Marcus & Millichap Arranges Sale, Financing of Starbucks Property in Joliet",
+            "summary": "Marcus & Millichap has successfully arranged the sale and financing of a net-leased Starbucks property in Joliet, Illinois, for $2.9 million. The property, built in 2025 and secured by a 15-year ground lease, was sold to an out-of-state private investor at 97% of its list price. The transaction was facilitated by Marcus & Millichap's teams in Chicago Oak Brook and Milwaukee, with financing secured at a 5.65% fixed interest rate over five years.",
+            "text_to_analyze": "Marcus & Millichap Arranges Sale, Financing of Starbucks Property in Joliet. Marcus & Millichap has successfully arranged the sale and financing of a net-leased Starbucks property in Joliet, Illinois, for $2.9 million. The property, built in 2025 and secured by a 15-year ground lease, was sold to an out-of-state private investor at 97% of its list price. The transaction was facilitated by Marcus & Millichap's teams in Chicago Oak Brook and Milwaukee, with financing secured at a 5.65% fixed interest rate over five years.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.806865
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260407T160853",
+            "title": "Pumpkin Spice Latte: Starbucks' Iconic Fall Beverage",
+            "summary": "Starbucks' Pumpkin Spice Latte (PSL), introduced in 2003, is an iconic seasonal beverage blending espresso, pumpkin spice flavors, steamed milk, and whipped cream, symbolizing the start of fall for many consumers. It generates massive demand and billions in sales annually, with its cultural relevance amplified by social media. The article details its unique ingredients, consumer appeal, global market impact, and the sustained innovation and marketing efforts that maintain its dominance in a competitive landscape.",
+            "text_to_analyze": "Pumpkin Spice Latte: Starbucks' Iconic Fall Beverage. Starbucks' Pumpkin Spice Latte (PSL), introduced in 2003, is an iconic seasonal beverage blending espresso, pumpkin spice flavors, steamed milk, and whipped cream, symbolizing the start of fall for many consumers. It generates massive demand and billions in sales annually, with its cultural relevance amplified by social media. The article details its unique ingredients, consumer appeal, global market impact, and the sustained innovation and marketing efforts that maintain its dominance in a competitive landscape.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Lifestyle Singapore",
+            "date": "20260407T160000",
+            "title": "Starbucks Quietly Launches New Spring Drinks—Including a Caffeinated “Energy Refresher” Line",
+            "summary": "Starbucks has launched nine new drinks for a late spring release, featuring a new \"Energy Refresher\" line with approximately 75 mg of extra caffeine and a \"Mango Cream Cold Foam.\" The new offerings include various mango-strawberry refresher options, new matcha and chai drinks with mango cream, and an Iced Ube Coconut Cream Shaken Espresso, following the success of a previous ube macchiato.",
+            "text_to_analyze": "Starbucks Quietly Launches New Spring Drinks—Including a Caffeinated “Energy Refresher” Line. Starbucks has launched nine new drinks for a late spring release, featuring a new \"Energy Refresher\" line with approximately 75 mg of extra caffeine and a \"Mango Cream Cold Foam.\" The new offerings include various mango-strawberry refresher options, new matcha and chai drinks with mango cream, and an Iced Ube Coconut Cream Shaken Espresso, following the success of a previous ube macchiato.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

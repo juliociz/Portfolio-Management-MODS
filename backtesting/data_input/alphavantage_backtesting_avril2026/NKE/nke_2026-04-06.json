@@ -1,0 +1,63 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-06",
+    "window_start": "2026-04-03 16:00",
+    "window_end": "2026-04-06 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260405T200822",
+            "title": "Rocket Lab, Beyond Meat, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+            "summary": "This article highlights five stocks—Tesla, Micron Technology, Rocket Lab, Nike, and Beyond Meat—that were trending among retail investors from March 30 to April 2 due to various factors like earnings reports, AI developments, and corporate news. Tesla missed delivery expectations, Micron faced volatility over an AI algorithm, Rocket Lab received regulatory approval for an acquisition, Nike plunged despite beating estimates, and Beyond Meat saw revenue decline amid weak demand.",
+            "text_to_analyze": "Rocket Lab, Beyond Meat, Micron Technology And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week. This article highlights five stocks—Tesla, Micron Technology, Rocket Lab, Nike, and Beyond Meat—that were trending among retail investors from March 30 to April 2 due to various factors like earnings reports, AI developments, and corporate news. Tesla missed delivery expectations, Micron faced volatility over an AI algorithm, Rocket Lab received regulatory approval for an acquisition, Nike plunged despite beating estimates, and Beyond Meat saw revenue decline amid weak demand.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.982727
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260405T124619",
+            "title": "Nike, Boston Scientific, And Sysco Are Among Top 10 Large Cap Losers Last Week (March 30-April 2): Are the Others in Your Portfolio?",
+            "summary": "The article identifies the top 10 large-cap losers from the trading week of March 30 to April 2, a shortened week due to the Good Friday holiday. Nike, Boston Scientific, and Sysco were among those listed, with their declines attributed to factors like disappointing financial results, acquisition announcements, analyst downgrades, and clinical trial data.",
+            "text_to_analyze": "Nike, Boston Scientific, And Sysco Are Among Top 10 Large Cap Losers Last Week (March 30-April 2): Are the Others in Your Portfolio?. The article identifies the top 10 large-cap losers from the trading week of March 30 to April 2, a shortened week due to the Good Friday holiday. Nike, Boston Scientific, and Sysco were among those listed, with their declines attributed to factors like disappointing financial results, acquisition announcements, analyst downgrades, and clinical trial data.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.913362
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260404T183849",
+            "title": "Jim Cramer Discusses Starbucks (SBUX) CEO’s Turnaround Algorithm",
+            "summary": "Jim Cramer has consistently highlighted Starbucks (SBUX) CEO Brian Niccol's turnaround strategy, which he sees as successful, particularly when compared to Nike. Cramer, whose charitable trust holds a significant position in Starbucks, notes improvements in customer service and employee rosters. Guggenheim also recently raised its price target for SBUX to $95, maintaining a Neutral rating, and increased its Q2 same-store sales growth estimate despite reducing earnings projections for future fiscal years.",
+            "text_to_analyze": "Jim Cramer Discusses Starbucks (SBUX) CEO’s Turnaround Algorithm. Jim Cramer has consistently highlighted Starbucks (SBUX) CEO Brian Niccol's turnaround strategy, which he sees as successful, particularly when compared to Nike. Cramer, whose charitable trust holds a significant position in Starbucks, notes improvements in customer service and employee rosters. Guggenheim also recently raised its price target for SBUX to $95, maintaining a Neutral rating, and increased its Q2 same-store sales growth estimate despite reducing earnings projections for future fiscal years.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.631612
+        },
+        {
+            "source": "Sahm",
+            "date": "20260404T110824",
+            "title": "Assessing Nike's Performance Against Competitors In Textiles, Apparel & Luxury Goods Industry",
+            "summary": "This article provides an in-depth analysis of Nike's performance against its competitors in the Textiles, Apparel & Luxury Goods industry. It evaluates Nike based on critical financial metrics such as P/E, P/B, P/S ratios, ROE, EBITDA, gross profit, and revenue growth. The analysis concludes that while Nike has strong profitability and cash flow (EBITDA, gross profit), it shows a premium valuation (high P/E, P/B), lower efficiency in utilizing equity (ROE), and slower revenue growth compared to its peers.",
+            "text_to_analyze": "Assessing Nike's Performance Against Competitors In Textiles, Apparel & Luxury Goods Industry. This article provides an in-depth analysis of Nike's performance against its competitors in the Textiles, Apparel & Luxury Goods industry. It evaluates Nike based on critical financial metrics such as P/E, P/B, P/S ratios, ROE, EBITDA, gross profit, and revenue growth. The analysis concludes that while Nike has strong profitability and cash flow (EBITDA, gross profit), it shows a premium valuation (high P/E, P/B), lower efficiency in utilizing equity (ROE), and slower revenue growth compared to its peers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260404T083809",
+            "title": "Nike Shifts Production From China While Stretching Dividend And Valuation",
+            "summary": "Nike is strategically reducing its reliance on Chinese manufacturing for US-bound footwear, aiming to mitigate tariff impacts and manage profitability pressures. Despite these operational shifts, the company is maintaining its 24-year dividend growth streak, even though payouts currently exceed earnings and free cash flow coverage is low. This move highlights Nike's focus on shareholder returns amidst broader business challenges and investor scrutiny over its guidance, margins, and China sales.",
+            "text_to_analyze": "Nike Shifts Production From China While Stretching Dividend And Valuation. Nike is strategically reducing its reliance on Chinese manufacturing for US-bound footwear, aiming to mitigate tariff impacts and manage profitability pressures. Despite these operational shifts, the company is maintaining its 24-year dividend growth streak, even though payouts currently exceed earnings and free cash flow coverage is low. This move highlights Nike's focus on shareholder returns amidst broader business challenges and investor scrutiny over its guidance, margins, and China sales.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "FinancialContent",
+            "date": "20260404T020920",
+            "title": "On Holding AG Class A Ordinary Shares (NY: ONON",
+            "summary": "This article provides a list of recent news headlines related to On Holding AG Class A Ordinary Shares (NYSE: ONON). The news covers a period from July 2024 to August 2024, discussing topics such as On Holding's earnings performance, comparisons with Nike, and general market trends affecting footwear and apparel stocks. Several articles highlight On's growth strategy and market performance, while others touch upon broader economic factors and investment opportunities.",
+            "text_to_analyze": "On Holding AG Class A Ordinary Shares (NY: ONON. This article provides a list of recent news headlines related to On Holding AG Class A Ordinary Shares (NYSE: ONON). The news covers a period from July 2024 to August 2024, discussing topics such as On Holding's earnings performance, comparisons with Nike, and general market trends affecting footwear and apparel stocks. Several articles highlight On's growth strategy and market performance, while others touch upon broader economic factors and investment opportunities.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.83293
+        }
+    ]
+}

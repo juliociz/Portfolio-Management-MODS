@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-13",
+    "window_start": "2026-04-10 16:00",
+    "window_end": "2026-04-13 09:27",
+    "articles": [
+        {
+            "source": "Good Housekeeping",
+            "date": "20260411T110224",
+            "title": "Starbucks Is Selling a New Protein-Packed Breakfast Item",
+            "summary": "Starbucks has launched a new protein-packed breakfast option nationwide: MUSH Chocolate Peanut Butter Protein Overnight Oats. This ready-to-eat item, which was a 2025 Good Housekeeping Snack Award winner, offers 15 grams of protein and up to 7 grams of fiber. A dietitian praised the new offering for being a nutritious, convenient, and gluten-free breakfast solution for busy mornings.",
+            "text_to_analyze": "Starbucks Is Selling a New Protein-Packed Breakfast Item. Starbucks has launched a new protein-packed breakfast option nationwide: MUSH Chocolate Peanut Butter Protein Overnight Oats. This ready-to-eat item, which was a 2025 Good Housekeeping Snack Award winner, offers 15 grams of protein and up to 7 grams of fiber. A dietitian praised the new offering for being a nutritious, convenient, and gluten-free breakfast solution for busy mornings.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Morningstar",
+            "date": "20260410T230831",
+            "title": "Starbucks' Prudent Brand Investment Is Luring Consumers, but Near-Term Costs Are Hefty",
+            "summary": "Starbucks is undergoing a strategic pivot to address its competitive restaurant landscape, focusing on customer experience, atmosphere, service efficiency, advertising, and product innovation. These efforts aim to restore brand strength and revive comparable sales growth, with Morningstar analysts anticipating a return to positive comparable sales in fiscal 2026 after two years of declines in North America. While these investments are deemed prudent, the near-term costs are significant.",
+            "text_to_analyze": "Starbucks' Prudent Brand Investment Is Luring Consumers, but Near-Term Costs Are Hefty. Starbucks is undergoing a strategic pivot to address its competitive restaurant landscape, focusing on customer experience, atmosphere, service efficiency, advertising, and product innovation. These efforts aim to restore brand strength and revive comparable sales growth, with Morningstar analysts anticipating a return to positive comparable sales in fiscal 2026 after two years of declines in North America. While these investments are deemed prudent, the near-term costs are significant.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.945842
+        },
+        {
+            "source": "ChartMill",
+            "date": "20260410T160837",
+            "title": "SBUX Forecast, Price Target & Analyst Ratings | STARBUCKS CORP (NASDAQ:SBUX)",
+            "summary": "This article provides an in-depth analyst forecast for Starbucks Corp (NASDAQ: SBUX), detailing price targets, earnings estimates, and revenue projections. Based on 48 analyst forecasts, the average price target is $101.78, indicating a potential 2.98% upside. Starbucks is expected to report Q2 2026 earnings on April 20, 2026, with an EPS estimate of $0.42 and revenue of $9.269 billion.",
+            "text_to_analyze": "SBUX Forecast, Price Target & Analyst Ratings | STARBUCKS CORP (NASDAQ:SBUX). This article provides an in-depth analyst forecast for Starbucks Corp (NASDAQ: SBUX), detailing price targets, earnings estimates, and revenue projections. Based on 48 analyst forecasts, the average price target is $101.78, indicating a potential 2.98% upside. Starbucks is expected to report Q2 2026 earnings on April 20, 2026, with an EPS estimate of $0.42 and revenue of $9.269 billion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

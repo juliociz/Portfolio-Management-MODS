@@ -1,0 +1,72 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-13",
+    "window_start": "2026-04-10 16:00",
+    "window_end": "2026-04-13 09:27",
+    "articles": [
+        {
+            "source": "VOI.id",
+            "date": "20260412T220625",
+            "title": "Wave of Layoffs Back, The Walt Disney Company Cuts 1,000 Employees",
+            "summary": "The Walt Disney Company is set to lay off up to 1,000 employees as part of its ongoing cost-cutting measures, primarily impacting the marketing division. This restructuring follows the appointment of Josh D'Amaro as CEO and a recent consolidation of marketing functions under a single leadership. The move aims to strengthen Disney's financial position, building on previous efficiency programs, including 7,000 layoffs in 2023.",
+            "text_to_analyze": "Wave of Layoffs Back, The Walt Disney Company Cuts 1,000 Employees. The Walt Disney Company is set to lay off up to 1,000 employees as part of its ongoing cost-cutting measures, primarily impacting the marketing division. This restructuring follows the appointment of Josh D'Amaro as CEO and a recent consolidation of marketing functions under a single leadership. The move aims to strengthen Disney's financial position, building on previous efficiency programs, including 7,000 layoffs in 2023.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260412T180728",
+            "title": "The Walt Disney Company (DIS): Balancing Near-Term Pressures with Long-Term Growth Drivers",
+            "summary": "BofA Securities analyst Jessica Reif Ehrlich reiterated a Buy rating and $125 price target on The Walt Disney Company (NYSE:DIS), highlighting the strength of its Experiences segment despite near-term headwinds like weak international attendance and cruise ship pre-opening costs. Ehrlich projects approximately 5% revenue growth for the Experiences segment in Q2 FY2026 and believes rising oil prices will not significantly impact earnings due to Disney's hedging and fuel-efficient fleet. The Sports segment's operating income is expected to be back-half weighted in FY2026, primarily due to the new NBA media rights deal's payout structure.",
+            "text_to_analyze": "The Walt Disney Company (DIS): Balancing Near-Term Pressures with Long-Term Growth Drivers. BofA Securities analyst Jessica Reif Ehrlich reiterated a Buy rating and $125 price target on The Walt Disney Company (NYSE:DIS), highlighting the strength of its Experiences segment despite near-term headwinds like weak international attendance and cruise ship pre-opening costs. Ehrlich projects approximately 5% revenue growth for the Experiences segment in Q2 FY2026 and believes rising oil prices will not significantly impact earnings due to Disney's hedging and fuel-efficient fleet. The Sports segment's operating income is expected to be back-half weighted in FY2026, primarily due to the new NBA media rights deal's payout structure.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260412T103723",
+            "title": "Sumitomo Mitsui Trust Group Inc. Lowers Stake in The Walt Disney Company $DIS",
+            "summary": "Sumitomo Mitsui Trust Group Inc. reduced its stake in The Walt Disney Company by 2.8% in the fourth quarter, selling 134,481 shares but still holding 4,695,338 shares valued at over $534 million. While some institutional investors increased their positions, other market signals for Disney are mixed, with positive news like park reopenings contrasted by reports of job cuts and industry consolidation. Analysts currently have a \"Moderate Buy\" consensus rating for Disney with a target price of $132.19.",
+            "text_to_analyze": "Sumitomo Mitsui Trust Group Inc. Lowers Stake in The Walt Disney Company $DIS. Sumitomo Mitsui Trust Group Inc. reduced its stake in The Walt Disney Company by 2.8% in the fourth quarter, selling 134,481 shares but still holding 4,695,338 shares valued at over $534 million. While some institutional investors increased their positions, other market signals for Disney are mixed, with positive news like park reopenings contrasted by reports of job cuts and industry consolidation. Analysts currently have a \"Moderate Buy\" consensus rating for Disney with a target price of $132.19.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260411T133727",
+            "title": "The Walt Disney Company $DIS Shares Sold by Bartlett & CO. Wealth Management LLC",
+            "summary": "Bartlett & CO. Wealth Management LLC reduced its holdings in The Walt Disney Company (NYSE:DIS) by 11.1% in the fourth quarter of 2025, selling over 17,000 shares. This comes as Disney reported an EPS beat and $25.98 billion in revenue, while also investing in its theme parks but facing challenges like job cuts and increased streaming competition. Analysts currently rate the stock as a \"Moderate Buy\" with a consensus target price of $132.19.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by Bartlett & CO. Wealth Management LLC. Bartlett & CO. Wealth Management LLC reduced its holdings in The Walt Disney Company (NYSE:DIS) by 11.1% in the fourth quarter of 2025, selling over 17,000 shares. This comes as Disney reported an EPS beat and $25.98 billion in revenue, while also investing in its theme parks but facing challenges like job cuts and increased streaming competition. Analysts currently rate the stock as a \"Moderate Buy\" with a consensus target price of $132.19.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260411T084230",
+            "title": "The Walt Disney Company $DIS Shares Purchased by Factory Mutual Insurance Co.",
+            "summary": "Factory Mutual Insurance Co. increased its stake in The Walt Disney Company by 40.8% in Q4, acquiring an additional 53,250 shares, bringing its total to 183,856 shares valued at approximately $20.92 million. Disney (NYSE: DIS) recently beat Q4 earnings expectations with $1.63 EPS and revenues of $25.98 billion, with analysts projecting $5.47 EPS for the current fiscal year. The stock holds a consensus \"Moderate Buy\" rating with an average target price of $132.19, despite mixed company news including park investments, job cuts, and competitive streaming pressures.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Purchased by Factory Mutual Insurance Co.. Factory Mutual Insurance Co. increased its stake in The Walt Disney Company by 40.8% in Q4, acquiring an additional 53,250 shares, bringing its total to 183,856 shares valued at approximately $20.92 million. Disney (NYSE: DIS) recently beat Q4 earnings expectations with $1.63 EPS and revenues of $25.98 billion, with analysts projecting $5.47 EPS for the current fiscal year. The stock holds a consensus \"Moderate Buy\" rating with an average target price of $132.19, despite mixed company news including park investments, job cuts, and competitive streaming pressures.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260411T074728",
+            "title": "Bfsg LLC Cuts Position in The Walt Disney Company $DIS",
+            "summary": "Bfsg LLC significantly reduced its stake in The Walt Disney Company by 96.3% in Q4, selling 69,243 shares and retaining only 2,684 shares valued at $305,000. Despite this, Disney exceeded quarterly expectations with $1.63 EPS and $25.98 billion in revenue, leading to a \"Moderate Buy\" consensus rating and a $132.19 price target from Wall Street analysts. The company's operational outlook is mixed, with continued investment in parks alongside reported job cuts and increased streaming competition.",
+            "text_to_analyze": "Bfsg LLC Cuts Position in The Walt Disney Company $DIS. Bfsg LLC significantly reduced its stake in The Walt Disney Company by 96.3% in Q4, selling 69,243 shares and retaining only 2,684 shares valued at $305,000. Despite this, Disney exceeded quarterly expectations with $1.63 EPS and $25.98 billion in revenue, leading to a \"Moderate Buy\" consensus rating and a $132.19 price target from Wall Street analysts. The company's operational outlook is mixed, with continued investment in parks alongside reported job cuts and increased streaming competition.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.951213
+        },
+        {
+            "source": "Facebook",
+            "date": "20260411T013731",
+            "title": "WINNIE THE POOH'S 100TH YEAR The Walt Disney Company is celebrating 100 years of Winnie the Pooh with a free interactive London exhibition, “Winnie the Pooh: The Lost Balloon,” inspired by Ashdown Forest and featuring immersive activities for visitor",
+            "summary": "The Walt Disney Company is commemorating 100 years of Winnie the Pooh with a free interactive exhibition in London. Titled “Winnie the Pooh: The Lost Balloon,” the event is inspired by Ashdown Forest and offers immersive activities for visitors. The exhibition celebrates the beloved character's centennial milestone.",
+            "text_to_analyze": "WINNIE THE POOH'S 100TH YEAR The Walt Disney Company is celebrating 100 years of Winnie the Pooh with a free interactive London exhibition, “Winnie the Pooh: The Lost Balloon,” inspired by Ashdown Forest and featuring immersive activities for visitor. The Walt Disney Company is commemorating 100 years of Winnie the Pooh with a free interactive exhibition in London. Titled “Winnie the Pooh: The Lost Balloon,” the event is inspired by Ashdown Forest and offers immersive activities for visitors. The exhibition celebrates the beloved character's centennial milestone.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-22",
+    "window_start": "2026-04-21 16:00",
+    "window_end": "2026-04-22 09:27",
+    "articles": [
+        {
+            "source": "Investing.com Canada",
+            "date": "20260421T231809",
+            "title": "Starbucks CEO, international Brady Brewer sells $58,800 in stock By Investing.com",
+            "summary": "Brady Brewer, Starbucks' CEO, International, sold 588 shares of company stock for $58,800 on April 17, 2026. The transaction was executed under a Rule 10b5-1 trading plan. This sale comes as InvestingPro analysis suggests Starbucks appears overvalued, despite a history of 16 consecutive years of dividend increases.",
+            "text_to_analyze": "Starbucks CEO, international Brady Brewer sells $58,800 in stock By Investing.com. Brady Brewer, Starbucks' CEO, International, sold 588 shares of company stock for $58,800 on April 17, 2026. The transaction was executed under a Rule 10b5-1 trading plan. This sale comes as InvestingPro analysis suggests Starbucks appears overvalued, despite a history of 16 consecutive years of dividend increases.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260421T224113",
+            "title": "Starbucks (NASDAQ: SBUX) exec sells 588 shares under 10b5-1 plan",
+            "summary": "Starbucks' CEO International, Brady Brewer, sold 588 shares of company common stock at $100.00 per share on April 17, 2026, totaling $58,800. This transaction was executed under a pre-arranged Rule 10b5-1 trading plan adopted on December 3, 2025. Following the sale, Brewer retains 83,787.502 shares of Starbucks common stock.",
+            "text_to_analyze": "Starbucks (NASDAQ: SBUX) exec sells 588 shares under 10b5-1 plan. Starbucks' CEO International, Brady Brewer, sold 588 shares of company common stock at $100.00 per share on April 17, 2026, totaling $58,800. This transaction was executed under a pre-arranged Rule 10b5-1 trading plan adopted on December 3, 2025. Following the sale, Brewer retains 83,787.502 shares of Starbucks common stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260421T221004",
+            "title": "Starbucks CEO to Nashville: 'We're here … because we share a vision'",
+            "summary": "Starbucks CEO Brian Niccol visited Nashville to formally announce the opening of a new office that will create 2,000 jobs. Niccol explained the reasons behind the global coffee giant's decision to expand its presence in Music City. The move is part of Starbucks' efforts to spark a turnaround for the company.",
+            "text_to_analyze": "Starbucks CEO to Nashville: 'We're here … because we share a vision'. Starbucks CEO Brian Niccol visited Nashville to formally announce the opening of a new office that will create 2,000 jobs. Niccol explained the reasons behind the global coffee giant's decision to expand its presence in Music City. The move is part of Starbucks' efforts to spark a turnaround for the company.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Human Resources Director",
+            "date": "20260421T202516",
+            "title": "Starbucks wins as court vacates NLRB unfair labor practice ruling",
+            "summary": "A federal appeals court has sided with Starbucks, ruling that the National Labor Relations Board (NLRB) used an incorrect standard when penalizing the company for subpoenaing pro-union workers. The Fifth Circuit Court of Appeals vacated an NLRB order that found Starbucks committed an unfair labor practice by seeking information on union activities, forcing the Board to re-evaluate the case under a \"totality of the circumstances\" standard. This decision means the Board must use a more context-driven approach to determine if Starbucks' actions were coercive, rather than the previous discovery-related standard.",
+            "text_to_analyze": "Starbucks wins as court vacates NLRB unfair labor practice ruling. A federal appeals court has sided with Starbucks, ruling that the National Labor Relations Board (NLRB) used an incorrect standard when penalizing the company for subpoenaing pro-union workers. The Fifth Circuit Court of Appeals vacated an NLRB order that found Starbucks committed an unfair labor practice by seeking information on union activities, forcing the Board to re-evaluate the case under a \"totality of the circumstances\" standard. This decision means the Board must use a more context-driven approach to determine if Starbucks' actions were coercive, rather than the previous discovery-related standard.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260421T193727",
+            "title": "What to know about Starbucks’ Nashville job search",
+            "summary": "Starbucks has initiated its recruitment drive for 2,000 jobs at its new \"eastern U.S. headquarters\" in downtown Nashville, located in the Peabody Union development. The company seeks local talent for the majority of these six-figure positions. The article highlights the skills Starbucks is looking for, the expected origin of its Nashville-based employees, and salary information.",
+            "text_to_analyze": "What to know about Starbucks’ Nashville job search. Starbucks has initiated its recruitment drive for 2,000 jobs at its new \"eastern U.S. headquarters\" in downtown Nashville, located in the Peabody Union development. The company seeks local talent for the majority of these six-figure positions. The article highlights the skills Starbucks is looking for, the expected origin of its Nashville-based employees, and salary information.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260421T165100",
+            "title": "Starbucks aims for 2,000 jobs at its 'eastern headquarters' in Nashville",
+            "summary": "Starbucks officially announced details of its Nashville office expansion on April 21, with executives appearing publicly in Music City for the first time. The company plans to create 2,000 jobs at what it refers to as its \"eastern headquarters\" in Nashville, though it did not specify a timeline. This move expands Starbucks' corporate presence outside of its Seattle base.",
+            "text_to_analyze": "Starbucks aims for 2,000 jobs at its 'eastern headquarters' in Nashville. Starbucks officially announced details of its Nashville office expansion on April 21, with executives appearing publicly in Music City for the first time. The company plans to create 2,000 jobs at what it refers to as its \"eastern headquarters\" in Nashville, though it did not specify a timeline. This move expands Starbucks' corporate presence outside of its Seattle base.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260421T163800",
+            "title": "Starbucks Corp. stock underperforms Tuesday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) shares fell 1.16% on Tuesday, closing at $97.80, as the broader stock market also experienced a downturn. The S&P 500 Index dropped 0.63% and the Dow Jones Industrial Average decreased by 0.59%. This marks the second consecutive day of losses for Starbucks stock, which underperformed its competitors.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Tuesday when compared to competitors. Starbucks Corp. (SBUX) shares fell 1.16% on Tuesday, closing at $97.80, as the broader stock market also experienced a downturn. The S&P 500 Index dropped 0.63% and the Dow Jones Industrial Average decreased by 0.59%. This marks the second consecutive day of losses for Starbucks stock, which underperformed its competitors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barchart.com",
+            "date": "20260421T162924",
+            "title": "Starbucks to open new corporate office in Nashville",
+            "summary": "Starbucks plans to open a new corporate office in Nashville, Tennessee, investing $100 million and creating up to 2,000 jobs over the next five years. While Seattle remains its global headquarters, this move supports a significant U.S. expansion strategy, including opening 5,000 new cafes. The company aims to address underserved regions and compete with rising coffee chains.",
+            "text_to_analyze": "Starbucks to open new corporate office in Nashville. Starbucks plans to open a new corporate office in Nashville, Tennessee, investing $100 million and creating up to 2,000 jobs over the next five years. While Seattle remains its global headquarters, this move supports a significant U.S. expansion strategy, including opening 5,000 new cafes. The company aims to address underserved regions and compete with rising coffee chains.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260421T162325",
+            "title": "Starbucks to invest $100 million to set up Southeast corporate office in Nashville",
+            "summary": "Starbucks announced plans to invest $100 million in a new corporate office in Nashville, Tennessee. This new office will support the coffee chain's expansion in the southeastern United States and will complement its existing headquarters in Seattle. The company expects to create 2,000 new support jobs in Nashville over the next five years, including new roles and conversions of contract positions to full-time staff.",
+            "text_to_analyze": "Starbucks to invest $100 million to set up Southeast corporate office in Nashville. Starbucks announced plans to invest $100 million in a new corporate office in Nashville, Tennessee. This new office will support the coffee chain's expansion in the southeastern United States and will complement its existing headquarters in Seattle. The company expects to create 2,000 new support jobs in Nashville over the next five years, including new roles and conversions of contract positions to full-time staff.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260421T162225",
+            "title": "Starbucks earnings set to reflect stabilizing US trends offset by mixed international outlook",
+            "summary": "Starbucks is preparing to release its fiscal second-quarter earnings, with analysts anticipating stabilizing US demand but mixed international performance, particularly in China. Jefferies expects in-line results with modest US improvement, while UBS projects stronger North America sales due to menu innovation and operational enhancements. Both firms acknowledge that much of the near-term recovery is already priced into the stock.",
+            "text_to_analyze": "Starbucks earnings set to reflect stabilizing US trends offset by mixed international outlook. Starbucks is preparing to release its fiscal second-quarter earnings, with analysts anticipating stabilizing US demand but mixed international performance, particularly in China. Jefferies expects in-line results with modest US improvement, while UBS projects stronger North America sales due to menu innovation and operational enhancements. Both firms acknowledge that much of the near-term recovery is already priced into the stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

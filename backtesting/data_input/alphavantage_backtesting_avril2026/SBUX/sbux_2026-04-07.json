@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-07",
+    "window_start": "2026-04-06 16:00",
+    "window_end": "2026-04-07 09:27",
+    "articles": [
+        {
+            "source": "Intellectia AI",
+            "date": "20260407T061645",
+            "title": "Starbucks Launches New Energy Refreshers in U.S. Stores",
+            "summary": "Starbucks has introduced new energy refreshers in U.S. stores on April 7, featuring classic flavors with natural caffeine and B vitamins, alongside caffeine-free options to cater to a broader consumer base. This launch aims to attract health-conscious customers and boost sales, complemented by new incentives for employees to improve service quality. Additionally, Starbucks is transitioning its China operations to Boyu Capital to expand its store count and market share in the region.",
+            "text_to_analyze": "Starbucks Launches New Energy Refreshers in U.S. Stores. Starbucks has introduced new energy refreshers in U.S. stores on April 7, featuring classic flavors with natural caffeine and B vitamins, alongside caffeine-free options to cater to a broader consumer base. This launch aims to attract health-conscious customers and boost sales, complemented by new incentives for employees to improve service quality. Additionally, Starbucks is transitioning its China operations to Boyu Capital to expand its store count and market share in the region.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Quiver Quantitative",
+            "date": "20260406T173500",
+            "title": "Starbucks rises as investors weigh new U.S. barista incentive plan and pay changes",
+            "summary": "Starbucks (SBUX) stock rose 3.6% after the company announced a new incentive program and pay changes for its U.S. baristas, including an incentive rewards structure, expanded tipping options, and a shift to weekly pay. Investors view these initiatives as a way to improve staffing stability and service quality, which are crucial for the company's turnaround efforts. The changes are expected to increase eligible partners' compensation by 5%-8% and will begin rolling out in July 2026.",
+            "text_to_analyze": "Starbucks rises as investors weigh new U.S. barista incentive plan and pay changes. Starbucks (SBUX) stock rose 3.6% after the company announced a new incentive program and pay changes for its U.S. baristas, including an incentive rewards structure, expanded tipping options, and a shift to weekly pay. Investors view these initiatives as a way to improve staffing stability and service quality, which are crucial for the company's turnaround efforts. The changes are expected to increase eligible partners' compensation by 5%-8% and will begin rolling out in July 2026.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bitget",
+            "date": "20260406T164003",
+            "title": "Starbucks Jumps 3.6% During Intraday Rally – What’s Driving the Surge?",
+            "summary": "Starbucks (SBUX) experienced a 3.6% intraday surge, reaching $93.65, driven by technical rebound from oversold conditions and not by fundamental news. The stock is trading above its 30-day and 100-day moving averages, with an RSI of 33.46, suggesting a potential shift from bearish to bullish momentum. Traders are monitoring key options and technical levels to determine if this rally will persist or if a new bearish phase will emerge.",
+            "text_to_analyze": "Starbucks Jumps 3.6% During Intraday Rally – What’s Driving the Surge?. Starbucks (SBUX) experienced a 3.6% intraday surge, reaching $93.65, driven by technical rebound from oversold conditions and not by fundamental news. The stock is trading above its 30-day and 100-day moving averages, with an RSI of 33.46, suggesting a potential shift from bearish to bullish momentum. Traders are monitoring key options and technical levels to determine if this rally will persist or if a new bearish phase will emerge.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bitget",
+            "date": "20260406T163911",
+            "title": "Starbucks Jumps 3.6% During Intraday Rally – What’s Driving the Surge?",
+            "summary": "Starbucks (SBUX) experienced a 3.62% intraday rally, reaching $93.65, driven by short-term oversold conditions and technical indicators suggesting a potential shift from bearish to bullish momentum. The stock is trading above its 30-day and 100-day moving averages, and its RSI of 33.46 indicates it is in oversold territory. This surge appears to be a stock-specific technical recovery rather than a sector-wide trend, with investors closely watching key resistance and support levels.",
+            "text_to_analyze": "Starbucks Jumps 3.6% During Intraday Rally – What’s Driving the Surge?. Starbucks (SBUX) experienced a 3.62% intraday rally, reaching $93.65, driven by short-term oversold conditions and technical indicators suggesting a potential shift from bearish to bullish momentum. The stock is trading above its 30-day and 100-day moving averages, and its RSI of 33.46 indicates it is in oversold territory. This surge appears to be a stock-specific technical recovery rather than a sector-wide trend, with investors closely watching key resistance and support levels.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260406T163000",
+            "title": "Starbucks Corp. stock outperforms competitors on strong trading day",
+            "summary": "Starbucks Corp. (SBUX) stock rose 4.88% to $94.78 on a strong trading day, outperforming competitors and the broader market. The company's shares closed 9.58% below its 52-week high of $104.82, achieved in January. This performance occurred as the S&P 500 Index and Dow Jones Industrial Average also saw gains.",
+            "text_to_analyze": "Starbucks Corp. stock outperforms competitors on strong trading day. Starbucks Corp. (SBUX) stock rose 4.88% to $94.78 on a strong trading day, outperforming competitors and the broader market. The company's shares closed 9.58% below its 52-week high of $104.82, achieved in January. This performance occurred as the S&P 500 Index and Dow Jones Industrial Average also saw gains.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

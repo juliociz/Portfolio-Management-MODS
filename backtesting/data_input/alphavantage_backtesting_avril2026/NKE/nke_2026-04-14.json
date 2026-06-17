@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-14",
+    "window_start": "2026-04-13 16:00",
+    "window_end": "2026-04-14 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260413T190833",
+            "title": "Did NIKE, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+            "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether certain officers and directors of NIKE, Inc. (NYSE: NKE) breached their fiduciary duties to shareholders. The firm urges long-term NIKE shareholders to contact them to explore potential legal options, including seeking corporate governance reforms or financial incentives. Their goal is to improve company policies and enhance shareholder value by holding fiduciaries accountable.",
+            "text_to_analyze": "Did NIKE, Inc. Insiders Breach their Fiduciary Duties to Shareholders?. Halper Sadeh LLC, an investor rights law firm, is investigating whether certain officers and directors of NIKE, Inc. (NYSE: NKE) breached their fiduciary duties to shareholders. The firm urges long-term NIKE shareholders to contact them to explore potential legal options, including seeking corporate governance reforms or financial incentives. Their goal is to improve company policies and enhance shareholder value by holding fiduciaries accountable.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

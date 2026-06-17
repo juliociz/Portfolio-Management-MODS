@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-23",
+    "window_start": "2026-04-22 16:00",
+    "window_end": "2026-04-23 09:27",
+    "articles": [
+        {
+            "source": "MSN",
+            "date": "20260423T063929",
+            "title": "YieldMax DIS option income strategy ETF announces weekly distribution of $0.0419",
+            "summary": "The YieldMax DIS Option Income Strategy ETF has announced a weekly distribution of $0.0419 per share. This distribution is part of the ETF's strategy to provide income through options. Further details about the distribution, including ex-dividend and payment dates, were not immediately available in this brief announcement.",
+            "text_to_analyze": "YieldMax DIS option income strategy ETF announces weekly distribution of $0.0419. The YieldMax DIS Option Income Strategy ETF has announced a weekly distribution of $0.0419 per share. This distribution is part of the ETF's strategy to provide income through options. Further details about the distribution, including ex-dividend and payment dates, were not immediately available in this brief announcement.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.704046
+        },
+        {
+            "source": "MSN",
+            "date": "20260423T051008",
+            "title": "Corvex Management exits CCL, DLTR, raises stakes in VSTS, DIS, ORCL among Q4 moves",
+            "summary": "The article is a placeholder from MSN and does not contain any actual content about Corvex Management's Q4 trades. Therefore, a meaningful summary cannot be provided.",
+            "text_to_analyze": "Corvex Management exits CCL, DLTR, raises stakes in VSTS, DIS, ORCL among Q4 moves. The article is a placeholder from MSN and does not contain any actual content about Corvex Management's Q4 trades. Therefore, a meaningful summary cannot be provided.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.710081
+        }
+    ]
+}

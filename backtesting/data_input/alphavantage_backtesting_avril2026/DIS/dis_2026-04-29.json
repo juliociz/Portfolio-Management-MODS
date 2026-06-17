@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-04-29",
+    "window_start": "2026-04-28 16:00",
+    "window_end": "2026-04-29 09:27",
+    "articles": [
+        {
+            "source": "MyNewsLA.com",
+            "date": "20260428T224023",
+            "title": "FCC Orders Walt Disney Co To File Early Renewal for ABC After Kimmel Sketch",
+            "summary": "The FCC has ordered The Walt Disney Co., parent company of ABC, to submit early renewal applications for its TV stations after a joke made by late-night talk show host Jimmy Kimmel prompted criticism from President Donald Trump and former First Lady Melania Trump. The order, issued despite licenses not being due for renewal until 2028, is reportedly tied to an ongoing investigation into Disney and ABC for potential rule violations related to diversity, equity, and inclusion, according to the FCC. A Democratic commissioner, Anna Gomez, called the demand \"unprecedented, unlawful and going nowhere,\" suggesting it's a political stunt.",
+            "text_to_analyze": "FCC Orders Walt Disney Co To File Early Renewal for ABC After Kimmel Sketch. The FCC has ordered The Walt Disney Co., parent company of ABC, to submit early renewal applications for its TV stations after a joke made by late-night talk show host Jimmy Kimmel prompted criticism from President Donald Trump and former First Lady Melania Trump. The order, issued despite licenses not being due for renewal until 2028, is reportedly tied to an ongoing investigation into Disney and ABC for potential rule violations related to diversity, equity, and inclusion, according to the FCC. A Democratic commissioner, Anna Gomez, called the demand \"unprecedented, unlawful and going nowhere,\" suggesting it's a political stunt.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.302422
+        },
+        {
+            "source": "CBS News",
+            "date": "20260428T193722",
+            "title": "FCC orders Disney to file for early license renewal after Trump calls for Jimmy Kimmel to be fired",
+            "summary": "The Federal Communications Commission (FCC) has directed Walt Disney Co. to file early license renewal applications for its ABC television stations due to an ongoing investigation into potential violations of the Communications Act of 1934 and discrimination prohibitions, specifically regarding Disney's diversity, equity, and inclusion practices. This order comes shortly after former President Donald Trump called for ABC to fire comedian Jimmy Kimmel over a joke he made about Melania Trump. Disney, whose ABC licenses were originally due for renewal between 2028 and 2031, stated it is confident its record demonstrates full compliance with FCC rules and the First Amendment.",
+            "text_to_analyze": "FCC orders Disney to file for early license renewal after Trump calls for Jimmy Kimmel to be fired. The Federal Communications Commission (FCC) has directed Walt Disney Co. to file early license renewal applications for its ABC television stations due to an ongoing investigation into potential violations of the Communications Act of 1934 and discrimination prohibitions, specifically regarding Disney's diversity, equity, and inclusion practices. This order comes shortly after former President Donald Trump called for ABC to fire comedian Jimmy Kimmel over a joke he made about Melania Trump. Disney, whose ABC licenses were originally due for renewal between 2028 and 2031, stated it is confident its record demonstrates full compliance with FCC rules and the First Amendment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

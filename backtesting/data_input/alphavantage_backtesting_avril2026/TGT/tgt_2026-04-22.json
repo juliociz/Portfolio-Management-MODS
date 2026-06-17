@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-04-22",
+    "window_start": "2026-04-21 16:00",
+    "window_end": "2026-04-22 09:27",
+    "articles": [
+        {
+            "source": "KSDK",
+            "date": "20260421T210827",
+            "title": "St. Louis region's biggest Target store gets opening date",
+            "summary": "The largest Target store in the St. Louis region, located at 8647 Olive Blvd. in University City, is set to open on Sunday, May 17. The 149,000-square-foot store will be the 21st Target in the region and one of six new Target stores opening nationwide, featuring a two-story parking garage and a design suited for same-day delivery and extensive merchandise. Target Corp. (NYSE:TGT) also has plans for another store in Farmington, Missouri.",
+            "text_to_analyze": "St. Louis region's biggest Target store gets opening date. The largest Target store in the St. Louis region, located at 8647 Olive Blvd. in University City, is set to open on Sunday, May 17. The 149,000-square-foot store will be the 21st Target in the region and one of six new Target stores opening nationwide, featuring a two-story parking garage and a design suited for same-day delivery and extensive merchandise. Target Corp. (NYSE:TGT) also has plans for another store in Farmington, Missouri.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.310499
+        },
+        {
+            "source": "Progressive Grocer",
+            "date": "20260421T160847",
+            "title": "Target to Transform Community Spaces in 13 Cities Through Bullseye Builds",
+            "summary": "Target Corp. is expanding its Bullseye Builds with Community Program to 13 U.S. cities this year, backed by a $1 million investment. The initiative, which launched in 2024, transforms community spaces through design-driven projects like garden restorations and facility improvements, with the help of Target team member volunteers. Projects will kick off in May in Denver and Las Vegas, focusing on student wellness and combating food insecurity, respectively.",
+            "text_to_analyze": "Target to Transform Community Spaces in 13 Cities Through Bullseye Builds. Target Corp. is expanding its Bullseye Builds with Community Program to 13 U.S. cities this year, backed by a $1 million investment. The initiative, which launched in 2024, transforms community spaces through design-driven projects like garden restorations and facility improvements, with the help of Target team member volunteers. Projects will kick off in May in Denver and Las Vegas, focusing on student wellness and combating food insecurity, respectively.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.906963
+        }
+    ]
+}

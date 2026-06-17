@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-30",
+    "window_start": "2026-04-29 16:00",
+    "window_end": "2026-04-30 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260429T223856",
+            "title": "What's Behind The Drop In Starbucks Stock?",
+            "summary": "Starbucks (SBUX) stock is falling ahead of its earnings report, with investors focused on the company's long-term strategy in China and its ability to meet profitability and revenue targets. Analysts have a mixed view on the stock's valuation, and key metrics like same-store sales and digital engagement will be crucial to watch.",
+            "text_to_analyze": "What's Behind The Drop In Starbucks Stock?. Starbucks (SBUX) stock is falling ahead of its earnings report, with investors focused on the company's long-term strategy in China and its ability to meet profitability and revenue targets. Analysts have a mixed view on the stock's valuation, and key metrics like same-store sales and digital engagement will be crucial to watch.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260429T183822",
+            "title": "Niccol Effect Has Starbucks Stock Barreling Toward Fresh Highs",
+            "summary": "Starbucks' stock is surging towards new highs due to the \"Niccol Effect,\" a term describing CEO Brian Niccol's successful strategy previously seen at Chipotle Mexican Grill. This strategy emphasizes a digital-first approach, leading to accelerated organic growth, improved unit economics, and enhanced profitability, as evidenced by Starbucks' strong Q2 2026 results. Analysts are lifting price targets, and institutional investors are accumulating shares, positioning SBUX for a potential major breakout.",
+            "text_to_analyze": "Niccol Effect Has Starbucks Stock Barreling Toward Fresh Highs. Starbucks' stock is surging towards new highs due to the \"Niccol Effect,\" a term describing CEO Brian Niccol's successful strategy previously seen at Chipotle Mexican Grill. This strategy emphasizes a digital-first approach, leading to accelerated organic growth, improved unit economics, and enhanced profitability, as evidenced by Starbucks' strong Q2 2026 results. Analysts are lifting price targets, and institutional investors are accumulating shares, positioning SBUX for a potential major breakout.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260429T163226",
+            "title": "Starbucks Brews Breakout: Sales Beat, Traffic Hits 3-Year High - Starbucks (NASDAQ:SBUX)",
+            "summary": "Starbucks reported strong fiscal second-quarter results, beating sales and earnings estimates, with global same-store sales up 6.2% and North America sales growing 7.1%. The company saw its best traffic in three years, driven by marketing, menu innovation, and operational improvements. Analysts from BTIG, TD Cowen, Goldman Sachs, and DA Davidson reacted positively, with several raising price targets, as management also increased its fiscal 2026 earnings guidance.",
+            "text_to_analyze": "Starbucks Brews Breakout: Sales Beat, Traffic Hits 3-Year High - Starbucks (NASDAQ:SBUX). Starbucks reported strong fiscal second-quarter results, beating sales and earnings estimates, with global same-store sales up 6.2% and North America sales growing 7.1%. The company saw its best traffic in three years, driven by marketing, menu innovation, and operational improvements. Analysts from BTIG, TD Cowen, Goldman Sachs, and DA Davidson reacted positively, with several raising price targets, as management also increased its fiscal 2026 earnings guidance.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260429T160619",
+            "title": "SBUX (NASDAQ: SBUX) files Form 144; insider sold 2,500 shares",
+            "summary": "Starbucks (SBUX) filed a Form 144, indicating a proposed sale of Common Stock. The filing details prior issuances, including an ESPP purchase and restricted stock vesting. Additionally, it reveals that Sara-Lynn Kelly sold 2,500 shares on March 5, 2026, for $242,800.",
+            "text_to_analyze": "SBUX (NASDAQ: SBUX) files Form 144; insider sold 2,500 shares. Starbucks (SBUX) filed a Form 144, indicating a proposed sale of Common Stock. The filing details prior issuances, including an ESPP purchase and restricted stock vesting. Additionally, it reveals that Sara-Lynn Kelly sold 2,500 shares on March 5, 2026, for $242,800.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.307079
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-04-07",
+    "window_start": "2026-04-06 16:00",
+    "window_end": "2026-04-07 09:27",
+    "articles": [
+        {
+            "source": "Stocktwits",
+            "date": "20260407T083851",
+            "title": "Tesla Stock Slips Premarket: Cathie Wood’s Ark Maintains Conviction With $14M Dip Buy Even As Bears Get Louder",
+            "summary": "Despite Tesla's stock slipping to a seven-month low and repeated delivery misses, Cathie Wood's Ark Invest purchased nearly $14 million worth of TSLA shares across three ETFs, reaffirming its long-term conviction. ARK maintains a $2,600 price target for Tesla by 2029, driven by the potential of autonomous mobility. This contrasts sharply with JPMorgan's \"Underweight\" rating and $145 price target, highlighting a significant divergence in outlook.",
+            "text_to_analyze": "Tesla Stock Slips Premarket: Cathie Wood’s Ark Maintains Conviction With $14M Dip Buy Even As Bears Get Louder. Despite Tesla's stock slipping to a seven-month low and repeated delivery misses, Cathie Wood's Ark Invest purchased nearly $14 million worth of TSLA shares across three ETFs, reaffirming its long-term conviction. ARK maintains a $2,600 price target for Tesla by 2029, driven by the potential of autonomous mobility. This contrasts sharply with JPMorgan's \"Underweight\" rating and $145 price target, highlighting a significant divergence in outlook.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo! Finance Canada",
+            "date": "20260407T070157",
+            "title": "Tesla Posts Weaker-than-Expected Deliveries for Q1 2026",
+            "summary": "Tesla reported weaker-than-expected deliveries for Q1 2026, with 358,023 vehicles delivered against an estimated 365,000 units. This shortfall was attributed to fading US incentives and increased global competition. Despite this, China-made vehicle sales surged, and Tesla remains a favored stock among hedge funds.",
+            "text_to_analyze": "Tesla Posts Weaker-than-Expected Deliveries for Q1 2026. Tesla reported weaker-than-expected deliveries for Q1 2026, with 358,023 vehicles delivered against an estimated 365,000 units. This shortfall was attributed to fading US incentives and increased global competition. Despite this, China-made vehicle sales surged, and Tesla remains a favored stock among hedge funds.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing.com India",
+            "date": "20260407T000832",
+            "title": "Cathie Wood’s ARK sells Teradyne stock, buys Tesla By Investing.com",
+            "summary": "Cathie Wood's ARK ETFs made significant portfolio adjustments on Monday, April 6th, 2026. The firm sold over $7.8 million worth of Teradyne Inc. stock while making a substantial purchase of Tesla Inc. shares valued at over $14.3 million. Additionally, ARK divested holdings in BWX Technologies Inc., Cameco Corp., and Strata Critical Medical Inc., and increased its stake in Kodiak AI Inc.",
+            "text_to_analyze": "Cathie Wood’s ARK sells Teradyne stock, buys Tesla By Investing.com. Cathie Wood's ARK ETFs made significant portfolio adjustments on Monday, April 6th, 2026. The firm sold over $7.8 million worth of Teradyne Inc. stock while making a substantial purchase of Tesla Inc. shares valued at over $14.3 million. Additionally, ARK divested holdings in BWX Technologies Inc., Cameco Corp., and Strata Critical Medical Inc., and increased its stake in Kodiak AI Inc.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.931018
+        },
+        {
+            "source": "Yahoo",
+            "date": "20260406T201659",
+            "title": "Dad, son burned to death in Tesla days before Christmas because they couldn’t get out, lawsuit says",
+            "summary": "A mother has filed a wrongful death lawsuit against Tesla after her 14-year-old son and his father burned to death in a Tesla Model 3 crash in December 2024. The lawsuit alleges that features of the car, including electric-powered door handles becoming inoperable and system failures due to the lithium-ion battery fire, trapped them inside. It also claims Tesla’s \"autopilot\" features, such as Lane Departure Avoidance and Automatic Emergency Braking, did not function as marketed, leading to the crash.",
+            "text_to_analyze": "Dad, son burned to death in Tesla days before Christmas because they couldn’t get out, lawsuit says. A mother has filed a wrongful death lawsuit against Tesla after her 14-year-old son and his father burned to death in a Tesla Model 3 crash in December 2024. The lawsuit alleges that features of the car, including electric-powered door handles becoming inoperable and system failures due to the lithium-ion battery fire, trapped them inside. It also claims Tesla’s \"autopilot\" features, such as Lane Departure Avoidance and Automatic Emergency Braking, did not function as marketed, leading to the crash.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing.com",
+            "date": "20260406T200500",
+            "title": "Cathie Wood’s ARK sells Teradyne stock, buys Tesla",
+            "summary": "Cathie Wood's ARK Invest recently adjusted its portfolio, selling off 25,240 shares of Teradyne Inc. totaling over $7.8 million across its ARKK and ARKQ ETFs. Concurrently, ARK made a substantial investment in Tesla Inc., purchasing 39,691 shares valued at more than $14.3 million through its ARKK, ARKQ, and ARKX ETFs. This strategic move demonstrates ARK's continued confidence in Tesla while reducing exposure to other holdings like BWX Technologies and Cameco Corp.",
+            "text_to_analyze": "Cathie Wood’s ARK sells Teradyne stock, buys Tesla. Cathie Wood's ARK Invest recently adjusted its portfolio, selling off 25,240 shares of Teradyne Inc. totaling over $7.8 million across its ARKK and ARKQ ETFs. Concurrently, ARK made a substantial investment in Tesla Inc., purchasing 39,691 shares valued at more than $14.3 million through its ARKK, ARKQ, and ARKX ETFs. This strategic move demonstrates ARK's continued confidence in Tesla while reducing exposure to other holdings like BWX Technologies and Cameco Corp.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.949975
+        },
+        {
+            "source": "MSN",
+            "date": "20260406T193304",
+            "title": "Tesla vs. Ford: What analysts are saying after disappointing Q1 deliveries",
+            "summary": "This article discusses analyst reactions to disappointing Q1 deliveries for both Tesla and Ford. It likely compares how the market perceives the future outlook and stock performance of these two major automakers following their recent performance.",
+            "text_to_analyze": "Tesla vs. Ford: What analysts are saying after disappointing Q1 deliveries. This article discusses analyst reactions to disappointing Q1 deliveries for both Tesla and Ford. It likely compares how the market perceives the future outlook and stock performance of these two major automakers following their recent performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Inc.com",
+            "date": "20260406T192203",
+            "title": "Why a Wall Street Analyst Warns Tesla Shares Could Drop 60%",
+            "summary": "JPMorgan analysts are warning investors that Tesla's stock could drop by as much as 60% due to a disconnect between its rising share price and declining business fundamentals. Despite a significant stock rally, the company faces weakening sales, shrinking profits, and record-high inventory levels, with first-quarter earnings estimates sharply revised downwards. While CEO Elon Musk aims to refocus investors on future initiatives like robotaxis and humanoid robots, the company's current stock performance is deemed out of sync with its financial outlook.",
+            "text_to_analyze": "Why a Wall Street Analyst Warns Tesla Shares Could Drop 60%. JPMorgan analysts are warning investors that Tesla's stock could drop by as much as 60% due to a disconnect between its rising share price and declining business fundamentals. Despite a significant stock rally, the company faces weakening sales, shrinking profits, and record-high inventory levels, with first-quarter earnings estimates sharply revised downwards. While CEO Elon Musk aims to refocus investors on future initiatives like robotaxis and humanoid robots, the company's current stock performance is deemed out of sync with its financial outlook.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260406T190603",
+            "title": "Gary Farmer: Tesla should get its incentives from Travis County",
+            "summary": "Gary Farmer, founder of Opportunity Austin, advocates for Travis County to provide incentives to Tesla. He emphasizes that the county should \"keep its word\" regarding financial support for the company. A critical meeting on this issue is scheduled for April 7.",
+            "text_to_analyze": "Gary Farmer: Tesla should get its incentives from Travis County. Gary Farmer, founder of Opportunity Austin, advocates for Travis County to provide incentives to Tesla. He emphasizes that the county should \"keep its word\" regarding financial support for the company. A critical meeting on this issue is scheduled for April 7.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Polymarket",
+            "date": "20260406T173848",
+            "title": "Tesla (TSLA) closes above ___ on April 7? Trading Odds & Predictions",
+            "summary": "This Polymarket prediction market focuses on whether Tesla (TSLA) will close above certain price points on April 7, 2026. Current trading indicates low probabilities for TSLA to close above $340 or higher, reflecting investor concerns over missed Q1 2026 delivery estimates, fading tax credits, and softening EV demand. The market resolution will be based on official closing prices from Yahoo Finance, with Q1 earnings on April 22 anticipated as a major catalyst.",
+            "text_to_analyze": "Tesla (TSLA) closes above ___ on April 7? Trading Odds & Predictions. This Polymarket prediction market focuses on whether Tesla (TSLA) will close above certain price points on April 7, 2026. Current trading indicates low probabilities for TSLA to close above $340 or higher, reflecting investor concerns over missed Q1 2026 delivery estimates, fading tax credits, and softening EV demand. The market resolution will be based on official closing prices from Yahoo Finance, with Q1 earnings on April 22 anticipated as a major catalyst.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260406T173719",
+            "title": "9 Consumer Discretionary Stocks Whale Activity In Today's Session",
+            "summary": "This article identifies nine consumer discretionary stocks that experienced significant \"whale\" option activity during today's trading session. It details specific call and put option sweeps for companies like Tesla, Amazon, Peloton, and Alibaba, including contract numbers, strike prices, expiration dates, and perceived sentiment (bullish, bearish, or neutral). The report serves as a tool for traders to spot potential opportunities based on large-scale options transactions.",
+            "text_to_analyze": "9 Consumer Discretionary Stocks Whale Activity In Today's Session. This article identifies nine consumer discretionary stocks that experienced significant \"whale\" option activity during today's trading session. It details specific call and put option sweeps for companies like Tesla, Amazon, Peloton, and Alibaba, including contract numbers, strike prices, expiration dates, and perceived sentiment (bullish, bearish, or neutral). The report serves as a tool for traders to spot potential opportunities based on large-scale options transactions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.800633
+        }
+    ]
+}

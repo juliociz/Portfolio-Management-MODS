@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-04-16",
+    "window_start": "2026-04-15 16:00",
+    "window_end": "2026-04-16 09:27",
+    "articles": [
+        {
+            "source": "International Business Times Australia",
+            "date": "20260416T020200",
+            "title": "Starbucks Stock in 2026: Buy the Dip or Sell the Rally as Turnaround Gains Traction?",
+            "summary": "Starbucks stock has risen 15% year-to-date in 2026, reaching $98, driven by early signs of a turnaround under new CEO Brian Niccol. The \"Back to Starbucks\" strategy, which includes menu simplification and improved store operations, has led to positive U.S. transaction growth. However, challenges persist in the China market and from cautious consumers, necessitating strong execution in the coming months to validate sustained growth for the premium valuation.",
+            "text_to_analyze": "Starbucks Stock in 2026: Buy the Dip or Sell the Rally as Turnaround Gains Traction?. Starbucks stock has risen 15% year-to-date in 2026, reaching $98, driven by early signs of a turnaround under new CEO Brian Niccol. The \"Back to Starbucks\" strategy, which includes menu simplification and improved store operations, has led to positive U.S. transaction growth. However, challenges persist in the China market and from cautious consumers, necessitating strong execution in the coming months to validate sustained growth for the premium valuation.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "RTTNews",
+            "date": "20260416T003830",
+            "title": "Starbucks Launches ChatGPT Beta App To Inspire Drink Orders",
+            "summary": "Starbucks has launched a beta version of an app within ChatGPT, allowing customers to find and customize drink orders using generative AI by typing \"@Starbucks.\" This initiative is part of Starbucks' \"Back to Starbucks\" strategy to boost customer engagement, especially among younger demographics, and follows their previous AI integration with Microsoft's Azure OpenAI platform. While customization and location selection are available through the ChatGPT app, final purchases still need to be completed via the Starbucks app or website to maintain loyalty program integrity.",
+            "text_to_analyze": "Starbucks Launches ChatGPT Beta App To Inspire Drink Orders. Starbucks has launched a beta version of an app within ChatGPT, allowing customers to find and customize drink orders using generative AI by typing \"@Starbucks.\" This initiative is part of Starbucks' \"Back to Starbucks\" strategy to boost customer engagement, especially among younger demographics, and follows their previous AI integration with Microsoft's Azure OpenAI platform. While customization and location selection are available through the ChatGPT app, final purchases still need to be completed via the Starbucks app or website to maintain loyalty program integrity.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260415T200503",
+            "title": "Starbucks investors get $0.62 a share as May 29 payout is set",
+            "summary": "Starbucks Corporation announced a quarterly cash dividend of $0.62 per share of outstanding Common Stock. The dividend is scheduled to be paid on May 29, 2026, to shareholders of record as of May 15, 2026. The announcement highlights Starbucks' commitment to returning value to its shareholders.",
+            "text_to_analyze": "Starbucks investors get $0.62 a share as May 29 payout is set. Starbucks Corporation announced a quarterly cash dividend of $0.62 per share of outstanding Common Stock. The dividend is scheduled to be paid on May 29, 2026, to shareholders of record as of May 15, 2026. The announcement highlights Starbucks' commitment to returning value to its shareholders.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.332834
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-04-02",
+    "window_start": "2026-04-01 16:00",
+    "window_end": "2026-04-02 09:27",
+    "articles": [
+        {
+            "source": "GuruFocus",
+            "date": "20260402T063817",
+            "title": "Nike Inc (MEX:NKE) Bonds",
+            "summary": "This page provides bond information for Nike Inc (MEX:NKE) and offers a summary of its key financial metrics as of April 1, including its stock price, market capitalization, P/E ratio, and enterprise value. It also notes a severe warning sign detected by GuruFocus for NKE. The page is part of GuruFocus, a platform that offers various investment tools, screeners, and financial data for subscribers.",
+            "text_to_analyze": "Nike Inc (MEX:NKE) Bonds. This page provides bond information for Nike Inc (MEX:NKE) and offers a summary of its key financial metrics as of April 1, including its stock price, market capitalization, P/E ratio, and enterprise value. It also notes a severe warning sign detected by GuruFocus for NKE. The page is part of GuruFocus, a platform that offers various investment tools, screeners, and financial data for subscribers.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260402T060840",
+            "title": "Nike Stock Sinks To 52-Week Low - Here's Why",
+            "summary": "Nike's stock fell to a 52-week low after the company issued a weaker-than-expected fourth-quarter outlook, despite beating third-quarter earnings estimates. Flat revenue growth and ongoing pressure on direct-to-consumer sales, despite strength in wholesale, contributed to investor concerns. The company is undergoing a multi-phase turnaround but its near-term recovery pace is under scrutiny.",
+            "text_to_analyze": "Nike Stock Sinks To 52-Week Low - Here's Why. Nike's stock fell to a 52-week low after the company issued a weaker-than-expected fourth-quarter outlook, despite beating third-quarter earnings estimates. Flat revenue growth and ongoing pressure on direct-to-consumer sales, despite strength in wholesale, contributed to investor concerns. The company is undergoing a multi-phase turnaround but its near-term recovery pace is under scrutiny.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260402T060828",
+            "title": "UPDATE 1-Nike's turnaround put to test as Middle East conflict poses new risks",
+            "summary": "Nike's turnaround efforts under CEO Elliott Hill are facing renewed challenges, including a projected sharp fall in sales and weakness in the key China market, further complicated by the Middle East conflict. The company's shares dropped significantly after it signaled a steep decline in current-quarter sales and an anticipated 20% drop in China. Analysts express frustration with the slow pace of recovery, although Nike's running category shows some growth.",
+            "text_to_analyze": "UPDATE 1-Nike's turnaround put to test as Middle East conflict poses new risks. Nike's turnaround efforts under CEO Elliott Hill are facing renewed challenges, including a projected sharp fall in sales and weakness in the key China market, further complicated by the Middle East conflict. The company's shares dropped significantly after it signaled a steep decline in current-quarter sales and an anticipated 20% drop in China. Analysts express frustration with the slow pace of recovery, although Nike's running category shows some growth.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260402T060820",
+            "title": "Nike Takes 'Intentional' Hit To Clear 'Unhealthy Inventory' In Q3 As CEO Eyes Turnaround By Year-End",
+            "summary": "Nike Inc. exceeded Q3 2026 earnings expectations despite an \"intentional\" inventory clear-out that impacted revenue. CEO Elliott Hill aims to complete the company's turnaround by year-end, focusing on athlete-led performance products and a balanced wholesale marketplace. Despite a stock dip due to temporary margin pressures from tariffs and restructuring, the company anticipates sustainable gross margin expansion by Q2 fiscal 2027.",
+            "text_to_analyze": "Nike Takes 'Intentional' Hit To Clear 'Unhealthy Inventory' In Q3 As CEO Eyes Turnaround By Year-End. Nike Inc. exceeded Q3 2026 earnings expectations despite an \"intentional\" inventory clear-out that impacted revenue. CEO Elliott Hill aims to complete the company's turnaround by year-end, focusing on athlete-led performance products and a balanced wholesale marketplace. Despite a stock dip due to temporary margin pressures from tariffs and restructuring, the company anticipates sustainable gross margin expansion by Q2 fiscal 2027.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260402T060820",
+            "title": "Nike's turnaround put to test as Middle East conflict poses new risks",
+            "summary": "Nike's efforts to revitalize its business are being challenged by the Middle East conflict, which has disrupted shopping behavior and weakened sales in parts of Europe, the Middle East, and Africa. This comes as the sportswear giant continues to struggle in China and faces issues like slow digital business and excess inventory. Despite some improvements in categories like running, analysts still see a long and difficult path ahead for Nike's recovery.",
+            "text_to_analyze": "Nike's turnaround put to test as Middle East conflict poses new risks. Nike's efforts to revitalize its business are being challenged by the Middle East conflict, which has disrupted shopping behavior and weakened sales in parts of Europe, the Middle East, and Africa. This comes as the sportswear giant continues to struggle in China and faces issues like slow digital business and excess inventory. Despite some improvements in categories like running, analysts still see a long and difficult path ahead for Nike's recovery.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260402T053817",
+            "title": "UPDATE 2-Nike's turnaround put to test as Middle East conflict poses new risks",
+            "summary": "Nike's ongoing turnaround under CEO Elliott Hill is facing new challenges due to the Middle East conflict and continued struggles in China, leading to a significant drop in sales and a slump in share price to a decade-low. Analysts are expressing frustration at the slow pace of recovery, despite some successes in specific product categories. The company is also battling issues such as excess inventory, intense competition, and impacts from reliance on Southeast Asian manufacturing hubs.",
+            "text_to_analyze": "UPDATE 2-Nike's turnaround put to test as Middle East conflict poses new risks. Nike's ongoing turnaround under CEO Elliott Hill is facing new challenges due to the Middle East conflict and continued struggles in China, leading to a significant drop in sales and a slump in share price to a decade-low. Analysts are expressing frustration at the slow pace of recovery, despite some successes in specific product categories. The company is also battling issues such as excess inventory, intense competition, and impacts from reliance on Southeast Asian manufacturing hubs.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Morningstar",
+            "date": "20260402T000810",
+            "title": "Nike Earnings: Positive Signs Amid a Frustratingly Slow Turnaround; Shares Attractive",
+            "summary": "Nike experienced flat sales in its fiscal 2026 third quarter, with growth in North America being offset by challenges elsewhere. The company's gross margin decreased by 130 basis points to 40.2% due to higher tariffs, and its operating margin dropped to 4.9% primarily because of layoff-related severance costs. Despite these challenges, the article suggests that Nike's stock remains attractive.",
+            "text_to_analyze": "Nike Earnings: Positive Signs Amid a Frustratingly Slow Turnaround; Shares Attractive. Nike experienced flat sales in its fiscal 2026 third quarter, with growth in North America being offset by challenges elsewhere. The company's gross margin decreased by 130 basis points to 40.2% due to higher tariffs, and its operating margin dropped to 4.9% primarily because of layoff-related severance costs. Despite these challenges, the article suggests that Nike's stock remains attractive.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barron's",
+            "date": "20260401T193916",
+            "title": "These Stocks Are Today’s Movers: Intel, Western Digital, Eli Lilly, Nike, RH, Exxon Mobil, and More",
+            "summary": "Stocks showed gains Wednesday following higher-than-anticipated February retail sales and March private payroll growth. Investors are also closely monitoring updates regarding the ongoing conflict in Iran. The article highlights several companies like Intel, Western Digital, and Eli Lilly as key market movers.",
+            "text_to_analyze": "These Stocks Are Today’s Movers: Intel, Western Digital, Eli Lilly, Nike, RH, Exxon Mobil, and More. Stocks showed gains Wednesday following higher-than-anticipated February retail sales and March private payroll growth. Investors are also closely monitoring updates regarding the ongoing conflict in Iran. The article highlights several companies like Intel, Western Digital, and Eli Lilly as key market movers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.947665
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260401T183850",
+            "title": "Jefferies Financial Group Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price",
+            "summary": "Jefferies Financial Group has cut its price target on Nike (NYSE:NKE) from $110 to $90, maintaining a \"buy\" rating despite a pessimistic forecast. This adjustment follows Nike's Q3 earnings beat, which was overshadowed by weak guidance, concerns about Greater China's performance, and margin pressure from inventory. The stock subsequently dropped about 15% and faces a \"Moderate Buy\" consensus rating with an average target of $64.57 from other analysts.",
+            "text_to_analyze": "Jefferies Financial Group Issues Pessimistic Forecast for NIKE (NYSE:NKE) Stock Price. Jefferies Financial Group has cut its price target on Nike (NYSE:NKE) from $110 to $90, maintaining a \"buy\" rating despite a pessimistic forecast. This adjustment follows Nike's Q3 earnings beat, which was overshadowed by weak guidance, concerns about Greater China's performance, and margin pressure from inventory. The stock subsequently dropped about 15% and faces a \"Moderate Buy\" consensus rating with an average target of $64.57 from other analysts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260401T181037",
+            "title": "Market movers: Nike, RH, Tiziana Life Sciences, Eli Lilly…",
+            "summary": "This article details the market movements of several companies, highlighting significant drops for Nike, Beyond Meat, and RH due to disappointing financial outlooks and earnings reports. Conversely, Eli Lilly saw a rise after FDA approval for its obesity medication. The report also covers positive developments for New Era Energy & Digital, Tiziana Life Sciences, Bit Digital, and Digi Power X, alongside capital raises and stock performance for Metals One, Mkango Resources, and Greatland Resources.",
+            "text_to_analyze": "Market movers: Nike, RH, Tiziana Life Sciences, Eli Lilly…. This article details the market movements of several companies, highlighting significant drops for Nike, Beyond Meat, and RH due to disappointing financial outlooks and earnings reports. Conversely, Eli Lilly saw a rise after FDA approval for its obesity medication. The report also covers positive developments for New Era Energy & Digital, Tiziana Life Sciences, Bit Digital, and Digi Power X, alongside capital raises and stock performance for Metals One, Mkango Resources, and Greatland Resources.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.981548
+        },
+        {
+            "source": "Investing.com Australia",
+            "date": "20260401T173956",
+            "title": "Micron, Eli Lilly among market cap stock movers on Wednesday By Investing.com",
+            "summary": "On Wednesday, several stocks experienced significant movements, with Micron and Eli Lilly rallying due to news such as a debt tender announcement and FDA approval for an obesity drug, respectively. In contrast, Exxon Mobil and Nike saw declines, the latter due to a downgrade from Goldman Sachs. The article categorizes these movers by market capitalization, highlighting both gains and losses across mega-cap, large-cap, mid-cap, and small-cap companies.",
+            "text_to_analyze": "Micron, Eli Lilly among market cap stock movers on Wednesday By Investing.com. On Wednesday, several stocks experienced significant movements, with Micron and Eli Lilly rallying due to news such as a debt tender announcement and FDA approval for an obesity drug, respectively. In contrast, Exxon Mobil and Nike saw declines, the latter due to a downgrade from Goldman Sachs. The article categorizes these movers by market capitalization, highlighting both gains and losses across mega-cap, large-cap, mid-cap, and small-cap companies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.71415
+        },
+        {
+            "source": "Barron's",
+            "date": "20260401T160919",
+            "title": "These Stocks Are Today’s Movers: Intel, Western Digital, Nike, Eli Lilly, Exxon Mobil, Cal-Maine, and More",
+            "summary": "On Wednesday, stocks saw an upward trend as investors processed better-than-expected February retail sales and March private payroll growth. The market also awaited further updates regarding the war in Iran. Key movers for the day included Intel, Western Digital, Eli Lilly, Nike, RH, and Exxon Mobil.",
+            "text_to_analyze": "These Stocks Are Today’s Movers: Intel, Western Digital, Nike, Eli Lilly, Exxon Mobil, Cal-Maine, and More. On Wednesday, stocks saw an upward trend as investors processed better-than-expected February retail sales and March private payroll growth. The market also awaited further updates regarding the war in Iran. Key movers for the day included Intel, Western Digital, Eli Lilly, Nike, RH, and Exxon Mobil.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}
