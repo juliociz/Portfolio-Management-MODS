@@ -11,13 +11,17 @@ def get_finbert_ready_news(
     company_name,
     target_date,  # On s'attend à un objet datetime
     api_key,
-    output_dir,
-    relevance_threshold=0.35,
+    output_dir,   # Ce paramètre sera complété ou ignoré au profit du nouveau dossier
+    relevance_threshold=0.30,
     max_articles=50
 ):
     """
     Récupère les articles financiers pour un ticker donné selon les horaires de la bourse US (NYSE/NASDAQ).
     Fenêtre cible : de la dernière fermeture (16h00) à 3 minutes avant l'ouverture du jour (09h27).
+    
+    Exemple :
+    target_date = 2026-04-15
+    => Enregistrement dans : alphavantage_backtesting_avril2026/TICKER/ticker_2026-04-15.json
     """
     # 1. Gestion stricte des fuseaux horaires (New York)
     tz_ny = pytz.timezone("America/New_York")
@@ -101,7 +105,7 @@ def get_finbert_ready_news(
         # Double sécurité textuelle
         has_name = company_lower in text_combined
         
-        # 🛑 RECTIFICATION REGEX : Évite les collisions (ex: "nke" dans "brand engagement")
+        # RECTIFICATION REGEX : Évite les collisions (ex: "nke" dans "brand engagement")
         has_ticker = bool(re.search(r"\b" + re.escape(ticker_lower) + r"\b", text_combined))
 
         if not has_name and not has_ticker:
@@ -129,8 +133,11 @@ def get_finbert_ready_news(
         if len(finbert_ready_data["articles"]) >= max_articles:
             break
 
-    output_dir = Path(output_dir)
-    output_dir.mkdir(parents=True, exist_ok=True)
+    # 🛑 MODIFICATION DU DOSSIER CIBLE :
+    # On force la création du dossier "alphavantage_backtesting_avril2026"
+    # puis un sous-dossier avec le nom du ticker (ex: DIS, NKE...)
+    final_output_dir = Path("alphavantage_backtesting_avril2026") / ticker
+    final_output_dir.mkdir(parents=True, exist_ok=True)
 
     # Sauvegarde avec la date cible pour le backtest
     filename = (
@@ -138,7 +145,7 @@ def get_finbert_ready_news(
         f"{target_datetime.strftime('%Y-%m-%d')}.json"
     )
 
-    output_file = output_dir / filename
+    output_file = final_output_dir / filename
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(
@@ -149,7 +156,7 @@ def get_finbert_ready_news(
         )
 
     print(
-        f"✔ {filename} sauvegardé "
+        f"✔ {filename} sauvegardé dans {final_output_dir.name}/ "
         f"({len(finbert_ready_data['articles'])} articles)"
     )
 
