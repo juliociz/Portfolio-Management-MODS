@@ -101,10 +101,38 @@ def benchmark_pypfopt_classic(prices: pd.DataFrame, start: str, end: str) -> pd.
     return pf_rets
 
 
+def benchmark_sp500(start: str, end: str) -> pd.Series:
+    """
+    Rendements journaliers du S&P 500 (ETF SPY, Yahoo Finance) sur la période donnée.
+
+    Une marge de quelques jours est ajoutée avant `start` pour garantir le calcul
+    du premier rendement (pct_change nécessite un point précédent).
+    """
+    import yfinance as yf
+
+    fetch_start = (pd.Timestamp(start) - pd.Timedelta(days=7)).strftime("%Y-%m-%d")
+    fetch_end = (pd.Timestamp(end) + pd.Timedelta(days=1)).strftime("%Y-%m-%d")
+
+    raw = yf.download("SPY", start=fetch_start, end=fetch_end, auto_adjust=True, progress=False)
+    if raw.empty:
+        raise ValueError("Aucune donnée SPY récupérée depuis Yahoo Finance.")
+
+    close = raw["Close"]
+    if isinstance(close, pd.DataFrame):
+        close = close.iloc[:, 0]
+    close.index.name = "date"
+
+    sp500_rets = close.pct_change().dropna()
+    sp500_rets = sp500_rets.loc[start:end]
+    sp500_rets.name = "sp500"
+    return sp500_rets
+
+
 def plot_results(
     signal_rets: pd.Series,
     eq_rets: pd.Series | None = None,
     classic_rets: pd.Series | None = None,
+    sp500_rets: pd.Series | None = None,
     weights_df: pd.DataFrame | None = None,
 ) -> None:
     import matplotlib
@@ -132,6 +160,11 @@ def plot_results(
         classic_aligned = classic_rets.reindex(signal_rets.index).fillna(0)
         cum_cl = (1 + classic_aligned).cumprod() * INITIAL_CAPITAL
         ax1.plot(cum_cl.index, cum_cl.values, label="PyPortfolioOpt classique", linestyle=":")
+
+    if sp500_rets is not None and not sp500_rets.empty:
+        sp500_aligned = sp500_rets.reindex(signal_rets.index).fillna(0)
+        cum_sp = (1 + sp500_aligned).cumprod() * INITIAL_CAPITAL
+        ax1.plot(cum_sp.index, cum_sp.values, label="S&P 500 (SPY)", linestyle="-.")
 
     ax1.axhline(INITIAL_CAPITAL, linewidth=0.8, linestyle="-")
     ax1.set_ylabel("Valeur du portefeuille ($)")
@@ -201,10 +234,21 @@ def analyze() -> None:
         metrics_eq = compute_metrics(eq_rets.reindex(signal_rets.index).fillna(0), "Equal-weight")
         metrics_classic = compute_metrics(classic_rets.reindex(signal_rets.index).fillna(0), "PyPortfolioOpt classique")
 
-        comparison = pd.DataFrame([metrics_signal, metrics_eq, metrics_classic])
+        comparison_rows = [metrics_signal, metrics_eq, metrics_classic]
+
+        # Benchmark S&P 500 — optionnel, ne doit pas faire échouer le reste de l'analyse
+        sp500_rets = None
+        try:
+            sp500_rets = benchmark_sp500(BACKTEST_START, BACKTEST_END)
+            metrics_sp500 = compute_metrics(sp500_rets.reindex(signal_rets.index).fillna(0), "S&P 500 (SPY)")
+            comparison_rows.append(metrics_sp500)
+        except Exception as exc_sp:
+            logger.warning("Benchmark S&P 500 indisponible (%s).", exc_sp)
+
+        comparison = pd.DataFrame(comparison_rows)
         print("\n" + comparison.to_string(index=False))
 
-        plot_results(signal_rets, eq_rets, classic_rets, weights_df)
+        plot_results(signal_rets, eq_rets, classic_rets, sp500_rets, weights_df)
 
     except Exception as exc:
         logger.warning("Benchmarks indisponibles (%s). Graphique signal seul.", exc)

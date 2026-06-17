@@ -30,10 +30,10 @@ MOMENTUM_WINDOWS = [1, 3]          # V1 ; ajouter 6 si historique disponible
 TRADING_DAYS_PER_MONTH = 21
 
 # ── PyPortfolioOpt ────────────────────────────────────────────────────────────
-SIGNAL_STRENGTH = 0.10             # +10 % annualisé par unité de global_score
+SIGNAL_STRENGTH = 0.20             # +20 % annualisé par unité de global_score
 RISK_LAMBDA = 0.20                 # facteur d'amplification du risque (V2 optionnelle)
 WEIGHT_BOUNDS = (0.0, 0.40)        # min / max par ticker
-RISK_FREE_RATE = 0.02              # taux sans risque annuel (2 %)
+RISK_FREE_RATE = 0.0               # taux sans risque annuel
 FREQUENCY = 252                    # jours de trading par an
 
 # ── Prix ──────────────────────────────────────────────────────────────────────
