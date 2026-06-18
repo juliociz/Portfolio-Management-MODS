@@ -46,8 +46,8 @@ stocks = [
 nyse = mcal.get_calendar("NYSE")
 
 trading_days = nyse.schedule(
-    start_date="2026-04-01",
-    end_date="2026-04-30"
+    start_date="2026-03-01",
+    end_date="2026-03-31"
 ).index
 
 print(f"{len(trading_days)} séances détectées.")
