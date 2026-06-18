@@ -1,0 +1,117 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-30",
+    "window_start": "2026-03-27 16:00",
+    "window_end": "2026-03-30 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260330T060040",
+            "title": "Ross Gerber Slams Tesla's FSD For Being 'Level 2' As Gary Black Decries Marketing Strategy: 'You Still Basically Have...'",
+            "summary": "Investor Ross Gerber criticized Tesla's Full Self-Driving (FSD) system, stating it's still a \"Level 2\" system according to SAE standards, requiring driver attention. He emphasized the need for further improvements before it can be considered truly autonomous. Fellow investor Gary Black attributed the FSD's challenges to a lack of awareness due to insufficient marketing, despite believing it's a \"great product.\" Tesla CEO Elon Musk countered by comparing autonomous vehicles to automated elevators, suggesting that public skepticism will decrease as the technology becomes more commonplace.",
+            "text_to_analyze": "Ross Gerber Slams Tesla's FSD For Being 'Level 2' As Gary Black Decries Marketing Strategy: 'You Still Basically Have...'. Investor Ross Gerber criticized Tesla's Full Self-Driving (FSD) system, stating it's still a \"Level 2\" system according to SAE standards, requiring driver attention. He emphasized the need for further improvements before it can be considered truly autonomous. Fellow investor Gary Black attributed the FSD's challenges to a lack of awareness due to insufficient marketing, despite believing it's a \"great product.\" Tesla CEO Elon Musk countered by comparing autonomous vehicles to automated elevators, suggesting that public skepticism will decrease as the technology becomes more commonplace.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Tesla Oracle",
+            "date": "20260329T220839",
+            "title": "Tesla ends Model S and Model X production, only a limited inventory is left",
+            "summary": "Tesla has officially announced the end of Model S and Model X production, with only a limited inventory remaining for purchase. The company is offering discounts on slightly used vehicles and special perks like free Premium Connectivity, Full Self-Driving, and Supercharging for life on remaining inventory cars. This move is part of Tesla's push towards an autonomous future, as these models paved the way for their technological advancements.",
+            "text_to_analyze": "Tesla ends Model S and Model X production, only a limited inventory is left. Tesla has officially announced the end of Model S and Model X production, with only a limited inventory remaining for purchase. The company is offering discounts on slightly used vehicles and special perks like free Premium Connectivity, Full Self-Driving, and Supercharging for life on remaining inventory cars. This move is part of Tesla's push towards an autonomous future, as these models paved the way for their technological advancements.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260329T120103",
+            "title": "Weekend Round-Up: Tesla Triumphs Amid EV Sales Slump, Ford Faces Recall Woes And BYD Plays The Bond Card",
+            "summary": "This automotive industry recap highlights Tesla's surprising market share gain in US EV sales despite a sector-wide decline. Ford is facing ongoing recall issues with over 250,000 SUVs, while BYD is expanding into Europe with a James Bond-themed advertising campaign to challenge Tesla. Additionally, GM's shares rallied due to falling crude prices, which are boosting the auto demand outlook.",
+            "text_to_analyze": "Weekend Round-Up: Tesla Triumphs Amid EV Sales Slump, Ford Faces Recall Woes And BYD Plays The Bond Card. This automotive industry recap highlights Tesla's surprising market share gain in US EV sales despite a sector-wide decline. Ford is facing ongoing recall issues with over 250,000 SUVs, while BYD is expanding into Europe with a James Bond-themed advertising campaign to challenge Tesla. Additionally, GM's shares rallied due to falling crude prices, which are boosting the auto demand outlook.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.923736
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260329T110831",
+            "title": "Elon Musk's Tesla Sees Q1 Slowdown—365K Deliveries Expected",
+            "summary": "Tesla is projected to deliver 365,645 vehicles in Q1 2026, marking a 12.5% decline from Q4 2025 but an 8% year-over-year increase. Analysts also anticipate over 1.6 million deliveries for 2026 and more than 3 million by 2030, alongside significant battery deployment growth. The company is buzzing with speculation about a new three-row model, even as some investors express concerns about Tesla's pivot towards AI and potential mergers with SpaceX.",
+            "text_to_analyze": "Elon Musk's Tesla Sees Q1 Slowdown—365K Deliveries Expected. Tesla is projected to deliver 365,645 vehicles in Q1 2026, marking a 12.5% decline from Q4 2025 but an 8% year-over-year increase. Analysts also anticipate over 1.6 million deliveries for 2026 and more than 3 million by 2030, alongside significant battery deployment growth. The company is buzzing with speculation about a new three-row model, even as some investors express concerns about Tesla's pivot towards AI and potential mergers with SpaceX.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260329T110057",
+            "title": "Six Figure Bonuses, Ads in Maps, iPhone Parts From Bosch And More: This Week In Appleverse",
+            "summary": "This article summarizes Apple's busy week, highlighting several significant developments. These include Apple's decision to discontinue six-figure bonuses to retain iPhone talent, its collaboration with Bosch and TDK for US iPhone parts, and plans to introduce advertising in its Maps application. The piece also mentions the launch of the new MacBook Neo and remarks from an investor urging Elon Musk to create a brand identity for Tesla.",
+            "text_to_analyze": "Six Figure Bonuses, Ads in Maps, iPhone Parts From Bosch And More: This Week In Appleverse. This article summarizes Apple's busy week, highlighting several significant developments. These include Apple's decision to discontinue six-figure bonuses to retain iPhone talent, its collaboration with Bosch and TDK for US iPhone parts, and plans to introduce advertising in its Maps application. The piece also mentions the launch of the new MacBook Neo and remarks from an investor urging Elon Musk to create a brand identity for Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.716709
+        },
+        {
+            "source": "MSN",
+            "date": "20260329T043940",
+            "title": "Vanguard’s VCR ETF carries 40% Amazon and Tesla exposure dressed as consumer discretionary",
+            "summary": "The Vanguard Consumer Discretionary ETF (VCR) is highlighted for its concentrated exposure to Amazon and Tesla, which together make up approximately 40% of its holdings. This significant weighting in just two growth-oriented stocks raises questions about the ETF's true diversification as a consumer discretionary fund. Investors are cautioned to be aware of this concentrated risk, as the performance of VCR will heavily depend on these two companies.",
+            "text_to_analyze": "Vanguard’s VCR ETF carries 40% Amazon and Tesla exposure dressed as consumer discretionary. The Vanguard Consumer Discretionary ETF (VCR) is highlighted for its concentrated exposure to Amazon and Tesla, which together make up approximately 40% of its holdings. This significant weighting in just two growth-oriented stocks raises questions about the ETF's true diversification as a consumer discretionary fund. Investors are cautioned to be aware of this concentrated risk, as the performance of VCR will heavily depend on these two companies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.829778
+        },
+        {
+            "source": "The Detroit News",
+            "date": "20260329T025938",
+            "title": "Q&A: Toyota exec Templin talks goals for \"Tesla killer\" EVs",
+            "summary": "Mark Templin, Toyota Motor North America's EVP and COO, discusses Toyota's strategy to significantly increase its U.S. electric vehicle market share from under 2% to 15%, aligning with its overall market presence. He refers to their upcoming BEVs as \"Tesla killers\" and emphasizes the company's long-term business plans over short-term political policies. Templin also highlights Toyota's portfolio approach to powertrains, including gas, hybrid, and BEVs, and their commitment to building where they sell.",
+            "text_to_analyze": "Q&A: Toyota exec Templin talks goals for \"Tesla killer\" EVs. Mark Templin, Toyota Motor North America's EVP and COO, discusses Toyota's strategy to significantly increase its U.S. electric vehicle market share from under 2% to 15%, aligning with its overall market presence. He refers to their upcoming BEVs as \"Tesla killers\" and emphasizes the company's long-term business plans over short-term political policies. Templin also highlights Toyota's portfolio approach to powertrains, including gas, hybrid, and BEVs, and their commitment to building where they sell.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.870697
+        },
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260328T200140",
+            "title": "Tesla Says Semi Battery Is 'Designed To Last A Million Miles'",
+            "summary": "Tesla has announced that the battery for its Semi truck is designed to last a million miles, directly addressing a major concern for electric trucking adoption related to vehicle lifespan and battery degradation. The company emphasizes the Semi's economic benefits, including lower operating costs and a nearly 20% lower total cost of ownership nationally, alongside advanced charging capabilities and improved aerodynamic efficiency. Despite past production delays, Tesla reports strong demand and significant real-world mileage logged by its test fleet, with efforts to integrate battery power for auxiliary functions to further reduce emissions and costs.",
+            "text_to_analyze": "Tesla Says Semi Battery Is 'Designed To Last A Million Miles'. Tesla has announced that the battery for its Semi truck is designed to last a million miles, directly addressing a major concern for electric trucking adoption related to vehicle lifespan and battery degradation. The company emphasizes the Semi's economic benefits, including lower operating costs and a nearly 20% lower total cost of ownership nationally, alongside advanced charging capabilities and improved aerodynamic efficiency. Despite past production delays, Tesla reports strong demand and significant real-world mileage logged by its test fleet, with efforts to integrate battery power for auxiliary functions to further reduce emissions and costs.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260328T140129",
+            "title": "Tesla (TSLA) shares up after Jim Cramer said it had options",
+            "summary": "Shares of Tesla (TSLA) rose after Jim Cramer commented on the company's options. No further details are available regarding the nature of these options or Cramer's specific statements.",
+            "text_to_analyze": "Tesla (TSLA) shares up after Jim Cramer said it had options. Shares of Tesla (TSLA) rose after Jim Cramer commented on the company's options. No further details are available regarding the nature of these options or Cramer's specific statements.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260328T130917",
+            "title": "Vanguard's VCR ETF Carries 40% Amazon and Tesla Exposure Dressed as Consumer Discretionary",
+            "summary": "The Vanguard Consumer Discretionary ETF (VCR) is facing scrutiny as Amazon and Tesla constitute nearly 40% of its portfolio, leading it to behave more like a technology fund than a true consumer discretionary play. Despite a 230% ten-year return, VCR is down 9% year-to-date, primarily due to the underperformance of these two tech-heavy giants. This concentration risk and Tesla's volatility mean investors seeking traditional consumer spending exposure might be getting unintended tech exposure and volatility.",
+            "text_to_analyze": "Vanguard's VCR ETF Carries 40% Amazon and Tesla Exposure Dressed as Consumer Discretionary. The Vanguard Consumer Discretionary ETF (VCR) is facing scrutiny as Amazon and Tesla constitute nearly 40% of its portfolio, leading it to behave more like a technology fund than a true consumer discretionary play. Despite a 230% ten-year return, VCR is down 9% year-to-date, primarily due to the underperformance of these two tech-heavy giants. This concentration risk and Tesla's volatility mean investors seeking traditional consumer spending exposure might be getting unintended tech exposure and volatility.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.811991
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260328T073743",
+            "title": "Gene Munster Says Upcoming Tesla Deliveries Will Be 'First Good Read,' As Ford, GM Scale Back EV Ambitions— Here's Why - BYD (OTC:BYDDF), BYD (OTC:BYDDY)",
+            "summary": "Gene Munster of Deepwater Asset Management stated that Tesla's first-quarter delivery report, expected in early April, will be crucial for understanding underlying EV demand after the expiration of U.S. tax credits. He believes declining EV investment from legacy automakers like Ford and GM presents a significant opportunity for Tesla, especially in the U.S. market where BYD isn't a competitor. Tesla is projected to deliver 365,645 vehicles in Q1, demonstrating an 8% year-over-year increase, with long-term growth driven by high-volume models and autonomy.",
+            "text_to_analyze": "Gene Munster Says Upcoming Tesla Deliveries Will Be 'First Good Read,' As Ford, GM Scale Back EV Ambitions— Here's Why - BYD (OTC:BYDDF), BYD (OTC:BYDDY). Gene Munster of Deepwater Asset Management stated that Tesla's first-quarter delivery report, expected in early April, will be crucial for understanding underlying EV demand after the expiration of U.S. tax credits. He believes declining EV investment from legacy automakers like Ford and GM presents a significant opportunity for Tesla, especially in the U.S. market where BYD isn't a competitor. Tesla is projected to deliver 365,645 vehicles in Q1, demonstrating an 8% year-over-year increase, with long-term growth driven by high-volume models and autonomy.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260327T230903",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.3879",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.3879 per share for its shareholders. This distribution reflects the fund's strategy to generate income from options on Tesla stock.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.3879. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.3879 per share for its shareholders. This distribution reflects the fund's strategy to generate income from options on Tesla stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

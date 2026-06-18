@@ -1,0 +1,63 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-25",
+    "window_start": "2026-03-24 16:00",
+    "window_end": "2026-03-25 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260325T073235",
+            "title": "The Walt Disney Company $DIS Stake Lowered by Assenagon Asset Management S.A.",
+            "summary": "Assenagon Asset Management S.A. significantly reduced its stake in The Walt Disney Company (NYSE:DIS) by 87.7% in the fourth quarter, selling over 4.1 million shares. Despite this, several other institutional investors increased their holdings, and 65.71% of the stock is held by hedge funds and institutions. Analysts maintain a \"Moderate Buy\" consensus rating with a target price of $134.13, even as the company faces mixed news regarding its streaming content, AI initiatives, and gaming ventures.",
+            "text_to_analyze": "The Walt Disney Company $DIS Stake Lowered by Assenagon Asset Management S.A.. Assenagon Asset Management S.A. significantly reduced its stake in The Walt Disney Company (NYSE:DIS) by 87.7% in the fourth quarter, selling over 4.1 million shares. Despite this, several other institutional investors increased their holdings, and 65.71% of the stock is held by hedge funds and institutions. Analysts maintain a \"Moderate Buy\" consensus rating with a target price of $134.13, even as the company faces mixed news regarding its streaming content, AI initiatives, and gaming ventures.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TheDesk.net",
+            "date": "20260325T050735",
+            "title": "Disney pulls investment in OpenAI after company announces closure of Sora app",
+            "summary": "The Walt Disney Company has withdrawn its planned $1 billion investment in OpenAI after the latter announced the closure of its generative AI platform, Sora. The investment was tied to a licensing arrangement for Disney's intellectual property, which is now nullified with Sora's discontinuation. OpenAI is reportedly shifting its focus to enterprise services amidst increasing competition and public relations challenges, while Disney continues to engage with AI platforms cautiously, even suing some for copyright infringement.",
+            "text_to_analyze": "Disney pulls investment in OpenAI after company announces closure of Sora app. The Walt Disney Company has withdrawn its planned $1 billion investment in OpenAI after the latter announced the closure of its generative AI platform, Sora. The investment was tied to a licensing arrangement for Disney's intellectual property, which is now nullified with Sora's discontinuation. OpenAI is reportedly shifting its focus to enterprise services amidst increasing competition and public relations challenges, while Disney continues to engage with AI platforms cautiously, even suing some for copyright infringement.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.952952
+        },
+        {
+            "source": "Daps Magic",
+            "date": "20260324T211010",
+            "title": "Disney Releases Viktor&Rolf x Mattel x Cinderella Documentary Special",
+            "summary": "Disney, Mattel, and Viktor&Rolf have collaborated to release a 30-minute documentary special, \"Disney Princess: Create Your World – Mattel and Viktor&Rolf.\" The documentary offers an exclusive behind-the-scenes look at the creation of the Viktor&Rolf x Disney Collector Cinderella Doll. This special is available on Hulu and ABC Owned Television Stations' digital and streaming platforms.",
+            "text_to_analyze": "Disney Releases Viktor&Rolf x Mattel x Cinderella Documentary Special. Disney, Mattel, and Viktor&Rolf have collaborated to release a 30-minute documentary special, \"Disney Princess: Create Your World – Mattel and Viktor&Rolf.\" The documentary offers an exclusive behind-the-scenes look at the creation of the Viktor&Rolf x Disney Collector Cinderella Doll. This special is available on Hulu and ABC Owned Television Stations' digital and streaming platforms.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.933781
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260324T210031",
+            "title": "Robert Fishman Believes that The Walt Disney Company (DIS) Stock Needs Increased Confidence, Reports Bloomberg",
+            "summary": "A Bloomberg report, citing media analysts Robert Fishman and Rich Greenfield, suggests that The Walt Disney Company's stock needs increased investor confidence, particularly in its streaming growth and improved profit margins. The article highlights the challenges for Josh D'Amaro, Bob Iger's successor, in strengthening Disney's traditional media business and streaming subscriber growth amidst price hikes and declining traditional TV viewership. Greenfield further suggests separating ESPN and ABC networks to unlock shareholder value.",
+            "text_to_analyze": "Robert Fishman Believes that The Walt Disney Company (DIS) Stock Needs Increased Confidence, Reports Bloomberg. A Bloomberg report, citing media analysts Robert Fishman and Rich Greenfield, suggests that The Walt Disney Company's stock needs increased investor confidence, particularly in its streaming growth and improved profit margins. The article highlights the challenges for Josh D'Amaro, Bob Iger's successor, in strengthening Disney's traditional media business and streaming subscriber growth amidst price hikes and declining traditional TV viewership. Greenfield further suggests separating ESPN and ABC networks to unlock shareholder value.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260324T200731",
+            "title": "OpenAI drops AI video tool Sora, startling Disney, sources say",
+            "summary": "OpenAI has unexpectedly ceased development of its AI video tool, Sora, disrupting a highly anticipated $1 billion deal with Walt Disney Co. The sudden cancellation, which surprised even some OpenAI staffers, indicates a strategic shift towards more lucrative areas like coding tools and corporate clients, as the company prepares for a potential stock market debut later in the year. Despite the setback, Disney is reportedly in discussions with OpenAI about potential alternative partnerships.",
+            "text_to_analyze": "OpenAI drops AI video tool Sora, startling Disney, sources say. OpenAI has unexpectedly ceased development of its AI video tool, Sora, disrupting a highly anticipated $1 billion deal with Walt Disney Co. The sudden cancellation, which surprised even some OpenAI staffers, indicates a strategic shift towards more lucrative areas like coding tools and corporate clients, as the company prepares for a potential stock market debut later in the year. Despite the setback, Disney is reportedly in discussions with OpenAI about potential alternative partnerships.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260324T163500",
+            "title": "Walt Disney Co. stock underperforms Tuesday when compared to competitors",
+            "summary": "On Tuesday, shares of Walt Disney Co. (DIS) fell by 1.59% to $96.39, marking its second consecutive day of losses. This underperformance occurred during a generally poor trading session for the stock market, with both the S&P 500 Index and Dow Jones Industrial Average also declining. The article highlights Disney's dip against the broader market trends.",
+            "text_to_analyze": "Walt Disney Co. stock underperforms Tuesday when compared to competitors. On Tuesday, shares of Walt Disney Co. (DIS) fell by 1.59% to $96.39, marking its second consecutive day of losses. This underperformance occurred during a generally poor trading session for the stock market, with both the S&P 500 Index and Dow Jones Industrial Average also declining. The article highlights Disney's dip against the broader market trends.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

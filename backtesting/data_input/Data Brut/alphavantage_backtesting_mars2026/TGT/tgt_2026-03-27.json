@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-27",
+    "window_start": "2026-03-26 16:00",
+    "window_end": "2026-03-27 09:27",
+    "articles": [
+        {
+            "source": "Bitget",
+            "date": "20260327T061033",
+            "title": "SKYX Platforms Corp. Call Contradictions: Shipment Timelines, 2026 Deployment Targets, and Cash Flow Roadmap Clash",
+            "summary": "This article from Bitget News highlights contradictions found in SKYX Platforms Corp.'s recent earnings call regarding their financial performance and future projections. The report details discrepancies in shipment timelines for major projects, the targeted scale of product deployment for 2026, and the roadmap to achieving cash flow positivity. It also points out inconsistencies in the status of mandatory safety code standardization and the availability timeline of their Smart Heater Fan.",
+            "text_to_analyze": "SKYX Platforms Corp. Call Contradictions: Shipment Timelines, 2026 Deployment Targets, and Cash Flow Roadmap Clash. This article from Bitget News highlights contradictions found in SKYX Platforms Corp.'s recent earnings call regarding their financial performance and future projections. The report details discrepancies in shipment timelines for major projects, the targeted scale of product deployment for 2026, and the roadmap to achieving cash flow positivity. It also points out inconsistencies in the status of mandatory safety code standardization and the availability timeline of their Smart Heater Fan.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.554522
+        },
+        {
+            "source": "CNBC",
+            "date": "20260326T213341",
+            "title": "Target faces a new boycott over ICE response as retailer presses ahead with turnaround",
+            "summary": "A major labor union, the American Federation of Teachers (AFT), is calling for its 1.8 million members to boycott Target and shop at local stores. This boycott stems from the AFT's belief that Target did not adequately respond to a surge of federal immigration enforcement in Minneapolis, which included the fatal shooting of two U.S. citizens. This new boycott adds to Target's challenges as it attempts a turnaround, despite a previous boycott related to diversity, equity, and inclusion initiatives recently ending.",
+            "text_to_analyze": "Target faces a new boycott over ICE response as retailer presses ahead with turnaround. A major labor union, the American Federation of Teachers (AFT), is calling for its 1.8 million members to boycott Target and shop at local stores. This boycott stems from the AFT's belief that Target did not adequately respond to a surge of federal immigration enforcement in Minneapolis, which included the fatal shooting of two U.S. citizens. This new boycott adds to Target's challenges as it attempts a turnaround, despite a previous boycott related to diversity, equity, and inclusion initiatives recently ending.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

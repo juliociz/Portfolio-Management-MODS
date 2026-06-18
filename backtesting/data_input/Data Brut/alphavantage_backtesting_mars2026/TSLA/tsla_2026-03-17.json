@@ -1,0 +1,63 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-17",
+    "window_start": "2026-03-16 16:00",
+    "window_end": "2026-03-17 09:27",
+    "articles": [
+        {
+            "source": "Stocktwits",
+            "date": "20260317T065000",
+            "title": "LMND Stock Rises Pre-Market: Morgan Stanley Backs Its Early Bet On Autonomous Vehicle Insurance",
+            "summary": "Morgan Stanley has upgraded Lemonade Inc. (LMND) to an ‘Overweight’ rating and increased its price target to $85, citing the insurer's partnership with Tesla for autonomous vehicle insurance. Lemonade's early entry into this market, including offering a 50% discount for Tesla's Full Self-Driving users, positions it ahead of competitors and is expected to significantly improve its long-term earnings. The firm noted that Lemonade's pricing remains disciplined despite the aggressive discounts.",
+            "text_to_analyze": "LMND Stock Rises Pre-Market: Morgan Stanley Backs Its Early Bet On Autonomous Vehicle Insurance. Morgan Stanley has upgraded Lemonade Inc. (LMND) to an ‘Overweight’ rating and increased its price target to $85, citing the insurer's partnership with Tesla for autonomous vehicle insurance. Lemonade's early entry into this market, including offering a 50% discount for Tesla's Full Self-Driving users, positions it ahead of competitors and is expected to significantly improve its long-term earnings. The firm noted that Lemonade's pricing remains disciplined despite the aggressive discounts.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.633567
+        },
+        {
+            "source": "Reuters",
+            "date": "20260317T032400",
+            "title": "US government confirms Tesla and LG Energy Solution's $4.3 billion battery deal",
+            "summary": "The U.S. government has confirmed a $4.3 billion supply agreement between Tesla and South Korea's LG Energy Solution to build a lithium iron phosphate (LFP) prismatic battery cell manufacturing facility in Lansing, Michigan. This facility is expected to launch production in 2027 and will supply cells for Tesla's Megapack 3 energy storage systems, aiming to create a domestic battery supply chain and reduce reliance on Chinese imports. This agreement was highlighted as part of a broader statement on deals from the Indo-Pacific Energy Security Summit.",
+            "text_to_analyze": "US government confirms Tesla and LG Energy Solution's $4.3 billion battery deal. The U.S. government has confirmed a $4.3 billion supply agreement between Tesla and South Korea's LG Energy Solution to build a lithium iron phosphate (LFP) prismatic battery cell manufacturing facility in Lansing, Michigan. This facility is expected to launch production in 2027 and will supply cells for Tesla's Megapack 3 energy storage systems, aiming to create a domestic battery supply chain and reduce reliance on Chinese imports. This agreement was highlighted as part of a broader statement on deals from the Indo-Pacific Energy Security Summit.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260316T212741",
+            "title": "Tesla US Sales Sank 26% In January, But 5 Automakers Saw Electric Vehicle Growth",
+            "summary": "In January, EV registrations in the U.S. dropped significantly by 41% year-over-year following the expiration of the federal EV tax credit in September 2025. Tesla's US sales declined by 26%, attributed to the tax credit's removal. Despite the overall market downturn, several automakers including Cadillac, Toyota Motors, Lucid Group, Maserati, and Lexus reported year-over-year sales growth, mainly due to lower volumes or new model introductions.",
+            "text_to_analyze": "Tesla US Sales Sank 26% In January, But 5 Automakers Saw Electric Vehicle Growth. In January, EV registrations in the U.S. dropped significantly by 41% year-over-year following the expiration of the federal EV tax credit in September 2025. Tesla's US sales declined by 26%, attributed to the tax credit's removal. Despite the overall market downturn, several automakers including Cadillac, Toyota Motors, Lucid Group, Maserati, and Lexus reported year-over-year sales growth, mainly due to lower volumes or new model introductions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260316T200823",
+            "title": "Is Tesla Expanding Beyond EVs Into Energy Supply in UK?",
+            "summary": "Tesla has received approval from the UK energy regulator Ofgem to directly supply electricity to households and businesses across Great Britain through its Tesla Energy Ventures subsidiary. This move signifies Tesla's expansion beyond electric vehicles into the energy sector, mirroring its Texas retail electricity model which focuses on providing low-cost, sustainable electricity. Despite a decline in UK vehicle sales and some public opposition, the license allows Tesla to further its energy initiatives, following previous approvals for electricity generation and large-scale battery storage projects.",
+            "text_to_analyze": "Is Tesla Expanding Beyond EVs Into Energy Supply in UK?. Tesla has received approval from the UK energy regulator Ofgem to directly supply electricity to households and businesses across Great Britain through its Tesla Energy Ventures subsidiary. This move signifies Tesla's expansion beyond electric vehicles into the energy sector, mirroring its Texas retail electricity model which focuses on providing low-cost, sustainable electricity. Despite a decline in UK vehicle sales and some public opposition, the license allows Tesla to further its energy initiatives, following previous approvals for electricity generation and large-scale battery storage projects.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "InvestorPlace",
+            "date": "20260316T185924",
+            "title": "Tesla Upgraded, Super Micro Computer Downgraded: Updated Rankings on Top Blue-Chip Stocks",
+            "summary": "Louis Navellier, editor of Growth Investor, has released updated Stock Grader recommendations for 114 blue-chip stocks based on institutional buying pressure and fundamental health. The rankings include numerous upgrades and downgrades, with Tesla, Inc. moving from Neutral to Strong and Super Micro Computer, Inc. being downgraded from Neutral to Weak. Investors are encouraged to review the list to assess their current holdings and potential profit opportunities.",
+            "text_to_analyze": "Tesla Upgraded, Super Micro Computer Downgraded: Updated Rankings on Top Blue-Chip Stocks. Louis Navellier, editor of Growth Investor, has released updated Stock Grader recommendations for 114 blue-chip stocks based on institutional buying pressure and fundamental health. The rankings include numerous upgrades and downgrades, with Tesla, Inc. moving from Neutral to Strong and Super Micro Computer, Inc. being downgraded from Neutral to Weak. Investors are encouraged to review the list to assess their current holdings and potential profit opportunities.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.925506
+        },
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260316T161518",
+            "title": "Tesla range claims are bogus, owner says in suit. He makes barely half.",
+            "summary": "A Texas Tesla owner has filed a lawsuit against the automaker, alleging fraud over inaccurate range claims for his 2022 Model X. Despite purchasing a \"long-range\" option, the owner states his vehicle achieves barely half of the advertised 300+ miles on a full charge. The suit highlights broader concerns about Tesla's exaggerated range estimates and its alleged dismissive approach to customer complaints and service issues regarding battery performance.",
+            "text_to_analyze": "Tesla range claims are bogus, owner says in suit. He makes barely half.. A Texas Tesla owner has filed a lawsuit against the automaker, alleging fraud over inaccurate range claims for his 2022 Model X. Despite purchasing a \"long-range\" option, the owner states his vehicle achieves barely half of the advertised 300+ miles on a full charge. The suit highlights broader concerns about Tesla's exaggerated range estimates and its alleged dismissive approach to customer complaints and service issues regarding battery performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

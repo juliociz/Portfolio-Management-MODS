@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-10",
+    "window_start": "2026-03-09 16:00",
+    "window_end": "2026-03-10 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260310T092128",
+            "title": "Korea Investment CORP Acquires 1,470,295 Shares of Kenvue Inc. $KVUE",
+            "summary": "Korea Investment CORP significantly increased its stake in Kenvue Inc. by 139.5%, acquiring an additional 1,470,295 shares to bring its total to 2,524,461 shares. This positions Kenvue as a notable holding for institutions, with 97.64% of its stock owned by institutional investors and 0.17% by insiders. The article also highlights recent insider buying and analyst ratings, with Kenvue receiving an average \"Hold\" rating and an average price target of $19.58.",
+            "text_to_analyze": "Korea Investment CORP Acquires 1,470,295 Shares of Kenvue Inc. $KVUE. Korea Investment CORP significantly increased its stake in Kenvue Inc. by 139.5%, acquiring an additional 1,470,295 shares to bring its total to 2,524,461 shares. This positions Kenvue as a notable holding for institutions, with 97.64% of its stock owned by institutional investors and 0.17% by insiders. The article also highlights recent insider buying and analyst ratings, with Kenvue receiving an average \"Hold\" rating and an average price target of $19.58.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.553914
+        },
+        {
+            "source": "The Palm Beach Post",
+            "date": "20260309T204953",
+            "title": "Costco to open 28 new stores this year. Any in Florida?",
+            "summary": "Costco plans to open 28 new stores in fiscal year 2026, with targets for 30+ openings annually in the coming years. While several new locations are scheduled across the US and Canada in the near future, Florida has new stores planned for St. Lucie and Sanford, with a large distribution center opening soon in Port St. Lucie. The article also touches on Costco's recent sales growth, membership income rise, and changes made in 2025 like price drops and expanded hours, alongside updates on other grocery chains expanding in Florida.",
+            "text_to_analyze": "Costco to open 28 new stores this year. Any in Florida?. Costco plans to open 28 new stores in fiscal year 2026, with targets for 30+ openings annually in the coming years. While several new locations are scheduled across the US and Canada in the near future, Florida has new stores planned for St. Lucie and Sanford, with a large distribution center opening soon in Port St. Lucie. The article also touches on Costco's recent sales growth, membership income rise, and changes made in 2025 like price drops and expanded hours, alongside updates on other grocery chains expanding in Florida.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.600804
+        },
+        {
+            "source": "MSN",
+            "date": "20260309T200825",
+            "title": "Target Corp. (TGT) jumps 6.7% as firm turns to AI for growth",
+            "summary": "Target (TGT) saw its stock jump by 6.7% due to investor optimism regarding the company's new AI initiatives aimed at boosting growth. The retail giant plans to leverage artificial intelligence to improve supply chain efficiency, personalize customer experiences, and analyze market trends. This strategic shift towards AI is expected to streamline operations and enhance Target's competitive edge in the retail sector.",
+            "text_to_analyze": "Target Corp. (TGT) jumps 6.7% as firm turns to AI for growth. Target (TGT) saw its stock jump by 6.7% due to investor optimism regarding the company's new AI initiatives aimed at boosting growth. The retail giant plans to leverage artificial intelligence to improve supply chain efficiency, personalize customer experiences, and analyze market trends. This strategic shift towards AI is expected to streamline operations and enhance Target's competitive edge in the retail sector.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260309T175214",
+            "title": "e.l.f. Beauty (NYSE:ELF) Shares Down 10.2% - Here's What Happened",
+            "summary": "e.l.f. Beauty (NYSE:ELF) shares dropped 10.2% on Monday, trading at $74.00, despite the company beating quarterly earnings estimates and providing strong FY2026 guidance. Analysts maintain a \"Moderate Buy\" consensus rating with a target price of $119.13, yet the stock is trading below its 50-day and 200-day moving averages. Institutional investors hold a significant 92.44% of the company's stock.",
+            "text_to_analyze": "e.l.f. Beauty (NYSE:ELF) Shares Down 10.2% - Here's What Happened. e.l.f. Beauty (NYSE:ELF) shares dropped 10.2% on Monday, trading at $74.00, despite the company beating quarterly earnings estimates and providing strong FY2026 guidance. Analysts maintain a \"Moderate Buy\" consensus rating with a target price of $119.13, yet the stock is trading below its 50-day and 200-day moving averages. Institutional investors hold a significant 92.44% of the company's stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.604884
+        },
+        {
+            "source": "StreetInsider",
+            "date": "20260309T165220",
+            "title": "Form 424B2 BARCLAYS BANK PLC",
+            "summary": "This SEC filing (Form 424B2) from Barclays Bank PLC details an offering of $1,275,000 Autocallable Contingent Coupon Barrier Notes due March 10, 2027. These notes are linked to the common stock of Lululemon Athletica Inc., Nike, Inc. (Class B), and Target Corporation, and do not guarantee principal repayment or interest. The document outlines the terms, risks, hypothetical scenarios for payments, and tax considerations for investors.",
+            "text_to_analyze": "Form 424B2 BARCLAYS BANK PLC. This SEC filing (Form 424B2) from Barclays Bank PLC details an offering of $1,275,000 Autocallable Contingent Coupon Barrier Notes due March 10, 2027. These notes are linked to the common stock of Lululemon Athletica Inc., Nike, Inc. (Class B), and Target Corporation, and do not guarantee principal repayment or interest. The document outlines the terms, risks, hypothetical scenarios for payments, and tax considerations for investors.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.884933
+        }
+    ]
+}

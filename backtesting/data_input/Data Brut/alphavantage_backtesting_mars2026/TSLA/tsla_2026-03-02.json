@@ -1,0 +1,117 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-02",
+    "window_start": "2026-02-27 16:00",
+    "window_end": "2026-03-02 09:27",
+    "articles": [
+        {
+            "source": "TradingView",
+            "date": "20260302T085205",
+            "title": "TSLP Stock Fund Price and Chart — CBOE:TSLP",
+            "summary": "The TSLP ETF, the Kurv Yield Premium Strategy Tesla (TSLA) ETF, aims to generate monthly income and provide exposure to Tesla stock price returns, subject to an upside cap. It uses a synthetic covered call strategy involving long exposure, covered call writing, and short-term fixed income instruments. The fund was launched on October 27, 2023, has assets under management of $21.50 million, and an indicated dividend yield of 30.19%.",
+            "text_to_analyze": "TSLP Stock Fund Price and Chart — CBOE:TSLP. The TSLP ETF, the Kurv Yield Premium Strategy Tesla (TSLA) ETF, aims to generate monthly income and provide exposure to Tesla stock price returns, subject to an upside cap. It uses a synthetic covered call strategy involving long exposure, covered call writing, and short-term fixed income instruments. The fund was launched on October 27, 2023, has assets under management of $21.50 million, and an indicated dividend yield of 30.19%.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.815148
+        },
+        {
+            "source": "TradingView",
+            "date": "20260302T065205",
+            "title": "Baidu, Inc. Class A Trade Ideas — LS:A0YCQ6",
+            "summary": "This article compiles various trade ideas and analyses for Baidu, Inc. (BIDU) from multiple traders on TradingView. The analyses cover technical patterns like falling wedges and Ichimoku Cloud indicators, discussions of Baidu's strong AI capabilities and undervaluation, and reactions to its Q1 2024 earnings and strategic partnerships, such as with Tesla for FSD in China and Samsung for Ernie Bot integration. The sentiment among most analysts is bullish, citing potential breakouts, multi-year support levels, and strategic AI advancements.",
+            "text_to_analyze": "Baidu, Inc. Class A Trade Ideas — LS:A0YCQ6. This article compiles various trade ideas and analyses for Baidu, Inc. (BIDU) from multiple traders on TradingView. The analyses cover technical patterns like falling wedges and Ichimoku Cloud indicators, discussions of Baidu's strong AI capabilities and undervaluation, and reactions to its Q1 2024 earnings and strategic partnerships, such as with Tesla for FSD in China and Samsung for Ernie Bot integration. The sentiment among most analysts is bullish, citing potential breakouts, multi-year support levels, and strategic AI advancements.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.63792
+        },
+        {
+            "source": "Drive Tesla Canada",
+            "date": "20260302T055110",
+            "title": "Tesla Hit With Class Action Over Model S Electronic Door Handle Design",
+            "summary": "Tesla is facing a class action lawsuit over the electronic door handle design in its 2023-present Model S vehicles. The lawsuit alleges that these handles pose a safety hazard, potentially trapping occupants during emergencies if the low-voltage power system fails. The plaintiff claims that the manual release mechanism for the rear doors is difficult to access and operate, making the vehicle \"not reasonably escapable\" after an accident.",
+            "text_to_analyze": "Tesla Hit With Class Action Over Model S Electronic Door Handle Design. Tesla is facing a class action lawsuit over the electronic door handle design in its 2023-present Model S vehicles. The lawsuit alleges that these handles pose a safety hazard, potentially trapping occupants during emergencies if the low-voltage power system fails. The plaintiff claims that the manual release mechanism for the rear doors is difficult to access and operate, making the vehicle \"not reasonably escapable\" after an accident.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Motley Fool",
+            "date": "20260301T235216",
+            "title": "Lucid's Former Chief Engineer Sold $4 Million of LCID Stock",
+            "summary": "Lucid Group's former Senior Vice President of Product and Chief Engineer, Eric Bach, sold nearly $4 million worth of LCID stock in two transactions in early February, following his departure from the company in November. The article suggests this sale is likely due to his non-employee status and ongoing concerns about Lucid's stock valuation and the company's reliance on share dilution to maintain solvency. Despite expected sales growth, Lucid faces significant challenges in achieving profitability and scaling without further diluting shareholders, especially with its low market valuation compared to competitors like Rivian and Tesla.",
+            "text_to_analyze": "Lucid's Former Chief Engineer Sold $4 Million of LCID Stock. Lucid Group's former Senior Vice President of Product and Chief Engineer, Eric Bach, sold nearly $4 million worth of LCID stock in two transactions in early February, following his departure from the company in November. The article suggests this sale is likely due to his non-employee status and ongoing concerns about Lucid's stock valuation and the company's reliance on share dilution to maintain solvency. Despite expected sales growth, Lucid faces significant challenges in achieving profitability and scaling without further diluting shareholders, especially with its low market valuation compared to competitors like Rivian and Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.62005
+        },
+        {
+            "source": "Simply Wall St",
+            "date": "20260301T225245",
+            "title": "Lemonade’s First Cash Flow Milestone And Tesla Auto Cover Shift The Story",
+            "summary": "Lemonade (NYSE:LMND) has reported its first quarter of positive free cash flow since its IPO and launched an autonomous, telematics-based car insurance product for Tesla vehicles. These developments are seen by management as crucial steps in the company's operational and product evolution. While Lemonade is still operating at a net loss, these advancements suggest a maturing business model that balances product breadth with improving unit economics and leverages AI-driven underwriting.",
+            "text_to_analyze": "Lemonade’s First Cash Flow Milestone And Tesla Auto Cover Shift The Story. Lemonade (NYSE:LMND) has reported its first quarter of positive free cash flow since its IPO and launched an autonomous, telematics-based car insurance product for Tesla vehicles. These developments are seen by management as crucial steps in the company's operational and product evolution. While Lemonade is still operating at a net loss, these advancements suggest a maturing business model that balances product breadth with improving unit economics and leverages AI-driven underwriting.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.744022
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260301T135106",
+            "title": "Transce3nd LLC Sells 2,386 Shares of Tesla, Inc. $TSLA",
+            "summary": "Transce3nd LLC significantly reduced its stake in Tesla by selling 2,386 shares, leaving it with 150 shares worth $67,000. This comes amidst other hedge funds adjusting their Tesla holdings and notable insider selling by directors Kathleen Wilson-Thompson and James R. Murdoch. The article also details mixed catalysts and risks for Tesla, including potential European expansion versus softening China demand and regulatory scrutiny.",
+            "text_to_analyze": "Transce3nd LLC Sells 2,386 Shares of Tesla, Inc. $TSLA. Transce3nd LLC significantly reduced its stake in Tesla by selling 2,386 shares, leaving it with 150 shares worth $67,000. This comes amidst other hedge funds adjusting their Tesla holdings and notable insider selling by directors Kathleen Wilson-Thompson and James R. Murdoch. The article also details mixed catalysts and risks for Tesla, including potential European expansion versus softening China demand and regulatory scrutiny.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Teslarati",
+            "date": "20260301T072409",
+            "title": "Tesla Sweden appeals after grid company refuses to restore existing Supercharger due to union strike",
+            "summary": "Tesla Sweden is challenging a Swedish power grid company's refusal to reconnect an operational Supercharger station in Åre, citing ongoing union sympathy actions. The station was temporarily disconnected for safety reasons, but despite repairs, the grid company, Jämtkraft elnät, will not restore power, arguing it falls under the union's measures against Tesla's charging infrastructure. Tesla maintains that reconnecting an existing facility is not covered by the sympathy actions, and the grid company states it is acting based on advice from its employer organization regarding the unique situation.",
+            "text_to_analyze": "Tesla Sweden appeals after grid company refuses to restore existing Supercharger due to union strike. Tesla Sweden is challenging a Swedish power grid company's refusal to reconnect an operational Supercharger station in Åre, citing ongoing union sympathy actions. The station was temporarily disconnected for safety reasons, but despite repairs, the grid company, Jämtkraft elnät, will not restore power, arguing it falls under the union's measures against Tesla's charging infrastructure. Tesla maintains that reconnecting an existing facility is not covered by the sympathy actions, and the grid company states it is acting based on advice from its employer organization regarding the unique situation.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260228T193000",
+            "title": "Uber CEO Dara Khosrowshahi Says 'Majority Of Our Trips' Could Be Fulfilled By Robots Within 20 Years: 'You Have To Get The Regulations Up'",
+            "summary": "Uber CEO Dara Khosrowshahi predicts that within 15 to 20 years, most Uber trips could be completed by robotaxis. He emphasized that this shift requires significant regulatory approval, technological advancements, and infrastructure development. Other tech giants like Tesla and Alphabet's Waymo are also actively expanding their driverless services, intensifying competition in the autonomous vehicle market.",
+            "text_to_analyze": "Uber CEO Dara Khosrowshahi Says 'Majority Of Our Trips' Could Be Fulfilled By Robots Within 20 Years: 'You Have To Get The Regulations Up'. Uber CEO Dara Khosrowshahi predicts that within 15 to 20 years, most Uber trips could be completed by robotaxis. He emphasized that this shift requires significant regulatory approval, technological advancements, and infrastructure development. Other tech giants like Tesla and Alphabet's Waymo are also actively expanding their driverless services, intensifying competition in the autonomous vehicle market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.628405
+        },
+        {
+            "source": "TradingView",
+            "date": "20260228T075218",
+            "title": "TSLW Stock Fund Price and Chart — CBOE:TSLW",
+            "summary": "The Roundhill TSLA WeeklyPay ETF (TSLW) aims to provide weekly income and enhanced exposure to TSLA stock's weekly price performance, utilizing total return swap agreements and TSLA common stock. The fund makes weekly distributions and invests in short-term US Treasurys, but introduces volatility due to its lack of diversification and leverage. TSLW launched on February 19, 2025, and has experienced significant price and NAV decreases since its inception.",
+            "text_to_analyze": "TSLW Stock Fund Price and Chart — CBOE:TSLW. The Roundhill TSLA WeeklyPay ETF (TSLW) aims to provide weekly income and enhanced exposure to TSLA stock's weekly price performance, utilizing total return swap agreements and TSLA common stock. The fund makes weekly distributions and invests in short-term US Treasurys, but introduces volatility due to its lack of diversification and leverage. TSLW launched on February 19, 2025, and has experienced significant price and NAV decreases since its inception.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.861677
+        },
+        {
+            "source": "TradingView",
+            "date": "20260228T075213",
+            "title": "TSDD ETF Analysis: Dividends, Returns NASDAQ:TSDD",
+            "summary": "This article provides an analysis of the GraniteShares 2x Short TSLA Daily ETF (TSDD), detailing its objective to deliver -2x the daily price return of Tesla stock. It highlights key statistics such as its $55.91 million AUM, 7.61% dividend yield, and 0.95% expense ratio. The article also discusses its short-term tactical nature, risks due to lack of diversification, dividend history, and recent performance metrics.",
+            "text_to_analyze": "TSDD ETF Analysis: Dividends, Returns NASDAQ:TSDD. This article provides an analysis of the GraniteShares 2x Short TSLA Daily ETF (TSDD), detailing its objective to deliver -2x the daily price return of Tesla stock. It highlights key statistics such as its $55.91 million AUM, 7.61% dividend yield, and 0.95% expense ratio. The article also discusses its short-term tactical nature, risks due to lack of diversification, dividend history, and recent performance metrics.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.821624
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260227T223850",
+            "title": "Lemonade (LMND) Reports Record Gross Profit and 53% Revenue Growth in Q4 2025",
+            "summary": "Lemonade (LMND) reported strong Q4 2025 earnings with a 31% increase in in-force premiums and 53% revenue growth, reaching $228 million. The company achieved a record gross profit of $111 million and significantly narrowed its adjusted EBITDA loss to $5 million. A key innovation was the launch of ‘Lemonade Autonomous Car,’ a telematics-based product for Teslas that prices risk dynamically based on driving mode.",
+            "text_to_analyze": "Lemonade (LMND) Reports Record Gross Profit and 53% Revenue Growth in Q4 2025. Lemonade (LMND) reported strong Q4 2025 earnings with a 31% increase in in-force premiums and 53% revenue growth, reaching $228 million. The company achieved a record gross profit of $111 million and significantly narrowed its adjusted EBITDA loss to $5 million. A key innovation was the launch of ‘Lemonade Autonomous Car,’ a telematics-based product for Teslas that prices risk dynamically based on driving mode.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.603074
+        },
+        {
+            "source": "Finviz - Stock Screener",
+            "date": "20260227T173000",
+            "title": "Lemonade (LMND) Reports Record Gross Profit and 53% Revenue Growth in Q4 2025",
+            "summary": "Lemonade Inc. (LMND) reported strong Q4 2025 earnings, with in-force premiums up 31% and revenue surging 53% to $228 million, achieving a record gross profit of $111 million. The company also launched 'Lemonade Autonomous Car,' a telematics-based product for Teslas that prices risk based on driving mode, and is investing in AI for underwriting and cross-selling. Management aims for full EBITDA profitability by Q4 2026 and FY2027, maintaining a robust balance sheet despite a net loss for the quarter.",
+            "text_to_analyze": "Lemonade (LMND) Reports Record Gross Profit and 53% Revenue Growth in Q4 2025. Lemonade Inc. (LMND) reported strong Q4 2025 earnings, with in-force premiums up 31% and revenue surging 53% to $228 million, achieving a record gross profit of $111 million. The company also launched 'Lemonade Autonomous Car,' a telematics-based product for Teslas that prices risk based on driving mode, and is investing in AI for underwriting and cross-selling. Management aims for full EBITDA profitability by Q4 2026 and FY2027, maintaining a robust balance sheet despite a net loss for the quarter.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.619175
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-02",
+    "window_start": "2026-02-27 16:00",
+    "window_end": "2026-03-02 09:27",
+    "articles": [
+        {
+            "source": "www.disneydining.com",
+            "date": "20260302T035801",
+            "title": "In Less Than 3 Weeks, the Walt Disney Company Will Look Completely Different",
+            "summary": "Josh D’Amaro is set to take over as CEO of The Walt Disney Company on March 18, 2026, succeeding Bob Iger who will transition to a senior advisor role. D'Amaro, current head of Disney Experiences, inherits a stronger company than his predecessor Bob Chapek, with a profitable Disney+ and recent box office successes. His leadership, which begins this month, marks a significant shift in the company's direction, particularly given his strong fan approval and theme park background.",
+            "text_to_analyze": "In Less Than 3 Weeks, the Walt Disney Company Will Look Completely Different. Josh D’Amaro is set to take over as CEO of The Walt Disney Company on March 18, 2026, succeeding Bob Iger who will transition to a senior advisor role. D'Amaro, current head of Disney Experiences, inherits a stronger company than his predecessor Bob Chapek, with a profitable Disney+ and recent box office successes. His leadership, which begins this month, marks a significant shift in the company's direction, particularly given his strong fan approval and theme park background.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Inside the Magic",
+            "date": "20260302T015301",
+            "title": "The Walt Disney Company Announces Everything Will Change in 17 Days",
+            "summary": "The Walt Disney Company is preparing for a significant leadership change as Josh D’Amaro, currently head of Disney Experiences, is set to take over as CEO from Bob Iger on March 18, 2026. Iger will remain with the company as a senior advisor. This transition comes as Disney's streaming service is profitable and the company has seen success with recent films.",
+            "text_to_analyze": "The Walt Disney Company Announces Everything Will Change in 17 Days. The Walt Disney Company is preparing for a significant leadership change as Josh D’Amaro, currently head of Disney Experiences, is set to take over as CEO from Bob Iger on March 18, 2026. Iger will remain with the company as a senior advisor. This transition comes as Disney's streaming service is profitable and the company has seen success with recent films.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Simply Wall St",
+            "date": "20260301T135004",
+            "title": "The Walt Disney Company (DIS): The Turnaround Flywheel – Scaling Streaming and Experiences in 2026",
+            "summary": "The Walt Disney Company (DIS) is undergoing a significant corporate restructuring, shifting from a \"growth-at-all-costs\" streaming model to sustainable profitability, with new CEO Josh D'Amaro at the helm. The company reported record Q1 2026 results, driven by its Experiences division surpassing $10 billion in revenue and its Direct-to-Consumer segment achieving substantial operating income growth. With a fair value calculated at $131.50 per share, Disney is considered 19.4% undervalued, positioning it as a compelling entry point for value-oriented investors despite ongoing challenges in its legacy linear TV business.",
+            "text_to_analyze": "The Walt Disney Company (DIS): The Turnaround Flywheel – Scaling Streaming and Experiences in 2026. The Walt Disney Company (DIS) is undergoing a significant corporate restructuring, shifting from a \"growth-at-all-costs\" streaming model to sustainable profitability, with new CEO Josh D'Amaro at the helm. The company reported record Q1 2026 results, driven by its Experiences division surpassing $10 billion in revenue and its Direct-to-Consumer segment achieving substantial operating income growth. With a fair value calculated at $131.50 per share, Disney is considered 19.4% undervalued, positioning it as a compelling entry point for value-oriented investors despite ongoing challenges in its legacy linear TV business.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260301T100909",
+            "title": "Bedell Frazier Investment Counselling LLC Cuts Stake in The Walt Disney Company $DIS",
+            "summary": "Bedell Frazier Investment Counselling LLC reduced its stake in The Walt Disney Company by 17.4% in the third quarter, selling 12,354 shares and now holding 58,664 shares valued at $6.72 million. Despite this, other institutional investors have increased their positions. Wall Street analysts maintain a \"Moderate Buy\" consensus with a price target of $135.80, and Disney recently surpassed quarterly earnings and revenue estimates.",
+            "text_to_analyze": "Bedell Frazier Investment Counselling LLC Cuts Stake in The Walt Disney Company $DIS. Bedell Frazier Investment Counselling LLC reduced its stake in The Walt Disney Company by 17.4% in the third quarter, selling 12,354 shares and now holding 58,664 shares valued at $6.72 million. Despite this, other institutional investors have increased their positions. Wall Street analysts maintain a \"Moderate Buy\" consensus with a price target of $135.80, and Disney recently surpassed quarterly earnings and revenue estimates.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260301T085003",
+            "title": "Andra AP fonden Takes $7.36 Million Position in The Walt Disney Company $DIS",
+            "summary": "Andra AP fonden has acquired a new position of 64,300 shares in The Walt Disney Company, valued at approximately $7.36 million, during the third quarter. This move comes as other institutional investors also adjust their stakes, with most analysts maintaining a \"Buy\" or \"Outperform\" rating for Disney, despite recent price target adjustments. The article also highlights recent positive and negative news impacting Disney, including AI partnerships, park expansions, leadership changes, and abandoned development plans.",
+            "text_to_analyze": "Andra AP fonden Takes $7.36 Million Position in The Walt Disney Company $DIS. Andra AP fonden has acquired a new position of 64,300 shares in The Walt Disney Company, valued at approximately $7.36 million, during the third quarter. This move comes as other institutional investors also adjust their stakes, with most analysts maintaining a \"Buy\" or \"Outperform\" rating for Disney, despite recent price target adjustments. The article also highlights recent positive and negative news impacting Disney, including AI partnerships, park expansions, leadership changes, and abandoned development plans.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.300787
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260301T085003",
+            "title": "The Walt Disney Company $DIS Stock Position Trimmed by APG Asset Management N.V.",
+            "summary": "APG Asset Management N.V. reduced its stake in The Walt Disney Company by 6.6% in the third quarter, while institutional investors collectively own about 65.7% of the stock. Disney beat Q1 estimates and has strategic catalysts including an OpenAI partnership and new park attractions, despite some executional risks with delayed \"Villains\" projects. Analysts have a consensus \"Moderate Buy\" rating with a target price indicating upside from its current share price.",
+            "text_to_analyze": "The Walt Disney Company $DIS Stock Position Trimmed by APG Asset Management N.V.. APG Asset Management N.V. reduced its stake in The Walt Disney Company by 6.6% in the third quarter, while institutional investors collectively own about 65.7% of the stock. Disney beat Q1 estimates and has strategic catalysts including an OpenAI partnership and new park attractions, despite some executional risks with delayed \"Villains\" projects. Analysts have a consensus \"Moderate Buy\" rating with a target price indicating upside from its current share price.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260228T212439",
+            "title": "Cramer: “Disney Should Buy Norwegian Cruise. There’s a Big Ship Shortage”",
+            "summary": "Jim Cramer suggests Disney (DIS) should acquire Norwegian Cruise Line Holdings (NCLH) for approximately $11 billion due to a significant cruise ship shortage and high demand in the industry. While Disney's Experiences segment is performing well, the acquisition would require substantial debt financing, and Norwegian Cruise Line itself carries significant liabilities and is under activist pressure from Elliott Management. The deal's complexity, coupled with Disney's current financial situation and leadership transition, makes its feasibility uncertain despite the strategic fit.",
+            "text_to_analyze": "Cramer: “Disney Should Buy Norwegian Cruise. There’s a Big Ship Shortage”. Jim Cramer suggests Disney (DIS) should acquire Norwegian Cruise Line Holdings (NCLH) for approximately $11 billion due to a significant cruise ship shortage and high demand in the industry. While Disney's Experiences segment is performing well, the acquisition would require substantial debt financing, and Norwegian Cruise Line itself carries significant liabilities and is under activist pressure from Elliott Management. The deal's complexity, coupled with Disney's current financial situation and leadership transition, makes its feasibility uncertain despite the strategic fit.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.911002
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260228T141603",
+            "title": "TIAA Trust National Association Reduces Stock Position in The Walt Disney Company $DIS",
+            "summary": "TIAA Trust National Association decreased its stake in The Walt Disney Company by 8.3% during the third quarter, selling 6,346 shares and ending the period with 70,037 shares valued at $8.02 million. Meanwhile, other institutions like Assetmark Inc. significantly increased their holdings in Disney. Analysts maintain a generally positive outlook on DIS, with a \"Moderate Buy\" consensus rating and an average price target of $135.80, as the company reported strong Q1 earnings, beating estimates.",
+            "text_to_analyze": "TIAA Trust National Association Reduces Stock Position in The Walt Disney Company $DIS. TIAA Trust National Association decreased its stake in The Walt Disney Company by 8.3% during the third quarter, selling 6,346 shares and ending the period with 70,037 shares valued at $8.02 million. Meanwhile, other institutions like Assetmark Inc. significantly increased their holdings in Disney. Analysts maintain a generally positive outlook on DIS, with a \"Moderate Buy\" consensus rating and an average price target of $135.80, as the company reported strong Q1 earnings, beating estimates.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.967683
+        },
+        {
+            "source": "Investing.com Nigeria",
+            "date": "20260228T045203",
+            "title": "Craig-Hallum raises Lindblad Expeditions stock price target on Disney partnership",
+            "summary": "Craig-Hallum has increased its price target for Lindblad Expeditions Holdings (NASDAQ:LIND) to $25.00 from $16.00, maintaining a Buy rating. This adjustment follows Lindblad's expanded partnership with National Geographic and Disney, which is expected to boost customer acquisition and occupancy rates. The firm highlighted Lindblad's strong financial performance in 2025, with record revenue and EBITDA, and anticipates continued momentum into 2026.",
+            "text_to_analyze": "Craig-Hallum raises Lindblad Expeditions stock price target on Disney partnership. Craig-Hallum has increased its price target for Lindblad Expeditions Holdings (NASDAQ:LIND) to $25.00 from $16.00, maintaining a Buy rating. This adjustment follows Lindblad's expanded partnership with National Geographic and Disney, which is expected to boost customer acquisition and occupancy rates. The firm highlighted Lindblad's strong financial performance in 2025, with record revenue and EBITDA, and anticipates continued momentum into 2026.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.715173
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260227T215003",
+            "title": "29,138 Shares in The Walt Disney Company $DIS Bought by Hohimer Wealth Management LLC",
+            "summary": "Hohimer Wealth Management LLC recently acquired 29,138 shares of The Walt Disney Company (DIS) for an approximate value of $3.34 million in Q3, increasing institutional ownership to about 65.71%. The company's future strategy involves CEO Josh D’Amaro focusing on AI, revitalizing key franchises like Marvel and Star Wars, and expanding parks, with a reported OpenAI partnership aiming to reduce content costs and boost park revenue. Despite these positive strategic initiatives and a \"Moderate Buy\" consensus target of $135.80, DIS has underperformed the S&P 500 over the past year.",
+            "text_to_analyze": "29,138 Shares in The Walt Disney Company $DIS Bought by Hohimer Wealth Management LLC. Hohimer Wealth Management LLC recently acquired 29,138 shares of The Walt Disney Company (DIS) for an approximate value of $3.34 million in Q3, increasing institutional ownership to about 65.71%. The company's future strategy involves CEO Josh D’Amaro focusing on AI, revitalizing key franchises like Marvel and Star Wars, and expanding parks, with a reported OpenAI partnership aiming to reduce content costs and boost park revenue. Despite these positive strategic initiatives and a \"Moderate Buy\" consensus target of $135.80, DIS has underperformed the S&P 500 over the past year.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-24",
+    "window_start": "2026-03-23 16:00",
+    "window_end": "2026-03-24 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260324T073153",
+            "title": "AT&T Inc. $T Shares Acquired by Avanza Fonder AB",
+            "summary": "Avanza Fonder AB increased its stake in AT&T Inc. by 10.6% in the fourth quarter, acquiring 56,009 additional shares, bringing their total holdings to 584,097 shares valued at $14.51 million. AT&T reported strong Q4 earnings, surpassing expectations with $0.52 EPS and $33.47 billion in revenue, and set an optimistic FY2026 EPS guidance. Wall Street analysts maintain a bullish outlook, with several firms raising price targets, further supported by AT&T's plans to increase prices for legacy unlimited plans, which could enhance revenue and margins.",
+            "text_to_analyze": "AT&T Inc. $T Shares Acquired by Avanza Fonder AB. Avanza Fonder AB increased its stake in AT&T Inc. by 10.6% in the fourth quarter, acquiring 56,009 additional shares, bringing their total holdings to 584,097 shares valued at $14.51 million. AT&T reported strong Q4 earnings, surpassing expectations with $0.52 EPS and $33.47 billion in revenue, and set an optimistic FY2026 EPS guidance. Wall Street analysts maintain a bullish outlook, with several firms raising price targets, further supported by AT&T's plans to increase prices for legacy unlimited plans, which could enhance revenue and margins.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.604785
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260323T164900",
+            "title": "Target Corp. stock underperforms Monday when compared to competitors despite daily gains",
+            "summary": "Target Corp. (TGT) shares rose 1.47% on Monday to $114.93, breaking a five-day losing streak, despite the company's stock underperforming compared to its competitors. This occurred during a favorable trading session for the broader market, with the S&P 500 Index and Dow Jones Industrial Average both seeing gains.",
+            "text_to_analyze": "Target Corp. stock underperforms Monday when compared to competitors despite daily gains. Target Corp. (TGT) shares rose 1.47% on Monday to $114.93, breaking a five-day losing streak, despite the company's stock underperforming compared to its competitors. This occurred during a favorable trading session for the broader market, with the S&P 500 Index and Dow Jones Industrial Average both seeing gains.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

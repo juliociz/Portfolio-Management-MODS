@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-03",
+    "window_start": "2026-03-02 16:00",
+    "window_end": "2026-03-03 09:27",
+    "articles": [
+        {
+            "source": "Investing.com Canada",
+            "date": "20260303T055204",
+            "title": "Curbline Properties acquires $111.4M in shopping centers By Investing.com",
+            "summary": "Curbline Properties Corp. has acquired 10 convenience shopping centers for a total of $111.4 million year-to-date, contributing to a 51% revenue growth over the last twelve months. The company, a REIT focusing on suburban convenience centers, also raised $354.9 million through stock sales for future acquisitions and maintains a strong current ratio. Analysts expect 21% sales growth for the current year, and recent public offerings and price target raises by KeyBanc and Stifel underscore positive outlooks, with Starbucks, Verizon, and Chipotle as key tenants.",
+            "text_to_analyze": "Curbline Properties acquires $111.4M in shopping centers By Investing.com. Curbline Properties Corp. has acquired 10 convenience shopping centers for a total of $111.4 million year-to-date, contributing to a 51% revenue growth over the last twelve months. The company, a REIT focusing on suburban convenience centers, also raised $354.9 million through stock sales for future acquisitions and maintains a strong current ratio. Analysts expect 21% sales growth for the current year, and recent public offerings and price target raises by KeyBanc and Stifel underscore positive outlooks, with Starbucks, Verizon, and Chipotle as key tenants.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.607088
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260303T055101",
+            "title": "Starbucks Stock Is Spiking Again: What Gen Z Investors Need To Know Now",
+            "summary": "Starbucks Corp. is seeing renewed investor interest due to US-focused earnings, cost-cutting plans, and strategic shifts. The article analyzes Starbucks' efforts to maintain growth through cold beverages, drive-thrus, and its loyalty app, while addressing challenges like US traffic, labor costs, and inflation. It provides a balanced view for Gen Z investors, weighing the brand's iconic status and digital ecosystem against competition and market maturity.",
+            "text_to_analyze": "Starbucks Stock Is Spiking Again: What Gen Z Investors Need To Know Now. Starbucks Corp. is seeing renewed investor interest due to US-focused earnings, cost-cutting plans, and strategic shifts. The article analyzes Starbucks' efforts to maintain growth through cold beverages, drive-thrus, and its loyalty app, while addressing challenges like US traffic, labor costs, and inflation. It provides a balanced view for Gen Z investors, weighing the brand's iconic status and digital ecosystem against competition and market maturity.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260303T053500",
+            "title": "Starbucks Stock Is Spiking Again: What Gen Z Investors Need To Know Now",
+            "summary": "Starbucks Corp. (SBUX) is back in the spotlight due to fresh US-focused earnings, cost-cutting plans, and a strategy shift targeting long-term growth. The company is focusing on cold and customized drinks, drive-thru and pickup formats, and the Starbucks Rewards app to increase revenue and customer loyalty in the US. Investors are weighing the potential for growth against challenges like US traffic softness, rising labor costs, and competition, making it a \"hold\" or \"selective buy\" depending on risk tolerance.",
+            "text_to_analyze": "Starbucks Stock Is Spiking Again: What Gen Z Investors Need To Know Now. Starbucks Corp. (SBUX) is back in the spotlight due to fresh US-focused earnings, cost-cutting plans, and a strategy shift targeting long-term growth. The company is focusing on cold and customized drinks, drive-thru and pickup formats, and the Starbucks Rewards app to increase revenue and customer loyalty in the US. Investors are weighing the potential for growth against challenges like US traffic softness, rising labor costs, and competition, making it a \"hold\" or \"selective buy\" depending on risk tolerance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260302T163900",
+            "title": "Starbucks Corp. stock outperforms competitors despite losses on the day",
+            "summary": "Starbucks Corp. (SBUX) shares fell 1.29% to $96.76 on Monday, marking the second consecutive day of losses. Despite this, the stock still outperformed the mixed broader market, with the S&P 500 Index rising and the Dow Jones Industrial Average falling.",
+            "text_to_analyze": "Starbucks Corp. stock outperforms competitors despite losses on the day. Starbucks Corp. (SBUX) shares fell 1.29% to $96.76 on Monday, marking the second consecutive day of losses. Despite this, the stock still outperformed the mixed broader market, with the S&P 500 Index rising and the Dow Jones Industrial Average falling.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

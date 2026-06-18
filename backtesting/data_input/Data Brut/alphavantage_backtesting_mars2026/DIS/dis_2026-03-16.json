@@ -1,0 +1,135 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-16",
+    "window_start": "2026-03-13 16:00",
+    "window_end": "2026-03-16 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260316T080626",
+            "title": "Chilton Investment Co. Inc. Boosts Stake in The Walt Disney Company $DIS",
+            "summary": "Chilton Investment Co. Inc. significantly increased its stake in The Walt Disney Company (NYSE:DIS) by 390.0% in the third quarter, acquiring an additional 9,016 shares. Other institutional investors also adjusted their positions in Walt Disney. The article details Disney's financial performance, analyst ratings, and recent key headlines impacting the company, including positive news about park reopenings and streaming content, as well as a neutral outlook on consumer engagement and a negative sentiment regarding ad-revenue competition in 2025.",
+            "text_to_analyze": "Chilton Investment Co. Inc. Boosts Stake in The Walt Disney Company $DIS. Chilton Investment Co. Inc. significantly increased its stake in The Walt Disney Company (NYSE:DIS) by 390.0% in the third quarter, acquiring an additional 9,016 shares. Other institutional investors also adjusted their positions in Walt Disney. The article details Disney's financial performance, analyst ratings, and recent key headlines impacting the company, including positive news about park reopenings and streaming content, as well as a neutral outlook on consumer engagement and a negative sentiment regarding ad-revenue competition in 2025.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.961918
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260316T020725",
+            "title": "The Walt Disney Company Sets Leadership Team For Expanded Disney Entertainment Segment",
+            "summary": "The Walt Disney Company announced a new leadership structure for its expanded Disney Entertainment segment, led by incoming President and Chief Creative Officer Dana Walden. This consolidation brings together the company’s streaming, film, television, and games businesses to create a more unified and immersive experience. Key appointments include Debra OConnell as Chairman of Disney Entertainment Television and Alan Bergman continuing to oversee film studios, with Joe Earley and Adam Smith as co-presidents of Direct to Consumer.",
+            "text_to_analyze": "The Walt Disney Company Sets Leadership Team For Expanded Disney Entertainment Segment. The Walt Disney Company announced a new leadership structure for its expanded Disney Entertainment segment, led by incoming President and Chief Creative Officer Dana Walden. This consolidation brings together the company’s streaming, film, television, and games businesses to create a more unified and immersive experience. Key appointments include Debra OConnell as Chairman of Disney Entertainment Television and Alan Bergman continuing to oversee film studios, with Joe Earley and Adam Smith as co-presidents of Direct to Consumer.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.993383
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260315T235003",
+            "title": "Disney Cruise Line Launches New Ad Celebrating the Enduring Power of Disney Magic & Family Traditions",
+            "summary": "Disney Cruise Line (DCL) premiered a new ad campaign, \"Midnight Magic,\" during the Academy Awards, highlighting how Disney vacations foster lifelong memories and family traditions. The ad follows a father and son's shared ritual aboard a Disney ship, emphasizing the creation of meaningful connections. This campaign coincides with DCL's significant expansion, planning five new ships by 2031, including the recent debuts of Disney Destiny and Disney Adventure, to accommodate more families globally.",
+            "text_to_analyze": "Disney Cruise Line Launches New Ad Celebrating the Enduring Power of Disney Magic & Family Traditions. Disney Cruise Line (DCL) premiered a new ad campaign, \"Midnight Magic,\" during the Academy Awards, highlighting how Disney vacations foster lifelong memories and family traditions. The ad follows a father and son's shared ritual aboard a Disney ship, emphasizing the creation of meaningful connections. This campaign coincides with DCL's significant expansion, planning five new ships by 2031, including the recent debuts of Disney Destiny and Disney Adventure, to accommodate more families globally.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "New York Post",
+            "date": "20260315T213723",
+            "title": "Exclusive | Disney chief behind Star Wars games drops explosive suit against media giant: ‘Dug up dirt on me’",
+            "summary": "Jay Ong, Disney's Head of Gaming, is reportedly suing The Walt Disney Company for $40 million, alleging discrimination after his bonus and incentive award were reduced. Ong, responsible for games like \"Spider-Man\" and \"Star Wars,\" claims an HR executive tried to \"dig up dirt\" on him, citing a \"poor cultural fit\" despite his division's record profitability. The lawsuit suggests a broader pattern of discrimination against employees of Asian descent within the company.",
+            "text_to_analyze": "Exclusive | Disney chief behind Star Wars games drops explosive suit against media giant: ‘Dug up dirt on me’. Jay Ong, Disney's Head of Gaming, is reportedly suing The Walt Disney Company for $40 million, alleging discrimination after his bonus and incentive award were reduced. Ong, responsible for games like \"Spider-Man\" and \"Star Wars,\" claims an HR executive tried to \"dig up dirt\" on him, citing a \"poor cultural fit\" despite his division's record profitability. The lawsuit suggests a broader pattern of discrimination against employees of Asian descent within the company.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260315T203400",
+            "title": "Is The Walt Disney Company (DIS) A Good Stock To Buy Now?",
+            "summary": "The Walt Disney Company (DIS) showed a mixed but strategically significant Q1 FY 2026, with revenue growth driven by Experiences, Entertainment, and Streaming, while profitability declined due to higher costs. Streaming achieved profitability, and Experiences remain a strong earner. Despite a recent stock depreciation, the long-term outlook is positive, with management expecting accelerated earnings growth in H2 2026 and planned share repurchases, making DIS an attractive stock for investors.",
+            "text_to_analyze": "Is The Walt Disney Company (DIS) A Good Stock To Buy Now?. The Walt Disney Company (DIS) showed a mixed but strategically significant Q1 FY 2026, with revenue growth driven by Experiences, Entertainment, and Streaming, while profitability declined due to higher costs. Streaming achieved profitability, and Experiences remain a strong earner. Despite a recent stock depreciation, the long-term outlook is positive, with management expecting accelerated earnings growth in H2 2026 and planned share repurchases, making DIS an attractive stock for investors.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Class Action Lawsuits",
+            "date": "20260315T144201",
+            "title": "Disney agrees to $50M class action settlement over streaming TV price claims",
+            "summary": "The Walt Disney Co. has agreed to a proposed $50 million class action settlement with YouTube TV and DirecTV Stream subscribers. The lawsuit alleged that Disney inflated streaming television prices by forcing platforms to carry its ESPN networks through anticompetitive carriage agreements. In addition to monetary relief, the settlement requires Disney to consider alternative channel packages that could exclude ESPN channels for three years.",
+            "text_to_analyze": "Disney agrees to $50M class action settlement over streaming TV price claims. The Walt Disney Co. has agreed to a proposed $50 million class action settlement with YouTube TV and DirecTV Stream subscribers. The lawsuit alleged that Disney inflated streaming television prices by forcing platforms to carry its ESPN networks through anticompetitive carriage agreements. In addition to monetary relief, the settlement requires Disney to consider alternative channel packages that could exclude ESPN channels for three years.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260315T091805",
+            "title": "BNP Paribas Lowers Position in The Walt Disney Company $DIS",
+            "summary": "BNP Paribas reduced its stake in The Walt Disney Company by 4.1% in the third quarter, selling 12,513 shares, though Walt Disney remains its 26th largest holding. Despite this, other institutional investors increased their holdings, and analysts maintain a \"Moderate Buy\" rating with a consensus target price of $135.80. Recent positive news for Disney includes reopening dates for refreshed park attractions, new family experiences, upcoming Disney+ content, and a new Chief Communications Officer, though ad-revenue competition and execution risks are noted.",
+            "text_to_analyze": "BNP Paribas Lowers Position in The Walt Disney Company $DIS. BNP Paribas reduced its stake in The Walt Disney Company by 4.1% in the third quarter, selling 12,513 shares, though Walt Disney remains its 26th largest holding. Despite this, other institutional investors increased their holdings, and analysts maintain a \"Moderate Buy\" rating with a consensus target price of $135.80. Recent positive news for Disney includes reopening dates for refreshed park attractions, new family experiences, upcoming Disney+ content, and a new Chief Communications Officer, though ad-revenue competition and execution risks are noted.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.988264
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260315T074941",
+            "title": "The Walt Disney Company $DIS Shares Sold by Ameriprise Financial Inc.",
+            "summary": "Ameriprise Financial Inc. reduced its stake in The Walt Disney Company (NYSE:DIS) by 2.2% in the third quarter, selling over 328,000 shares but still owning more than 14.9 million shares valued at $1.7 billion. Other hedge funds have either bought new positions or increased their holdings in Walt Disney. The article also provides details on Disney's stock performance, financial ratios, recent earnings, and analyst ratings, which currently average a \"Moderate Buy\" with a $135.80 target price.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by Ameriprise Financial Inc.. Ameriprise Financial Inc. reduced its stake in The Walt Disney Company (NYSE:DIS) by 2.2% in the third quarter, selling over 328,000 shares but still owning more than 14.9 million shares valued at $1.7 billion. Other hedge funds have either bought new positions or increased their holdings in Walt Disney. The article also provides details on Disney's stock performance, financial ratios, recent earnings, and analyst ratings, which currently average a \"Moderate Buy\" with a $135.80 target price.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260314T114959",
+            "title": "The Walt Disney Company $DIS is Tremblant Capital Group's 6th Largest Position",
+            "summary": "Tremblant Capital Group, a prominent institutional investor, reduced its stake in The Walt Disney Company by 6.3% in Q3, yet Disney remains its sixth-largest holding, valued at $42.93 million. Disney's stock, trading at $99.29, reflects a market cap of $175.89 billion, and the company recently beat earnings expectations with $1.63 EPS and $25.98 billion in revenue. Despite analyst consensus for a \"Moderate Buy\" rating and a target price of $135.80, the company faces challenges like ad-revenue competition from platforms like YouTube, offset by positive catalysts such as refreshed park attractions, new Disney+ content, and strategic leadership hires.",
+            "text_to_analyze": "The Walt Disney Company $DIS is Tremblant Capital Group's 6th Largest Position. Tremblant Capital Group, a prominent institutional investor, reduced its stake in The Walt Disney Company by 6.3% in Q3, yet Disney remains its sixth-largest holding, valued at $42.93 million. Disney's stock, trading at $99.29, reflects a market cap of $175.89 billion, and the company recently beat earnings expectations with $1.63 EPS and $25.98 billion in revenue. Despite analyst consensus for a \"Moderate Buy\" rating and a target price of $135.80, the company faces challenges like ad-revenue competition from platforms like YouTube, offset by positive catalysts such as refreshed park attractions, new Disney+ content, and strategic leadership hires.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260314T112101",
+            "title": "Ossiam Acquires 297,388 Shares of The Walt Disney Company $DIS",
+            "summary": "Ossiam significantly increased its stake in The Walt Disney Company by 674.6% in the third quarter, purchasing an additional 297,388 shares. This acquisition brings Ossiam's total holdings in Disney to 341,470 shares, valued at approximately $39.1 million. The article also details other institutional investor activities, analyst ratings, and recent key news impacting Disney, including positive sentiment concerning theme park updates and content additions to Disney+, alongside challenges related to ad revenue competition.",
+            "text_to_analyze": "Ossiam Acquires 297,388 Shares of The Walt Disney Company $DIS. Ossiam significantly increased its stake in The Walt Disney Company by 674.6% in the third quarter, purchasing an additional 297,388 shares. This acquisition brings Ossiam's total holdings in Disney to 341,470 shares, valued at approximately $39.1 million. The article also details other institutional investor activities, analyst ratings, and recent key news impacting Disney, including positive sentiment concerning theme park updates and content additions to Disney+, alongside challenges related to ad revenue competition.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260314T075000",
+            "title": "FORA Capital LLC Purchases Shares of 13,944 The Walt Disney Company $DIS",
+            "summary": "FORA Capital LLC acquired 13,944 shares of The Walt Disney Company (NYSE:DIS) in the third quarter, valued at approximately $1.597 million. Several other institutional investors also modified their holdings in Disney, which has a current market cap of $175.89 billion and recently reported earnings beating analysts' consensus estimates. Analyst ratings for Disney are predominantly \"Buy,\" with a consensus target price of $135.80, despite some mixed sentiment regarding ad-revenue competition and execution risks.",
+            "text_to_analyze": "FORA Capital LLC Purchases Shares of 13,944 The Walt Disney Company $DIS. FORA Capital LLC acquired 13,944 shares of The Walt Disney Company (NYSE:DIS) in the third quarter, valued at approximately $1.597 million. Several other institutional investors also modified their holdings in Disney, which has a current market cap of $175.89 billion and recently reported earnings beating analysts' consensus estimates. Analyst ratings for Disney are predominantly \"Buy,\" with a consensus target price of $135.80, despite some mixed sentiment regarding ad-revenue competition and execution risks.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260314T054942",
+            "title": "Amazon's Ad-Free Prime Video Plan Will Now Cost $2 More In US— Here's What To Know",
+            "summary": "Amazon is increasing the price of its ad-free Prime Video plan by $2, rebranding it as \"Prime Video Ultra\" and adding features like 4K streaming and more simultaneous device support. This move follows a trend of price hikes across several major streaming services including Netflix, Disney+, and Paramount+. Despite these price adjustments, Amazon reports continued growth in Prime Video's audience, with over 315 million global ad-supported viewers.",
+            "text_to_analyze": "Amazon's Ad-Free Prime Video Plan Will Now Cost $2 More In US— Here's What To Know. Amazon is increasing the price of its ad-free Prime Video plan by $2, rebranding it as \"Prime Video Ultra\" and adding features like 4K streaming and more simultaneous device support. This move follows a trend of price hikes across several major streaming services including Netflix, Disney+, and Paramount+. Despite these price adjustments, Amazon reports continued growth in Prime Video's audience, with over 315 million global ad-supported viewers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.64959
+        },
+        {
+            "source": "Daps Magic",
+            "date": "20260314T025005",
+            "title": "The Walt Disney Company Names Paul Roeder as Chief Communications Officer",
+            "summary": "The Walt Disney Company has appointed Paul Roeder as its new Chief Communications Officer, reporting directly to incoming CEO Josh D’Amaro. Roeder, who has been with Disney for 25 years, will be responsible for leading global communications strategies for the company. This appointment is part of a broader leadership reshuffle as D’Amaro prepares to take on the CEO role.",
+            "text_to_analyze": "The Walt Disney Company Names Paul Roeder as Chief Communications Officer. The Walt Disney Company has appointed Paul Roeder as its new Chief Communications Officer, reporting directly to incoming CEO Josh D’Amaro. Roeder, who has been with Disney for 25 years, will be responsible for leading global communications strategies for the company. This appointment is part of a broader leadership reshuffle as D’Amaro prepares to take on the CEO role.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260313T205003",
+            "title": "At SXSW, Disney Consumer Products Showcases the Strength of its Storytelling and Cultural Relevance",
+            "summary": "At SXSW, Disney Consumer Products (DCP) highlighted its strategy for maintaining cultural relevance across generations by expanding Disney stories beyond traditional media into everyday products and experiences. Tasia Filippatos, President of DCP, explained how the business, a $62 billion global retail ecosystem, uses cultural insights, emotional storytelling, and innovative collaborations, including those in gaming and fashion, to connect with fans. The presentation emphasized that story, product, and experience are core ingredients, with a focus on emotional connection and authenticity in collaborations to create lasting memories.",
+            "text_to_analyze": "At SXSW, Disney Consumer Products Showcases the Strength of its Storytelling and Cultural Relevance. At SXSW, Disney Consumer Products (DCP) highlighted its strategy for maintaining cultural relevance across generations by expanding Disney stories beyond traditional media into everyday products and experiences. Tasia Filippatos, President of DCP, explained how the business, a $62 billion global retail ecosystem, uses cultural insights, emotional storytelling, and innovative collaborations, including those in gaming and fashion, to connect with fans. The presentation emphasized that story, product, and experience are core ingredients, with a focus on emotional connection and authenticity in collaborations to create lasting memories.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

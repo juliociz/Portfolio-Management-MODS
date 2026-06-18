@@ -1,0 +1,90 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-30",
+    "window_start": "2026-03-27 16:00",
+    "window_end": "2026-03-30 09:27",
+    "articles": [
+        {
+            "source": "MSN",
+            "date": "20260330T073745",
+            "title": "$72.3M deal gives Federal Realty more control of major retail hub in Maryland",
+            "summary": "Federal Realty Investment Trust has acquired the remaining 18.2% interest in the Montrose Crossing shopping center in Rockville, Maryland, for $72.3 million. This acquisition brings the company's ownership to 100% and is part of its strategy to consolidate control over key properties. Montrose Crossing is a significant retail hub with over 350,000 square feet of space, anchored by Target and Giant Food, and sees strong performance with high foot traffic and sales.",
+            "text_to_analyze": "$72.3M deal gives Federal Realty more control of major retail hub in Maryland. Federal Realty Investment Trust has acquired the remaining 18.2% interest in the Montrose Crossing shopping center in Rockville, Maryland, for $72.3 million. This acquisition brings the company's ownership to 100% and is part of its strategy to consolidate control over key properties. Montrose Crossing is a significant retail hub with over 350,000 square feet of space, anchored by Target and Giant Food, and sees strong performance with high foot traffic and sales.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.607546
+        },
+        {
+            "source": "The US Sun",
+            "date": "20260329T213839",
+            "title": "All Target locations in US state to be hit with new $24 policy",
+            "summary": "Rhode Island is considering three bills that could raise the state's minimum wage to as high as $24 per hour by 2027, impacting major retailers like Target. While proponents argue this would provide a living wage and stimulate the economy, businesses and lobbyists fear it could lead to higher prices, inflation, and job losses, damaging the state's economic competitiveness. The current minimum wage in Rhode Island is $16 per hour and is set to increase to $17 next year even without the new legislation.",
+            "text_to_analyze": "All Target locations in US state to be hit with new $24 policy. Rhode Island is considering three bills that could raise the state's minimum wage to as high as $24 per hour by 2027, impacting major retailers like Target. While proponents argue this would provide a living wage and stimulate the economy, businesses and lobbyists fear it could lead to higher prices, inflation, and job losses, damaging the state's economic competitiveness. The current minimum wage in Rhode Island is $16 per hour and is set to increase to $17 next year even without the new legislation.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.3402
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260329T153818",
+            "title": "Target Corp. Stock: Institutional Confidence Builds as Pallas Capital Advisors Boosts Stake by 80% Ahead of Q1 Earnings",
+            "summary": "Pallas Capital Advisors LLC significantly increased its stake in Target Corp. (NYSE: TGT) by 80.2% in Q4 2025, adding 9,376 shares to reach 21,068 shares valued at $2.06 million, indicating strong institutional confidence. This move comes ahead of Target's Q1 2026 earnings report on May 15, where the retailer is expected to highlight progress in its turnaround strategy, supported by its omnichannel approach, private-label brands, and strategic initiatives in technology and sustainability. Target's financial guidance, dividend commitment, and resilience in the competitive retail landscape make it an attractive consideration for North American portfolios.",
+            "text_to_analyze": "Target Corp. Stock: Institutional Confidence Builds as Pallas Capital Advisors Boosts Stake by 80% Ahead of Q1 Earnings. Pallas Capital Advisors LLC significantly increased its stake in Target Corp. (NYSE: TGT) by 80.2% in Q4 2025, adding 9,376 shares to reach 21,068 shares valued at $2.06 million, indicating strong institutional confidence. This move comes ahead of Target's Q1 2026 earnings report on May 15, where the retailer is expected to highlight progress in its turnaround strategy, supported by its omnichannel approach, private-label brands, and strategic initiatives in technology and sustainability. Target's financial guidance, dividend commitment, and resilience in the competitive retail landscape make it an attractive consideration for North American portfolios.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260329T095851",
+            "title": "Generate Investment Management Ltd Sells 10,000 Shares of Walmart Inc. $WMT",
+            "summary": "Generate Investment Management Ltd reduced its stake in Walmart Inc. by 14.3% in Q4, selling 10,000 shares and retaining 60,000 shares valued at approximately $6.68 million. This comes amidst other institutional investor adjustments and notable insider selling from EVP John D. Rainey and Director C. Douglas McMillon. Despite these sales, Walmart reported beating Q4 EPS and revenue estimates, provided positive FY2027 EPS guidance, and maintains a \"Moderate Buy\" analyst consensus with an average target price near $135.76.",
+            "text_to_analyze": "Generate Investment Management Ltd Sells 10,000 Shares of Walmart Inc. $WMT. Generate Investment Management Ltd reduced its stake in Walmart Inc. by 14.3% in Q4, selling 10,000 shares and retaining 60,000 shares valued at approximately $6.68 million. This comes amidst other institutional investor adjustments and notable insider selling from EVP John D. Rainey and Director C. Douglas McMillon. Despite these sales, Walmart reported beating Q4 EPS and revenue estimates, provided positive FY2027 EPS guidance, and maintains a \"Moderate Buy\" analyst consensus with an average target price near $135.76.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.612794
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260329T080443",
+            "title": "Exchange Traded Concepts LLC Reduces Stake in Walmart Inc. $WMT",
+            "summary": "Exchange Traded Concepts LLC has reduced its stake in Walmart Inc. by 6.3%, selling 13,716 shares and now holding 202,706 shares valued at $22.58 million. Despite this, analysts generally maintain a bullish outlook with a consensus \"Moderate Buy\" rating and a price target of $135.76, citing positive digital initiatives and a disciplined buyback program. However, the company faces risks from internal insider selling by executives and potential governance issues related to a state fine and a shareholder probe into driver pay practices.",
+            "text_to_analyze": "Exchange Traded Concepts LLC Reduces Stake in Walmart Inc. $WMT. Exchange Traded Concepts LLC has reduced its stake in Walmart Inc. by 6.3%, selling 13,716 shares and now holding 202,706 shares valued at $22.58 million. Despite this, analysts generally maintain a bullish outlook with a consensus \"Moderate Buy\" rating and a price target of $135.76, citing positive digital initiatives and a disciplined buyback program. However, the company faces risks from internal insider selling by executives and potential governance issues related to a state fine and a shareholder probe into driver pay practices.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.612934
+        },
+        {
+            "source": "TIKR.com",
+            "date": "20260328T213724",
+            "title": "Costco Rose 7% Over the Past 6 Months. Here’s Why Its Membership Model Still Points to Upside in 2026",
+            "summary": "Costco Wholesale Corporation's stock has risen 7% over the past six months, trading near $984 per share, driven by strong comparable sales growth, increasing membership fee income, and consistent traffic. The company's unique membership-based model, which generates high-margin income, provides predictable and resilient earnings, differentiating it from peers. A valuation model suggests a target price of $1,210, implying a 23% upside over approximately 2.4 years, indicating the stock is modestly undervalued.",
+            "text_to_analyze": "Costco Rose 7% Over the Past 6 Months. Here’s Why Its Membership Model Still Points to Upside in 2026. Costco Wholesale Corporation's stock has risen 7% over the past six months, trading near $984 per share, driven by strong comparable sales growth, increasing membership fee income, and consistent traffic. The company's unique membership-based model, which generates high-margin income, provides predictable and resilient earnings, differentiating it from peers. A valuation model suggests a target price of $1,210, implying a 23% upside over approximately 2.4 years, indicating the stock is modestly undervalued.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.629198
+        },
+        {
+            "source": "Sahm",
+            "date": "20260327T213732",
+            "title": "Dollar Tree Refocuses On Multi Price Stores And Single Banner Growth",
+            "summary": "Dollar Tree (DLTR) is expanding its multi-price strategy to include items priced up to $7 and focusing on a single banner after selling Family Dollar. The company plans 400 new store openings and 75 closures in 2026. This strategic shift aims to improve margins, traffic patterns, and its position in the discount retail sector, with the stock currently trading below analyst targets and its estimated fair value.",
+            "text_to_analyze": "Dollar Tree Refocuses On Multi Price Stores And Single Banner Growth. Dollar Tree (DLTR) is expanding its multi-price strategy to include items priced up to $7 and focusing on a single banner after selling Family Dollar. The company plans 400 new store openings and 75 closures in 2026. This strategic shift aims to improve margins, traffic patterns, and its position in the discount retail sector, with the stock currently trading below analyst targets and its estimated fair value.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.591314
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T175928",
+            "title": "Vanguard (TGT) amends 13G/A: disaggregation, reports 0 shares",
+            "summary": "Vanguard Group has filed an Amendment No. 14 to its Schedule 13G/A for Target Corp (TGT), reporting zero beneficial ownership. This filing indicates an internal realignment effective January 12, 2026, which causes certain Vanguard subsidiaries to report their holdings separately, as per SEC Release No. 34-39538. The amendment clarifies that this is an administrative reallocation of reporting responsibilities, not a trade, and Vanguard itself no longer holds beneficial ownership over these securities.",
+            "text_to_analyze": "Vanguard (TGT) amends 13G/A: disaggregation, reports 0 shares. Vanguard Group has filed an Amendment No. 14 to its Schedule 13G/A for Target Corp (TGT), reporting zero beneficial ownership. This filing indicates an internal realignment effective January 12, 2026, which causes certain Vanguard subsidiaries to report their holdings separately, as per SEC Release No. 34-39538. The amendment clarifies that this is an administrative reallocation of reporting responsibilities, not a trade, and Vanguard itself no longer holds beneficial ownership over these securities.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.303543
+        },
+        {
+            "source": "Bitget",
+            "date": "20260327T164900",
+            "title": "Target Jumps 3% During Intraday Rally — What’s Driving the Upward Trend?",
+            "summary": "Target (TGT) shares surged over 3% during an intraday rally, driven by bullish technical signals and increased options trading, with the stock challenging resistance near $121.38. The retail sector also saw positive momentum, with Walmart (WMT) experiencing gains. Despite strong short-term bullish indicators, backtesting revealed that buying TGT after a 3% intraday gain historically resulted in disappointing returns, highlighting potential risks for traders.",
+            "text_to_analyze": "Target Jumps 3% During Intraday Rally — What’s Driving the Upward Trend?. Target (TGT) shares surged over 3% during an intraday rally, driven by bullish technical signals and increased options trading, with the stock challenging resistance near $121.38. The retail sector also saw positive momentum, with Walmart (WMT) experiencing gains. Despite strong short-term bullish indicators, backtesting revealed that buying TGT after a 3% intraday gain historically resulted in disappointing returns, highlighting potential risks for traders.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

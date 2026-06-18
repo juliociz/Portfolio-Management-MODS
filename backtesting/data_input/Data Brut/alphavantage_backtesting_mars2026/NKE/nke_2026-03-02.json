@@ -1,0 +1,36 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-02",
+    "window_start": "2026-02-27 16:00",
+    "window_end": "2026-03-02 09:27",
+    "articles": [
+        {
+            "source": "openPR.com",
+            "date": "20260302T085226",
+            "title": "Top Players and Competitive Dynamics in the Online Fitness Course Market",
+            "summary": "The online fitness course market is projected to reach $33.34 billion by 2030, growing at a CAGR of 19.4%, driven by technological advancements and consumer demand for flexible workout solutions. Key players include Nike, Peloton, and Udemy, with trends like AI-powered coaching, comprehensive wellness programs, and immersive workout technologies fueling expansion. The market is segmented by type (on-demand, live, hybrid), platform (web, app), subscription model, and end-user, highlighting diverse offerings.",
+            "text_to_analyze": "Top Players and Competitive Dynamics in the Online Fitness Course Market. The online fitness course market is projected to reach $33.34 billion by 2030, growing at a CAGR of 19.4%, driven by technological advancements and consumer demand for flexible workout solutions. Key players include Nike, Peloton, and Udemy, with trends like AI-powered coaching, comprehensive wellness programs, and immersive workout technologies fueling expansion. The market is segmented by type (on-demand, live, hybrid), platform (web, app), subscription model, and end-user, highlighting diverse offerings.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.695538
+        },
+        {
+            "source": "Sahm",
+            "date": "20260302T075042",
+            "title": "Nike Tariffs China Headwinds And Sustainability Efforts Weigh On Valuation",
+            "summary": "Nike is adjusting its supply chain due to new 15% global tariffs and is reducing manufacturing in China for U.S.-bound footwear. The company also faces challenges in the China market with softer demand and is expanding its sustainability efforts by powering its Japan operations with renewable energy. These factors, alongside its current valuation and dividend coverage, present a complex picture for investors.",
+            "text_to_analyze": "Nike Tariffs China Headwinds And Sustainability Efforts Weigh On Valuation. Nike is adjusting its supply chain due to new 15% global tariffs and is reducing manufacturing in China for U.S.-bound footwear. The company also faces challenges in the China market with softer demand and is expanding its sustainability efforts by powering its Japan operations with renewable energy. These factors, alongside its current valuation and dividend coverage, present a complex picture for investors.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260228T095135",
+            "title": "NIKE, Inc. $NKE Shares Bought by Central Securities Corp",
+            "summary": "Central Securities Corp significantly increased its stake in NIKE, Inc. by 12.5% in Q3, purchasing 50,000 shares to hold a total of 450,000 shares valued at $31.38 million. This move is part of a broader trend where several institutional investors have materially increased their positions, bringing total institutional ownership to 64.25%. Despite the stock trading down approximately 2.8% and facing analyst price target cuts, NIKE surpassed Q3 earnings estimates and announced a quarterly dividend, with company insiders also recently buying shares.",
+            "text_to_analyze": "NIKE, Inc. $NKE Shares Bought by Central Securities Corp. Central Securities Corp significantly increased its stake in NIKE, Inc. by 12.5% in Q3, purchasing 50,000 shares to hold a total of 450,000 shares valued at $31.38 million. This move is part of a broader trend where several institutional investors have materially increased their positions, bringing total institutional ownership to 64.25%. Despite the stock trading down approximately 2.8% and facing analyst price target cuts, NIKE surpassed Q3 earnings estimates and announced a quarterly dividend, with company insiders also recently buying shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

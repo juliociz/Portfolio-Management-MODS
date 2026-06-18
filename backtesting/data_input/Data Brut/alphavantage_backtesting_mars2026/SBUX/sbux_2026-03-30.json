@@ -1,0 +1,99 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-30",
+    "window_start": "2026-03-27 16:00",
+    "window_end": "2026-03-30 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260328T193849",
+            "title": "Director Marissa Mayer gets stock grant at Starbucks (NASDAQ: SBUX)",
+            "summary": "Starbucks director Marissa Mayer has received a stock award of 3,667 common shares, increasing her direct holdings to 6,041 shares. This grant, classified as a non-cash award, consists of restricted stock units granted on March 25, 2026, which are fully vested but deferred until her departure from the board. The transaction is detailed in a recent Form 4 SEC filing and includes 48 deferred stock units from a dividend reinvestment plan.",
+            "text_to_analyze": "Director Marissa Mayer gets stock grant at Starbucks (NASDAQ: SBUX). Starbucks director Marissa Mayer has received a stock award of 3,667 common shares, increasing her direct holdings to 6,041 shares. This grant, classified as a non-cash award, consists of restricted stock units granted on March 25, 2026, which are fully vested but deferred until her departure from the board. The transaction is detailed in a recent Form 4 SEC filing and includes 48 deferred stock units from a dividend reinvestment plan.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260328T120841",
+            "title": "Starbucks (SBUX) director receives 3,667 fully vested deferred stock units",
+            "summary": "Starbucks director Daniel Servitje was granted 3,667 fully vested deferred stock units on March 25, 2026, as reported in a Form 4 SEC filing. These units are deferred until his departure from the board under the company's Deferred Compensation Plan for Non-Employee Directors. Including this award and dividend reinvestments, Servitje now directly holds 11,187 shares of Starbucks.",
+            "text_to_analyze": "Starbucks (SBUX) director receives 3,667 fully vested deferred stock units. Starbucks director Daniel Servitje was granted 3,667 fully vested deferred stock units on March 25, 2026, as reported in a Form 4 SEC filing. These units are deferred until his departure from the board under the company's Deferred Compensation Plan for Non-Employee Directors. Including this award and dividend reinvestments, Servitje now directly holds 11,187 shares of Starbucks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T233822",
+            "title": "Director at Starbucks (NASDAQ: SBUX) gets 2,265-share grant",
+            "summary": "Starbucks director Dambisa F. Moyo received a grant of 2,265 shares of common stock as restricted stock units on March 25, 2026. These units were fully vested at the time of grant under the company's non-employee director compensation plan. Following this award, Moyo directly holds 3,615 Starbucks shares, with the transaction being a compensation-related grant rather than an open-market purchase.",
+            "text_to_analyze": "Director at Starbucks (NASDAQ: SBUX) gets 2,265-share grant. Starbucks director Dambisa F. Moyo received a grant of 2,265 shares of common stock as restricted stock units on March 25, 2026. These units were fully vested at the time of grant under the company's non-employee director compensation plan. Following this award, Moyo directly holds 3,615 Starbucks shares, with the transaction being a compensation-related grant rather than an open-market purchase.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T232252",
+            "title": "Neal Mohan (SBUX) receives 3,667 fully vested Starbucks stock units",
+            "summary": "Starbucks director Neal Mohan has received an equity award of 3,667 fully vested shares of Starbucks common stock through restricted stock units. These units, granted on March 25, 2026, are deferred until his termination of service as a director under Starbucks’ Deferred Compensation Plan for Non-Employee Directors. Following this award, Mohan's direct holdings in Starbucks total 11,187 shares, which includes 204 deferred stock units from reinvested dividends.",
+            "text_to_analyze": "Neal Mohan (SBUX) receives 3,667 fully vested Starbucks stock units. Starbucks director Neal Mohan has received an equity award of 3,667 fully vested shares of Starbucks common stock through restricted stock units. These units, granted on March 25, 2026, are deferred until his termination of service as a director under Starbucks’ Deferred Compensation Plan for Non-Employee Directors. Following this award, Mohan's direct holdings in Starbucks total 11,187 shares, which includes 204 deferred stock units from reinvested dividends.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T230922",
+            "title": "Starbucks (SBUX) director G. Michael Sievert receives 3,667-share grant",
+            "summary": "Starbucks director G. Michael Sievert was granted 3,667 shares of common stock on March 25, 2026, as fully vested restricted stock units deferred under the company's Deferred Compensation Plan for Non-Employee Directors. This compensation-related grant increased Sievert's direct holdings in Starbucks to 10,878 shares. The transaction is considered standard board compensation rather than a discretionary purchase or sale.",
+            "text_to_analyze": "Starbucks (SBUX) director G. Michael Sievert receives 3,667-share grant. Starbucks director G. Michael Sievert was granted 3,667 shares of common stock on March 25, 2026, as fully vested restricted stock units deferred under the company's Deferred Compensation Plan for Non-Employee Directors. This compensation-related grant increased Sievert's direct holdings in Starbucks to 10,878 shares. The transaction is considered standard board compensation rather than a discretionary purchase or sale.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.304995
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T230922",
+            "title": "Starbucks (SBUX) director Zhang Wei receives 3,667 fully vested stock units",
+            "summary": "Starbucks director Zhang Wei received 3,667 fully vested restricted stock units on March 25, 2026, as part of her compensation, which are deferred under the company's plan for non-employee directors. This transaction increased her direct holdings to 12,376 shares, including 236 deferred stock units from dividend reinvestment. The stock award involved no cash purchase, aligning with standard director compensation practices.",
+            "text_to_analyze": "Starbucks (SBUX) director Zhang Wei receives 3,667 fully vested stock units. Starbucks director Zhang Wei received 3,667 fully vested restricted stock units on March 25, 2026, as part of her compensation, which are deferred under the company's plan for non-employee directors. This transaction increased her direct holdings to 12,376 shares, including 236 deferred stock units from dividend reinvestment. The stock award involved no cash purchase, aligning with standard director compensation practices.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T230752",
+            "title": "Starbucks (NASDAQ: SBUX) director granted 3,937 fully vested deferred RSUs",
+            "summary": "Starbucks director Beth Ford received a compensation award of 3,937 fully vested restricted stock units (RSUs) on March 25, 2026. These RSUs are deferred until she leaves the board under the company's Deferred Compensation Plan for Non-Employee Directors. After this grant, Ford's total Starbucks holdings, including reinvested dividends, amount to 14,638 shares.",
+            "text_to_analyze": "Starbucks (NASDAQ: SBUX) director granted 3,937 fully vested deferred RSUs. Starbucks director Beth Ford received a compensation award of 3,937 fully vested restricted stock units (RSUs) on March 25, 2026. These RSUs are deferred until she leaves the board under the company's Deferred Compensation Plan for Non-Employee Directors. After this grant, Ford's total Starbucks holdings, including reinvested dividends, amount to 14,638 shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T171623",
+            "title": "Vanguard disaggregates Starbucks holdings (SBUX) after Jan 12 realignment",
+            "summary": "The Vanguard Group has filed an amendment to its Schedule 13G/A, indicating a reorganization and reporting 0 shares of Starbucks (SBUX) as beneficially owned. This change follows an internal realignment on January 12, 2026, where certain Vanguard subsidiaries will now report beneficial ownership separately, as per SEC guidance. Consequently, The Vanguard Group, Inc. no longer claims beneficial ownership over securities held by these disaggregated subsidiaries.",
+            "text_to_analyze": "Vanguard disaggregates Starbucks holdings (SBUX) after Jan 12 realignment. The Vanguard Group has filed an amendment to its Schedule 13G/A, indicating a reorganization and reporting 0 shares of Starbucks (SBUX) as beneficially owned. This change follows an internal realignment on January 12, 2026, where certain Vanguard subsidiaries will now report beneficial ownership separately, as per SEC guidance. Consequently, The Vanguard Group, Inc. no longer claims beneficial ownership over securities held by these disaggregated subsidiaries.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.90468
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260327T170816",
+            "title": "Six-figure Starbucks jobs surface for planned Nashville office",
+            "summary": "Starbucks has begun posting job openings, including some six-figure positions, for its new corporate operations office planned for Nashville later this year. Multiple sources suggest the office could be as large as 250,000 square feet, potentially located at Peabody Union. The company is relocating roles from Seattle and actively hiring locally, as revealed by job listings circulated on March 27.",
+            "text_to_analyze": "Six-figure Starbucks jobs surface for planned Nashville office. Starbucks has begun posting job openings, including some six-figure positions, for its new corporate operations office planned for Nashville later this year. Multiple sources suggest the office could be as large as 250,000 square feet, potentially located at Peabody Union. The company is relocating roles from Seattle and actively hiring locally, as revealed by job listings circulated on March 27.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.949398
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260327T163900",
+            "title": "Starbucks Corp. stock underperforms Friday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) shares fell 4.83% on Friday to $86.81, experiencing a second consecutive day of losses. This underperformance occurred during a broader rough trading session where the S&P 500 Index and Dow Jones Industrial Average also saw significant declines.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Friday when compared to competitors. Starbucks Corp. (SBUX) shares fell 4.83% on Friday to $86.81, experiencing a second consecutive day of losses. This underperformance occurred during a broader rough trading session where the S&P 500 Index and Dow Jones Industrial Average also saw significant declines.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.310848
+        }
+    ]
+}

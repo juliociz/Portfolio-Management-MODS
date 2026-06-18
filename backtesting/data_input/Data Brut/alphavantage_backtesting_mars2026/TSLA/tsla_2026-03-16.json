@@ -1,0 +1,117 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-16",
+    "window_start": "2026-03-13 16:00",
+    "window_end": "2026-03-16 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260316T084339",
+            "title": "Cinctive Capital Management LP Acquires 4,861 Shares of Tesla, Inc. $TSLA",
+            "summary": "Cinctive Capital Management LP significantly increased its stake in Tesla, Inc. (NASDAQ:TSLA) by 221.8% in the third quarter, purchasing 4,861 additional shares. Their total holdings now amount to 7,053 shares valued at $3.137 million. This move is part of a broader trend of institutional investment in Tesla, which currently faces mixed sentiment from analysts regarding its China sales, energy business expansion, AI initiatives, competitive pressures, and FSD safety metrics.",
+            "text_to_analyze": "Cinctive Capital Management LP Acquires 4,861 Shares of Tesla, Inc. $TSLA. Cinctive Capital Management LP significantly increased its stake in Tesla, Inc. (NASDAQ:TSLA) by 221.8% in the third quarter, purchasing 4,861 additional shares. Their total holdings now amount to 7,053 shares valued at $3.137 million. This move is part of a broader trend of institutional investment in Tesla, which currently faces mixed sentiment from analysts regarding its China sales, energy business expansion, AI initiatives, competitive pressures, and FSD safety metrics.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Defense World",
+            "date": "20260316T061033",
+            "title": "GraniteShares 2x Long TSLA Daily ETF (NASDAQ:TSLR) Short Interest Update",
+            "summary": "Short interest in GraniteShares 2x Long TSLA Daily ETF (NASDAQ:TSLR) significantly increased by 50.2% in February, reaching 1,623,060 shares. This indicates that 20.8% of the company's stock is currently short-sold, with a days-to-cover ratio of 1.2 days based on average daily trading volume. Several institutional investors have also recently adjusted their positions in the ETF.",
+            "text_to_analyze": "GraniteShares 2x Long TSLA Daily ETF (NASDAQ:TSLR) Short Interest Update. Short interest in GraniteShares 2x Long TSLA Daily ETF (NASDAQ:TSLR) significantly increased by 50.2% in February, reaching 1,623,060 shares. This indicates that 20.8% of the company's stock is currently short-sold, with a days-to-cover ratio of 1.2 days based on average daily trading volume. Several institutional investors have also recently adjusted their positions in the ETF.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.710306
+        },
+        {
+            "source": "Reuters",
+            "date": "20260315T235104",
+            "title": "Australia's Syrah, Tesla extend deadline to resolve alleged default in graphite supply deal",
+            "summary": "Australian graphite miner Syrah Resources and Tesla have extended their deadline to June 1 to resolve an alleged default in their graphite supply agreement. The dispute centers on Tesla's claim that Syrah failed to provide conforming natural graphite active anode material samples from its Vidalia facility in Louisiana. Syrah, while not accepting the default, has agreed to the extension to work with Tesla on the issue, pending approval from the U.S. Department of Energy.",
+            "text_to_analyze": "Australia's Syrah, Tesla extend deadline to resolve alleged default in graphite supply deal. Australian graphite miner Syrah Resources and Tesla have extended their deadline to June 1 to resolve an alleged default in their graphite supply agreement. The dispute centers on Tesla's claim that Syrah failed to provide conforming natural graphite active anode material samples from its Vidalia facility in Louisiana. Syrah, while not accepting the default, has agreed to the extension to work with Tesla on the issue, pending approval from the U.S. Department of Energy.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260315T125209",
+            "title": "Weekend Round-Up: Nio's Big Bet, WeRide's Strategic Partnership, Tesla's Legal Woes, Uber's Robotaxis And More",
+            "summary": "This week featured significant developments in the automotive and technology sectors. Nio Inc. reiterated its commitment to in-house chip development and battery swapping, while WeRide Inc. expanded its partnership with Tencent Cloud. Tesla Inc. faced a $1 million lawsuit in Texas, and Uber Technologies launched an electric robotaxi service in Las Vegas, furthering its autonomous vehicle initiatives.",
+            "text_to_analyze": "Weekend Round-Up: Nio's Big Bet, WeRide's Strategic Partnership, Tesla's Legal Woes, Uber's Robotaxis And More. This week featured significant developments in the automotive and technology sectors. Nio Inc. reiterated its commitment to in-house chip development and battery swapping, while WeRide Inc. expanded its partnership with Tencent Cloud. Tesla Inc. faced a $1 million lawsuit in Texas, and Uber Technologies launched an electric robotaxi service in Las Vegas, furthering its autonomous vehicle initiatives.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.849552
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260315T105057",
+            "title": "Capital Impact Advisors LLC Purchases 5,573 Shares of Tesla, Inc. $TSLA",
+            "summary": "Capital Impact Advisors LLC increased its stake in Tesla by 20.5% in the third quarter, acquiring an additional 5,573 shares to hold a total of 32,768 shares valued at $14.57 million. This makes Tesla their 13th largest position, representing about 3.3% of their portfolio. The article also notes significant insider selling by Tesla's CFO and a director, and reviews Tesla's current valuation, recent earnings, and analyst consensus.",
+            "text_to_analyze": "Capital Impact Advisors LLC Purchases 5,573 Shares of Tesla, Inc. $TSLA. Capital Impact Advisors LLC increased its stake in Tesla by 20.5% in the third quarter, acquiring an additional 5,573 shares to hold a total of 32,768 shares valued at $14.57 million. This makes Tesla their 13th largest position, representing about 3.3% of their portfolio. The article also notes significant insider selling by Tesla's CFO and a director, and reviews Tesla's current valuation, recent earnings, and analyst consensus.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260315T084027",
+            "title": "Rivian Down 16% In March As CEO Scaringe Bets The Company On A Tesla Model Y Killer",
+            "summary": "Rivian's stock is down 16% in March after unveiling its R2 SUV, which CEO RJ Scaringe views as a \"make-or-break product\" targeting the mass market, specifically competing with Tesla's Model Y. Despite an advertised $45,000 entry price, the R2 launched at $57,990, with the cheaper version delayed until late 2027. The company faces a challenging EV market, with softening demand, significant financial losses in 2025, and issues like the expiration of federal tax credits and potential tariffs.",
+            "text_to_analyze": "Rivian Down 16% In March As CEO Scaringe Bets The Company On A Tesla Model Y Killer. Rivian's stock is down 16% in March after unveiling its R2 SUV, which CEO RJ Scaringe views as a \"make-or-break product\" targeting the mass market, specifically competing with Tesla's Model Y. Despite an advertised $45,000 entry price, the R2 launched at $57,990, with the cheaper version delayed until late 2027. The company faces a challenging EV market, with softening demand, significant financial losses in 2025, and issues like the expiration of federal tax credits and potential tariffs.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.802535
+        },
+        {
+            "source": "Reuters",
+            "date": "20260314T140111",
+            "title": "Musk says Tesla's 'gigantic' chip fab project to launch in seven days",
+            "summary": "Elon Musk announced that Tesla's \"Terafab\" project, a colossal initiative to manufacture artificial intelligence chips, will commence in seven days. This project aims to address the anticipated shortage of AI chips needed for Tesla's autonomous driving ambitions, as existing supplier capacities are deemed insufficient. Musk previously hinted at potential collaborations with Intel, TSMC, and Samsung for this endeavor.",
+            "text_to_analyze": "Musk says Tesla's 'gigantic' chip fab project to launch in seven days. Elon Musk announced that Tesla's \"Terafab\" project, a colossal initiative to manufacture artificial intelligence chips, will commence in seven days. This project aims to address the anticipated shortage of AI chips needed for Tesla's autonomous driving ambitions, as existing supplier capacities are deemed insufficient. Musk previously hinted at potential collaborations with Intel, TSMC, and Samsung for this endeavor.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260314T125248",
+            "title": "TD offers callable contingent notes tied to META/NVDA/TSLA (NYSE: TD)",
+            "summary": "The Toronto-Dominion Bank (TD) is offering Callable Contingent Interest Notes linked to the performance of Meta Platforms, Inc. (META), NVIDIA Corporation (NVDA), and Tesla, Inc. (TSLA) common stocks. These notes offer a contingent interest of approximately 10.75% per annum, payable only if each linked stock's closing value is at or above 80% of its initial value on observation dates. TD retains the option to call the notes monthly starting from the twelfth contingent interest payment date, with a maturity date set for December 16, 2030.",
+            "text_to_analyze": "TD offers callable contingent notes tied to META/NVDA/TSLA (NYSE: TD). The Toronto-Dominion Bank (TD) is offering Callable Contingent Interest Notes linked to the performance of Meta Platforms, Inc. (META), NVIDIA Corporation (NVDA), and Tesla, Inc. (TSLA) common stocks. These notes offer a contingent interest of approximately 10.75% per annum, payable only if each linked stock's closing value is at or above 80% of its initial value on observation dates. TD retains the option to call the notes monthly starting from the twelfth contingent interest payment date, with a maturity date set for December 16, 2030.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.834959
+        },
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260314T105105",
+            "title": "How to view Tesla's Cybercab during SXSW",
+            "summary": "Tesla showcased its upcoming Cybercab robotaxi and Optimus robot at a free pop-up event during the South by Southwest Conference and Festivals in Austin. The display, which continued through Saturday, March 14, allowed the public to get an up-close look at the vehicle, which notably lacks a steering wheel or pedals. This public appearance is part of Tesla's efforts to build hype for the Cybercab, despite regulatory hurdles and recent staff departures, with production expected to begin in April.",
+            "text_to_analyze": "How to view Tesla's Cybercab during SXSW. Tesla showcased its upcoming Cybercab robotaxi and Optimus robot at a free pop-up event during the South by Southwest Conference and Festivals in Austin. The display, which continued through Saturday, March 14, allowed the public to get an up-close look at the vehicle, which notably lacks a steering wheel or pedals. This public appearance is part of Tesla's efforts to build hype for the Cybercab, despite regulatory hurdles and recent staff departures, with production expected to begin in April.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "A&O Shearman",
+            "date": "20260314T005116",
+            "title": "ExxonMobil proposes reincorporation to Texas amid growing corporate migration",
+            "summary": "ExxonMobil's board of directors has unanimously recommended that shareholders approve the company's reincorporation from New Jersey to Texas. This move follows similar decisions by Tesla, SpaceX, and Coinbase, indicating a broader trend of corporations seeking Texas's business-friendly legal environment. The decision highlights Texas's legislative efforts to support legal reincorporations and its emerging strength as a corporate jurisdiction.",
+            "text_to_analyze": "ExxonMobil proposes reincorporation to Texas amid growing corporate migration. ExxonMobil's board of directors has unanimously recommended that shareholders approve the company's reincorporation from New Jersey to Texas. This move follows similar decisions by Tesla, SpaceX, and Coinbase, indicating a broader trend of corporations seeking Texas's business-friendly legal environment. The decision highlights Texas's legislative efforts to support legal reincorporations and its emerging strength as a corporate jurisdiction.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.716163
+        },
+        {
+            "source": "KHOU",
+            "date": "20260313T175122",
+            "title": "Texas may soon gain another major company incorporation",
+            "summary": "Another major company, eXp World Holdings Inc. (Nasdaq: EXPI), is proposing to relocate its state of incorporation from Delaware to Texas, following recent corporate law changes in Texas. This trend has seen other large companies like Tesla Inc., Coinbase Global Inc., and potentially Exxon Mobil Corp., also considering or making the move to Texas. The changes in Texas's corporate laws are attracting firms seeking new governance and stockholder rights considerations.",
+            "text_to_analyze": "Texas may soon gain another major company incorporation. Another major company, eXp World Holdings Inc. (Nasdaq: EXPI), is proposing to relocate its state of incorporation from Delaware to Texas, following recent corporate law changes in Texas. This trend has seen other large companies like Tesla Inc., Coinbase Global Inc., and potentially Exxon Mobil Corp., also considering or making the move to Texas. The changes in Texas's corporate laws are attracting firms seeking new governance and stockholder rights considerations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.607372
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260313T161901",
+            "title": "Tesla to open new showroom in South Florida",
+            "summary": "Tesla is planning to open a new showroom in Kendall, South Florida, with an anticipated opening in late 2026. The announcement was made by Mark Dovich of the South Florida Business Journal. This expansion highlights Tesla's continued growth and presence in the Florida market.",
+            "text_to_analyze": "Tesla to open new showroom in South Florida. Tesla is planning to open a new showroom in Kendall, South Florida, with an anticipated opening in late 2026. The announcement was made by Mark Dovich of the South Florida Business Journal. This expansion highlights Tesla's continued growth and presence in the Florida market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.94941
+        }
+    ]
+}

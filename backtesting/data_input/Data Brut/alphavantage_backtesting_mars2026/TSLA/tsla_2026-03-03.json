@@ -1,0 +1,45 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-03",
+    "window_start": "2026-03-02 16:00",
+    "window_end": "2026-03-03 09:27",
+    "articles": [
+        {
+            "source": "Simply Wall St",
+            "date": "20260303T085220",
+            "title": "Why Lemonade (LMND) Is Up 5.4% After First Positive Free Cash Flow And AI Car Launch",
+            "summary": "Lemonade (LMND) shares rose 5.4% following its Q4 and full-year 2025 results, which showed narrower net losses and the company's first quarter of positive free cash flow since its IPO. The company also launched \"Lemonade Autonomous Car,\" an AI-driven insurance product for Tesla vehicles, indicating a strategic move into autonomous-vehicle coverage. This development contributes to Lemonade's ongoing investment narrative, which hinges on its AI model achieving durable profitability amidst risks associated with complex new lines like autonomous car insurance and exposure to catastrophic events.",
+            "text_to_analyze": "Why Lemonade (LMND) Is Up 5.4% After First Positive Free Cash Flow And AI Car Launch. Lemonade (LMND) shares rose 5.4% following its Q4 and full-year 2025 results, which showed narrower net losses and the company's first quarter of positive free cash flow since its IPO. The company also launched \"Lemonade Autonomous Car,\" an AI-driven insurance product for Tesla vehicles, indicating a strategic move into autonomous-vehicle coverage. This development contributes to Lemonade's ongoing investment narrative, which hinges on its AI model achieving durable profitability amidst risks associated with complex new lines like autonomous car insurance and exposure to catastrophic events.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.623289
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260303T072400",
+            "title": "SpaceX’s stock could trade like Tesla ‘on steroids’ after its IPO, analyst says",
+            "summary": "An analyst from PitchBook suggests that SpaceX's stock, once public, could experience even greater volatility than Tesla's due to a similar \"Musk premium.\" The company's exponential growth in the space sector is expected to attract significant investor interest, but also lead to turbulent trading. SpaceX plans to go public within the year.",
+            "text_to_analyze": "SpaceX’s stock could trade like Tesla ‘on steroids’ after its IPO, analyst says. An analyst from PitchBook suggests that SpaceX's stock, once public, could experience even greater volatility than Tesla's due to a similar \"Musk premium.\" The company's exponential growth in the space sector is expected to attract significant investor interest, but also lead to turbulent trading. SpaceX plans to go public within the year.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.922462
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260303T035100",
+            "title": "BYD Sales Collapse. What About Tesla?",
+            "summary": "BYD, the world's largest electric vehicle maker, reported a 41% year-on-year drop in February sales, driven by a 65% decline in domestic sales in China, despite surging export sales. This collapse, largely unexplained by the Lunar New Year, points to intense competition and price wars in the Chinese EV market. The article suggests that if BYD's struggles in China are indicative, Tesla, which also faces declining market share in China, the EU, and the US, could be in for a rough year.",
+            "text_to_analyze": "BYD Sales Collapse. What About Tesla?. BYD, the world's largest electric vehicle maker, reported a 41% year-on-year drop in February sales, driven by a 65% decline in domestic sales in China, despite surging export sales. This collapse, largely unexplained by the Lunar New Year, points to intense competition and price wars in the Chinese EV market. The article suggests that if BYD's struggles in China are indicative, Tesla, which also faces declining market share in China, the EU, and the US, could be in for a rough year.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260302T205105",
+            "title": "Tesla Sales Rebound In Key European Markets, But Why Are Prediction Markets Still Bearish?",
+            "summary": "Tesla has seen a rebound in sales in several key European markets like France, Spain, and Norway during February, breaking a 13-month losing streak, largely due to the introduction of cheaper Model Y and Model 3 versions. Despite this positive sales data, prediction market traders remain bearish on Tesla's Q1 deliveries and the likelihood of its future autonomous driving and robotics initiatives, suggesting that the stock's valuation is increasingly decoupling from its core car business. Analysts like Wedbush's Dan Ives maintain a bullish outlook on the stock, contrasting with the skepticism seen in prediction markets.",
+            "text_to_analyze": "Tesla Sales Rebound In Key European Markets, But Why Are Prediction Markets Still Bearish?. Tesla has seen a rebound in sales in several key European markets like France, Spain, and Norway during February, breaking a 13-month losing streak, largely due to the introduction of cheaper Model Y and Model 3 versions. Despite this positive sales data, prediction market traders remain bearish on Tesla's Q1 deliveries and the likelihood of its future autonomous driving and robotics initiatives, suggesting that the stock's valuation is increasingly decoupling from its core car business. Analysts like Wedbush's Dan Ives maintain a bullish outlook on the stock, contrasting with the skepticism seen in prediction markets.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

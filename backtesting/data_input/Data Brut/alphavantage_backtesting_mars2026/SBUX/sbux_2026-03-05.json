@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-05",
+    "window_start": "2026-03-04 16:00",
+    "window_end": "2026-03-05 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260305T050313",
+            "title": "Robert Kennedy Jr. Wants Starbucks, Dunkin To Prove Sugar-Laden Drinks Safe, Massachusetts Governor Hits Back: 'Come And Take It'",
+            "summary": "Robert Kennedy Jr., through his nonprofit MAHA Action, is challenging Starbucks and Dunkin' to provide safety data for their high-sugar beverages, advocating for stronger oversight of food ingredients. Massachusetts Governor Maura Healey symbolically responded to Kennedy's push by posting a \"Come and Take It\" image featuring a Dunkin' coffee cup. This initiative aligns with Kennedy's broader agenda to review ultra-processed foods and close loopholes in food safety regulations, drawing parallels with recent White House dietary guidelines and state-level SNAP restrictions on sugary items.",
+            "text_to_analyze": "Robert Kennedy Jr. Wants Starbucks, Dunkin To Prove Sugar-Laden Drinks Safe, Massachusetts Governor Hits Back: 'Come And Take It'. Robert Kennedy Jr., through his nonprofit MAHA Action, is challenging Starbucks and Dunkin' to provide safety data for their high-sugar beverages, advocating for stronger oversight of food ingredients. Massachusetts Governor Maura Healey symbolically responded to Kennedy's push by posting a \"Come and Take It\" image featuring a Dunkin' coffee cup. This initiative aligns with Kennedy's broader agenda to review ultra-processed foods and close loopholes in food safety regulations, drawing parallels with recent White House dietary guidelines and state-level SNAP restrictions on sugary items.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Heavy Duty Trucking",
+            "date": "20260305T005315",
+            "title": "TA Rebuilds Facility in New Haven",
+            "summary": "TravelCenters of America (TA) has rebuilt its facility in New Haven, Connecticut. The updated travel center, located on I-95 at Exit 56, features a modern design, expanded food options including Popeye's, Subway, and an upcoming Starbucks, along with a 3,400-square-foot travel store. It also continues to offer 24/7 truck repair services with ASE-certified technicians, extensive truck parking, and other amenities for professional drivers.",
+            "text_to_analyze": "TA Rebuilds Facility in New Haven. TravelCenters of America (TA) has rebuilt its facility in New Haven, Connecticut. The updated travel center, located on I-95 at Exit 56, features a modern design, expanded food options including Popeye's, Subway, and an upcoming Starbucks, along with a 3,400-square-foot travel store. It also continues to offer 24/7 truck repair services with ASE-certified technicians, extensive truck parking, and other amenities for professional drivers.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.580832
+        },
+        {
+            "source": "Fox Business",
+            "date": "20260304T201612",
+            "title": "Starbucks to open new office in Nashville, move some jobs from Seattle",
+            "summary": "Starbucks announced plans to open a new corporate office in Nashville, Tennessee, later this year, as part of its broader expansion strategy across North America. The new office will house teams managing the company's supply chain for North America and will offer relocation opportunities to Seattle-based employees, though Seattle will remain the global headquarters. Tennessee Governor Bill Lee welcomed the move, highlighting the state's appealing business environment.",
+            "text_to_analyze": "Starbucks to open new office in Nashville, move some jobs from Seattle. Starbucks announced plans to open a new corporate office in Nashville, Tennessee, later this year, as part of its broader expansion strategy across North America. The new office will house teams managing the company's supply chain for North America and will offer relocation opportunities to Seattle-based employees, though Seattle will remain the global headquarters. Tennessee Governor Bill Lee welcomed the move, highlighting the state's appealing business environment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Fox Business",
+            "date": "20260304T195056",
+            "title": "Starbucks to open new office in Nashville, move some jobs from Seattle",
+            "summary": "Starbucks plans to open a new corporate office in Nashville, Tennessee, later this year, as part of its strategy to expand its footprint across North America, particularly in the central U.S., South, and Northeast. This new office will house teams managing the North American supply chain, with Starbucks offering relocation opportunities to Seattle-based employees while also creating new roles in Nashville. The company's headquarters will remain in Seattle, and Tennessee officials have welcomed the move, highlighting the state's business-friendly environment.",
+            "text_to_analyze": "Starbucks to open new office in Nashville, move some jobs from Seattle. Starbucks plans to open a new corporate office in Nashville, Tennessee, later this year, as part of its strategy to expand its footprint across North America, particularly in the central U.S., South, and Northeast. This new office will house teams managing the North American supply chain, with Starbucks offering relocation opportunities to Seattle-based employees while also creating new roles in Nashville. The company's headquarters will remain in Seattle, and Tennessee officials have welcomed the move, highlighting the state's business-friendly environment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

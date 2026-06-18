@@ -1,0 +1,36 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-05",
+    "window_start": "2026-03-04 16:00",
+    "window_end": "2026-03-05 09:27",
+    "articles": [
+        {
+            "source": "PR Newswire",
+            "date": "20260305T090500",
+            "title": "Celebrate Academy Sports + Outdoors Run Month with Exclusive Deals, Promotions and Gifts for Runners of All Experience Levels",
+            "summary": "Academy Sports + Outdoors is hosting its annual Run Month from March 1st to March 31st, offering exclusive deals, online promotions, and in-store fit clinics for runners of all levels. The event features gear from top brands like Brooks, Nike, and adidas, along with personalized shoe fittings and gift-with-purchase opportunities. Academy is also partnering with Girls on the Run to donate $20,000 worth of running shoes to 80 youth athletes across four chapters.",
+            "text_to_analyze": "Celebrate Academy Sports + Outdoors Run Month with Exclusive Deals, Promotions and Gifts for Runners of All Experience Levels. Academy Sports + Outdoors is hosting its annual Run Month from March 1st to March 31st, offering exclusive deals, online promotions, and in-store fit clinics for runners of all levels. The event features gear from top brands like Brooks, Nike, and adidas, along with personalized shoe fittings and gift-with-purchase opportunities. Academy is also partnering with Girls on the Run to donate $20,000 worth of running shoes to 80 youth athletes across four chapters.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.632121
+        },
+        {
+            "source": "openPR.com",
+            "date": "20260305T055258",
+            "title": "Golf Equipment Market to Witness Massive Growth by 2033|",
+            "summary": "The global Golf Equipment market is projected to grow from USD 12.78 billion in 2025 to USD 17.63 billion by 2032, exhibiting a compound annual growth rate of 4.7%. A new report from Coherent Market Insights details this growth, offering insights into market trends, competitive landscapes, and key players such as Callaway Golf Company, Sumitomo Rubber Industries, and Nike Inc. The study segments the market by product type, application, end-user, and region, providing a comprehensive forecast for the period 2026-2033.",
+            "text_to_analyze": "Golf Equipment Market to Witness Massive Growth by 2033|. The global Golf Equipment market is projected to grow from USD 12.78 billion in 2025 to USD 17.63 billion by 2032, exhibiting a compound annual growth rate of 4.7%. A new report from Coherent Market Insights details this growth, offering insights into market trends, competitive landscapes, and key players such as Callaway Golf Company, Sumitomo Rubber Industries, and Nike Inc. The study segments the market by product type, application, end-user, and region, providing a comprehensive forecast for the period 2026-2033.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.808877
+        },
+        {
+            "source": "Fast Company",
+            "date": "20260304T164939",
+            "title": "The MacBook Neo is Apple’s take on the Nike Dunk",
+            "summary": "Apple's new MacBook Neo, priced at $599, is presented as a budget-friendly laptop designed to appeal to young consumers amidst declining PC sales and increasing component costs. The article suggests that the Neo, while a logistical triumph, leans heavily on nostalgia with its colorful design, similar to how the Nike Dunk offers an accessible version of a classic. It targets Gen Z's preference for aesthetics and cost-effectiveness, using iPhone architecture to keep prices low.",
+            "text_to_analyze": "The MacBook Neo is Apple’s take on the Nike Dunk. Apple's new MacBook Neo, priced at $599, is presented as a budget-friendly laptop designed to appeal to young consumers amidst declining PC sales and increasing component costs. The article suggests that the Neo, while a logistical triumph, leans heavily on nostalgia with its colorful design, similar to how the Nike Dunk offers an accessible version of a classic. It targets Gen Z's preference for aesthetics and cost-effectiveness, using iPhone architecture to keep prices low.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.688748
+        }
+    ]
+}

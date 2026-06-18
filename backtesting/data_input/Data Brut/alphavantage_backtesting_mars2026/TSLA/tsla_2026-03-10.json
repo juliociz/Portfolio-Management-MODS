@@ -1,0 +1,72 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-10",
+    "window_start": "2026-03-09 16:00",
+    "window_end": "2026-03-10 09:27",
+    "articles": [
+        {
+            "source": "Barchart.com",
+            "date": "20260310T081500",
+            "title": "Matthews International Obtains Important Clarity On Matthews' Right to Sell DBE Equipment",
+            "summary": "Matthews International (NASDAQ GSM: MATW) has received further clarity regarding its right to sell proprietary dry battery electrode (DBE) solutions, with an arbitrator denying most of Tesla's claims to broadly prohibit Matthews from selling its DBE technology. The decision includes only a narrow injunction on certain parts, which Matthews states will not materially impede its operations due to readily available replacements. This ruling reinforces Matthews' ability to continue advancing its DBE technology and supplies to customers, supported by foundational patents.",
+            "text_to_analyze": "Matthews International Obtains Important Clarity On Matthews' Right to Sell DBE Equipment. Matthews International (NASDAQ GSM: MATW) has received further clarity regarding its right to sell proprietary dry battery electrode (DBE) solutions, with an arbitrator denying most of Tesla's claims to broadly prohibit Matthews from selling its DBE technology. The decision includes only a narrow injunction on certain parts, which Matthews states will not materially impede its operations due to readily available replacements. This ruling reinforces Matthews' ability to continue advancing its DBE technology and supplies to customers, supported by foundational patents.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.643722
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260310T080200",
+            "title": "Tesla’s Former Supplier Says It Won Lawsuit Against EV Maker But VP Disputes Claim",
+            "summary": "Matthews International Corporation announced that an arbitrator sided with them in a lawsuit against Tesla, denying Tesla's request to restrict Matthews from selling its dry battery electrode technology. However, Tesla VP Bonne Eggleston disputed this, claiming Tesla obtained a permanent injunction against Matthews for intellectual property theft and that Matthews is \"publishing complete nonsense.\" Tesla had sued Matthews for allegedly stealing trade secrets related to battery manufacturing and sharing them with competitors, seeking over $1 billion in damages.",
+            "text_to_analyze": "Tesla’s Former Supplier Says It Won Lawsuit Against EV Maker But VP Disputes Claim. Matthews International Corporation announced that an arbitrator sided with them in a lawsuit against Tesla, denying Tesla's request to restrict Matthews from selling its dry battery electrode technology. However, Tesla VP Bonne Eggleston disputed this, claiming Tesla obtained a permanent injunction against Matthews for intellectual property theft and that Matthews is \"publishing complete nonsense.\" Tesla had sued Matthews for allegedly stealing trade secrets related to battery manufacturing and sharing them with competitors, seeking over $1 billion in damages.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.934237
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260310T080115",
+            "title": "Elon Musk's Tesla Loses Another Senior Executive As Finance VP Sendil Palani Steps Down After 17 Years",
+            "summary": "Tesla's Vice President of Finance, Sendil Palani, has announced his departure from the company after 17 years. This marks another high-profile executive exit for the Elon Musk-led automaker, following other departures like the Robotaxi backend director and VP of IT and AI Infrastructure. Despite these changes and rising competition from BYD, Tesla recently saw a 10% surge in February registrations in Europe.",
+            "text_to_analyze": "Elon Musk's Tesla Loses Another Senior Executive As Finance VP Sendil Palani Steps Down After 17 Years. Tesla's Vice President of Finance, Sendil Palani, has announced his departure from the company after 17 years. This marks another high-profile executive exit for the Elon Musk-led automaker, following other departures like the Robotaxi backend director and VP of IT and AI Infrastructure. Despite these changes and rising competition from BYD, Tesla recently saw a 10% surge in February registrations in Europe.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bloomberg.com",
+            "date": "20260309T193700",
+            "title": "Tesla Finance VP Exits in Latest Departure for Musk’s EV Maker",
+            "summary": "Sendil Palani, Tesla's Vice President of Finance, is leaving the company after 17 years, marking another high-profile departure from the electric vehicle maker. His exit comes as Tesla pivots its strategy towards artificial intelligence and robotics. Palani held various roles in finance, engineering, and manufacturing during his two stints at Tesla, serving as VP of finance since 2021.",
+            "text_to_analyze": "Tesla Finance VP Exits in Latest Departure for Musk’s EV Maker. Sendil Palani, Tesla's Vice President of Finance, is leaving the company after 17 years, marking another high-profile departure from the electric vehicle maker. His exit comes as Tesla pivots its strategy towards artificial intelligence and robotics. Palani held various roles in finance, engineering, and manufacturing during his two stints at Tesla, serving as VP of finance since 2021.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260309T181500",
+            "title": "Tesla Loses Director Behind Robotaxi Backend: What Do Prediction Markets Say?",
+            "summary": "Tesla has seen the departure of Thomas Dmytryk, an 11-year veteran who developed the software infrastructure for its robotaxi service, just weeks before the anticipated start of Cybercab production. This exit follows other key departures in 2026, raising concerns about the company's ability to meet ambitious robotaxi and vehicle delivery targets. Prediction markets reflect skepticism, with low probabilities for Tesla achieving its stated goals for the robotaxi launch in California and vehicle deliveries.",
+            "text_to_analyze": "Tesla Loses Director Behind Robotaxi Backend: What Do Prediction Markets Say?. Tesla has seen the departure of Thomas Dmytryk, an 11-year veteran who developed the software infrastructure for its robotaxi service, just weeks before the anticipated start of Cybercab production. This exit follows other key departures in 2026, raising concerns about the company's ability to meet ambitious robotaxi and vehicle delivery targets. Prediction markets reflect skepticism, with low probabilities for Tesla achieving its stated goals for the robotaxi launch in California and vehicle deliveries.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260309T180220",
+            "title": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags",
+            "summary": "Lucid (LCID) and Rivian (RIVN) stocks saw a sharp increase due to a surge in oil prices caused by Middle East tensions, pushing WTI crude to around $86 per barrel. In contrast, Tesla (TSLA) stock lagged, weighed down by a new federal probe into its Full Self-Driving (FSD) system and intensifying competition from Chinese EV manufacturer BYD. Despite the short-term lift for Lucid and Rivian, long-term challenges remain for Lucid, while Rivian shows some positive momentum with its first quarter of positive gross profit in Q4 2025.",
+            "text_to_analyze": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags. Lucid (LCID) and Rivian (RIVN) stocks saw a sharp increase due to a surge in oil prices caused by Middle East tensions, pushing WTI crude to around $86 per barrel. In contrast, Tesla (TSLA) stock lagged, weighed down by a new federal probe into its Full Self-Driving (FSD) system and intensifying competition from Chinese EV manufacturer BYD. Despite the short-term lift for Lucid and Rivian, long-term challenges remain for Lucid, while Rivian shows some positive momentum with its first quarter of positive gross profit in Q4 2025.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.824483
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260309T175114",
+            "title": "Tesla's FSD Safety Metrics 'Sharply Deteriorating,' Says Analyst",
+            "summary": "Analyst Gordon Johnson of GLJ Research has highlighted a sharp deterioration in Tesla's Full Self-Driving (FSD) safety metrics, citing third-party FSD Community Tracker data. The critical \"city miles to critical disengagement\" metric for FSD v14.2 significantly dropped to 809 from a peak of 4,109 with v14.1, which is notably lower than Waymo's 30,000 miles before removing safety drivers. Johnson has also questioned the National Highway Traffic Safety Administration's stance on this issue.",
+            "text_to_analyze": "Tesla's FSD Safety Metrics 'Sharply Deteriorating,' Says Analyst. Analyst Gordon Johnson of GLJ Research has highlighted a sharp deterioration in Tesla's Full Self-Driving (FSD) safety metrics, citing third-party FSD Community Tracker data. The critical \"city miles to critical disengagement\" metric for FSD v14.2 significantly dropped to 809 from a peak of 4,109 with v14.1, which is notably lower than Waymo's 30,000 miles before removing safety drivers. Johnson has also questioned the National Highway Traffic Safety Administration's stance on this issue.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

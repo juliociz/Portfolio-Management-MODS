@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-09",
+    "window_start": "2026-03-06 16:00",
+    "window_end": "2026-03-09 09:27",
+    "articles": [
+        {
+            "source": "Yahoo Finance",
+            "date": "20260308T195136",
+            "title": "Tesla's Europe Registrations Rise 10% In February Despite Sales Drops In Key Markets",
+            "summary": "Tesla Inc. saw a 10% year-over-year increase in its European registrations in February, totaling 17,425 units, despite sales drops in some key markets like the UK and Netherlands. While February showed a surge, Tesla's year-to-date registrations for January and February are slightly below the previous year's figures. Meanwhile, Chinese competitor BYD reported a significant 165% increase in European registrations in January.",
+            "text_to_analyze": "Tesla's Europe Registrations Rise 10% In February Despite Sales Drops In Key Markets. Tesla Inc. saw a 10% year-over-year increase in its European registrations in February, totaling 17,425 units, despite sales drops in some key markets like the UK and Netherlands. While February showed a surge, Tesla's year-to-date registrations for January and February are slightly below the previous year's figures. Meanwhile, Chinese competitor BYD reported a significant 165% increase in European registrations in January.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.983334
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T135104",
+            "title": "Tesla, Inc. $TSLA is Vinva Investment Management Ltd's 8th Largest Position",
+            "summary": "Vinva Investment Management Ltd increased its stake in Tesla by 25.9% in Q3, making it the fund's 8th largest holding. Despite this, insider selling has been significant, with directors James R. Murdoch and Kimbal Musk selling large blocks of shares. Wall Street analysts present a mixed view, resulting in a consensus \"Hold\" rating, and while Tesla beat Q4 EPS estimates, revenue was down year-over-year.",
+            "text_to_analyze": "Tesla, Inc. $TSLA is Vinva Investment Management Ltd's 8th Largest Position. Vinva Investment Management Ltd increased its stake in Tesla by 25.9% in Q3, making it the fund's 8th largest holding. Despite this, insider selling has been significant, with directors James R. Murdoch and Kimbal Musk selling large blocks of shares. Wall Street analysts present a mixed view, resulting in a consensus \"Hold\" rating, and while Tesla beat Q4 EPS estimates, revenue was down year-over-year.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.3213
+        },
+        {
+            "source": "富途牛牛",
+            "date": "20260308T115231",
+            "title": "Roundhill TSLA WeeklyPay ETF To Go Ex-Dividend On March 9th, 2026 With 0.20504 USD Dividend Per Share",
+            "summary": "The Roundhill TSLA WeeklyPay ETF (TSLW.US) is set to go ex-dividend on March 9th, 2026, with a dividend payment of 0.20504 USD per share. Shareholders on record by this date will receive the cash dividend on March 10th, 2026. The article also provides general information on the differences and implications of cash dividends versus stock dividends.",
+            "text_to_analyze": "Roundhill TSLA WeeklyPay ETF To Go Ex-Dividend On March 9th, 2026 With 0.20504 USD Dividend Per Share. The Roundhill TSLA WeeklyPay ETF (TSLW.US) is set to go ex-dividend on March 9th, 2026, with a dividend payment of 0.20504 USD per share. Shareholders on record by this date will receive the cash dividend on March 10th, 2026. The article also provides general information on the differences and implications of cash dividends versus stock dividends.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.611061
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260308T015005",
+            "title": "Surprise! America Has Chosen Its Favorite Auto Brand -- and It's Not Ford, General Motors, or Tesla!",
+            "summary": "Hyundai Motor Company has been identified as America's favorite auto brand for the 17th consecutive year, according to Brand Keys' 2026 Customer Loyalty Engagement Index. This is attributed to its strong value proposition, reliable warranty, and high quality ratings, consistently undercutting competitors on price. Despite the enduring popularity of Ford's F-Series trucks and the visibility of brands like Tesla and General Motors, Hyundai has maintained its lead in customer loyalty and engagement.",
+            "text_to_analyze": "Surprise! America Has Chosen Its Favorite Auto Brand -- and It's Not Ford, General Motors, or Tesla!. Hyundai Motor Company has been identified as America's favorite auto brand for the 17th consecutive year, according to Brand Keys' 2026 Customer Loyalty Engagement Index. This is attributed to its strong value proposition, reliable warranty, and high quality ratings, consistently undercutting competitors on price. Despite the enduring popularity of Ford's F-Series trucks and the visibility of brands like Tesla and General Motors, Hyundai has maintained its lead in customer loyalty and engagement.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.7346
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260307T113100",
+            "title": "Tesla Rival BYD Applies For Permit To Allow Canada Imports After Tariff Agreement",
+            "summary": "BYD Co. Ltd. has applied for permits to import its vehicles into Canada, registering factories in Shenzhen and Xi'an as potential exporters. This move follows a reduced tariff agreement between Ottawa and Beijing, allowing over 49,000 Chinese EVs (potentially expanding to 70,000) to enter Canada at a 6.1% tariff. While BYD sees strong overseas sales growth, its domestic sales have recently been surpassed by Geely Automobile Holdings Ltd.",
+            "text_to_analyze": "Tesla Rival BYD Applies For Permit To Allow Canada Imports After Tariff Agreement. BYD Co. Ltd. has applied for permits to import its vehicles into Canada, registering factories in Shenzhen and Xi'an as potential exporters. This move follows a reduced tariff agreement between Ottawa and Beijing, allowing over 49,000 Chinese EVs (potentially expanding to 70,000) to enter Canada at a 6.1% tariff. While BYD sees strong overseas sales growth, its domestic sales have recently been surpassed by Geely Automobile Holdings Ltd.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bloomberg Law News",
+            "date": "20260306T191200",
+            "title": "Tesla Sued by Texas Worker Claiming Assault by Austin Shooter",
+            "summary": "Tesla is being sued for over $1 million by Lillian Mendoza Brady, a former employee, who claims she was assaulted by Ndiaga Diagne, the individual police have identified as the Austin mass shooter. The lawsuit alleges Tesla failed to ensure workplace safety and negligently supervised Diagne, who reportedly had \"known aggressive tendencies\" and had assaulted Brady during a company-sanctioned prayer break in December.",
+            "text_to_analyze": "Tesla Sued by Texas Worker Claiming Assault by Austin Shooter. Tesla is being sued for over $1 million by Lillian Mendoza Brady, a former employee, who claims she was assaulted by Ndiaga Diagne, the individual police have identified as the Austin mass shooter. The lawsuit alleges Tesla failed to ensure workplace safety and negligently supervised Diagne, who reportedly had \"known aggressive tendencies\" and had assaulted Brady during a company-sanctioned prayer break in December.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.943451
+        },
+        {
+            "source": "Detroit Free Press",
+            "date": "20260306T184121",
+            "title": "Ford makes big shift into energy storage to keep battery plants busy",
+            "summary": "Ford is entering the battery energy storage system business, called Ford Energy, to repurpose a Kentucky factory originally planned for EV battery production, due to slower-than-expected electric vehicle sales. The company will produce large-scale energy storage units for utility companies and data centers, facing competition from established players like Tesla. Ford believes its manufacturing expertise and licensing of CATL technology give it an advantage in this new venture.",
+            "text_to_analyze": "Ford makes big shift into energy storage to keep battery plants busy. Ford is entering the battery energy storage system business, called Ford Energy, to repurpose a Kentucky factory originally planned for EV battery production, due to slower-than-expected electric vehicle sales. The company will produce large-scale energy storage units for utility companies and data centers, facing competition from established players like Tesla. Ford believes its manufacturing expertise and licensing of CATL technology give it an advantage in this new venture.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.606568
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260306T175023",
+            "title": "Rivian Wants R2 To Accomplish Something Ford, GM Couldn't: Here's The Record It's Chasing",
+            "summary": "Rivian aims for its R2 electric vehicle to achieve 20,000 deliveries within six months of launch, a feat that only Tesla's Model Y has accomplished faster. This ambitious goal sets the R2 apart from other EV launches by Ford and GM, highlighting Rivian's efforts to rapidly scale production and capture market share with a more affordable EV option. Rivian is retooling its Normal, Illinois factory to meet this demand and will unveil official pricing and the full R2 lineup soon at SXSW.",
+            "text_to_analyze": "Rivian Wants R2 To Accomplish Something Ford, GM Couldn't: Here's The Record It's Chasing. Rivian aims for its R2 electric vehicle to achieve 20,000 deliveries within six months of launch, a feat that only Tesla's Model Y has accomplished faster. This ambitious goal sets the R2 apart from other EV launches by Ford and GM, highlighting Rivian's efforts to rapidly scale production and capture market share with a more affordable EV option. Rivian is retooling its Normal, Illinois factory to meet this demand and will unveil official pricing and the full R2 lineup soon at SXSW.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.70938
+        }
+    ]
+}

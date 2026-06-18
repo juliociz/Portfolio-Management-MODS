@@ -1,0 +1,90 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-19",
+    "window_start": "2026-03-18 16:00",
+    "window_end": "2026-03-19 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260319T074829",
+            "title": "The Walt Disney Company stock faces streaming headwinds amid theme park recovery signals in 2026",
+            "summary": "The Walt Disney Company (ISIN: US9314271084) is experiencing mixed signals in its business. While its Disney+ streaming service faces challenges with slowing subscriber growth and competition, its domestic theme parks are showing resilience and increased attendance. German-speaking investors are observing these trends, with particular interest in Eurozone tourism recovery, content licensing, and Disney's strategic shift towards profitability over growth in its streaming segment.",
+            "text_to_analyze": "The Walt Disney Company stock faces streaming headwinds amid theme park recovery signals in 2026. The Walt Disney Company (ISIN: US9314271084) is experiencing mixed signals in its business. While its Disney+ streaming service faces challenges with slowing subscriber growth and competition, its domestic theme parks are showing resilience and increased attendance. German-speaking investors are observing these trends, with particular interest in Eurozone tourism recovery, content licensing, and Disney's strategic shift towards profitability over growth in its streaming segment.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Motley Fool",
+            "date": "20260319T074713",
+            "title": "Crashing 51%, 3 Reasons to Buy This Netflix Rival in March and Hold for 5 Years",
+            "summary": "This article suggests that Walt Disney (DIS) is a compelling investment despite its recent stock performance, trading 51% below its all-time high. The author highlights Disney's improving direct-to-consumer streaming segment, which is now profitable, and its strong experiences division, noting its valuable intellectual property. The current low valuation of Disney stock, at a 62% discount to Netflix's P/E ratio, is presented as a strong reason to buy and hold for the next five years.",
+            "text_to_analyze": "Crashing 51%, 3 Reasons to Buy This Netflix Rival in March and Hold for 5 Years. This article suggests that Walt Disney (DIS) is a compelling investment despite its recent stock performance, trading 51% below its all-time high. The author highlights Disney's improving direct-to-consumer streaming segment, which is now profitable, and its strong experiences division, noting its valuable intellectual property. The current low valuation of Disney stock, at a 62% discount to Netflix's P/E ratio, is presented as a strong reason to buy and hold for the next five years.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Florida Politics",
+            "date": "20260319T040719",
+            "title": "New Disney CEO gets quizzed on everything from Walt to Figment",
+            "summary": "New Disney CEO Josh D'Amaro addressed shareholder concerns at an annual meeting, covering topics such as high theme park prices, the company's disability access policy, and balancing new content with beloved sequels. D'Amaro also discussed Walt Disney's legacy and the ongoing adoration for the character Figment. He emphasized Disney's commitment to innovation, flexibility in pricing, and a thoughtful approach to accessibility.",
+            "text_to_analyze": "New Disney CEO gets quizzed on everything from Walt to Figment. New Disney CEO Josh D'Amaro addressed shareholder concerns at an annual meeting, covering topics such as high theme park prices, the company's disability access policy, and balancing new content with beloved sequels. D'Amaro also discussed Walt Disney's legacy and the ongoing adoration for the character Figment. He emphasized Disney's commitment to innovation, flexibility in pricing, and a thoughtful approach to accessibility.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.97585
+        },
+        {
+            "source": "Mint",
+            "date": "20260319T003843",
+            "title": "Walt Disney’s Bengaluru centre triggers revenue risk for IT vendor Globant",
+            "summary": "Walt Disney's new global capability centre (GCC) in Bengaluru poses a significant revenue risk for its IT vendor Globant, which counts Disney as its largest client, contributing 9% of its 2025 revenue. This move highlights a broader trend where large companies are insourcing technology work, impacting IT service providers. The shift could adversely affect Globant's revenues and operations, particularly given its slowed growth in 2025 and reliance on the media and entertainment sector.",
+            "text_to_analyze": "Walt Disney’s Bengaluru centre triggers revenue risk for IT vendor Globant. Walt Disney's new global capability centre (GCC) in Bengaluru poses a significant revenue risk for its IT vendor Globant, which counts Disney as its largest client, contributing 9% of its 2025 revenue. This move highlights a broader trend where large companies are insourcing technology work, impacting IT service providers. The shift could adversely affect Globant's revenues and operations, particularly given its slowed growth in 2025 and reliance on the media and entertainment sector.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.862537
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260318T220738",
+            "title": "The Walt Disney Company $DIS Shares Sold by GM Advisory Group LLC",
+            "summary": "GM Advisory Group LLC recently reduced its stake in The Walt Disney Company (NYSE:DIS) by 24.8%, selling 5,016 shares and holding 15,200 shares valued at approximately $1.74 million. Despite this sale, other institutional investors, including Rakuten Investment Management Inc., significantly increased their positions, bringing the total institutional ownership of Disney stock to 65.71%. The article also highlights recent positive developments for Disney, such as its streaming business reaching breakeven and leadership transitions, alongside analyst ratings averaging a \"Moderate Buy\" with a $135.80 price target.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by GM Advisory Group LLC. GM Advisory Group LLC recently reduced its stake in The Walt Disney Company (NYSE:DIS) by 24.8%, selling 5,016 shares and holding 15,200 shares valued at approximately $1.74 million. Despite this sale, other institutional investors, including Rakuten Investment Management Inc., significantly increased their positions, bringing the total institutional ownership of Disney stock to 65.71%. The article also highlights recent positive developments for Disney, such as its streaming business reaching breakeven and leadership transitions, alongside analyst ratings averaging a \"Moderate Buy\" with a $135.80 price target.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Florida Politics",
+            "date": "20260318T205124",
+            "title": "Disney Believe will be next ship’s name, Josh D’Amaro says",
+            "summary": "Disney has announced that its next cruise ship will be named the Disney Believe, as revealed by CEO Josh D’Amaro during a shareholder meeting. This is part of a significant expansion for Disney Cruise Line, which aims to grow its fleet to 13 ships by 2031, including new classes of ships and an expansion into Japan. The Disney Believe will feature themes from popular Disney stories like \"Encanto,\" \"Frozen,\" \"Snow White,\" \"Moana,\" and \"The Little Mermaid.\"",
+            "text_to_analyze": "Disney Believe will be next ship’s name, Josh D’Amaro says. Disney has announced that its next cruise ship will be named the Disney Believe, as revealed by CEO Josh D’Amaro during a shareholder meeting. This is part of a significant expansion for Disney Cruise Line, which aims to grow its fleet to 13 ships by 2031, including new classes of ships and an expansion into Japan. The Disney Believe will feature themes from popular Disney stories like \"Encanto,\" \"Frozen,\" \"Snow White,\" \"Moana,\" and \"The Little Mermaid.\"",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "IndexBox",
+            "date": "20260318T181723",
+            "title": "Josh D'Amaro Succeeds Bob Iger as Walt Disney Company CEO - News and Statistics",
+            "summary": "Josh D'Amaro has been appointed CEO of The Walt Disney Company, succeeding Bob Iger after Iger's second tenure. D'Amaro, with over 25 years at Disney, brings a diverse background to the role and will oversee the company's extensive portfolio including theme parks, film production, and streaming services. He takes charge as Disney enjoys box office success and invests in its parks, despite a recent decline in share price and challenges in attracting international guests.",
+            "text_to_analyze": "Josh D'Amaro Succeeds Bob Iger as Walt Disney Company CEO - News and Statistics. Josh D'Amaro has been appointed CEO of The Walt Disney Company, succeeding Bob Iger after Iger's second tenure. D'Amaro, with over 25 years at Disney, brings a diverse background to the role and will oversee the company's extensive portfolio including theme parks, film production, and streaming services. He takes charge as Disney enjoys box office success and invests in its parks, despite a recent decline in share price and challenges in attracting international guests.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260318T180323",
+            "title": "Disney Annual Shareholders Meeting: New CEO Josh D’Amaro Speaks to Company’s Next Chapter of Creativity, Innovation, and Connection",
+            "summary": "During The Walt Disney Company's 2026 Annual Meeting of Shareholders, new CEO Josh D’Amaro outlined the company’s strategic vision, emphasizing a \"One Disney\" approach to deliver connected, personalized, and immersive experiences. He highlighted upcoming projects like Toy Story 5, sequels to Lilo & Stitch and Incredibles, and the expansion of Disney+ as a digital centerpiece. D'Amaro also discussed ESPN's sports portfolio, significant investments in Experiences including new cruise ships, and the company's commitment to technology and human creativity.",
+            "text_to_analyze": "Disney Annual Shareholders Meeting: New CEO Josh D’Amaro Speaks to Company’s Next Chapter of Creativity, Innovation, and Connection. During The Walt Disney Company's 2026 Annual Meeting of Shareholders, new CEO Josh D’Amaro outlined the company’s strategic vision, emphasizing a \"One Disney\" approach to deliver connected, personalized, and immersive experiences. He highlighted upcoming projects like Toy Story 5, sequels to Lilo & Stitch and Incredibles, and the expansion of Disney+ as a digital centerpiece. D'Amaro also discussed ESPN's sports portfolio, significant investments in Experiences including new cruise ships, and the company's commitment to technology and human creativity.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Daps Magic",
+            "date": "20260318T160021",
+            "title": "Josh D’Amaro Becomes CEO of The Walt Disney Company",
+            "summary": "Josh D’Amaro has officially been named the Chief Executive Officer of The Walt Disney Company, following an extensive search. Dana Walden will serve alongside him as President and Chief Creative Officer. D'Amaro's era is expected to focus on growth through innovation, leveraging the strong performance of Disney Experiences and navigating challenges in media and theatrical releases while exploring AI's potential.",
+            "text_to_analyze": "Josh D’Amaro Becomes CEO of The Walt Disney Company. Josh D’Amaro has officially been named the Chief Executive Officer of The Walt Disney Company, following an extensive search. Dana Walden will serve alongside him as President and Chief Creative Officer. D'Amaro's era is expected to focus on growth through innovation, leveraging the strong performance of Disney Experiences and navigating challenges in media and theatrical releases while exploring AI's potential.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

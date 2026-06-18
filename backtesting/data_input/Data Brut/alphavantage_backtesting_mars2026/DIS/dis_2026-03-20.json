@@ -1,0 +1,18 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-20",
+    "window_start": "2026-03-19 16:00",
+    "window_end": "2026-03-20 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260320T075029",
+            "title": "Anderson Hoagland & Co. Lowers Stock Holdings in The Walt Disney Company $DIS",
+            "summary": "Anderson Hoagland & Co. significantly reduced its stake in The Walt Disney Company by 26.2% in Q4, holding 34,549 shares valued at $3.931 million. Despite this, analyst sentiment remains largely positive with a \"Moderate Buy\" rating and an average target price of $134.13. The company is undergoing key transitions, including Josh D'Amaro as CEO and a strategic focus on making Disney+ its digital centerpiece, though execution risks and recent negative sentiment like a $50 million class action settlement pose challenges.",
+            "text_to_analyze": "Anderson Hoagland & Co. Lowers Stock Holdings in The Walt Disney Company $DIS. Anderson Hoagland & Co. significantly reduced its stake in The Walt Disney Company by 26.2% in Q4, holding 34,549 shares valued at $3.931 million. Despite this, analyst sentiment remains largely positive with a \"Moderate Buy\" rating and an average target price of $134.13. The company is undergoing key transitions, including Josh D'Amaro as CEO and a strategic focus on making Disney+ its digital centerpiece, though execution risks and recent negative sentiment like a $50 million class action settlement pose challenges.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

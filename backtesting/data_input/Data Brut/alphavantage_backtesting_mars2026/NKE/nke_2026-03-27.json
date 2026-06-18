@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-27",
+    "window_start": "2026-03-26 16:00",
+    "window_end": "2026-03-27 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260326T190808",
+            "title": "Nike Q3 Preview: Gross Margin Contract, Decline In Total Sales On Soft China Performance",
+            "summary": "Nike Inc (NYSE: NKE) is expected to report a 200-basis-point contraction in gross margins and a 0.4% decline in total sales for Q3 fiscal 2026, largely due to a 16% sales contraction in China. BofA Securities analyst Lorraine Hutchinson maintained a Buy rating with a $73 price target, noting that while North America shows progress, EMEA sales were flat, and gross margins faced pressure from tariff headwinds. Nike's stock was down 1.03% to $52.94, trading near its 52-week low.",
+            "text_to_analyze": "Nike Q3 Preview: Gross Margin Contract, Decline In Total Sales On Soft China Performance. Nike Inc (NYSE: NKE) is expected to report a 200-basis-point contraction in gross margins and a 0.4% decline in total sales for Q3 fiscal 2026, largely due to a 16% sales contraction in China. BofA Securities analyst Lorraine Hutchinson maintained a Buy rating with a $73 price target, noting that while North America shows progress, EMEA sales were flat, and gross margins faced pressure from tariff headwinds. Nike's stock was down 1.03% to $52.94, trading near its 52-week low.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

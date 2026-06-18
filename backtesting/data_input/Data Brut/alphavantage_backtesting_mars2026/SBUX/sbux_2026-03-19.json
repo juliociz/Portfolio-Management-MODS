@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-19",
+    "window_start": "2026-03-18 16:00",
+    "window_end": "2026-03-19 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260319T080123",
+            "title": "Danske Bank A S Acquires Shares of 524,713 Starbucks Corporation $SBUX",
+            "summary": "Danske Bank A S has acquired a new stake of 524,713 shares in Starbucks Corporation, valued at approximately $44.39 million. This acquisition is part of broader institutional investor activity, with other large firms like Vanguard Group Inc. and Capital Research Global Investors also adjusting their holdings. Despite recent insider selling, analysts maintain an average \"Hold\" rating for Starbucks, with various target prices reflecting mixed sentiment regarding the company's turnaround efforts and market challenges.",
+            "text_to_analyze": "Danske Bank A S Acquires Shares of 524,713 Starbucks Corporation $SBUX. Danske Bank A S has acquired a new stake of 524,713 shares in Starbucks Corporation, valued at approximately $44.39 million. This acquisition is part of broader institutional investor activity, with other large firms like Vanguard Group Inc. and Capital Research Global Investors also adjusting their holdings. Despite recent insider selling, analysts maintain an average \"Hold\" rating for Starbucks, with various target prices reflecting mixed sentiment regarding the company's turnaround efforts and market challenges.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260319T071721",
+            "title": "AIA Group Ltd Has $10.99 Million Stock Position in Starbucks Corporation $SBUX",
+            "summary": "AIA Group Ltd has significantly increased its stake in Starbucks Corporation, now holding 129,880 shares valued at approximately $10.99 million. This increase comes despite Starbucks facing near-term challenges including a recent RBC downgrade due to labor investment, uncertain margin recovery, heightened shareholder activism regarding union talks, and insider stock sales. Analysts currently give Starbucks a consensus \"Hold\" rating with an average target price of $103.81, acknowledging positive traffic momentum but also significant headwinds.",
+            "text_to_analyze": "AIA Group Ltd Has $10.99 Million Stock Position in Starbucks Corporation $SBUX. AIA Group Ltd has significantly increased its stake in Starbucks Corporation, now holding 129,880 shares valued at approximately $10.99 million. This increase comes despite Starbucks facing near-term challenges including a recent RBC downgrade due to labor investment, uncertain margin recovery, heightened shareholder activism regarding union talks, and insider stock sales. Analysts currently give Starbucks a consensus \"Hold\" rating with an average target price of $103.81, acknowledging positive traffic momentum but also significant headwinds.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260319T050116",
+            "title": "Pumpkin Spice Latte Returns: Starbucks Icon Drives Fall Sales Surge in 2026 Amid Evolving Consumer Tastes",
+            "summary": "Starbucks has relaunched its Pumpkin Spice Latte for 2026, introducing a new non-dairy almond-oat version that aims to meet evolving consumer preferences and health consciousness. The seasonal beverage is expected to drive significant sales growth, particularly in Europe, and positively impact Starbucks' stock performance during Q4. The company is focusing on sustainability, expanded retail presence, and influencer marketing to maximize the PSL's commercial impact.",
+            "text_to_analyze": "Pumpkin Spice Latte Returns: Starbucks Icon Drives Fall Sales Surge in 2026 Amid Evolving Consumer Tastes. Starbucks has relaunched its Pumpkin Spice Latte for 2026, introducing a new non-dairy almond-oat version that aims to meet evolving consumer preferences and health consciousness. The seasonal beverage is expected to drive significant sales growth, particularly in Europe, and positively impact Starbucks' stock performance during Q4. The company is focusing on sustainability, expanded retail presence, and influencer marketing to maximize the PSL's commercial impact.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260318T191500",
+            "title": "Starbucks Corp Stock (SBUX) Moved Down by 3.56% on Mar 18: Key Drivers Unveiled",
+            "summary": "Starbucks Corp (SBUX) stock fell 3.56% on March 18, driven primarily by an analyst downgrade from RBC Capital due to higher labor costs and uncertain savings. Further contributing to the decline are ongoing concerns about company governance, labor disputes, and the stock's valuation near its peak multiple. The company's consideration of a significant office space lease in Nashville amidst layoffs also adds to short-term volatility and investor caution.",
+            "text_to_analyze": "Starbucks Corp Stock (SBUX) Moved Down by 3.56% on Mar 18: Key Drivers Unveiled. Starbucks Corp (SBUX) stock fell 3.56% on March 18, driven primarily by an analyst downgrade from RBC Capital due to higher labor costs and uncertain savings. Further contributing to the decline are ongoing concerns about company governance, labor disputes, and the stock's valuation near its peak multiple. The company's consideration of a significant office space lease in Nashville amidst layoffs also adds to short-term volatility and investor caution.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bitget",
+            "date": "20260318T190300",
+            "title": "Starbucks Plummets 3.5% Intraday: Short-Sellers Pounce on Hidden Catalysts",
+            "summary": "Starbucks (SBUX) experienced a significant 3.5% intraday drop, falling below key moving averages and flashing bearish technical signals. This decline, coupled with a 6% plummet in the 2X Leverage ETF SBU, highlights increased speculative intensity and profit-taking after a long-term bullish trend. The broader Restaurants sector is also under pressure, with McDonald's (MCD) declining, suggesting potential macroeconomic concerns.",
+            "text_to_analyze": "Starbucks Plummets 3.5% Intraday: Short-Sellers Pounce on Hidden Catalysts. Starbucks (SBUX) experienced a significant 3.5% intraday drop, falling below key moving averages and flashing bearish technical signals. This decline, coupled with a 6% plummet in the 2X Leverage ETF SBU, highlights increased speculative intensity and profit-taking after a long-term bullish trend. The broader Restaurants sector is also under pressure, with McDonald's (MCD) declining, suggesting potential macroeconomic concerns.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

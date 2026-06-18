@@ -1,0 +1,99 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-04",
+    "window_start": "2026-03-03 16:00",
+    "window_end": "2026-03-04 09:27",
+    "articles": [
+        {
+            "source": "GlobeNewswire",
+            "date": "20260304T085318",
+            "title": "GraniteShares Announces Weekly Distributions for its Autocallable ETFs: ANV and TLA",
+            "summary": "GraniteShares announced weekly distributions for its Autocallable ETFs, ANV and TLA, effective March 4, 2026, with payments on March 6, 2026. TLA (GraniteShares Autocallable TSLA ETF) has a monthly distribution of $0.40222 per share, and ANV (GraniteShares Autocallable NVDA ETF) has a monthly distribution of $0.35248 per share. The announcement includes detailed disclaimers regarding distribution rates, risks, and performance.",
+            "text_to_analyze": "GraniteShares Announces Weekly Distributions for its Autocallable ETFs: ANV and TLA. GraniteShares announced weekly distributions for its Autocallable ETFs, ANV and TLA, effective March 4, 2026, with payments on March 6, 2026. TLA (GraniteShares Autocallable TSLA ETF) has a monthly distribution of $0.40222 per share, and ANV (GraniteShares Autocallable NVDA ETF) has a monthly distribution of $0.35248 per share. The announcement includes detailed disclaimers regarding distribution rates, risks, and performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.737784
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260304T085115",
+            "title": "Elon Musk's Tesla Loses Toyota, Stellantis From EU Carbon Credits Pool: Report",
+            "summary": "Tesla has reportedly lost Toyota and Stellantis from its EU carbon credits pool, impacting a significant revenue stream for the company. Toyota aims to reduce emissions independently through new electric vehicle offerings, while Stellantis plans to form its own pool with Leapmotor. This news comes as Tesla faces declining sales in Europe and other financial pressures.",
+            "text_to_analyze": "Elon Musk's Tesla Loses Toyota, Stellantis From EU Carbon Credits Pool: Report. Tesla has reportedly lost Toyota and Stellantis from its EU carbon credits pool, impacting a significant revenue stream for the company. Toyota aims to reduce emissions independently through new electric vehicle offerings, while Stellantis plans to form its own pool with Leapmotor. This news comes as Tesla faces declining sales in Europe and other financial pressures.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bloomberg.com",
+            "date": "20260304T083400",
+            "title": "Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares",
+            "summary": "Billionaire Leo KoGuan, a prominent individual shareholder of Tesla, announced he purchased 1 million shares of Nvidia for $180 million. KoGuan expressed strong conviction in the future of artificial intelligence, stating, \"I am convinced AI is NOT a bubble, it is only the beginning.\" This investment highlights his belief in the long-term growth potential of the AI sector.",
+            "text_to_analyze": "Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares. Billionaire Leo KoGuan, a prominent individual shareholder of Tesla, announced he purchased 1 million shares of Nvidia for $180 million. KoGuan expressed strong conviction in the future of artificial intelligence, stating, \"I am convinced AI is NOT a bubble, it is only the beginning.\" This investment highlights his belief in the long-term growth potential of the AI sector.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.611563
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260304T065100",
+            "title": "Tesla gains after BofA jumps back in with a bull rating (TSLA:NASDAQ)",
+            "summary": "Bank of America has reinstated its \"Buy\" rating on Tesla (TSLA), citing the company's leadership in consumer autonomy. The firm highlighted Tesla's potential to quickly become a leader in robotaxi services. This positive analyst coverage led to gains in Tesla's stock.",
+            "text_to_analyze": "Tesla gains after BofA jumps back in with a bull rating (TSLA:NASDAQ). Bank of America has reinstated its \"Buy\" rating on Tesla (TSLA), citing the company's leadership in consumer autonomy. The firm highlighted Tesla's potential to quickly become a leader in robotaxi services. This positive analyst coverage led to gains in Tesla's stock.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260304T055115",
+            "title": "German union aims for breakthrough at Tesla Berlin plant",
+            "summary": "Germany's top industrial union, IG Metall, is seeking greater influence at Tesla's gigafactory near Berlin as staff vote for a new works council. The union, which currently holds 16 of 39 seats, aims to secure a simple majority of 19 out of 37 seats in the new council. Tensions between IG Metall and Tesla management have been high, with the union accusing management of anti-union sentiment and Tesla countering that IG Metall is focused primarily on boosting its membership.",
+            "text_to_analyze": "German union aims for breakthrough at Tesla Berlin plant. Germany's top industrial union, IG Metall, is seeking greater influence at Tesla's gigafactory near Berlin as staff vote for a new works council. The union, which currently holds 16 of 39 seats, aims to secure a simple majority of 19 out of 37 seats in the new council. Tensions between IG Metall and Tesla management have been high, with the union accusing management of anti-union sentiment and Tesla countering that IG Metall is focused primarily on boosting its membership.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bitget",
+            "date": "20260303T215157",
+            "title": "Is Investing in the First Trust NASDAQ Transportation ETF (FTXR) a Good Choice?",
+            "summary": "The article analyzes the First Trust NASDAQ Transportation ETF (FTXR), a passively managed fund tracking the U.S. transportation sector. It highlights FTXR's structure, fees, top holdings like General Motors and Tesla, and its recent performance, including a 30.32% gain over the past year. The article also compares FTXR to alternative transportation ETFs and suggests it's a solid choice for investors interested in the industrials sector.",
+            "text_to_analyze": "Is Investing in the First Trust NASDAQ Transportation ETF (FTXR) a Good Choice?. The article analyzes the First Trust NASDAQ Transportation ETF (FTXR), a passively managed fund tracking the U.S. transportation sector. It highlights FTXR's structure, fees, top holdings like General Motors and Tesla, and its recent performance, including a 30.32% gain over the past year. The article also compares FTXR to alternative transportation ETFs and suggests it's a solid choice for investors interested in the industrials sector.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.621647
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260303T204211",
+            "title": "Enphase batteries explained: Is this solar storage worth it for US homes?",
+            "summary": "This article provides an in-depth explanation of Enphase Energy's IQ Battery line for US homes, detailing its modular, AC-coupled design and integration with existing Enphase solar systems. It covers costs, practicalities, and comparisons with alternatives like Tesla Powerwall, highlighting the system's suitability for addressing time-of-use rates and ensuring backup power during outages. The piece concludes with expert verdicts on its value as a premium, integrated solar storage solution for homeowners prioritizing system cohesion and reliability.",
+            "text_to_analyze": "Enphase batteries explained: Is this solar storage worth it for US homes?. This article provides an in-depth explanation of Enphase Energy's IQ Battery line for US homes, detailing its modular, AC-coupled design and integration with existing Enphase solar systems. It covers costs, practicalities, and comparisons with alternatives like Tesla Powerwall, highlighting the system's suitability for addressing time-of-use rates and ensuring backup power during outages. The piece concludes with expert verdicts on its value as a premium, integrated solar storage solution for homeowners prioritizing system cohesion and reliability.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.739045
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260303T203013",
+            "title": "Elon Musk's Tesla Hikes $59,990 Cybertruck AWD Price As 10-Day Deadline Ends: Here's The New Price",
+            "summary": "Tesla has increased the price of its all-wheel-drive Cybertruck by $10,000, raising it from $59,990 to $69,990. This price hike comes after a limited-time offer expired on February 28. Despite strong demand for this trim level, some analysts, like Gary Black, believe the price increase might lead to the cannibalization of mid-spec Cybertruck sales rather than overall improved sales figures for Tesla.",
+            "text_to_analyze": "Elon Musk's Tesla Hikes $59,990 Cybertruck AWD Price As 10-Day Deadline Ends: Here's The New Price. Tesla has increased the price of its all-wheel-drive Cybertruck by $10,000, raising it from $59,990 to $69,990. This price hike comes after a limited-time offer expired on February 28. Despite strong demand for this trim level, some analysts, like Gary Black, believe the price increase might lead to the cannibalization of mid-spec Cybertruck sales rather than overall improved sales figures for Tesla.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.347501
+        },
+        {
+            "source": "Class Action Lawsuits",
+            "date": "20260303T170105",
+            "title": "Tesla class action alleges Model S door handles trap occupants during emergencies",
+            "summary": "A class action lawsuit has been filed against Tesla, alleging that the Model S electric door handles create a \"death trap\" by not functioning during power loss from collisions or fires. The plaintiff claims that the design prevents occupants from escaping and first responders from accessing the vehicle, and that Tesla concealed these known defects. The lawsuit seeks class certification, damages, and injunctive relief, stating that the vehicle's value is diminished due to these undisclosed safety risks.",
+            "text_to_analyze": "Tesla class action alleges Model S door handles trap occupants during emergencies. A class action lawsuit has been filed against Tesla, alleging that the Model S electric door handles create a \"death trap\" by not functioning during power loss from collisions or fires. The plaintiff claims that the design prevents occupants from escaping and first responders from accessing the vehicle, and that Tesla concealed these known defects. The lawsuit seeks class certification, damages, and injunctive relief, stating that the vehicle's value is diminished due to these undisclosed safety risks.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Fast Company",
+            "date": "20260303T165059",
+            "title": "Elon Musk’s ‘self-driving’ delusions get a reality check",
+            "summary": "A California state administrative judge ruled that Tesla misled consumers regarding its \"Autopilot\" and \"Full Self-Driving\" capabilities, leading the DMV to threaten license suspension. Despite subsequently rebranding its FSD subscription to \"Full Self-Driving (Supervised)\" and the DMV backing off, Tesla is now suing to reverse the ruling, insisting on using its original terminology. This legal battle highlights the ongoing conflict between Tesla's marketing claims and the real-world limitations and safety concerns of its Level 2 autonomous driving technology, which has been linked to numerous fatal accidents.",
+            "text_to_analyze": "Elon Musk’s ‘self-driving’ delusions get a reality check. A California state administrative judge ruled that Tesla misled consumers regarding its \"Autopilot\" and \"Full Self-Driving\" capabilities, leading the DMV to threaten license suspension. Despite subsequently rebranding its FSD subscription to \"Full Self-Driving (Supervised)\" and the DMV backing off, Tesla is now suing to reverse the ruling, insisting on using its original terminology. This legal battle highlights the ongoing conflict between Tesla's marketing claims and the real-world limitations and safety concerns of its Level 2 autonomous driving technology, which has been linked to numerous fatal accidents.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

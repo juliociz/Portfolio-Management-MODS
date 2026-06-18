@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-09",
+    "window_start": "2026-03-06 16:00",
+    "window_end": "2026-03-09 09:27",
+    "articles": [
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260307T185004",
+            "title": "Dow Jones Movers: IBM Leads, Sherwin-Williams Drags as Analysts Clash on Salesforce",
+            "summary": "The Dow Jones Industrial Average fell 2.95% last week due to tariff anxieties, macro uncertainty, and a VIX spike. IBM and Microsoft led gains as investors rotated into software stocks, while Sherwin-Williams, Caterpillar, and Nike dragged, impacted by consumer staples sell-offs and tariff exposure. Salesforce saw conflicting analyst ratings, reflecting debate on its AI pivot.",
+            "text_to_analyze": "Dow Jones Movers: IBM Leads, Sherwin-Williams Drags as Analysts Clash on Salesforce. The Dow Jones Industrial Average fell 2.95% last week due to tariff anxieties, macro uncertainty, and a VIX spike. IBM and Microsoft led gains as investors rotated into software stocks, while Sherwin-Williams, Caterpillar, and Nike dragged, impacted by consumer staples sell-offs and tariff exposure. Salesforce saw conflicting analyst ratings, reflecting debate on its AI pivot.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.621644
+        },
+        {
+            "source": "Sahm",
+            "date": "20260307T065051",
+            "title": "Nike Restructuring Under Elliott Hill Tests Turnaround And Profitability Hopes",
+            "summary": "Nike is undergoing a significant restructuring under CEO Elliott Hill, expecting $300 million in pre-tax charges related to employee severance, as part of its \"Win Now\" turnaround program. This initiative aims to realign costs, invest in growth, and enhance competitive positioning amidst challenges like sluggish sales and margin pressure. Investors will be observing how effectively Nike can convert these operational changes into sustained performance and profitability, particularly in its sport performance categories and wholesale strategy.",
+            "text_to_analyze": "Nike Restructuring Under Elliott Hill Tests Turnaround And Profitability Hopes. Nike is undergoing a significant restructuring under CEO Elliott Hill, expecting $300 million in pre-tax charges related to employee severance, as part of its \"Win Now\" turnaround program. This initiative aims to realign costs, invest in growth, and enhance competitive positioning amidst challenges like sluggish sales and margin pressure. Investors will be observing how effectively Nike can convert these operational changes into sustained performance and profitability, particularly in its sport performance categories and wholesale strategy.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

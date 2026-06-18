@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-27",
+    "window_start": "2026-03-26 16:00",
+    "window_end": "2026-03-27 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260327T062118",
+            "title": "Starbucks Corporation (NASDAQ:SBUX) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages",
+            "summary": "Starbucks Corporation (NASDAQ:SBUX) has received a \"Moderate Buy\" consensus rating from analysts, with an average 12-month price target of $103.81. While the company missed recent EPS estimates, it surpassed revenue expectations and is undertaking a $2 billion cost-savings plan and store expansion initiatives. However, insider selling and rising governance concerns present potential execution risks for its turnaround efforts.",
+            "text_to_analyze": "Starbucks Corporation (NASDAQ:SBUX) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages. Starbucks Corporation (NASDAQ:SBUX) has received a \"Moderate Buy\" consensus rating from analysts, with an average 12-month price target of $103.81. While the company missed recent EPS estimates, it surpassed revenue expectations and is undertaking a $2 billion cost-savings plan and store expansion initiatives. However, insider selling and rising governance concerns present potential execution risks for its turnaround efforts.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bitget",
+            "date": "20260327T020935",
+            "title": "Starbucks Drops More Than 3% – Will the Coffee Leader Regain Its Strength?",
+            "summary": "Starbucks (SBUX) shares experienced a significant decline of over 3% to $88.105, trading below its 30-day and 100-day moving averages, indicating strong bearish momentum. This downturn is accompanied by a surge in put option activity, particularly for strike prices between $85 and $87, as technical indicators like the RSI and MACD reinforce a negative outlook. While the broader restaurant sector shows mixed results, Starbucks' selloff appears company-specific, with traders closely watching the $85 support level for potential further corrections.",
+            "text_to_analyze": "Starbucks Drops More Than 3% – Will the Coffee Leader Regain Its Strength?. Starbucks (SBUX) shares experienced a significant decline of over 3% to $88.105, trading below its 30-day and 100-day moving averages, indicating strong bearish momentum. This downturn is accompanied by a surge in put option activity, particularly for strike prices between $85 and $87, as technical indicators like the RSI and MACD reinforce a negative outlook. While the broader restaurant sector shows mixed results, Starbucks' selloff appears company-specific, with traders closely watching the $85 support level for potential further corrections.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260326T225717",
+            "title": "Starbucks (SBUX) CFO has shares withheld to cover RSU tax bill",
+            "summary": "Starbucks CFO Cathy R. Smith had 2,231.435 shares of Common Stock withheld to cover tax obligations upon the vesting of restricted stock units. This was not an open market sale, but a routine tax-related disposition at a price of $91.98 per share. Following this event, Smith directly holds 63,751.726 Starbucks shares, which includes dividend equivalents on unvested RSUs.",
+            "text_to_analyze": "Starbucks (SBUX) CFO has shares withheld to cover RSU tax bill. Starbucks CFO Cathy R. Smith had 2,231.435 shares of Common Stock withheld to cover tax obligations upon the vesting of restricted stock units. This was not an open market sale, but a routine tax-related disposition at a price of $91.98 per share. Following this event, Smith directly holds 63,751.726 Starbucks shares, which includes dividend equivalents on unvested RSUs.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260326T163800",
+            "title": "Starbucks Corp. stock underperforms Thursday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) stock fell by 1.60% on Thursday, closing at $91.22, underperforming the broader market as both the S&P 500 and Dow Jones Industrial Average also declined. The company's shares are currently 12.97% below their 52-week high of $104.82, which was reached on January 28th.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Thursday when compared to competitors. Starbucks Corp. (SBUX) stock fell by 1.60% on Thursday, closing at $91.22, underperforming the broader market as both the S&P 500 and Dow Jones Industrial Average also declined. The company's shares are currently 12.97% below their 52-week high of $104.82, which was reached on January 28th.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.995883
+        }
+    ]
+}

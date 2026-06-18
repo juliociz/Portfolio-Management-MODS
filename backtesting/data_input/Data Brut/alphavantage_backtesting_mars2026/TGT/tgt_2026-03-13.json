@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-13",
+    "window_start": "2026-03-12 16:00",
+    "window_end": "2026-03-13 09:27",
+    "articles": [
+        {
+            "source": "TipRanks",
+            "date": "20260313T055112",
+            "title": "How Target-Heavy Balanced Funds Could Magnify Systemic Risk Amid Retail Sector Volatility",
+            "summary": "Target Corp (TGT) has disclosed a new risk related to balanced funds that heavily weight the company's stock. These funds, by including Target alongside bonds and other equities, could amplify systemic risk if the retail sector experiences a sharp decline in sentiment, potentially forcing broad portfolio rebalancing and depressing Target's stock price. The average price target for TGT is $126.04, suggesting an 8.89% upside potential.",
+            "text_to_analyze": "How Target-Heavy Balanced Funds Could Magnify Systemic Risk Amid Retail Sector Volatility. Target Corp (TGT) has disclosed a new risk related to balanced funds that heavily weight the company's stock. These funds, by including Target alongside bonds and other equities, could amplify systemic risk if the retail sector experiences a sharp decline in sentiment, potentially forcing broad portfolio rebalancing and depressing Target's stock price. The average price target for TGT is $126.04, suggesting an 8.89% upside potential.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.342519
+        },
+        {
+            "source": "Reuters",
+            "date": "20260312T222841",
+            "title": "Amazon plans to move Prime Day event to June from July, Bloomberg News reports",
+            "summary": "Amazon is reportedly planning to shift its annual Prime Day sales event from July to late June, according to Bloomberg News. This change would move the critical shopping event, known for significant discounts, into Amazon's second fiscal quarter. The move could also help Amazon compete more effectively with similar sales events offered by rivals like Walmart and Target.",
+            "text_to_analyze": "Amazon plans to move Prime Day event to June from July, Bloomberg News reports. Amazon is reportedly planning to shift its annual Prime Day sales event from July to late June, according to Bloomberg News. This change would move the critical shopping event, known for significant discounts, into Amazon's second fiscal quarter. The move could also help Amazon compete more effectively with similar sales events offered by rivals like Walmart and Target.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.827759
+        }
+    ]
+}

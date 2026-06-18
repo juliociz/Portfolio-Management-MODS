@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-03",
+    "window_start": "2026-03-02 16:00",
+    "window_end": "2026-03-03 09:27",
+    "articles": [
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260303T045001",
+            "title": "The Walt Disney Company Wins 22 Children’s & Family Emmy® Awards, the Most Overall Across the Industry",
+            "summary": "The Walt Disney Company has received a total of 22 Children's & Family Emmy® Awards across its various content brands and studios, including Disney Branded Television and The Walt Disney Studios. Disney+ was a significant contributor, being the streaming home for 21 of these awards. Notable wins include \"Descendants: The Rise of Red\" and \"Win or Lose\" with five awards each, and \"Star Wars: Skeleton Crew,\" which secured the Outstanding Young Teen Series award.",
+            "text_to_analyze": "The Walt Disney Company Wins 22 Children’s & Family Emmy® Awards, the Most Overall Across the Industry. The Walt Disney Company has received a total of 22 Children's & Family Emmy® Awards across its various content brands and studios, including Disney Branded Television and The Walt Disney Studios. Disney+ was a significant contributor, being the streaming home for 21 of these awards. Notable wins include \"Descendants: The Rise of Red\" and \"Win or Lose\" with five awards each, and \"Star Wars: Skeleton Crew,\" which secured the Outstanding Young Teen Series award.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260302T163337",
+            "title": "‘Zombies 5’ Greenlit for Disney+ and Disney Channel",
+            "summary": "Disney has officially greenlit \"Zombies 5\" for Disney+ and Disney Channel, with Malachi Barton and Freya Skye returning as Victor and Nova, and franchise stars Milo Manheim and Meg Donnelly executive producing. The new installment, set to begin production in New Zealand this spring, will introduce mermaids to the ZOMBIES universe as Nova and Victor must protect the peace established after \"ZOMBIES 4: Dawn of the Vampires.\" The film continues the franchise's themes of unity and acceptance through music and dance, building on its significant viewership success across Disney platforms.",
+            "text_to_analyze": "‘Zombies 5’ Greenlit for Disney+ and Disney Channel. Disney has officially greenlit \"Zombies 5\" for Disney+ and Disney Channel, with Malachi Barton and Freya Skye returning as Victor and Nova, and franchise stars Milo Manheim and Meg Donnelly executive producing. The new installment, set to begin production in New Zealand this spring, will introduce mermaids to the ZOMBIES universe as Nova and Victor must protect the peace established after \"ZOMBIES 4: Dawn of the Vampires.\" The film continues the franchise's themes of unity and acceptance through music and dance, building on its significant viewership success across Disney platforms.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

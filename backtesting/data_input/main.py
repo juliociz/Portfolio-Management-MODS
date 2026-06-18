@@ -32,11 +32,11 @@ if not API_KEYS:
 # ============================================================
 
 stocks = [
-    {"name": "Nike", "ticker": "NKE"},
-    {"name": "Target", "ticker": "TGT"},
-    {"name": "Disney", "ticker": "DIS"},
+    #{"name": "Nike", "ticker": "NKE"},
+    #{"name": "Target", "ticker": "TGT"},
+    #{"name": "Disney", "ticker": "DIS"},
     {"name": "Starbucks", "ticker": "SBUX"},
-    {"name": "Tesla", "ticker": "TSLA"}
+    #{"name": "Tesla", "ticker": "TSLA"}
 ]
 
 # ============================================================
@@ -72,9 +72,9 @@ for trading_day in trading_days:
     trading_day = trading_day.to_pydatetime()
     
     # 🛑 Sécurité brute : On ignore les jours strictement inférieurs au 6 mai
-    #if trading_day.date() < datetime(2026, 4, 30).date():
-    #    current_request += len(stocks) # On met à jour le compteur global pour l'affichage
-    #    continue
+    if trading_day.date() < datetime(2026, 3, 23).date():
+        current_request += len(stocks) # On met à jour le compteur global pour l'affichage
+        continue
 
     print(
         f"\n==============================\n"

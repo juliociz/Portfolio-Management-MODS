@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-17",
+    "window_start": "2026-03-16 16:00",
+    "window_end": "2026-03-17 09:27",
+    "articles": [
+        {
+            "source": "CNBC",
+            "date": "20260316T220312",
+            "title": "Final Trade: BA, C, NKE, SLB",
+            "summary": "CNBC's Melissa Lee and the 'Fast Money' traders presented their final trades of the day, focusing on the stocks BA (Boeing), C (Citigroup), NKE (Nike), and SLB (Schlumberger). The segment provides a quick roundup of expert opinions on these specific companies as the trading day concludes.",
+            "text_to_analyze": "Final Trade: BA, C, NKE, SLB. CNBC's Melissa Lee and the 'Fast Money' traders presented their final trades of the day, focusing on the stocks BA (Boeing), C (Citigroup), NKE (Nike), and SLB (Schlumberger). The segment provides a quick roundup of expert opinions on these specific companies as the trading day concludes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.947783
+        }
+    ]
+}

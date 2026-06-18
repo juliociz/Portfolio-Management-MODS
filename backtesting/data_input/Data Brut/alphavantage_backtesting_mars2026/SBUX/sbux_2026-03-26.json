@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-26",
+    "window_start": "2026-03-25 16:00",
+    "window_end": "2026-03-26 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260326T052225",
+            "title": "Starbucks Corp. stock faces headwinds amid slowing US consumer demand and international challenges i",
+            "summary": "Starbucks Corp. is experiencing stock pressure due to softer-than-expected same-store sales growth, particularly in the US where sales dipped by 0.5% in Q1 2026. The company faces challenges from cautious consumer behavior, competitive pressures, and rising costs, leading to a 4.2% stock drop. Despite solid financial health and international expansion efforts, investors are concerned about potential earnings revisions and margin squeezes.",
+            "text_to_analyze": "Starbucks Corp. stock faces headwinds amid slowing US consumer demand and international challenges i. Starbucks Corp. is experiencing stock pressure due to softer-than-expected same-store sales growth, particularly in the US where sales dipped by 0.5% in Q1 2026. The company faces challenges from cautious consumer behavior, competitive pressures, and rising costs, leading to a 4.2% stock drop. Despite solid financial health and international expansion efforts, investors are concerned about potential earnings revisions and margin squeezes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260326T002414",
+            "title": "Starbucks (SBUX) director logs routine tax-withholding share disposition on RSU vesting",
+            "summary": "Starbucks director Jørgen Vig Knudstorp reported a routine tax-related share disposition. Upon the vesting of restricted stock units, 354.864 shares of Starbucks common stock were withheld by the company at $93.83 per share to cover tax obligations. After this transaction, Knudstorp directly holds 53,006.050 shares, including deferred stock units.",
+            "text_to_analyze": "Starbucks (SBUX) director logs routine tax-withholding share disposition on RSU vesting. Starbucks director Jørgen Vig Knudstorp reported a routine tax-related share disposition. Upon the vesting of restricted stock units, 354.864 shares of Starbucks common stock were withheld by the company at $93.83 per share to cover tax obligations. After this transaction, Knudstorp directly holds 53,006.050 shares, including deferred stock units.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.93382
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260325T204726",
+            "title": "Starbucks Corp. stock faces headwinds amid slowing US demand and China challenges in Q1 2026",
+            "summary": "Starbucks faces significant challenges in Q1 2026, including softer-than-expected comparable store sales in both the US and China, alongside margin pressures from elevated commodity costs and increased competition. New CEO Brian Niccol is implementing a turnaround strategy focused on streamlining the menu, store remodels, and digital integration. Despite near-term headwinds, the company's strong balance sheet, dividend, and strategic initiatives aim to position it for a rebound.",
+            "text_to_analyze": "Starbucks Corp. stock faces headwinds amid slowing US demand and China challenges in Q1 2026. Starbucks faces significant challenges in Q1 2026, including softer-than-expected comparable store sales in both the US and China, alongside margin pressures from elevated commodity costs and increased competition. New CEO Brian Niccol is implementing a turnaround strategy focused on streamlining the menu, store remodels, and digital integration. Despite near-term headwinds, the company's strong balance sheet, dividend, and strategic initiatives aim to position it for a rebound.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.966152
+        },
+        {
+            "source": "The National Law Review",
+            "date": "20260325T183825",
+            "title": "In Lawsuits, Facts Matter. Employers That Embrace DEI Can Weather the Storm",
+            "summary": "A federal district court dismissed a lawsuit brought by the Missouri Attorney General against Starbucks, alleging discrimination due to its DEI programs. The court found insufficient evidence of actual harm or discrimination, stating that a mere correlation between DEI initiatives and demographic shifts does not prove discrimination without adverse employment actions. The article emphasizes that while the case is on appeal, employers committed to DEI can withstand legal challenges if their policies do not result in demonstrable discriminatory impact, though they must remain mindful of federal oversight.",
+            "text_to_analyze": "In Lawsuits, Facts Matter. Employers That Embrace DEI Can Weather the Storm. A federal district court dismissed a lawsuit brought by the Missouri Attorney General against Starbucks, alleging discrimination due to its DEI programs. The court found insufficient evidence of actual harm or discrimination, stating that a mere correlation between DEI initiatives and demographic shifts does not prove discrimination without adverse employment actions. The article emphasizes that while the case is on appeal, employers committed to DEI can withstand legal challenges if their policies do not result in demonstrable discriminatory impact, though they must remain mindful of federal oversight.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

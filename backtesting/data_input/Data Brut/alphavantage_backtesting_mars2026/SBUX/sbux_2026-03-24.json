@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-24",
+    "window_start": "2026-03-23 16:00",
+    "window_end": "2026-03-24 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260324T080856",
+            "title": "Starbucks Corp. stock faces pressure after Q1 FY2026 earnings miss amid cost-cut push",
+            "summary": "Starbucks Corp. reported Q1 FY2026 earnings below expectations, causing its stock to drop 1.92% despite revenue topping forecasts. CEO Brian Niccol introduced a \"Back to Starbucks\" strategy focused on hospitality and a $2 billion cost-saving initiative to address market pressures, rising competition, and increased costs. US investors are closely watching the company's turnaround potential, with analysts maintaining a \"Moderate Buy\" rating.",
+            "text_to_analyze": "Starbucks Corp. stock faces pressure after Q1 FY2026 earnings miss amid cost-cut push. Starbucks Corp. reported Q1 FY2026 earnings below expectations, causing its stock to drop 1.92% despite revenue topping forecasts. CEO Brian Niccol introduced a \"Back to Starbucks\" strategy focused on hospitality and a $2 billion cost-saving initiative to address market pressures, rising competition, and increased costs. US investors are closely watching the company's turnaround potential, with analysts maintaining a \"Moderate Buy\" rating.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260323T164000",
+            "title": "Starbucks Corp. stock outperforms competitors on strong trading day",
+            "summary": "Starbucks Corp. (SBUX) stock increased by 1.38% to $93.83 on Monday, outperforming its competitors and the broader market. This strong performance occurred on a favorable trading day where both the S&P 500 Index and the Dow Jones Industrial Average also saw significant gains. Despite this rise, Starbucks' stock remains 10.48% below its 52-week high.",
+            "text_to_analyze": "Starbucks Corp. stock outperforms competitors on strong trading day. Starbucks Corp. (SBUX) stock increased by 1.38% to $93.83 on Monday, outperforming its competitors and the broader market. This strong performance occurred on a favorable trading day where both the S&P 500 Index and the Dow Jones Industrial Average also saw significant gains. Despite this rise, Starbucks' stock remains 10.48% below its 52-week high.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.320765
+        },
+        {
+            "source": "Reuters",
+            "date": "20260323T160400",
+            "title": "Taco Bell, Dunkin’ franchisee to pay $1.5 mln in NYC scheduling case",
+            "summary": "A Taco Bell and Dunkin' franchisee, Salz Management LLC, has agreed to pay over $1.5 million to settle claims by New York City that it violated local laws regarding worker scheduling practices. The city alleged the franchisee failed to provide advance notice of schedules, pay for \"clopening\" shifts, and offer existing workers available shifts before hiring new staff across two dozen restaurants. This settlement follows a larger $38.9 million settlement with Starbucks in December for similar violations, and the city also announced a new lawsuit against another Dunkin' franchisee, QSR Management LLC, for alleged scheduling law breaches affecting about 1,000 workers.",
+            "text_to_analyze": "Taco Bell, Dunkin’ franchisee to pay $1.5 mln in NYC scheduling case. A Taco Bell and Dunkin' franchisee, Salz Management LLC, has agreed to pay over $1.5 million to settle claims by New York City that it violated local laws regarding worker scheduling practices. The city alleged the franchisee failed to provide advance notice of schedules, pay for \"clopening\" shifts, and offer existing workers available shifts before hiring new staff across two dozen restaurants. This settlement follows a larger $38.9 million settlement with Starbucks in December for similar violations, and the city also announced a new lawsuit against another Dunkin' franchisee, QSR Management LLC, for alleged scheduling law breaches affecting about 1,000 workers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.643992
+        }
+    ]
+}

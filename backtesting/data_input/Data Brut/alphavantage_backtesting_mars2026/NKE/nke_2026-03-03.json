@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-03",
+    "window_start": "2026-03-02 16:00",
+    "window_end": "2026-03-03 09:27",
+    "articles": [
+        {
+            "source": "Insider Monkey",
+            "date": "20260303T023400",
+            "title": "14 Stocks on Jim Cramer’s Radar",
+            "summary": "This article lists stocks on Jim Cramer's watch, focusing on International Flavors & Fragrances Inc. (IFF). Cramer believes IFF has turned around, noting its 22% year-to-date increase, although he previously criticized its flatlining sales and lack of growth. The article also mentions various other companies like NVIDIA, Starbucks, and Nike.",
+            "text_to_analyze": "14 Stocks on Jim Cramer’s Radar. This article lists stocks on Jim Cramer's watch, focusing on International Flavors & Fragrances Inc. (IFF). Cramer believes IFF has turned around, noting its 22% year-to-date increase, although he previously criticized its flatlining sales and lack of growth. The article also mentions various other companies like NVIDIA, Starbucks, and Nike.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.600828
+        }
+    ]
+}

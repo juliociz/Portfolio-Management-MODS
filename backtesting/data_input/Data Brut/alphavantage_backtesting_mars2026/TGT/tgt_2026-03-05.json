@@ -1,0 +1,81 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-05",
+    "window_start": "2026-03-04 16:00",
+    "window_end": "2026-03-05 09:27",
+    "articles": [
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260305T045500",
+            "title": "Alpine Income Property Trust Announces $32.0 Million First Mortgage Loan Investment",
+            "summary": "Alpine Income Property Trust (NYSE: PINE) announced a $32.0 million first mortgage loan investment to fund the development of a 101,000-square-foot retail center in Newton County, Georgia. The loan carries a 24-month term with an initial interest rate of 13.00%, inclusive of paid-in-kind interest. The retail center will feature national investment-grade tenants, a Target store, and is adjacent to an existing Publix.",
+            "text_to_analyze": "Alpine Income Property Trust Announces $32.0 Million First Mortgage Loan Investment. Alpine Income Property Trust (NYSE: PINE) announced a $32.0 million first mortgage loan investment to fund the development of a 101,000-square-foot retail center in Newton County, Georgia. The loan carries a 24-month term with an initial interest rate of 13.00%, inclusive of paid-in-kind interest. The retail center will feature national investment-grade tenants, a Target store, and is adjacent to an existing Publix.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.638472
+        },
+        {
+            "source": "Intellectia AI",
+            "date": "20260305T040941",
+            "title": "PSFE Stock News Today | Earnings, Events & Price Alerts",
+            "summary": "This article provides recent news and events related to Paysafe (PSFE) stock, including multiple class-action lawsuit reminders and an earnings report over a year ago. It also excerpts a broader market summary from March 3rd, detailing U.S. stock drops amid Middle East tensions and various company-specific news, including earnings from Target, Best Buy, and MongoDB.",
+            "text_to_analyze": "PSFE Stock News Today | Earnings, Events & Price Alerts. This article provides recent news and events related to Paysafe (PSFE) stock, including multiple class-action lawsuit reminders and an earnings report over a year ago. It also excerpts a broader market summary from March 3rd, detailing U.S. stock drops amid Middle East tensions and various company-specific news, including earnings from Target, Best Buy, and MongoDB.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.643699
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260305T015102",
+            "title": "How can Target win back customers? 'Delight' them, executives say",
+            "summary": "Target executives emphasized the concept of \"delighting\" customers 17 times during a recent investor meeting as part of their strategy to reverse a prolonged sales slump. This focus comes amidst a series of challenges for the retailer, including declining sales, C-suite shake-ups, and efforts to regain staff and shopper trust. The company is actively implementing a turnaround plan, with leadership changes and other strategic moves.",
+            "text_to_analyze": "How can Target win back customers? 'Delight' them, executives say. Target executives emphasized the concept of \"delighting\" customers 17 times during a recent investor meeting as part of their strategy to reverse a prolonged sales slump. This focus comes amidst a series of challenges for the retailer, including declining sales, C-suite shake-ups, and efforts to regain staff and shopper trust. The company is actively implementing a turnaround plan, with leadership changes and other strategic moves.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "JD Supra",
+            "date": "20260305T005102",
+            "title": "Target’s Defeat of Class Certification Emphasizes the Role of Proof",
+            "summary": "Target Corporation successfully defeated class certification in a federal lawsuit in the Central District of California, highlighting the crucial role of evidence in class certification motions. The court denied certification for eight proposed classes, scrutinizing the plaintiffs' lack of sufficient proof regarding numerosity, commonality, and predominance of issues. This decision underscores the importance for defense counsel to challenge plaintiff evidence rigorously and for employers to maintain legally compliant policies.",
+            "text_to_analyze": "Target’s Defeat of Class Certification Emphasizes the Role of Proof. Target Corporation successfully defeated class certification in a federal lawsuit in the Central District of California, highlighting the crucial role of evidence in class certification motions. The court denied certification for eight proposed classes, scrutinizing the plaintiffs' lack of sufficient proof regarding numerosity, commonality, and predominance of issues. This decision underscores the importance for defense counsel to challenge plaintiff evidence rigorously and for employers to maintain legally compliant policies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260304T215122",
+            "title": "11 Stocks on Jim Cramer’s Radar: Target, CoreWeave, and More",
+            "summary": "This article lists stocks Jim Cramer has recently discussed, focusing on Union Pacific Corporation (NYSE: UNP). Cramer advises against buying UNP due to its current \"parabolic move,\" suggesting it needs to drop significantly before becoming a good investment. The article also includes Cullen Capital Management's positive outlook on Union Pacific, highlighting its strong network, growth potential, and attractive investment outlook.",
+            "text_to_analyze": "11 Stocks on Jim Cramer’s Radar: Target, CoreWeave, and More. This article lists stocks Jim Cramer has recently discussed, focusing on Union Pacific Corporation (NYSE: UNP). Cramer advises against buying UNP due to its current \"parabolic move,\" suggesting it needs to drop significantly before becoming a good investment. The article also includes Cullen Capital Management's positive outlook on Union Pacific, highlighting its strong network, growth potential, and attractive investment outlook.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.636398
+        },
+        {
+            "source": "FreightWaves",
+            "date": "20260304T205302",
+            "title": "Target begins roll out of next-day delivery to 20 more cities",
+            "summary": "Target is expanding its next-day delivery service to 20 additional metropolitan areas, bringing the total to over 50 and covering 60% of the U.S. population. This expansion is part of a $2 billion investment in stores and operations, leveraging stores as fulfillment centers to improve efficiency and lower costs. The retailer reported strong performance in its same-day services, which generated over $14 billion in sales last year.",
+            "text_to_analyze": "Target begins roll out of next-day delivery to 20 more cities. Target is expanding its next-day delivery service to 20 additional metropolitan areas, bringing the total to over 50 and covering 60% of the U.S. population. This expansion is part of a $2 billion investment in stores and operations, leveraging stores as fulfillment centers to improve efficiency and lower costs. The retailer reported strong performance in its same-day services, which generated over $14 billion in sales last year.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260304T175131",
+            "title": "Vita Coco Offers a Refreshingly Sweet Escape with New Vita Coco Treats® Flavor, Frosted Lemonade",
+            "summary": "Vita Coco has launched a new Frosted Lemonade flavor for its Vita Coco Treats® line, which offers a refreshing yet indulgent coconutmilk-based beverage experience. This new flavor aims to balance tart lemon with a coconut finish, providing a sweet escape for consumers. Additionally, an exclusive Cherry Vanilla flavor of Vita Coco Treats is debuting at Target.",
+            "text_to_analyze": "Vita Coco Offers a Refreshingly Sweet Escape with New Vita Coco Treats® Flavor, Frosted Lemonade. Vita Coco has launched a new Frosted Lemonade flavor for its Vita Coco Treats® line, which offers a refreshing yet indulgent coconutmilk-based beverage experience. This new flavor aims to balance tart lemon with a coconut finish, providing a sweet escape for consumers. Additionally, an exclusive Cherry Vanilla flavor of Vita Coco Treats is debuting at Target.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.617477
+        },
+        {
+            "source": "Proactive financial news",
+            "date": "20260304T172201",
+            "title": "Target’s turnaround faces execution risks, says Bank of America",
+            "summary": "Bank of America analysts have maintained their 'Underperform' rating for Target Corp (NYSE:TGT), despite a slight increase in their price target to $106 from $103, reflecting moderately improved margin expectations. While encouraged by Target's strategic investments in people, stores, and merchandise, analysts expressed caution that driving sustainable positive traffic and comparable store sales growth might take longer than the market anticipates. The firm reiterated concerns about intense competition and limited \"green shoots\" in discretionary spending categories, suggesting that the first quarter of 2026 could be the low point for earnings due to elevated startup costs and SG&A expenses.",
+            "text_to_analyze": "Target’s turnaround faces execution risks, says Bank of America. Bank of America analysts have maintained their 'Underperform' rating for Target Corp (NYSE:TGT), despite a slight increase in their price target to $106 from $103, reflecting moderately improved margin expectations. While encouraged by Target's strategic investments in people, stores, and merchandise, analysts expressed caution that driving sustainable positive traffic and comparable store sales growth might take longer than the market anticipates. The firm reiterated concerns about intense competition and limited \"green shoots\" in discretionary spending categories, suggesting that the first quarter of 2026 could be the low point for earnings due to elevated startup costs and SG&A expenses.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

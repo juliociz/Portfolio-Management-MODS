@@ -1,0 +1,72 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-09",
+    "window_start": "2026-03-06 16:00",
+    "window_end": "2026-03-09 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260308T195105",
+            "title": "SBUX SEC Filings - Starbucks Corp 10-K, 10-Q, 8-K Forms",
+            "summary": "This page provides a comprehensive resource for Starbucks SEC filings, including 10-K annual reports, 10-Q quarterly earnings, 8-K material events, and insider trading forms. It highlights recent filings detailing insider transactions, a joint venture with Boyu Capital for Starbucks' China operations, quarterly financial results, and a restructuring plan under the \"Back to Starbucks\" strategy. The platform also offers AI-powered summaries to help investors understand key points and navigate regulatory history.",
+            "text_to_analyze": "SBUX SEC Filings - Starbucks Corp 10-K, 10-Q, 8-K Forms. This page provides a comprehensive resource for Starbucks SEC filings, including 10-K annual reports, 10-Q quarterly earnings, 8-K material events, and insider trading forms. It highlights recent filings detailing insider transactions, a joint venture with Boyu Capital for Starbucks' China operations, quarterly financial results, and a restructuring plan under the \"Back to Starbucks\" strategy. The platform also offers AI-powered summaries to help investors understand key points and navigate regulatory history.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "International Business Times AU",
+            "date": "20260308T125904",
+            "title": "Starbucks (SBUX) Stock Rises on Turnaround Signs: Latest Price, Q1 2026 Earnings and Outlook as of March 2026",
+            "summary": "Starbucks (SBUX) stock increased by 0.30% to $98.99 on March 6, 2026, driven by signs of operational recovery. The company reported a 6% year-over-year revenue increase to $9.9 billion for Q1 fiscal 2026, with global comparable store sales up 4%. CEO Brian Niccol's \"Back to Starbucks\" strategy, focusing on premium experiences, efficiency, and customer engagement, aims to sustain this positive momentum amid ongoing challenges in global markets like China.",
+            "text_to_analyze": "Starbucks (SBUX) Stock Rises on Turnaround Signs: Latest Price, Q1 2026 Earnings and Outlook as of March 2026. Starbucks (SBUX) stock increased by 0.30% to $98.99 on March 6, 2026, driven by signs of operational recovery. The company reported a 6% year-over-year revenue increase to $9.9 billion for Q1 fiscal 2026, with global comparable store sales up 4%. CEO Brian Niccol's \"Back to Starbucks\" strategy, focusing on premium experiences, efficiency, and customer engagement, aims to sustain this positive momentum amid ongoing challenges in global markets like China.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T091809",
+            "title": "Dimensional Fund Advisors LP Has $238.66 Million Stock Holdings in Starbucks Corporation $SBUX",
+            "summary": "Dimensional Fund Advisors LP has increased its stake in Starbucks Corporation by 1.0%, now owning 2,820,720 shares valued at approximately $238.66 million. This move is part of a broader trend of institutional investment, with firms like Norges Bank, Corient Private Wealth LLC, and Invesco Ltd. also adding significant positions, bringing total institutional ownership to 72.29%. Despite missing EPS estimates in its latest quarter, Starbucks exceeded revenue expectations and holds an average \"Moderate Buy\" analyst rating with a target price of $104.22.",
+            "text_to_analyze": "Dimensional Fund Advisors LP Has $238.66 Million Stock Holdings in Starbucks Corporation $SBUX. Dimensional Fund Advisors LP has increased its stake in Starbucks Corporation by 1.0%, now owning 2,820,720 shares valued at approximately $238.66 million. This move is part of a broader trend of institutional investment, with firms like Norges Bank, Corient Private Wealth LLC, and Invesco Ltd. also adding significant positions, bringing total institutional ownership to 72.29%. Despite missing EPS estimates in its latest quarter, Starbucks exceeded revenue expectations and holds an average \"Moderate Buy\" analyst rating with a target price of $104.22.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The New Republic",
+            "date": "20260308T085112",
+            "title": "The Corporate Miscreants Driving the Affordability Crisis",
+            "summary": "A new report from the Institute for Policy Studies (IPS) highlights how 20 major corporations, the \"Low Wage 20,\" contribute to the affordability crisis by paying workers wages so low they rely on public assistance. These companies, including Amazon and Starbucks, have seen CEO pay soar while median worker pay has declined after inflation. The article suggests policy changes like raising the minimum wage, bolstering labor rights, and implementing \"bad business fees\" to address these disparities.",
+            "text_to_analyze": "The Corporate Miscreants Driving the Affordability Crisis. A new report from the Institute for Policy Studies (IPS) highlights how 20 major corporations, the \"Low Wage 20,\" contribute to the affordability crisis by paying workers wages so low they rely on public assistance. These companies, including Amazon and Starbucks, have seen CEO pay soar while median worker pay has declined after inflation. The article suggests policy changes like raising the minimum wage, bolstering labor rights, and implementing \"bad business fees\" to address these disparities.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.975143
+        },
+        {
+            "source": "Finviz - Stock Screener",
+            "date": "20260307T025109",
+            "title": "DA Davidson Sees Starbucks (SBUX) Turnaround Progress but Initiates at Neutral",
+            "summary": "DA Davidson initiated coverage of Starbucks (SBUX) with a Neutral rating and a $97 price target, acknowledging the company's turnaround efforts for sustainable growth but noting uncertainty regarding the pace of same-store sales improvement and margin visibility. Simultaneously, Starbucks announced plans to open a new corporate office in Nashville, Tennessee, later this year to support its North American supply chain and expand its presence, offering relocation opportunities to Seattle-based employees and creating new roles.",
+            "text_to_analyze": "DA Davidson Sees Starbucks (SBUX) Turnaround Progress but Initiates at Neutral. DA Davidson initiated coverage of Starbucks (SBUX) with a Neutral rating and a $97 price target, acknowledging the company's turnaround efforts for sustainable growth but noting uncertainty regarding the pace of same-store sales improvement and margin visibility. Simultaneously, Starbucks announced plans to open a new corporate office in Nashville, Tennessee, later this year to support its North American supply chain and expand its presence, offering relocation opportunities to Seattle-based employees and creating new roles.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.346591
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260306T225111",
+            "title": "Starbucks to close store in Seattle's University District",
+            "summary": "Starbucks plans to close its University District store in Seattle on April 5th, following a three-month strike. This closure is part of a larger $1 billion turnaround plan the coffee company is implementing. The announcement was made by Egan Ward for the Puget Sound Business Journal.",
+            "text_to_analyze": "Starbucks to close store in Seattle's University District. Starbucks plans to close its University District store in Seattle on April 5th, following a three-month strike. This closure is part of a larger $1 billion turnaround plan the coffee company is implementing. The announcement was made by Egan Ward for the Puget Sound Business Journal.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260306T211600",
+            "title": "DA Davidson Sees Starbucks (SBUX) Turnaround Progress but Initiates at Neutral",
+            "summary": "DA Davidson has initiated coverage of Starbucks (SBUX) with a Neutral rating and a $97 price target, acknowledging progress in the company's turnaround efforts. However, the firm expresses uncertainty regarding the pace of same-store sales improvement and visibility on regaining historical flow-through margins. Separately, Starbucks is expanding its corporate presence by opening a new office in Nashville, Tennessee, to manage its North American supply chain and support growth in the central US, South, and Northeast.",
+            "text_to_analyze": "DA Davidson Sees Starbucks (SBUX) Turnaround Progress but Initiates at Neutral. DA Davidson has initiated coverage of Starbucks (SBUX) with a Neutral rating and a $97 price target, acknowledging progress in the company's turnaround efforts. However, the firm expresses uncertainty regarding the pace of same-store sales improvement and visibility on regaining historical flow-through margins. Separately, Starbucks is expanding its corporate presence by opening a new office in Nashville, Tennessee, to manage its North American supply chain and support growth in the central US, South, and Northeast.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

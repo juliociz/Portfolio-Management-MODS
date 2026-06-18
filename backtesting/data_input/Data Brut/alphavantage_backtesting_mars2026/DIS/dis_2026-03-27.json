@@ -1,0 +1,54 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-27",
+    "window_start": "2026-03-26 16:00",
+    "window_end": "2026-03-27 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260327T090727",
+            "title": "Dakota Wealth Management Acquires 10,546 Shares of The Walt Disney Company $DIS",
+            "summary": "Dakota Wealth Management increased its stake in The Walt Disney Company by 11.3% in Q4, acquiring an additional 10,546 shares to reach a total of 104,201 shares valued at approximately $11.857 million. Analysts maintain a \"Moderate Buy\" rating with a consensus price target of $134.13, despite recent tech setbacks like the termination of the OpenAI Sora partnership and issues with Epic Games/Fortnite, which have increased near-term execution risk for new CEO Josh D’Amaro. Other institutional investors have also adjusted their holdings in Disney, with the stock currently having 65.71% institutional ownership.",
+            "text_to_analyze": "Dakota Wealth Management Acquires 10,546 Shares of The Walt Disney Company $DIS. Dakota Wealth Management increased its stake in The Walt Disney Company by 11.3% in Q4, acquiring an additional 10,546 shares to reach a total of 104,201 shares valued at approximately $11.857 million. Analysts maintain a \"Moderate Buy\" rating with a consensus price target of $134.13, despite recent tech setbacks like the termination of the OpenAI Sora partnership and issues with Epic Games/Fortnite, which have increased near-term execution risk for new CEO Josh D’Amaro. Other institutional investors have also adjusted their holdings in Disney, with the stock currently having 65.71% institutional ownership.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TVTechnology",
+            "date": "20260327T003928",
+            "title": "Carr Defends Nexstar/Tegna Merger, Provides Details on Disney-Owned Station Enforcement Action",
+            "summary": "FCC Chair Brendan Carr defended the agency's approval of the Nexstar/Tegna merger, framing it as a move to support a healthy local broadcast market, despite strong objections from Commissioner Anna Gomez. Carr also detailed an ongoing enforcement action against a Disney-owned TV station for allegedly violating \"equal time\" rules regarding a political candidate's appearance. Commissioner Gomez criticized the merger approval as \"flatly illegal\" and part of a \"billionaire bypass\" pattern by the FCC.",
+            "text_to_analyze": "Carr Defends Nexstar/Tegna Merger, Provides Details on Disney-Owned Station Enforcement Action. FCC Chair Brendan Carr defended the agency's approval of the Nexstar/Tegna merger, framing it as a move to support a healthy local broadcast market, despite strong objections from Commissioner Anna Gomez. Carr also detailed an ongoing enforcement action against a Disney-owned TV station for allegedly violating \"equal time\" rules regarding a political candidate's appearance. Commissioner Gomez criticized the merger approval as \"flatly illegal\" and part of a \"billionaire bypass\" pattern by the FCC.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.704556
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260326T215716",
+            "title": "Stock Market Today, March 26: Netflix Stock Rises After Raising Subscription Prices",
+            "summary": "Netflix stock rose on March 26 after the company announced price hikes for all its subscription tiers, including its ad-supported, standard, and premium plans. Investors are reacting positively, anticipating increased revenue despite potential customer churn, as Netflix plans to invest more in content, including live sports. Other streaming entertainment stocks like Walt Disney and Warner Bros. Discovery saw declines on the same day.",
+            "text_to_analyze": "Stock Market Today, March 26: Netflix Stock Rises After Raising Subscription Prices. Netflix stock rose on March 26 after the company announced price hikes for all its subscription tiers, including its ad-supported, standard, and premium plans. Investors are reacting positively, anticipating increased revenue despite potential customer churn, as Netflix plans to invest more in content, including live sports. Other streaming entertainment stocks like Walt Disney and Warner Bros. Discovery saw declines on the same day.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.74142
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260326T203500",
+            "title": "Walt Disney Co. stock underperforms Thursday when compared to competitors",
+            "summary": "Shares of Walt Disney Co. (DIS) fell by 1.25% to $94.75 on Thursday, underperforming the broader market as both the S&P 500 Index and Dow Jones Industrial Average also declined. This marked the fourth consecutive day of losses for the stock. The article highlights Disney's stock performance in the context of a general market downturn.",
+            "text_to_analyze": "Walt Disney Co. stock underperforms Thursday when compared to competitors. Shares of Walt Disney Co. (DIS) fell by 1.25% to $94.75 on Thursday, underperforming the broader market as both the S&P 500 Index and Dow Jones Industrial Average also declined. This marked the fourth consecutive day of losses for the stock. The article highlights Disney's stock performance in the context of a general market downturn.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.341408
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260326T170727",
+            "title": "D23: The Ultimate Disney Fan Event Announces Ticketing Information, Event Programming, and D23 Member Benefits",
+            "summary": "Disney has released new details for D23: The Ultimate Disney Fan Event, scheduled for August 14-16, 2026, in Anaheim, California. The event will feature exclusive access to Disney storytelling, special programming, ticketing information, and benefits for D23 Members. Ticketing will be tiered, prioritizing D23 Gold Members, with sales beginning March 31, 2026, and a range of ticket options including multi-day passes and a new \"Afternoon Only\" pass for expanded accessibility.",
+            "text_to_analyze": "D23: The Ultimate Disney Fan Event Announces Ticketing Information, Event Programming, and D23 Member Benefits. Disney has released new details for D23: The Ultimate Disney Fan Event, scheduled for August 14-16, 2026, in Anaheim, California. The event will feature exclusive access to Disney storytelling, special programming, ticketing information, and benefits for D23 Members. Ticketing will be tiered, prioritizing D23 Gold Members, with sales beginning March 31, 2026, and a range of ticket options including multi-day passes and a new \"Afternoon Only\" pass for expanded accessibility.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.326292
+        }
+    ]
+}

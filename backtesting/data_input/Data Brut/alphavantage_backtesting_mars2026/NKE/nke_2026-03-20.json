@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-20",
+    "window_start": "2026-03-19 16:00",
+    "window_end": "2026-03-20 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260319T200811",
+            "title": "Nike Tips Off DICK'S Campaign As Basketball Test For Turnaround",
+            "summary": "Nike has launched \"The Scouts are Out\" basketball campaign with DICK'S Sporting Goods, targeting younger basketball fans ahead of a major sporting event. This marketing push comes as Nike adjusts its wholesale approach and faces softer demand for lifestyle sneakers in Europe. Investors will be watching this campaign to see if it helps re-engage consumers and supports Nike's shift towards performance-led products, especially given recent declines in its share price.",
+            "text_to_analyze": "Nike Tips Off DICK'S Campaign As Basketball Test For Turnaround. Nike has launched \"The Scouts are Out\" basketball campaign with DICK'S Sporting Goods, targeting younger basketball fans ahead of a major sporting event. This marketing push comes as Nike adjusts its wholesale approach and faces softer demand for lifestyle sneakers in Europe. Investors will be watching this campaign to see if it helps re-engage consumers and supports Nike's shift towards performance-led products, especially given recent declines in its share price.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

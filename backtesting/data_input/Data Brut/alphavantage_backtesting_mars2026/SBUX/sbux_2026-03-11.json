@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-11",
+    "window_start": "2026-03-10 16:00",
+    "window_end": "2026-03-11 09:27",
+    "articles": [
+        {
+            "source": "The Business Journals",
+            "date": "20260311T025053",
+            "title": "Starbucks eyes 250K-square-foot lease at downtown development",
+            "summary": "Starbucks is reportedly considering a 250,000-square-foot office lease at the Peabody Union development in downtown Nashville, which could be one of the largest office deals in the city in years. The Fortune 500 company is actively seeking a massive office space in the area. This move is part of earlier plans for Starbucks to open a corporate office in Nashville.",
+            "text_to_analyze": "Starbucks eyes 250K-square-foot lease at downtown development. Starbucks is reportedly considering a 250,000-square-foot office lease at the Peabody Union development in downtown Nashville, which could be one of the largest office deals in the city in years. The Fortune 500 company is actively seeking a massive office space in the area. This move is part of earlier plans for Starbucks to open a corporate office in Nashville.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.913926
+        },
+        {
+            "source": "Finviz",
+            "date": "20260311T012353",
+            "title": "Wolfe Research Turns Neutral on Starbucks (SBUX) amid Competitive Coffee Market",
+            "summary": "Wolfe Research downgraded Starbucks (SBUX) to Peer Perform from Outperform, citing the need for sustained execution evidence in its turnaround and an increasingly competitive coffee market. Despite Starbucks' strong brand, pricing power, and global scale, the firm wants to see more consistent results from its \"Back to Starbucks\" plan. The article also notes that while Starbucks continues to expand and grow revenue, some investors believe certain AI stocks offer greater upside and less risk.",
+            "text_to_analyze": "Wolfe Research Turns Neutral on Starbucks (SBUX) amid Competitive Coffee Market. Wolfe Research downgraded Starbucks (SBUX) to Peer Perform from Outperform, citing the need for sustained execution evidence in its turnaround and an increasingly competitive coffee market. Despite Starbucks' strong brand, pricing power, and global scale, the firm wants to see more consistent results from its \"Back to Starbucks\" plan. The article also notes that while Starbucks continues to expand and grow revenue, some investors believe certain AI stocks offer greater upside and less risk.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260310T185104",
+            "title": "Lee: Tennessee offers Starbucks 'very different' business environment",
+            "summary": "Tennessee Governor Bill Lee announced that Starbucks plans to open a corporate office in Nashville later this year, hinting at a significant number of jobs. Lee emphasized that Tennessee offers Starbucks a \"very different\" business environment compared to its current Seattle base. The announcement followed his address to the Nashville Area Chamber of Commerce.",
+            "text_to_analyze": "Lee: Tennessee offers Starbucks 'very different' business environment. Tennessee Governor Bill Lee announced that Starbucks plans to open a corporate office in Nashville later this year, hinting at a significant number of jobs. Lee emphasized that Tennessee offers Starbucks a \"very different\" business environment compared to its current Seattle base. The announcement followed his address to the Nashville Area Chamber of Commerce.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

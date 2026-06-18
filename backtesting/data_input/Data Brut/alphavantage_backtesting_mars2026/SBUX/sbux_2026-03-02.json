@@ -1,0 +1,72 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-02",
+    "window_start": "2026-02-27 16:00",
+    "window_end": "2026-03-02 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260302T061956",
+            "title": "Starbucks Corporation (NASDAQ:SBUX) Receives Consensus Rating of \"Moderate Buy\" from Analysts",
+            "summary": "Analysts have given Starbucks Corporation (NASDAQ:SBUX) a \"Moderate Buy\" consensus rating from 28 brokerages, with an average 1-year price target of $104.31. Despite a recent EPS miss, the company's revenue beat expectations at $9.92 billion, and institutional investors hold a significant portion of its stock. Several analysts have updated their ratings, with some upgrading the stock, further contributing to the positive outlook.",
+            "text_to_analyze": "Starbucks Corporation (NASDAQ:SBUX) Receives Consensus Rating of \"Moderate Buy\" from Analysts. Analysts have given Starbucks Corporation (NASDAQ:SBUX) a \"Moderate Buy\" consensus rating from 28 brokerages, with an average 1-year price target of $104.31. Despite a recent EPS miss, the company's revenue beat expectations at $9.92 billion, and institutional investors hold a significant portion of its stock. Several analysts have updated their ratings, with some upgrading the stock, further contributing to the positive outlook.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "KOMO",
+            "date": "20260302T010837",
+            "title": "Starbucks confirms Seattle will remain HQ amid Nashville corporate expansion plans",
+            "summary": "Starbucks plans to open a corporate office in Nashville to expand operations in the Southeast, but assures that Seattle will remain its North America and global support headquarters. This expansion is part of a strategy to be closer to suppliers and access a stronger workforce, especially as the company has faced previous setbacks in Seattle, including store closures and layoffs. Despite these changes, Starbucks reaffirms its commitment to its hometown.",
+            "text_to_analyze": "Starbucks confirms Seattle will remain HQ amid Nashville corporate expansion plans. Starbucks plans to open a corporate office in Nashville to expand operations in the Southeast, but assures that Seattle will remain its North America and global support headquarters. This expansion is part of a strategy to be closer to suppliers and access a stronger workforce, especially as the company has faced previous setbacks in Seattle, including store closures and layoffs. Despite these changes, Starbucks reaffirms its commitment to its hometown.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.960859
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260301T112011",
+            "title": "Erste Asset Management GmbH Trims Stock Position in Starbucks Corporation $SBUX",
+            "summary": "Erste Asset Management GmbH significantly reduced its stake in Starbucks Corporation ($SBUX) by 51.2% in the third quarter, decreasing its holdings to 25,729 shares valued at $2.208 million. This comes as Starbucks reported an earnings per share miss of $0.56 against an expected $0.59 but beat revenue estimates at $9.92 billion, setting its FY2026 EPS guidance between $2.150 and $2.400. Despite the trimmed position by Erste Asset Management, other institutional investors like Nordea, Asset Management One, Providence, and Allstate either increased or initiated positions in SBUX, with analysts maintaining a \"Moderate Buy\" consensus and an average target price of $104.31.",
+            "text_to_analyze": "Erste Asset Management GmbH Trims Stock Position in Starbucks Corporation $SBUX. Erste Asset Management GmbH significantly reduced its stake in Starbucks Corporation ($SBUX) by 51.2% in the third quarter, decreasing its holdings to 25,729 shares valued at $2.208 million. This comes as Starbucks reported an earnings per share miss of $0.56 against an expected $0.59 but beat revenue estimates at $9.92 billion, setting its FY2026 EPS guidance between $2.150 and $2.400. Despite the trimmed position by Erste Asset Management, other institutional investors like Nordea, Asset Management One, Providence, and Allstate either increased or initiated positions in SBUX, with analysts maintaining a \"Moderate Buy\" consensus and an average target price of $104.31.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.316035
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260228T160455",
+            "title": "Pumpkin Spice Latte 2025: Is Starbucks’ Icon Back and Actually Better?",
+            "summary": "Starbucks continues to refine its Pumpkin Spice Latte (PSL) recipe, making it more customizable and adaptable to individual preferences rather than a one-note sugar bomb. The article explores how US consumers are personalizing their PSLs to better suit their taste and dietary needs, often by requesting fewer pumps of syrup or adding extra espresso. Despite competition from other chains, Starbucks' PSL maintains its cultural relevance due to its widespread availability, nostalgic appeal, and shareable aesthetic, making it a benchmark for fall seasonal drinks.",
+            "text_to_analyze": "Pumpkin Spice Latte 2025: Is Starbucks’ Icon Back and Actually Better?. Starbucks continues to refine its Pumpkin Spice Latte (PSL) recipe, making it more customizable and adaptable to individual preferences rather than a one-note sugar bomb. The article explores how US consumers are personalizing their PSLs to better suit their taste and dietary needs, often by requesting fewer pumps of syrup or adding extra espresso. Despite competition from other chains, Starbucks' PSL maintains its cultural relevance due to its widespread availability, nostalgic appeal, and shareable aesthetic, making it a benchmark for fall seasonal drinks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.979515
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260228T092900",
+            "title": "Artisan Partners Limited Partnership Acquires 251,493 Shares of Starbucks Corporation $SBUX",
+            "summary": "Artisan Partners Limited Partnership increased its stake in Starbucks Corporation by 21.8% during the third quarter, acquiring an additional 251,493 shares. This institutional investor now owns 1,406,280 shares of Starbucks, valued at approximately $118.97 million. Other hedge funds and institutional investors also adjusted their positions, with institutional investors and hedge funds collectively owning 72.29% of the company's stock.",
+            "text_to_analyze": "Artisan Partners Limited Partnership Acquires 251,493 Shares of Starbucks Corporation $SBUX. Artisan Partners Limited Partnership increased its stake in Starbucks Corporation by 21.8% during the third quarter, acquiring an additional 251,493 shares. This institutional investor now owns 1,406,280 shares of Starbucks, valued at approximately $118.97 million. Other hedge funds and institutional investors also adjusted their positions, with institutional investors and hedge funds collectively owning 72.29% of the company's stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260228T015056",
+            "title": "SBUX Financials: Income Statement, Balance Sheet & Cash Flow",
+            "summary": "This article provides a detailed financial overview of Starbucks Corp (SBUX), including its income statement, balance sheet, cash flow statement, and key financial ratios through fiscal year 2025. It highlights the company's financial health signals such as profitability, growth, liquidity, and cash flow, along with scores like Altman Z-Score and Piotroski F-Score. The report indicates a moderate operating efficiency, slow revenue growth, and tight liquidity, while noting strong interest coverage and cash-backed earnings.",
+            "text_to_analyze": "SBUX Financials: Income Statement, Balance Sheet & Cash Flow. This article provides a detailed financial overview of Starbucks Corp (SBUX), including its income statement, balance sheet, cash flow statement, and key financial ratios through fiscal year 2025. It highlights the company's financial health signals such as profitability, growth, liquidity, and cash flow, along with scores like Altman Z-Score and Piotroski F-Score. The report indicates a moderate operating efficiency, slow revenue growth, and tight liquidity, while noting strong interest coverage and cash-backed earnings.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260227T215058",
+            "title": "SBA asks Starbucks (SBUX) to remove demographic metrics from annual bonuses",
+            "summary": "The State Board of Administration of Florida (SBA) has formally requested Starbucks to remove demographic outcome metrics, such as retention and internal promotion rates for underrepresented employees, from its annual cash short-term incentive plan (STIP) for executives. The SBA, a fiduciary managing approximately $300 billion, argues these metrics are not well-suited for annual cash incentives and introduce unnecessary risks, advocating instead for operationally grounded recruiting and talent metrics. They also asked for transparency through a \"STIP Talent Management & Recruiting Scorecard\" and full disclosure if demographic metrics are retained.",
+            "text_to_analyze": "SBA asks Starbucks (SBUX) to remove demographic metrics from annual bonuses. The State Board of Administration of Florida (SBA) has formally requested Starbucks to remove demographic outcome metrics, such as retention and internal promotion rates for underrepresented employees, from its annual cash short-term incentive plan (STIP) for executives. The SBA, a fiduciary managing approximately $300 billion, argues these metrics are not well-suited for annual cash incentives and introduce unnecessary risks, advocating instead for operationally grounded recruiting and talent metrics. They also asked for transparency through a \"STIP Talent Management & Recruiting Scorecard\" and full disclosure if demographic metrics are retained.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-31",
+    "window_start": "2026-03-30 16:00",
+    "window_end": "2026-03-31 09:27",
+    "articles": [
+        {
+            "source": "The Courier-Journal",
+            "date": "20260331T090203",
+            "title": "What stores are open on 2026 Easter Sunday? More from Target, Walmart, Starbucks",
+            "summary": "This article provides a comprehensive list of stores expected to be open and closed on Easter Sunday 2026. Major retailers like Walmart and Kroger are likely to be open, while Target and Costco are anticipated to be closed. Shoppers are advised to plan ahead and call local stores to confirm specific holiday hours.",
+            "text_to_analyze": "What stores are open on 2026 Easter Sunday? More from Target, Walmart, Starbucks. This article provides a comprehensive list of stores expected to be open and closed on Easter Sunday 2026. Major retailers like Walmart and Kroger are likely to be open, while Target and Costco are anticipated to be closed. Shoppers are advised to plan ahead and call local stores to confirm specific holiday hours.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.822567
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260331T050847",
+            "title": "Target Corporation $TGT Stock Position Lowered by Private Advisory Group LLC",
+            "summary": "Private Advisory Group LLC reduced its stake in Target Corporation (TGT) by 12.7% in Q4 2025, selling over 14,800 shares. Despite this, Target outperformed Q4 EPS expectations, issued optimistic FY2026 guidance, and declared a quarterly dividend. Institutional ownership remains high, though analysts currently rate the stock as a \"Hold.\"",
+            "text_to_analyze": "Target Corporation $TGT Stock Position Lowered by Private Advisory Group LLC. Private Advisory Group LLC reduced its stake in Target Corporation (TGT) by 12.7% in Q4 2025, selling over 14,800 shares. Despite this, Target outperformed Q4 EPS expectations, issued optimistic FY2026 guidance, and declared a quarterly dividend. Institutional ownership remains high, though analysts currently rate the stock as a \"Hold.\"",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Real Estate NJ",
+            "date": "20260331T030842",
+            "title": "LMC: Target opens at West Orange Plaza to continue retail center’s transformation",
+            "summary": "A new Target store has opened in West Orange Plaza, marking a significant milestone in the shopping center's ongoing transformation. Occupying 150,000 square feet, this is Target's 55th New Jersey location and is part of a broader redevelopment project by Levin Management Corp. The opening is expected to create 280 jobs and features various services and in-store offerings, further enhancing the plaza's appeal as a retail destination alongside other new tenants.",
+            "text_to_analyze": "LMC: Target opens at West Orange Plaza to continue retail center’s transformation. A new Target store has opened in West Orange Plaza, marking a significant milestone in the shopping center's ongoing transformation. Occupying 150,000 square feet, this is Target's 55th New Jersey location and is part of a broader redevelopment project by Levin Management Corp. The opening is expected to create 280 jobs and features various services and in-store offerings, further enhancing the plaza's appeal as a retail destination alongside other new tenants.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Progressive Grocer",
+            "date": "20260330T190825",
+            "title": "Target Opens New Location at West Orange Plaza",
+            "summary": "Target has opened its 55th store in New Jersey, a 150,000-square-foot location at West Orange Plaza, marking one of three new stores in the state within the past year. The new store, which features a CVS Pharmacy, Starbucks, and Target Optical, is expected to employ around 280 people and offers services like drive-up and same-day delivery. This opening is part of a broader multimillion-dollar redevelopment of West Orange Plaza, aiming to enhance the shopping experience and attract more tenants.",
+            "text_to_analyze": "Target Opens New Location at West Orange Plaza. Target has opened its 55th store in New Jersey, a 150,000-square-foot location at West Orange Plaza, marking one of three new stores in the state within the past year. The new store, which features a CVS Pharmacy, Starbucks, and Target Optical, is expected to employ around 280 people and offers services like drive-up and same-day delivery. This opening is part of a broader multimillion-dollar redevelopment of West Orange Plaza, aiming to enhance the shopping experience and attract more tenants.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "License Global",
+            "date": "20260330T171022",
+            "title": "Reduce Drinkware, Vera Bradley Debut Limited-Edition Collection at Target",
+            "summary": "Reduce Drinkware and Vera Bradley have launched a limited-edition collection of tumblers and accessories, exclusively available at Target. The collaboration, facilitated by IMG Licensing, features Vera Bradley's signature patterns on Reduce's reusable drinkware. Both brands emphasize functionality and joy, appealing to a multi-generational audience.",
+            "text_to_analyze": "Reduce Drinkware, Vera Bradley Debut Limited-Edition Collection at Target. Reduce Drinkware and Vera Bradley have launched a limited-edition collection of tumblers and accessories, exclusively available at Target. The collaboration, facilitated by IMG Licensing, features Vera Bradley's signature patterns on Reduce's reusable drinkware. Both brands emphasize functionality and joy, appealing to a multi-generational audience.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.881595
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-23",
+    "window_start": "2026-03-20 16:00",
+    "window_end": "2026-03-23 09:27",
+    "articles": [
+        {
+            "source": "Stocktwits",
+            "date": "20260323T030830",
+            "title": "Tesla Stock Slips Premarket: Analyst Warns SpaceX Merger Could Erase $750B In Value",
+            "summary": "Tesla (TSLA) stock slipped in premarket trading after an analyst, Gary Black, warned that a potential merger with SpaceX could erase around $750 billion in value due to the \"lowest-multiple rule.\" Black suggests that merged companies typically trade at the lower valuation multiple of the two entities, which would dilute Tesla's value unless a rare \"Buffett premium\" is applied. This speculation comes as integration across Elon Musk’s companies intensifies, following SpaceX's merger with xAI and regulatory clearances for Tesla's investment in xAI to convert into a SpaceX stake.",
+            "text_to_analyze": "Tesla Stock Slips Premarket: Analyst Warns SpaceX Merger Could Erase $750B In Value. Tesla (TSLA) stock slipped in premarket trading after an analyst, Gary Black, warned that a potential merger with SpaceX could erase around $750 billion in value due to the \"lowest-multiple rule.\" Black suggests that merged companies typically trade at the lower valuation multiple of the two entities, which would dilute Tesla's value unless a rare \"Buffett premium\" is applied. This speculation comes as integration across Elon Musk’s companies intensifies, following SpaceX's merger with xAI and regulatory clearances for Tesla's investment in xAI to convert into a SpaceX stake.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "WSJ",
+            "date": "20260322T220618",
+            "title": "Exclusive | Activist Elliott Builds Big Stake in Chip-Design Software Maker Synopsys",
+            "summary": "Activist investor Elliott Investment Management has acquired a significant, multibillion-dollar stake in Synopsys, a major chip-design software maker. Elliott intends to engage with Synopsys to encourage the company to enhance its profitability from its software and services. Synopsys's clientele includes prominent companies such as Intel, Alphabet, and Tesla.",
+            "text_to_analyze": "Exclusive | Activist Elliott Builds Big Stake in Chip-Design Software Maker Synopsys. Activist investor Elliott Investment Management has acquired a significant, multibillion-dollar stake in Synopsys, a major chip-design software maker. Elliott intends to engage with Synopsys to encourage the company to enhance its profitability from its software and services. Synopsys's clientele includes prominent companies such as Intel, Alphabet, and Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.639354
+        },
+        {
+            "source": "AUTO Connected Car News",
+            "date": "20260322T210920",
+            "title": "Connected Car News: Marelli, AWS, Toyota, Panasonic, FTC & Tesla",
+            "summary": "This article covers several key developments in the connected car industry, including Marelli and AWS collaborating on an AI-driven system for software-defined vehicle validation, and Toyota adopting Panasonic's new infotainment system for the 2026 RAV4 to support OTA updates. Additionally, the FTC has issued warnings to 97 auto groups regarding deceptive pricing and mandatory fees, while Tesla aims for an AI6 chip tape-out by December, pivoting to 2nm manufacturing for its future AI hardware.",
+            "text_to_analyze": "Connected Car News: Marelli, AWS, Toyota, Panasonic, FTC & Tesla. This article covers several key developments in the connected car industry, including Marelli and AWS collaborating on an AI-driven system for software-defined vehicle validation, and Toyota adopting Panasonic's new infotainment system for the 2026 RAV4 to support OTA updates. Additionally, the FTC has issued warnings to 97 auto groups regarding deceptive pricing and mandatory fees, while Tesla aims for an AI6 chip tape-out by December, pivoting to 2nm manufacturing for its future AI hardware.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.932747
+        },
+        {
+            "source": "The Motley Fool",
+            "date": "20260322T163719",
+            "title": "Is Lemonade a Buy After Morgan Stanley's Upgrade?",
+            "summary": "Morgan Stanley upgraded Lemonade from Equal Weight to Overweight and raised its price target from $80 to $85, primarily due to the insurance company's early move into autonomous vehicle insurance. Lemonade launched a \"first-of-its-kind product\" in January for Tesla's full self-driving system, offering reduced rates based on data-driven risk assessment. While the stock remains a speculative investment due to its unprofitability and volatility as a young business, its strategy of using granular data for self-driving car insurance offers significant upside potential.",
+            "text_to_analyze": "Is Lemonade a Buy After Morgan Stanley's Upgrade?. Morgan Stanley upgraded Lemonade from Equal Weight to Overweight and raised its price target from $80 to $85, primarily due to the insurance company's early move into autonomous vehicle insurance. Lemonade launched a \"first-of-its-kind product\" in January for Tesla's full self-driving system, offering reduced rates based on data-driven risk assessment. While the stock remains a speculative investment due to its unprofitability and volatility as a young business, its strategy of using granular data for self-driving car insurance offers significant upside potential.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.746815
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260322T122243",
+            "title": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas",
+            "summary": "Elon Musk announced plans to build his Terafab project in Austin, Texas, a facility intended to manufacture chips for robotics, AI, and space data centers. The project will be jointly run by Tesla and SpaceX, with a goal to support a terawatt of computing power annually. Musk also revealed plans for a \"mini\" AI data center satellite and reiterated his vision for an \"amazing abundance\" future, including lunar satellite launches, while SpaceX prepares for a record-setting IPO.",
+            "text_to_analyze": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas. Elon Musk announced plans to build his Terafab project in Austin, Texas, a facility intended to manufacture chips for robotics, AI, and space data centers. The project will be jointly run by Tesla and SpaceX, with a goal to support a terawatt of computing power annually. Musk also revealed plans for a \"mini\" AI data center satellite and reiterated his vision for an \"amazing abundance\" future, including lunar satellite launches, while SpaceX prepares for a record-setting IPO.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260322T021133",
+            "title": "Ford Tests New Revenue Paths With Ford Pro AI And V2H Pilot",
+            "summary": "Ford Motor has launched \"Ford Pro AI\" to enhance commercial fleet management with connected software and is participating in a vehicle-to-home (V2H) energy pilot using EVs like the F-150 Lightning for backup power. These initiatives explore new recurring digital services and energy-related revenue streams, moving Ford beyond traditional manufacturing. The company is strategically positioning itself in high-margin opportunities like commercial fleet management and energy services, areas also targeted by rivals like General Motors and Tesla.",
+            "text_to_analyze": "Ford Tests New Revenue Paths With Ford Pro AI And V2H Pilot. Ford Motor has launched \"Ford Pro AI\" to enhance commercial fleet management with connected software and is participating in a vehicle-to-home (V2H) energy pilot using EVs like the F-150 Lightning for backup power. These initiatives explore new recurring digital services and energy-related revenue streams, moving Ford beyond traditional manufacturing. The company is strategically positioning itself in high-margin opportunities like commercial fleet management and energy services, areas also targeted by rivals like General Motors and Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.635841
+        },
+        {
+            "source": "MSN",
+            "date": "20260321T210910",
+            "title": "YieldMax TSLA Option Income Strategy ETF declares $0.802 dividend",
+            "summary": "YieldMax TSLA Option Income Strategy ETF (NYSEARCA:TSLY) has declared a monthly dividend of $0.802 per share. Shareholders of record as of March 26, 2026, will receive this dividend, which is payable on March 28, 2026. The ex-dividend date is March 25, 2026.",
+            "text_to_analyze": "YieldMax TSLA Option Income Strategy ETF declares $0.802 dividend. YieldMax TSLA Option Income Strategy ETF (NYSEARCA:TSLY) has declared a monthly dividend of $0.802 per share. Shareholders of record as of March 26, 2026, will receive this dividend, which is payable on March 28, 2026. The ex-dividend date is March 25, 2026.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.804807
+        },
+        {
+            "source": "Sahm",
+            "date": "20260321T193849",
+            "title": "Robinhood's Sherwood News Asks Why Musk Hasn't Merged Tesla And SpaceX: Prediction Markets Give The Answer",
+            "summary": "Robinhood's Sherwood News suggests that Tesla and SpaceX are already functionally merged, citing Tesla's investment in xAI and xAI's subsequent absorption into SpaceX. While analysts like Chamath Palihapitiya and Dan Ives predict a full merger or increased collaboration, prediction markets are skeptical, giving only a 10% chance of a merger by June 30th and a 96% chance of a SpaceX IPO by 2028, largely due to Tesla's recent financial downturn. Ultimately, the decision holds significant implications for Elon Musk's control and wealth, potentially determining if he becomes the world's first trillionaire.",
+            "text_to_analyze": "Robinhood's Sherwood News Asks Why Musk Hasn't Merged Tesla And SpaceX: Prediction Markets Give The Answer. Robinhood's Sherwood News suggests that Tesla and SpaceX are already functionally merged, citing Tesla's investment in xAI and xAI's subsequent absorption into SpaceX. While analysts like Chamath Palihapitiya and Dan Ives predict a full merger or increased collaboration, prediction markets are skeptical, giving only a 10% chance of a merger by June 30th and a 96% chance of a SpaceX IPO by 2028, largely due to Tesla's recent financial downturn. Ultimately, the decision holds significant implications for Elon Musk's control and wealth, potentially determining if he becomes the world's first trillionaire.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260321T130840",
+            "title": "Tesla is building its own semiconductor facility. This could be its most 'Herculean task' ever. (TSLA:NASDAQ)",
+            "summary": "Tesla CEO Elon Musk announced that the company is building its own semiconductor facility to overcome artificial intelligence-induced bottlenecks at major foundries. This ambitious project, set to begin this weekend, aims to support Tesla's AI expansion, including Optimus robots and autonomous vehicles, and reduce supply chain risks. However, the endeavor faces significant challenges, including extremely high costs estimated between $35-45 billion and lengthy production lead times of 4-5 years or more.",
+            "text_to_analyze": "Tesla is building its own semiconductor facility. This could be its most 'Herculean task' ever. (TSLA:NASDAQ). Tesla CEO Elon Musk announced that the company is building its own semiconductor facility to overcome artificial intelligence-induced bottlenecks at major foundries. This ambitious project, set to begin this weekend, aims to support Tesla's AI expansion, including Optimus robots and autonomous vehicles, and reduce supply chain risks. However, the endeavor faces significant challenges, including extremely high costs estimated between $35-45 billion and lengthy production lead times of 4-5 years or more.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260321T120928",
+            "title": "Tesla's Robotaxi Ambition Faces A New Threat: A 50,000-Vehicle Alliance",
+            "summary": "Tesla's long-standing robotaxi ambition is being challenged by a new alliance between Rivian and Uber, which plans to deploy 50,000 R2 robotaxis across 25 cities in North America and Europe by 2031. This initiative shifts the focus from technological prowess to achieving scale and real-world deployment. The partnership represents a different approach compared to Tesla's vertically integrated system, emphasizing an ecosystem model that combines vehicles, a platform, and a network to rapidly commercialize autonomous driving.",
+            "text_to_analyze": "Tesla's Robotaxi Ambition Faces A New Threat: A 50,000-Vehicle Alliance. Tesla's long-standing robotaxi ambition is being challenged by a new alliance between Rivian and Uber, which plans to deploy 50,000 R2 robotaxis across 25 cities in North America and Europe by 2031. This initiative shifts the focus from technological prowess to achieving scale and real-world deployment. The partnership represents a different approach compared to Tesla's vertically integrated system, emphasizing an ecosystem model that combines vehicles, a platform, and a network to rapidly commercialize autonomous driving.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.909424
+        },
+        {
+            "source": "Cars.com",
+            "date": "20260321T103950",
+            "title": "What’s the Tesla Model 3’s Range?",
+            "summary": "The 2026 Tesla Model 3 boasts a range of over 300 miles across all trims, with the Premium Rear-Wheel Drive version offering the longest range at 363 miles. This article details the range specifications for various Model 3 trims and compares its maximum range against key competitors like the Mercedes-Benz CLA250+, Hyundai Ioniq 6, BMW i4 Gran Coupe, and Polestar 4, highlighting its competitive standing in the EV market due to its compact size and attainable price.",
+            "text_to_analyze": "What’s the Tesla Model 3’s Range?. The 2026 Tesla Model 3 boasts a range of over 300 miles across all trims, with the Premium Rear-Wheel Drive version offering the longest range at 363 miles. This article details the range specifications for various Model 3 trims and compares its maximum range against key competitors like the Mercedes-Benz CLA250+, Hyundai Ioniq 6, BMW i4 Gran Coupe, and Polestar 4, highlighting its competitive standing in the EV market due to its compact size and attainable price.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Defense World",
+            "date": "20260321T064005",
+            "title": "GraniteShares 1.25X Long TSLA Daily ETF (NASDAQ:TSL) Shares Down 4.1% – Should You Sell?",
+            "summary": "GraniteShares 1.25X Long TSLA Daily ETF (NASDAQ:TSL) experienced a 4.1% drop in its stock price during Friday's trading session, with trading volume significantly increasing. The ETF, which offers 1.25x leveraged exposure to Tesla stock's daily price movement, saw a notable increase in holdings by Susquehanna International Group LLP in the third quarter. Despite the recent dip, the article provides key financial metrics including market capitalization, PE ratio, and moving averages, and details institutional investment activity.",
+            "text_to_analyze": "GraniteShares 1.25X Long TSLA Daily ETF (NASDAQ:TSL) Shares Down 4.1% – Should You Sell?. GraniteShares 1.25X Long TSLA Daily ETF (NASDAQ:TSL) experienced a 4.1% drop in its stock price during Friday's trading session, with trading volume significantly increasing. The ETF, which offers 1.25x leveraged exposure to Tesla stock's daily price movement, saw a notable increase in holdings by Susquehanna International Group LLP in the third quarter. Despite the recent dip, the article provides key financial metrics including market capitalization, PE ratio, and moving averages, and details institutional investment activity.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.635369
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260321T030923",
+            "title": "Barclays $4.22M AutoCallable Notes (ATMP) linked to MSFT, NVDA, TSLA",
+            "summary": "Barclays Bank PLC is offering $4.22 million in AutoCallable Contingent Coupon Notes due March 22, 2029, linked to the performance of Microsoft (MSFT), NVIDIA (NVDA), and Tesla (TSLA). These notes offer contingent coupons of $41.00 per $1,000 (16.40% per annum equivalent) if all underlying stocks meet their coupon barrier values, and are callable if each stock's closing value reaches its call value. Investors face potential principal loss up to 100% if the least performing asset falls below its barrier value, and returns are subject to Barclays' credit risk and potential U.K. Bail-in Power.",
+            "text_to_analyze": "Barclays $4.22M AutoCallable Notes (ATMP) linked to MSFT, NVDA, TSLA. Barclays Bank PLC is offering $4.22 million in AutoCallable Contingent Coupon Notes due March 22, 2029, linked to the performance of Microsoft (MSFT), NVIDIA (NVDA), and Tesla (TSLA). These notes offer contingent coupons of $41.00 per $1,000 (16.40% per annum equivalent) if all underlying stocks meet their coupon barrier values, and are callable if each stock's closing value reaches its call value. Investors face potential principal loss up to 100% if the least performing asset falls below its barrier value, and returns are subject to Barclays' credit risk and potential U.K. Bail-in Power.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.853565
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260320T231049",
+            "title": "Why Lemonade Stock Soared by 16% This Week",
+            "summary": "Lemonade's stock surged over 16% this week, driven by an analyst upgrade from Morgan Stanley's Bob Huang, who changed his recommendation to \"overweight\" with an increased price target. This positive sentiment is largely due to Lemonade's integration with Tesla, offering discounts for using the full self-driving feature, positioning the insurer as a first mover in the autonomous vehicle insurance market. Further bolstering this outlook was a recent large-scale partnership announcement between Rivian and Uber for self-driving robotaxis, highlighting the accelerating momentum in autonomous technology.",
+            "text_to_analyze": "Why Lemonade Stock Soared by 16% This Week. Lemonade's stock surged over 16% this week, driven by an analyst upgrade from Morgan Stanley's Bob Huang, who changed his recommendation to \"overweight\" with an increased price target. This positive sentiment is largely due to Lemonade's integration with Tesla, offering discounts for using the full self-driving feature, positioning the insurer as a first mover in the autonomous vehicle insurance market. Further bolstering this outlook was a recent large-scale partnership announcement between Rivian and Uber for self-driving robotaxis, highlighting the accelerating momentum in autonomous technology.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.629379
+        },
+        {
+            "source": "Cars.com",
+            "date": "20260320T203848",
+            "title": "Dodge, Jeep, Ram, Fiat EVs Now Have Tesla Supercharger Access",
+            "summary": "Stellantis EVs, including Dodge, Jeep, Ram, and Fiat models, can now access Tesla's extensive Supercharger network in the U.S. This significantly expands DC fast-charging opportunities for these vehicles, although most will initially require an adapter available for purchase. The 2027 Dodge Charger Daytona will be the first Stellantis EV to feature a native North American Charging Standard (NACS) port, eliminating the need for an adapter.",
+            "text_to_analyze": "Dodge, Jeep, Ram, Fiat EVs Now Have Tesla Supercharger Access. Stellantis EVs, including Dodge, Jeep, Ram, and Fiat models, can now access Tesla's extensive Supercharger network in the U.S. This significantly expands DC fast-charging opportunities for these vehicles, although most will initially require an adapter available for purchase. The 2027 Dodge Charger Daytona will be the first Stellantis EV to feature a native North American Charging Standard (NACS) port, eliminating the need for an adapter.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.808932
+        },
+        {
+            "source": "Bitget",
+            "date": "20260320T192700",
+            "title": "Karman Holdings Drops More Than 5%: Should Investors See This as a Chance to Buy or a Red Flag?",
+            "summary": "Karman Holdings (KRMN) experienced a significant 5.25% drop amidst broader sector turbulence and valuation concerns, highlighted by a dynamic P/E ratio of 1034. The automotive sector is facing stress due to interest rates, rising borrowing costs, and geopolitical tensions, impacting companies like Tesla and various ETFs. Despite the downturn, historical data suggests KRMN often rebounds after sharp declines, presenting both risks and potential short-term opportunities for traders.",
+            "text_to_analyze": "Karman Holdings Drops More Than 5%: Should Investors See This as a Chance to Buy or a Red Flag?. Karman Holdings (KRMN) experienced a significant 5.25% drop amidst broader sector turbulence and valuation concerns, highlighted by a dynamic P/E ratio of 1034. The automotive sector is facing stress due to interest rates, rising borrowing costs, and geopolitical tensions, impacting companies like Tesla and various ETFs. Despite the downturn, historical data suggests KRMN often rebounds after sharp declines, presenting both risks and potential short-term opportunities for traders.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.648066
+        },
+        {
+            "source": "Intellectia AI",
+            "date": "20260320T183915",
+            "title": "AI Investing Insights - Official Homepage - Intellectia AI™",
+            "summary": "This page from Intellectia AI provides news and events related to the stock HAIL. It lists several news articles from NASDAQ.COM and Benzinga, predominantly focusing on the electric vehicle (EV) sector, including companies like Tesla, Joby, Vertical Aerospace, BYD, Polestar, and Hesai Group. The stock information section for HAIL shows current pricing at $0.000 for both closing and after-market.",
+            "text_to_analyze": "AI Investing Insights - Official Homepage - Intellectia AI™. This page from Intellectia AI provides news and events related to the stock HAIL. It lists several news articles from NASDAQ.COM and Benzinga, predominantly focusing on the electric vehicle (EV) sector, including companies like Tesla, Joby, Vertical Aerospace, BYD, Polestar, and Hesai Group. The stock information section for HAIL shows current pricing at $0.000 for both closing and after-market.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.801675
+        }
+    ]
+}

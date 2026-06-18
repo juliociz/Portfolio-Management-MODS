@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-11",
+    "window_start": "2026-03-10 16:00",
+    "window_end": "2026-03-11 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260310T165040",
+            "title": "What's Going On With Nike Stock Today?",
+            "summary": "Nike Inc. stock gained in premarket trading on Tuesday following news of a new $1 billion credit line and a $300 million restructuring plan. Analysts maintain a \"Buy\" rating with an average price target of $79.70 ahead of its Mar. 31 earnings report, where EPS is estimated at 30 cents and revenue at $11.25 billion.",
+            "text_to_analyze": "What's Going On With Nike Stock Today?. Nike Inc. stock gained in premarket trading on Tuesday following news of a new $1 billion credit line and a $300 million restructuring plan. Analysts maintain a \"Buy\" rating with an average price target of $79.70 ahead of its Mar. 31 earnings report, where EPS is estimated at 30 cents and revenue at $11.25 billion.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

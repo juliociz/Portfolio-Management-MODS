@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-05",
+    "window_start": "2026-03-04 16:00",
+    "window_end": "2026-03-05 09:27",
+    "articles": [
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260304T195003",
+            "title": "Disney Animation’s ‘Songs in Sign Language’ to Debut April 27 on Disney+",
+            "summary": "Disney+ will debut \"Songs in Sign Language\" on April 27 in celebration of National Deaf History Month, featuring three animated musical sequences from Walt Disney Animation Studios films reimagined in American Sign Language (ASL). Directed by Hyrum Osmond, the project involved a collaboration with Deaf West Theatre to choreograph and animate the songs, aiming to connect with the Deaf community and break down communication barriers. The featured songs include \"The Next Right Thing\" from Frozen 2, \"We Don’t Talk About Bruno\" from Encanto, and \"Beyond\" from Moana 2.",
+            "text_to_analyze": "Disney Animation’s ‘Songs in Sign Language’ to Debut April 27 on Disney+. Disney+ will debut \"Songs in Sign Language\" on April 27 in celebration of National Deaf History Month, featuring three animated musical sequences from Walt Disney Animation Studios films reimagined in American Sign Language (ASL). Directed by Hyrum Osmond, the project involved a collaboration with Deaf West Theatre to choreograph and animate the songs, aiming to connect with the Deaf community and break down communication barriers. The featured songs include \"The Next Right Thing\" from Frozen 2, \"We Don’t Talk About Bruno\" from Encanto, and \"Beyond\" from Moana 2.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Inside the Magic",
+            "date": "20260304T194404",
+            "title": "The Walt Disney Company Secures up to $10 Billion in Loans Ahead of New CEO Takeover",
+            "summary": "The Walt Disney Company has secured two new credit lines totaling almost $10 billion, weeks before Josh D’Amaro takes over as CEO. These unsecured credit agreements, a $5.25 billion short-term line and a $4 billion long-term line, replace expiring ones and are intended for general operating costs. Notably, these funds cannot be used for FuboTV or specific international theme parks like Shanghai and Hong Kong Disneyland.",
+            "text_to_analyze": "The Walt Disney Company Secures up to $10 Billion in Loans Ahead of New CEO Takeover. The Walt Disney Company has secured two new credit lines totaling almost $10 billion, weeks before Josh D’Amaro takes over as CEO. These unsecured credit agreements, a $5.25 billion short-term line and a $4 billion long-term line, replace expiring ones and are intended for general operating costs. Notably, these funds cannot be used for FuboTV or specific international theme parks like Shanghai and Hong Kong Disneyland.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.985752
+        }
+    ]
+}

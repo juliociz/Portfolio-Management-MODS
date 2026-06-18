@@ -1,0 +1,81 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-23",
+    "window_start": "2026-03-20 16:00",
+    "window_end": "2026-03-23 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260322T105513",
+            "title": "NorthCrest Asset Manangement LLC Reduces Stock Position in Starbucks Corporation $SBUX",
+            "summary": "NorthCrest Asset Management LLC reduced its stake in Starbucks Corporation by 15.5% in the fourth quarter, selling 20,595 shares. Despite this, other institutional investors like Vanguard Group Inc. and Capital Research Global Investors increased their positions. The company has a \"Moderate Buy\" consensus rating from analysts, a $103.81 price target, but recently missed quarterly EPS estimates and faces mixed sentiment regarding its growth strategies and stock performance.",
+            "text_to_analyze": "NorthCrest Asset Manangement LLC Reduces Stock Position in Starbucks Corporation $SBUX. NorthCrest Asset Management LLC reduced its stake in Starbucks Corporation by 15.5% in the fourth quarter, selling 20,595 shares. Despite this, other institutional investors like Vanguard Group Inc. and Capital Research Global Investors increased their positions. The company has a \"Moderate Buy\" consensus rating from analysts, a $103.81 price target, but recently missed quarterly EPS estimates and faces mixed sentiment regarding its growth strategies and stock performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Markets Mojo",
+            "date": "20260321T190850",
+            "title": "Starbucks Corp. Experiences Revision in Stock Evaluation Amid Market Dynamics",
+            "summary": "Starbucks Corp. has revised its stock evaluation due to evolving market conditions, with the stock currently priced at $95.83. While it has outperformed the S&P 500 year-to-date with a 13.80% return, its longer-term performance over three and five years has lagged behind the index. Technical indicators present a mixed outlook, with bullish signs in weekly MACD and Bollinger Bands, but a bearish monthly outlook from the KST and Dow Theory.",
+            "text_to_analyze": "Starbucks Corp. Experiences Revision in Stock Evaluation Amid Market Dynamics. Starbucks Corp. has revised its stock evaluation due to evolving market conditions, with the stock currently priced at $95.83. While it has outperformed the S&P 500 year-to-date with a 13.80% return, its longer-term performance over three and five years has lagged behind the index. Technical indicators present a mixed outlook, with bullish signs in weekly MACD and Bollinger Bands, but a bearish monthly outlook from the KST and Dow Theory.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.932693
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260321T094645",
+            "title": "Starbucks Corporation $SBUX Shares Sold by IFP Advisors Inc",
+            "summary": "IFP Advisors Inc significantly reduced its stake in Starbucks by 36.3% in Q3, selling over 16,000 shares. Additionally, insider selling accelerated with Executive Vice President Sara Kelly and CEO Brady Brewer selling shares, leading to insiders owning only 0.03% of the company. Despite mixed financial performance including an EPS miss but a revenue beat, Starbucks faces downward pressure on its stock, which is down approximately 3.4% and has a high P/E ratio.",
+            "text_to_analyze": "Starbucks Corporation $SBUX Shares Sold by IFP Advisors Inc. IFP Advisors Inc significantly reduced its stake in Starbucks by 36.3% in Q3, selling over 16,000 shares. Additionally, insider selling accelerated with Executive Vice President Sara Kelly and CEO Brady Brewer selling shares, leading to insiders owning only 0.03% of the company. Despite mixed financial performance including an EPS miss but a revenue beat, Starbucks faces downward pressure on its stock, which is down approximately 3.4% and has a high P/E ratio.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "StocksToTrade",
+            "date": "20260320T213811",
+            "title": "Starbucks Faces Downgrades Amid Sector Challenges and Contract Negotiations",
+            "summary": "Starbucks is facing challenges, including downgrades from Wolfe Research and RBC Capital, due to competitive market conditions, labor investments, and high valuation multiples. The company's financial health shows strong revenue growth but concerns about profitability, high PE ratios, and significant debt. Technical analysis points to a bearish trend, with the company needing to demonstrate improved margins to regain investor confidence amidst ongoing union negotiations.",
+            "text_to_analyze": "Starbucks Faces Downgrades Amid Sector Challenges and Contract Negotiations. Starbucks is facing challenges, including downgrades from Wolfe Research and RBC Capital, due to competitive market conditions, labor investments, and high valuation multiples. The company's financial health shows strong revenue growth but concerns about profitability, high PE ratios, and significant debt. Technical analysis points to a bearish trend, with the company needing to demonstrate improved margins to regain investor confidence amidst ongoing union negotiations.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260320T210812",
+            "title": "Starbucks Corp. stock underperforms Friday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) stock fell 3.42% on Friday, closing at $92.55, amidst a broad market decline where the S&P 500 and Dow Jones also dropped. The stock underperformed its competitors and closed 11.71% below its 52-week high.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Friday when compared to competitors. Starbucks Corp. (SBUX) stock fell 3.42% on Friday, closing at $92.55, amidst a broad market decline where the S&P 500 and Dow Jones also dropped. The stock underperformed its competitors and closed 11.71% below its 52-week high.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260320T202421",
+            "title": "Trillium urges votes against two Starbucks directors (SBUX) ahead of annual meeting",
+            "summary": "Trillium Asset Management and co-filers are urging Starbucks shareholders to vote against directors Jørgen Vig Knudstorp and Beth Ford at the upcoming March 25, 2026, annual meeting. The investment group alleges sustained oversight failures concerning labor relations and governance decisions, specifically citing the dissolution of the \"Environmental, Partner Community and Impact Committee\" (EPCI) and the recombination of the CEO and Chair roles. Despite Starbucks' recent announcement to resume bargaining with Starbucks Workers United, Trillium believes board oversight remains insufficient, warranting shareholder action against the two directors.",
+            "text_to_analyze": "Trillium urges votes against two Starbucks directors (SBUX) ahead of annual meeting. Trillium Asset Management and co-filers are urging Starbucks shareholders to vote against directors Jørgen Vig Knudstorp and Beth Ford at the upcoming March 25, 2026, annual meeting. The investment group alleges sustained oversight failures concerning labor relations and governance decisions, specifically citing the dissolution of the \"Environmental, Partner Community and Impact Committee\" (EPCI) and the recombination of the CEO and Chair roles. Despite Starbucks' recent announcement to resume bargaining with Starbucks Workers United, Trillium believes board oversight remains insufficient, warranting shareholder action against the two directors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260320T183821",
+            "title": "Starbucks Corp Stock (SBUX) Moved Down by 3.01% on Mar 20: What Investors Need To Know",
+            "summary": "Starbucks stock (SBUX) declined by 3.01% on March 20 due to an RBC Capital downgrade from \"Outperform\" to \"Sector Perform.\" The downgrade was driven by concerns over increased labor investments significantly impacting profit margins and the company's high valuation. Additionally, ongoing labor disputes, corporate governance issues, and a cautious consumer spending environment are contributing to investor apprehension.",
+            "text_to_analyze": "Starbucks Corp Stock (SBUX) Moved Down by 3.01% on Mar 20: What Investors Need To Know. Starbucks stock (SBUX) declined by 3.01% on March 20 due to an RBC Capital downgrade from \"Outperform\" to \"Sector Perform.\" The downgrade was driven by concerns over increased labor investments significantly impacting profit margins and the company's high valuation. Additionally, ongoing labor disputes, corporate governance issues, and a cautious consumer spending environment are contributing to investor apprehension.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.305209
+        },
+        {
+            "source": "Traders Union",
+            "date": "20260320T182926",
+            "title": "Technicals and volatility drive decline: Starbucks stock falls 3.04%",
+            "summary": "Starbucks (SBUX) stock fell 3.04% to $92.92, trading below its MA-20 and MA-50, signaling short- and medium-term selling pressure driven by technical factors and market volatility. Despite this, the stock remains supported above its MA-200 and posted positive global comparable store sales growth in Q1 FY26. Institutional investor activity was mixed, with some increasing holdings while others reduced exposure amidst labor negotiations and a data breach.",
+            "text_to_analyze": "Technicals and volatility drive decline: Starbucks stock falls 3.04%. Starbucks (SBUX) stock fell 3.04% to $92.92, trading below its MA-20 and MA-50, signaling short- and medium-term selling pressure driven by technical factors and market volatility. Despite this, the stock remains supported above its MA-200 and posted positive global comparable store sales growth in Q1 FY26. Institutional investor activity was mixed, with some increasing holdings while others reduced exposure amidst labor negotiations and a data breach.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

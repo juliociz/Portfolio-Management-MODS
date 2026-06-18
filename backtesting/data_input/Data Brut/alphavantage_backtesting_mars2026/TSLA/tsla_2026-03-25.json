@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-25",
+    "window_start": "2026-03-24 16:00",
+    "window_end": "2026-03-25 09:27",
+    "articles": [
+        {
+            "source": "TradingKey",
+            "date": "20260325T065300",
+            "title": "Should You Buy Upcoming SpaceX Now or Tesla After a 20% Pullback?",
+            "summary": "This article analyzes whether investors should buy into the upcoming SpaceX IPO or invest further in Tesla after its recent stock decline. SpaceX is preparing for a highly anticipated IPO potentially raising over $75 billion, but its high valuation and capital-intensive nature suggest indirect investment might be safer for retail investors. Tesla, despite a 20% pullback and sales challenges, still holds a high valuation based on future ventures like FSD and robotics, which face significant uncertainties.",
+            "text_to_analyze": "Should You Buy Upcoming SpaceX Now or Tesla After a 20% Pullback?. This article analyzes whether investors should buy into the upcoming SpaceX IPO or invest further in Tesla after its recent stock decline. SpaceX is preparing for a highly anticipated IPO potentially raising over $75 billion, but its high valuation and capital-intensive nature suggest indirect investment might be safer for retail investors. Tesla, despite a 20% pullback and sales challenges, still holds a high valuation based on future ventures like FSD and robotics, which face significant uncertainties.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260325T022835",
+            "title": "SpaceX IPO prospectus almost here? Gary Black warns it could steal Tesla's investors",
+            "summary": "Analyst Gary Black suggests that if SpaceX were to release an IPO prospectus, it could potentially draw investor interest away from Tesla, as many retail investors are already heavily invested in Elon Musk's companies. Black also notes that SpaceX might be more palatable to institutional investors who have avoided Tesla due to its CEO. Additionally, he highlights the potential for SpaceX CEO Gwynne Shotwell to gain significant recognition, similar to her increased visibility at a recent satellite conference.",
+            "text_to_analyze": "SpaceX IPO prospectus almost here? Gary Black warns it could steal Tesla's investors. Analyst Gary Black suggests that if SpaceX were to release an IPO prospectus, it could potentially draw investor interest away from Tesla, as many retail investors are already heavily invested in Elon Musk's companies. Black also notes that SpaceX might be more palatable to institutional investors who have avoided Tesla due to its CEO. Additionally, he highlights the potential for SpaceX CEO Gwynne Shotwell to gain significant recognition, similar to her increased visibility at a recent satellite conference.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.944915
+        },
+        {
+            "source": "Timothy Sykes",
+            "date": "20260325T013908",
+            "title": "Stellantis Expands Charging Infrastructure with Tesla Superchargers",
+            "summary": "Stellantis has announced strategic moves to expand its charging infrastructure by integrating with Tesla's Supercharger network, making over 27,500 stalls available to North American users. The company is also actively pursuing partnerships in the Chinese market, negotiating with Zhejiang Leapmotor and exploring collaborations with Xiaomi and Xpeng to enhance its EV technology and market foothold. Despite potential market pressures impacting profitability, Stellantis's focus on alliances and technological adoption aims to solidify its global position and appeal in the electric vehicle segment.",
+            "text_to_analyze": "Stellantis Expands Charging Infrastructure with Tesla Superchargers. Stellantis has announced strategic moves to expand its charging infrastructure by integrating with Tesla's Supercharger network, making over 27,500 stalls available to North American users. The company is also actively pursuing partnerships in the Chinese market, negotiating with Zhejiang Leapmotor and exploring collaborations with Xiaomi and Xpeng to enhance its EV technology and market foothold. Despite potential market pressures impacting profitability, Stellantis's focus on alliances and technological adoption aims to solidify its global position and appeal in the electric vehicle segment.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.705308
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260325T000937",
+            "title": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Short Interest Down 92.3% in March",
+            "summary": "Short interest in Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) plummeted by 92.3% in March, totaling 78,106 shares. This drastic reduction means that only 5.6% of the company's float is sold short, resulting in a short-interest ratio of 0.0 days. The fund also declared a quarterly dividend of $0.338 per share, which will be paid on March 31st with an ex-dividend date of March 24th.",
+            "text_to_analyze": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Short Interest Down 92.3% in March. Short interest in Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) plummeted by 92.3% in March, totaling 78,106 shares. This drastic reduction means that only 5.6% of the company's float is sold short, resulting in a short-interest ratio of 0.0 days. The fund also declared a quarterly dividend of $0.338 per share, which will be paid on March 31st with an ex-dividend date of March 24th.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.644558
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260324T220937",
+            "title": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Announces $0.34 Quarterly Dividend",
+            "summary": "Direxion Daily TSLA Bear 1X Shares (TSLS) has declared a quarterly dividend of $0.338 per share, payable on March 31st to shareholders of record on March 24th, with an ex-dividend date of March 24th. This represents an annualized yield of approximately 2.3%. The ETF provides inverse (-1x) exposure to Tesla's daily price movements and has seen recent institutional investor activity with some firms increasing their positions.",
+            "text_to_analyze": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Announces $0.34 Quarterly Dividend. Direxion Daily TSLA Bear 1X Shares (TSLS) has declared a quarterly dividend of $0.338 per share, payable on March 31st to shareholders of record on March 24th, with an ex-dividend date of March 24th. This represents an annualized yield of approximately 2.3%. The ETF provides inverse (-1x) exposure to Tesla's daily price movements and has seen recent institutional investor activity with some firms increasing their positions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.646138
+        },
+        {
+            "source": "Bloomberg Law News",
+            "date": "20260324T200200",
+            "title": "Tesla Sued by Newly Formed West Texas Charging Patent Company",
+            "summary": "Tesla Inc. is being sued by ChargeLogic LLC, a newly formed West Texas company, for alleged infringement of six smart-charging patents. ChargeLogic claims Tesla copied its patented technology through the sale of its electric vehicles and associated charging equipment. The lawsuit was filed in the US District Court for the Western District of Texas.",
+            "text_to_analyze": "Tesla Sued by Newly Formed West Texas Charging Patent Company. Tesla Inc. is being sued by ChargeLogic LLC, a newly formed West Texas company, for alleged infringement of six smart-charging patents. ChargeLogic claims Tesla copied its patented technology through the sale of its electric vehicles and associated charging equipment. The lawsuit was filed in the US District Court for the Western District of Texas.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260324T180124",
+            "title": "Tesla files site plan for 'ecological paradise' beside Austin gigafactory",
+            "summary": "Tesla has filed a site plan for a park touted as an \"ecological paradise\" adjacent to its Austin gigafactory, an idea Elon Musk first proposed five years ago. Locals are expected to have access to the riverfront park. The announcement comes amidst public skepticism surrounding the project.",
+            "text_to_analyze": "Tesla files site plan for 'ecological paradise' beside Austin gigafactory. Tesla has filed a site plan for a park touted as an \"ecological paradise\" adjacent to its Austin gigafactory, an idea Elon Musk first proposed five years ago. Locals are expected to have access to the riverfront park. The announcement comes amidst public skepticism surrounding the project.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Defense World",
+            "date": "20260324T160937",
+            "title": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Shares Down 3.5% – Time to Sell?",
+            "summary": "Shares of Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) fell 3.5% on Monday, trading at $59.36 after opening as low as $58.60. Trading volume was significantly lower than average. Institutional investors have recently adjusted their holdings in TSLS, with some increasing and others initiating new positions.",
+            "text_to_analyze": "Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) Shares Down 3.5% – Time to Sell?. Shares of Direxion Daily TSLA Bear 1X Shares (NASDAQ:TSLS) fell 3.5% on Monday, trading at $59.36 after opening as low as $58.60. Trading volume was significantly lower than average. Institutional investors have recently adjusted their holdings in TSLS, with some increasing and others initiating new positions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.870856
+        }
+    ]
+}

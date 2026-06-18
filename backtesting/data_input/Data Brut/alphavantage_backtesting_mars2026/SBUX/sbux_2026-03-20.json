@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-20",
+    "window_start": "2026-03-19 16:00",
+    "window_end": "2026-03-20 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260319T224937",
+            "title": "Starbucks (SBUX) COO records RSU-related tax withholding transaction",
+            "summary": "Starbucks COO Michael David Grams reported a routine tax-related share disposition. On March 17, 2026, 988.989 shares of Common Stock were withheld by Starbucks to cover tax obligations from vesting restricted stock units at $97.57 per share, an action that was not an open market transaction. After this withholding, Grams directly owns 28,149.011 shares of Starbucks common stock.",
+            "text_to_analyze": "Starbucks (SBUX) COO records RSU-related tax withholding transaction. Starbucks COO Michael David Grams reported a routine tax-related share disposition. On March 17, 2026, 988.989 shares of Common Stock were withheld by Starbucks to cover tax obligations from vesting restricted stock units at $97.57 per share, an action that was not an open market transaction. After this withholding, Grams directly owns 28,149.011 shares of Starbucks common stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.309114
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260319T201517",
+            "title": "Starbucks Corp Stock (SBUX) Closed Up by 3.55% on Mar 19: What Signal Does It Send?",
+            "summary": "Starbucks Corp (SBUX) stock closed up 3.55% on March 19, driven by positive Q1 FY26 comparable store sales growth, increased institutional investment, and successful new product launches. The company's \"Back to Starbucks\" plan and strategic growth announcements have positively shifted investor sentiment, outweighing concerns like a data breach and an analyst downgrade. Technical indicators show neutral to oversold conditions, while fundamental analysis highlights its industry position despite valuation risks.",
+            "text_to_analyze": "Starbucks Corp Stock (SBUX) Closed Up by 3.55% on Mar 19: What Signal Does It Send?. Starbucks Corp (SBUX) stock closed up 3.55% on March 19, driven by positive Q1 FY26 comparable store sales growth, increased institutional investment, and successful new product launches. The company's \"Back to Starbucks\" plan and strategic growth announcements have positively shifted investor sentiment, outweighing concerns like a data breach and an analyst downgrade. Technical indicators show neutral to oversold conditions, while fundamental analysis highlights its industry position despite valuation risks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.347044
+        },
+        {
+            "source": "Bitget",
+            "date": "20260319T193927",
+            "title": "Starbucks (SBUX) Surges 3.4% in Pre-Market: What's Fueling the Rally?",
+            "summary": "Starbucks (SBUX) surged 3.4% in pre-market trading, driven by significant options activity and leveraged ETF movements rather than fundamental news. The stock, currently in an oversold position with a short-term bearish pattern, is approaching key resistance levels like its 30-day moving average. Traders are leveraging high-gamma and high-theta options to bet on a potential short-term reversal, while the broader retail sector shows mixed performance.",
+            "text_to_analyze": "Starbucks (SBUX) Surges 3.4% in Pre-Market: What's Fueling the Rally?. Starbucks (SBUX) surged 3.4% in pre-market trading, driven by significant options activity and leveraged ETF movements rather than fundamental news. The stock, currently in an oversold position with a short-term bearish pattern, is approaching key resistance levels like its 30-day moving average. Traders are leveraging high-gamma and high-theta options to bet on a potential short-term reversal, while the broader retail sector shows mixed performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.974434
+        },
+        {
+            "source": "Traders Union",
+            "date": "20260319T191124",
+            "title": "Labor cost concerns, technicals mixed: Starbucks stock gains 3.60%",
+            "summary": "Starbucks stock gained 3.60% to $96.00 today despite mixed technical signals and concerns over increased labor costs impacting future margins. Institutional investors increased their positions in the third quarter, signaling confidence in the company's long-term outlook. Analysts suggest a sideways consolidation for the stock, with key levels to watch at $98.00 for upside and $93.00 for downside.",
+            "text_to_analyze": "Labor cost concerns, technicals mixed: Starbucks stock gains 3.60%. Starbucks stock gained 3.60% to $96.00 today despite mixed technical signals and concerns over increased labor costs impacting future margins. Institutional investors increased their positions in the third quarter, signaling confidence in the company's long-term outlook. Analysts suggest a sideways consolidation for the stock, with key levels to watch at $98.00 for upside and $93.00 for downside.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.340812
+        }
+    ]
+}
