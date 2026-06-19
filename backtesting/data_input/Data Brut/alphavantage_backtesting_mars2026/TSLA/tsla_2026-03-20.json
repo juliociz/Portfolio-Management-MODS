@@ -1,0 +1,90 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-20",
+    "window_start": "2026-03-19 16:00",
+    "window_end": "2026-03-20 09:27",
+    "articles": [
+        {
+            "source": "Seeking Alpha",
+            "date": "20260320T053832",
+            "title": "Tesla explores $2.9B solar equipment deal with Chinese firms - reports (TSLA:NASDAQ)",
+            "summary": "Tesla (TSLA) is reportedly looking into a $2.9 billion deal to purchase solar production equipment from Chinese suppliers, including Suzhou Maxwell Technologies, S.C. New Energy Tech, and Laplace Renewable. This potential move highlights Tesla's continued expansion into solar energy, possibly to support its existing solar panel installations or future energy storage projects. The exploration of this deal suggests a significant investment in scaling up Tesla's solar energy capabilities.",
+            "text_to_analyze": "Tesla explores $2.9B solar equipment deal with Chinese firms - reports (TSLA:NASDAQ). Tesla (TSLA) is reportedly looking into a $2.9 billion deal to purchase solar production equipment from Chinese suppliers, including Suzhou Maxwell Technologies, S.C. New Energy Tech, and Laplace Renewable. This potential move highlights Tesla's continued expansion into solar energy, possibly to support its existing solar panel installations or future energy storage projects. The exploration of this deal suggests a significant investment in scaling up Tesla's solar energy capabilities.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Charged EVs",
+            "date": "20260320T050931",
+            "title": "How the biggest US EV charging networks got their starts",
+            "summary": "This article examines the origins of the seven largest US EV charging networks, which collectively operate over 1,000 charging locations. The networks—ChargePoint, Blink Charging, Electrify America, EVgo, EV Connect, Shell Recharge, and Tesla—developed through diverse paths including federal grants, corporate settlements, acquisitions, and OEM vertical integration. The author details how each network came to be and the unique factors that contributed to their survival and growth in a challenging market.",
+            "text_to_analyze": "How the biggest US EV charging networks got their starts. This article examines the origins of the seven largest US EV charging networks, which collectively operate over 1,000 charging locations. The networks—ChargePoint, Blink Charging, Electrify America, EVgo, EV Connect, Shell Recharge, and Tesla—developed through diverse paths including federal grants, corporate settlements, acquisitions, and OEM vertical integration. The author details how each network came to be and the unique factors that contributed to their survival and growth in a challenging market.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.824765
+        },
+        {
+            "source": "Barron's",
+            "date": "20260320T045938",
+            "title": "What to Know About Tesla’s Terafab Project and the Company’s AI Future",
+            "summary": "Tesla is reportedly close to revealing a major semiconductor initiative, referred to as the \"Terafab project,\" as announced by CEO Elon Musk. This initiative is part of Tesla's broader \"physical AI\" ambitions, which include developing millions of robo-taxis and humanoid robots named Optimus. The project is expected to launch soon, further integrating AI into the company's future endeavors.",
+            "text_to_analyze": "What to Know About Tesla’s Terafab Project and the Company’s AI Future. Tesla is reportedly close to revealing a major semiconductor initiative, referred to as the \"Terafab project,\" as announced by CEO Elon Musk. This initiative is part of Tesla's broader \"physical AI\" ambitions, which include developing millions of robo-taxis and humanoid robots named Optimus. The project is expected to launch soon, further integrating AI into the company's future endeavors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CNBC",
+            "date": "20260320T024025",
+            "title": "Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say",
+            "summary": "Tesla is reportedly in discussions with Chinese suppliers, including Suzhou Maxwell Technologies, to purchase $2.9 billion worth of equipment for manufacturing solar panels and cells. This move supports CEO Elon Musk's goal to add 100 gigawatts of solar capacity in the United States by 2028. The potential deal highlights the U.S.'s continued reliance on Chinese trade for manufacturing, even as it aims to bolster domestic production.",
+            "text_to_analyze": "Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say. Tesla is reportedly in discussions with Chinese suppliers, including Suzhou Maxwell Technologies, to purchase $2.9 billion worth of equipment for manufacturing solar panels and cells. This move supports CEO Elon Musk's goal to add 100 gigawatts of solar capacity in the United States by 2028. The potential deal highlights the U.S.'s continued reliance on Chinese trade for manufacturing, even as it aims to bolster domestic production.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing News Network",
+            "date": "20260319T234016",
+            "title": "Stellantis Expands North America Fast-charging Access as Dodge, Jeep®, Ram, FIAT and Maserati BEVs Plug In to the Tesla Supercharger Network",
+            "summary": "Stellantis has announced expanded fast-charging access for its battery-electric vehicles (BEVs) in North America, allowing Dodge, Jeep, Ram, FIAT, and Maserati BEV owners to use over 27,500 Tesla Supercharger locations. This access is enabled via a Free2move Charge NACS-CCS1 DC adapter or Tesla \"Magic Dock\" Superchargers. The Free2move Charge app will assist customers in locating and managing charging sessions, enhancing convenience for Stellantis BEV drivers.",
+            "text_to_analyze": "Stellantis Expands North America Fast-charging Access as Dodge, Jeep®, Ram, FIAT and Maserati BEVs Plug In to the Tesla Supercharger Network. Stellantis has announced expanded fast-charging access for its battery-electric vehicles (BEVs) in North America, allowing Dodge, Jeep, Ram, FIAT, and Maserati BEV owners to use over 27,500 Tesla Supercharger locations. This access is enabled via a Free2move Charge NACS-CCS1 DC adapter or Tesla \"Magic Dock\" Superchargers. The Free2move Charge app will assist customers in locating and managing charging sessions, enhancing convenience for Stellantis BEV drivers.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.886087
+        },
+        {
+            "source": "The Mercury News",
+            "date": "20260319T171131",
+            "title": "Tesla faces escalated safety probe over ‘full-self driving’",
+            "summary": "US auto safety regulators have escalated their investigation into Tesla's \"Full-Self Driving\" system, citing additional crashes related to the technology's ability to handle reduced visibility conditions. The National Highway Traffic Safety Administration (NHTSA) upgraded its probe to an engineering analysis after reviewing incidents where the system failed to detect and warn drivers about degraded camera visibility. This increased scrutiny could lead to a recall and impacts Tesla's future autonomous driving ambitions, as nine crashes are now linked to the automated system, up from four.",
+            "text_to_analyze": "Tesla faces escalated safety probe over ‘full-self driving’. US auto safety regulators have escalated their investigation into Tesla's \"Full-Self Driving\" system, citing additional crashes related to the technology's ability to handle reduced visibility conditions. The National Highway Traffic Safety Administration (NHTSA) upgraded its probe to an engineering analysis after reviewing incidents where the system failed to detect and warn drivers about degraded camera visibility. This increased scrutiny could lead to a recall and impacts Tesla's future autonomous driving ambitions, as nine crashes are now linked to the automated system, up from four.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260319T162039",
+            "title": "Stellantis expands EV access to Tesla supercharger network (STLA:NYSE)",
+            "summary": "Stellantis is expanding access for its battery-electric vehicles (BEVs) to Tesla's supercharger network through the use of a Free2move adapter. This initiative aims to provide Stellantis EV owners with increased flexibility and range. Several models, including the Dodge Charger Daytona and Jeep Wagoneer, will be able to utilize Tesla superchargers starting Thursday.",
+            "text_to_analyze": "Stellantis expands EV access to Tesla supercharger network (STLA:NYSE). Stellantis is expanding access for its battery-electric vehicles (BEVs) to Tesla's supercharger network through the use of a Free2move adapter. This initiative aims to provide Stellantis EV owners with increased flexibility and range. Several models, including the Dodge Charger Daytona and Jeep Wagoneer, will be able to utilize Tesla superchargers starting Thursday.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.828265
+        },
+        {
+            "source": "USA Today",
+            "date": "20260319T160839",
+            "title": "Uber taps Rivian for robotaxis in $1.25B deal. Here's what to know",
+            "summary": "Uber is investing up to $1.25 billion in Rivian to acquire 10,000 robotaxis based on Rivian's upcoming R2 electric SUV, aiming to accelerate their autonomous vehicle plans. This partnership will provide Uber with exclusive access to these R2 robotaxis and position both companies to compete against Tesla's Cybercab. The deal, announced on March 19, caused a slight increase in both companies' stock prices.",
+            "text_to_analyze": "Uber taps Rivian for robotaxis in $1.25B deal. Here's what to know. Uber is investing up to $1.25 billion in Rivian to acquire 10,000 robotaxis based on Rivian's upcoming R2 electric SUV, aiming to accelerate their autonomous vehicle plans. This partnership will provide Uber with exclusive access to these R2 robotaxis and position both companies to compete against Tesla's Cybercab. The deal, announced on March 19, caused a slight increase in both companies' stock prices.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.860092
+        },
+        {
+            "source": "The Detroit News",
+            "date": "20260319T160440",
+            "title": "Jeep and Dodge EV drivers can now use Tesla chargers with an adapter",
+            "summary": "Stellantis announced that owners of electric vehicles from its brands like Dodge, Jeep, Ram, Fiat, and Maserati can now access Tesla's Supercharger network in North America using an adapter. This expansion adds over 27,500 Tesla V3 and V4 Supercharger stalls, aligning Stellantis with more than 20 other EV manufacturers that have already integrated with Tesla's charging infrastructure. Drivers will need a Stellantis-brand NACS adapter, though some Tesla stations feature a built-in \"Magic Dock\" adapter, and the 2027 Dodge Charger Daytona will natively support NACS.",
+            "text_to_analyze": "Jeep and Dodge EV drivers can now use Tesla chargers with an adapter. Stellantis announced that owners of electric vehicles from its brands like Dodge, Jeep, Ram, Fiat, and Maserati can now access Tesla's Supercharger network in North America using an adapter. This expansion adds over 27,500 Tesla V3 and V4 Supercharger stalls, aligning Stellantis with more than 20 other EV manufacturers that have already integrated with Tesla's charging infrastructure. Drivers will need a Stellantis-brand NACS adapter, though some Tesla stations feature a built-in \"Magic Dock\" adapter, and the 2027 Dodge Charger Daytona will natively support NACS.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

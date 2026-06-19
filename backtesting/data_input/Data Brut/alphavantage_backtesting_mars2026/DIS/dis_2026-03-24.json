@@ -1,0 +1,18 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-24",
+    "window_start": "2026-03-23 16:00",
+    "window_end": "2026-03-24 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260324T090744",
+            "title": "The Walt Disney Company $DIS Shares Sold by E. Ohman J or Asset Management AB",
+            "summary": "E. Ohman J or Asset Management AB significantly reduced its stake in The Walt Disney Company by 16.6% in Q4 2025, selling over 12,000 shares. Despite this, major institutional investors like Norges Bank and Viking Global made substantial new investments, indicating strong overall institutional confidence with 65.71% ownership. Analysts maintain a \"Moderate Buy\" rating with an average price target of $134.13, following Disney's Q4 earnings beat.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by E. Ohman J or Asset Management AB. E. Ohman J or Asset Management AB significantly reduced its stake in The Walt Disney Company by 16.6% in Q4 2025, selling over 12,000 shares. Despite this, major institutional investors like Norges Bank and Viking Global made substantial new investments, indicating strong overall institutional confidence with 65.71% ownership. Analysts maintain a \"Moderate Buy\" rating with an average price target of $134.13, following Disney's Q4 earnings beat.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

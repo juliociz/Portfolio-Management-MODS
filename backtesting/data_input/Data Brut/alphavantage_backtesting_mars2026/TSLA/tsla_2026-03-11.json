@@ -1,0 +1,18 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-11",
+    "window_start": "2026-03-10 16:00",
+    "window_end": "2026-03-11 09:27",
+    "articles": [
+        {
+            "source": "The Texas Tribune",
+            "date": "20260310T185109",
+            "title": "ExxonMobil moves to reincorporate in Texas from New Jersey",
+            "summary": "ExxonMobil is planning to move its legal headquarters from New Jersey to Texas, citing Texas's business-friendly environment and legal reforms. This move, recommended by the company's board of directors, aligns its legal home with its operational base in Spring, Houston, for the first time since 1882. Shareholders will vote on the redomiciliation on May 27, which follows similar moves by other major companies like Tesla and Coinbase.",
+            "text_to_analyze": "ExxonMobil moves to reincorporate in Texas from New Jersey. ExxonMobil is planning to move its legal headquarters from New Jersey to Texas, citing Texas's business-friendly environment and legal reforms. This move, recommended by the company's board of directors, aligns its legal home with its operational base in Spring, Houston, for the first time since 1882. Shareholders will vote on the redomiciliation on May 27, which follows similar moves by other major companies like Tesla and Coinbase.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.633476
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-28",
+    "window_start": "2026-05-27 16:00",
+    "window_end": "2026-05-28 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260528T083926",
+            "title": "14,418 Shares in The Walt Disney Company $DIS Acquired by Constant Guidance Financial LLC",
+            "summary": "Constant Guidance Financial LLC has acquired 14,418 shares of The Walt Disney Company (NYSE:DIS) totaling approximately $1.64 million, making it their 18th largest holding. Institutional ownership in Disney remains strong, with several firms increasing stakes, while analysts maintain a \"Moderate Buy\" rating with a consensus price target of $134.47. The company recently surpassed earnings and revenue estimates.",
+            "text_to_analyze": "14,418 Shares in The Walt Disney Company $DIS Acquired by Constant Guidance Financial LLC. Constant Guidance Financial LLC has acquired 14,418 shares of The Walt Disney Company (NYSE:DIS) totaling approximately $1.64 million, making it their 18th largest holding. Institutional ownership in Disney remains strong, with several firms increasing stakes, while analysts maintain a \"Moderate Buy\" rating with a consensus price target of $134.47. The company recently surpassed earnings and revenue estimates.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260528T083732",
+            "title": "Geode Capital Management LLC Acquires 1,361,888 Shares of The Walt Disney Company $DIS",
+            "summary": "Geode Capital Management LLC increased its stake in The Walt Disney Company by 3.5% in the fourth quarter, purchasing an additional 1,361,888 shares to bring its total holdings to over 40.5 million shares valued at approximately $4.6 billion. Disney recently reported better-than-expected quarterly results with an EPS of $1.57 and revenue of $25.17 billion, up 6.5% year-over-year. Wall Street analysts generally maintain a \"Moderate Buy\" consensus for DIS with an average price target of $134.47, following several upgrades and increased price targets.",
+            "text_to_analyze": "Geode Capital Management LLC Acquires 1,361,888 Shares of The Walt Disney Company $DIS. Geode Capital Management LLC increased its stake in The Walt Disney Company by 3.5% in the fourth quarter, purchasing an additional 1,361,888 shares to bring its total holdings to over 40.5 million shares valued at approximately $4.6 billion. Disney recently reported better-than-expected quarterly results with an EPS of $1.57 and revenue of $25.17 billion, up 6.5% year-over-year. Wall Street analysts generally maintain a \"Moderate Buy\" consensus for DIS with an average price target of $134.47, following several upgrades and increased price targets.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "KTLA",
+            "date": "20260528T033854",
+            "title": "Papa Johns to open Pizza Planet pop-ups in 4 cities for ‘Toy Story 5’",
+            "summary": "Papa Johns is launching Pizza Planet-themed pop-ups in London, Seoul, Madrid, and Los Angeles to celebrate the upcoming release of Disney and Pixar’s “Toy Story 5.” These temporary locations will feature retro décor, arcade elements, and limited-time menu items inspired by the movie, such as specialty pizzas. For fans outside these cities, a global \"Toy Story 5\" menu and an in-app game for Papa Rewards members will also be available.",
+            "text_to_analyze": "Papa Johns to open Pizza Planet pop-ups in 4 cities for ‘Toy Story 5’. Papa Johns is launching Pizza Planet-themed pop-ups in London, Seoul, Madrid, and Los Angeles to celebrate the upcoming release of Disney and Pixar’s “Toy Story 5.” These temporary locations will feature retro décor, arcade elements, and limited-time menu items inspired by the movie, such as specialty pizzas. For fans outside these cities, a global \"Toy Story 5\" menu and an in-app game for Papa Rewards members will also be available.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.736671
+        },
+        {
+            "source": "New York Post",
+            "date": "20260527T181000",
+            "title": "Papa Johns to open Pizza Planet pop-ups in LA for ‘Toy Story 5’",
+            "summary": "Papa Johns is launching \"Pizza Planet\" pop-up shops in Los Angeles, London, Seoul, and Madrid next month to coincide with the release of Disney Pixar's \"Toy Story 5.\" These retro-inspired pizza arcades will offer three new Toy Story-themed pizzas, exclusive merchandise, and surprise giveaways. The Los Angeles pop-up will be open for one day only on June 12th, while the themed pizzas will also be available nationwide and in 42 international locations from June 1st to July 19th for those unable to visit the pop-ups.",
+            "text_to_analyze": "Papa Johns to open Pizza Planet pop-ups in LA for ‘Toy Story 5’. Papa Johns is launching \"Pizza Planet\" pop-up shops in Los Angeles, London, Seoul, and Madrid next month to coincide with the release of Disney Pixar's \"Toy Story 5.\" These retro-inspired pizza arcades will offer three new Toy Story-themed pizzas, exclusive merchandise, and surprise giveaways. The Los Angeles pop-up will be open for one day only on June 12th, while the themed pizzas will also be available nationwide and in 42 international locations from June 1st to July 19th for those unable to visit the pop-ups.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.701557
+        },
+        {
+            "source": "GlobeNewswire",
+            "date": "20260527T173938",
+            "title": "Papa Johns Teams Up with Disney and Pixar for the Release of Toy Story 5",
+            "summary": "Papa Johns has announced a global collaboration with Disney and Pixar for the release of Toy Story 5, introducing new Toy Story 5 personal pizzas and limited-edition collectibles. This marks the franchise's first partnership with a pizza brand for a film release, aiming to connect with fans through quality ingredients and the beloved Toy Story characters. The campaign includes three themed pizzas, collectibles, an in-app game, and a custom-animated spot by Pixar.",
+            "text_to_analyze": "Papa Johns Teams Up with Disney and Pixar for the Release of Toy Story 5. Papa Johns has announced a global collaboration with Disney and Pixar for the release of Toy Story 5, introducing new Toy Story 5 personal pizzas and limited-edition collectibles. This marks the franchise's first partnership with a pizza brand for a film release, aiming to connect with fans through quality ingredients and the beloved Toy Story characters. The campaign includes three themed pizzas, collectibles, an in-app game, and a custom-animated spot by Pixar.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.859757
+        },
+        {
+            "source": "WDW News Today",
+            "date": "20260527T163902",
+            "title": "Papa Johns Bringing Pizza Planet to Life With Immersive ‘Toy Story 5’ Pop-Up Experiences",
+            "summary": "Papa Johns is collaborating with Disney and Pixar to launch immersive \"Pizza Planet\" pop-up experiences in anticipation of the *Toy Story 5* film release. These limited-time pop-ups, inspired by the iconic movie location, will offer themed decor, merchandise, games, and exclusive menu items in cities like Los Angeles, London, Seoul, and Madrid. Additionally, Papa Johns will offer the *Toy Story 5*-themed menu items globally and introduce an in-app game for Papa Rewards members.",
+            "text_to_analyze": "Papa Johns Bringing Pizza Planet to Life With Immersive ‘Toy Story 5’ Pop-Up Experiences. Papa Johns is collaborating with Disney and Pixar to launch immersive \"Pizza Planet\" pop-up experiences in anticipation of the *Toy Story 5* film release. These limited-time pop-ups, inspired by the iconic movie location, will offer themed decor, merchandise, games, and exclusive menu items in cities like Los Angeles, London, Seoul, and Madrid. Additionally, Papa Johns will offer the *Toy Story 5*-themed menu items globally and introduce an in-app game for Papa Rewards members.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.838152
+        }
+    ]
+}

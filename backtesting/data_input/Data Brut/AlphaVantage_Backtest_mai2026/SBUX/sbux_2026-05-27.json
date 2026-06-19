@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-27",
+    "window_start": "2026-05-26 16:00",
+    "window_end": "2026-05-27 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260527T071641",
+            "title": "Starbucks Corporation $SBUX Shares Purchased by Allstate Corp",
+            "summary": "Allstate Corp significantly increased its stake in Starbucks Corporation ($SBUX) by 104.3% in the fourth quarter, now owning 84,304 shares valued at $7.099 million. This news comes as Starbucks stock recently reported strong quarterly earnings, beating analyst estimates, and announced a quarterly dividend. However, the company faces some negative sentiment due to exiting an AI inventory program and a sharp drop in Korean sales following a controversial marketing campaign.",
+            "text_to_analyze": "Starbucks Corporation $SBUX Shares Purchased by Allstate Corp. Allstate Corp significantly increased its stake in Starbucks Corporation ($SBUX) by 104.3% in the fourth quarter, now owning 84,304 shares valued at $7.099 million. This news comes as Starbucks stock recently reported strong quarterly earnings, beating analyst estimates, and announced a quarterly dividend. However, the company faces some negative sentiment due to exiting an AI inventory program and a sharp drop in Korean sales following a controversial marketing campaign.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Global Coffee Report",
+            "date": "20260527T023823",
+            "title": "Starbucks Mexico launches latest edition of coffee plant donation initiative",
+            "summary": "Starbucks Mexico, operated by Alsea, has launched the 12th edition of its ‘Todos Sembramos Café’ initiative, aiming to donate over 800,000 rust-resistant coffee plants across Chiapas, Puebla, and Veracruz. This program, which started in 2014, has already provided more than 6.4 million plants to coffee-growing regions and benefited over 20,000 producers. For the 2026 edition, 60% of the plants will be Starbucks-developed varietals known for productivity and climate adaptability, reflecting an evolution toward long-term agricultural solutions and community resilience.",
+            "text_to_analyze": "Starbucks Mexico launches latest edition of coffee plant donation initiative. Starbucks Mexico, operated by Alsea, has launched the 12th edition of its ‘Todos Sembramos Café’ initiative, aiming to donate over 800,000 rust-resistant coffee plants across Chiapas, Puebla, and Veracruz. This program, which started in 2014, has already provided more than 6.4 million plants to coffee-growing regions and benefited over 20,000 producers. For the 2026 edition, 60% of the plants will be Starbucks-developed varietals known for productivity and climate adaptability, reflecting an evolution toward long-term agricultural solutions and community resilience.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.925038
+        }
+    ]
+}

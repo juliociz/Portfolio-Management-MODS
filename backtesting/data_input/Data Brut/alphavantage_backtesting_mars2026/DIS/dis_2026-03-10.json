@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-10",
+    "window_start": "2026-03-09 16:00",
+    "window_end": "2026-03-10 09:27",
+    "articles": [
+        {
+            "source": "Disney.com",
+            "date": "20260309T194957",
+            "title": "Exploring Business Segments Across The Walt Disney Company Australia and New Zealand",
+            "summary": "The Walt Disney Company's diverse operations in Australia and New Zealand encompass various business segments, including corporate support, theatrical distribution, direct-to-consumer streaming with Disney+, ESPN, content sales, and live entertainment. The company also highlights its Disney Studios Australia, consumer products division, Disney Destinations, Marvel Stadium sponsorship, and advertising platforms, demonstrating its broad impact on the region's media and entertainment landscape. These segments aim to fulfill Disney's mission to entertain, inform, and inspire through unparalleled storytelling.",
+            "text_to_analyze": "Exploring Business Segments Across The Walt Disney Company Australia and New Zealand. The Walt Disney Company's diverse operations in Australia and New Zealand encompass various business segments, including corporate support, theatrical distribution, direct-to-consumer streaming with Disney+, ESPN, content sales, and live entertainment. The company also highlights its Disney Studios Australia, consumer products division, Disney Destinations, Marvel Stadium sponsorship, and advertising platforms, demonstrating its broad impact on the region's media and entertainment landscape. These segments aim to fulfill Disney's mission to entertain, inform, and inspire through unparalleled storytelling.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260309T165000",
+            "title": "Disney Stock Slides To Start The Week: What's Behind The Weakness? - Walt Disney (NYSE:DIS)",
+            "summary": "Walt Disney Co (NYSE: DIS) shares are trading lower due to investor concerns over fresh escalation in the U.S.–Israel–Iran conflict. The stock is currently below its 20-day, 50-day, and 200-day moving averages, indicating a challenging technical setup. Fears of rising oil prices affecting Disney's cruise line and theme park attendance, alongside broader travel sentiment, are contributing to the weakness.",
+            "text_to_analyze": "Disney Stock Slides To Start The Week: What's Behind The Weakness? - Walt Disney (NYSE:DIS). Walt Disney Co (NYSE: DIS) shares are trading lower due to investor concerns over fresh escalation in the U.S.–Israel–Iran conflict. The stock is currently below its 20-day, 50-day, and 200-day moving averages, indicating a challenging technical setup. Fears of rising oil prices affecting Disney's cruise line and theme park attendance, alongside broader travel sentiment, are contributing to the weakness.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

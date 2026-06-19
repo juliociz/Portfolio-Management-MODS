@@ -1,0 +1,36 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-31",
+    "window_start": "2026-03-30 16:00",
+    "window_end": "2026-03-31 09:27",
+    "articles": [
+        {
+            "source": "The Courier-Journal",
+            "date": "20260331T090203",
+            "title": "What stores are open on 2026 Easter Sunday? More from Target, Walmart, Starbucks",
+            "summary": "This article provides a comprehensive list of stores expected to be open and closed on Easter Sunday 2026. Major retailers like Walmart and Kroger are likely to be open, while Target and Costco are anticipated to be closed. Shoppers are advised to plan ahead and call local stores to confirm specific holiday hours.",
+            "text_to_analyze": "What stores are open on 2026 Easter Sunday? More from Target, Walmart, Starbucks. This article provides a comprehensive list of stores expected to be open and closed on Easter Sunday 2026. Major retailers like Walmart and Kroger are likely to be open, while Target and Costco are anticipated to be closed. Shoppers are advised to plan ahead and call local stores to confirm specific holiday hours.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.720899
+        },
+        {
+            "source": "Progressive Grocer",
+            "date": "20260330T190825",
+            "title": "Target Opens New Location at West Orange Plaza",
+            "summary": "Target has opened its 55th store in New Jersey, a 150,000-square-foot location at West Orange Plaza, marking one of three new stores in the state within the past year. The new store, which features a CVS Pharmacy, Starbucks, and Target Optical, is expected to employ around 280 people and offers services like drive-up and same-day delivery. This opening is part of a broader multimillion-dollar redevelopment of West Orange Plaza, aiming to enhance the shopping experience and attract more tenants.",
+            "text_to_analyze": "Target Opens New Location at West Orange Plaza. Target has opened its 55th store in New Jersey, a 150,000-square-foot location at West Orange Plaza, marking one of three new stores in the state within the past year. The new store, which features a CVS Pharmacy, Starbucks, and Target Optical, is expected to employ around 280 people and offers services like drive-up and same-day delivery. This opening is part of a broader multimillion-dollar redevelopment of West Orange Plaza, aiming to enhance the shopping experience and attract more tenants.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.609514
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260330T183833",
+            "title": "SBUX SEC Filings - Starbucks Corp 10-K, 10-Q, 8-K Forms",
+            "summary": "This page on Stock Titan provides comprehensive access to Starbucks (SBUX) SEC filings, including 10-K annual reports, 10-Q quarterly earnings, 8-K material events, and insider trading forms. It highlights recent 8-K filings discussing operational results, restructuring, executive appointments, and strategic partnerships, offering AI-powered summaries and analysis. The platform helps investors track Starbucks' regulatory disclosures and understand key corporate events.",
+            "text_to_analyze": "SBUX SEC Filings - Starbucks Corp 10-K, 10-Q, 8-K Forms. This page on Stock Titan provides comprehensive access to Starbucks (SBUX) SEC filings, including 10-K annual reports, 10-Q quarterly earnings, 8-K material events, and insider trading forms. It highlights recent 8-K filings discussing operational results, restructuring, executive appointments, and strategic partnerships, offering AI-powered summaries and analysis. The platform helps investors track Starbucks' regulatory disclosures and understand key corporate events.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

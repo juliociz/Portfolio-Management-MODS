@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-12",
+    "window_start": "2026-03-11 16:00",
+    "window_end": "2026-03-12 09:27",
+    "articles": [
+        {
+            "source": "Bloomberg.com",
+            "date": "20260312T075500",
+            "title": "Tesla’s Energy Division Gets UK License to Supply Electricity",
+            "summary": "Tesla Inc.'s energy division, Tesla Energy Ventures Ltd., has secured a license to supply electricity in the UK. This approval, granted by regulator Ofgem after a seven-month process, allows Tesla to offer its energy services to homes and businesses across Great Britain. The license became effective on Wednesday evening, marking a significant expansion for Elon Musk's company in the energy sector.",
+            "text_to_analyze": "Tesla’s Energy Division Gets UK License to Supply Electricity. Tesla Inc.'s energy division, Tesla Energy Ventures Ltd., has secured a license to supply electricity in the UK. This approval, granted by regulator Ofgem after a seven-month process, allows Tesla to offer its energy services to homes and businesses across Great Britain. The license became effective on Wednesday evening, marking a significant expansion for Elon Musk's company in the energy sector.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260312T071200",
+            "title": "Tesla set to start supplying UK homes with electricity",
+            "summary": "Tesla has been granted a license to supply electricity to British homes, entering the market amidst concerns over rising energy bills. The company's unit, Tesla Energy Ventures, received approval following a process that began last July, positioning Tesla to compete with existing suppliers by leveraging its solar energy and battery storage technology. This move comes as energy prices have surged due to global conflicts and sales of Tesla's electric cars in Britain have declined in recent years.",
+            "text_to_analyze": "Tesla set to start supplying UK homes with electricity. Tesla has been granted a license to supply electricity to British homes, entering the market amidst concerns over rising energy bills. The company's unit, Tesla Energy Ventures, received approval following a process that began last July, positioning Tesla to compete with existing suppliers by leveraging its solar energy and battery storage technology. This move comes as energy prices have surged due to global conflicts and sales of Tesla's electric cars in Britain have declined in recent years.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Not a Tesla App",
+            "date": "20260312T045207",
+            "title": "LiveOne Announces Tesla Subscription Pricing",
+            "summary": "LiveOne, formerly Slacker Radio, has launched Tesla-exclusive subscription pricing after its free agreement with Tesla lapsed. Users can choose between LiveOne Plus ($3.99/month or $34.99/year) which offers ad-free radio stations, or LiveOne Premium ($9.99/month or $99.99/year) which adds on-demand listening and offline downloads, although these advanced features are not yet supported in Teslas. The article highlights that users can continue LiveOne for free with ads and limited skips after December 1st, 2024.",
+            "text_to_analyze": "LiveOne Announces Tesla Subscription Pricing. LiveOne, formerly Slacker Radio, has launched Tesla-exclusive subscription pricing after its free agreement with Tesla lapsed. Users can choose between LiveOne Plus ($3.99/month or $34.99/year) which offers ad-free radio stations, or LiveOne Premium ($9.99/month or $99.99/year) which adds on-demand listening and offline downloads, although these advanced features are not yet supported in Teslas. The article highlights that users can continue LiveOne for free with ads and limited skips after December 1st, 2024.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.987954
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260312T035250",
+            "title": "Lucid sees a future with a robotaxi business and thriving mid-size EV platform (LCID:NASDAQ)",
+            "summary": "Lucid Group announced plans for a new mid-size EV platform that will support three new vehicles targeting the core EV market. The company also indicated intentions to enter the robotaxi market through partnerships. Lucid aims for a ~$50K starting price for its new models, emphasizing range, efficiency, and space to compete with Tesla's Model 3 and Y.",
+            "text_to_analyze": "Lucid sees a future with a robotaxi business and thriving mid-size EV platform (LCID:NASDAQ). Lucid Group announced plans for a new mid-size EV platform that will support three new vehicles targeting the core EV market. The company also indicated intentions to enter the robotaxi market through partnerships. Lucid aims for a ~$50K starting price for its new models, emphasizing range, efficiency, and space to compete with Tesla's Model 3 and Y.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.741929
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260312T035105",
+            "title": "Tesla's FSD Safety Metrics 'Sharply Deteriorating,' Says Analyst",
+            "summary": "An analyst from GLJ Research, Gordon Johnson, claims that Tesla's Full Self-Driving (FSD) safety metrics are \"sharply deteriorating\" based on third-party Community Tracker data. The data indicates a significant drop in \"city miles to critical disengagement\" after the FSD v14.2 rollout. Johnson also highlights a large discrepancy between Tesla's FSD performance and Waymo's, raising questions about NHTSA's oversight.",
+            "text_to_analyze": "Tesla's FSD Safety Metrics 'Sharply Deteriorating,' Says Analyst. An analyst from GLJ Research, Gordon Johnson, claims that Tesla's Full Self-Driving (FSD) safety metrics are \"sharply deteriorating\" based on third-party Community Tracker data. The data indicates a significant drop in \"city miles to critical disengagement\" after the FSD v14.2 rollout. Johnson also highlights a large discrepancy between Tesla's FSD performance and Waymo's, raising questions about NHTSA's oversight.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CleanTechnica",
+            "date": "20260312T035026",
+            "title": "Did GM Just Use The EV1 To Troll Ford, Again? Or Tesla? Or Both?",
+            "summary": "General Motors is using the restoration of its vintage EV1 electric car to highlight its long-standing commitment to EVs and to subtly critique Ford and Tesla. The article points out that GM is re-launching the Chevy Bolt at a more affordable price than Tesla's entry-level Model 3 and emphasizes GM's pioneering role in EV technology through the EV1. It also touches on advancements in battery technology and GM's future EV plans.",
+            "text_to_analyze": "Did GM Just Use The EV1 To Troll Ford, Again? Or Tesla? Or Both?. General Motors is using the restoration of its vintage EV1 electric car to highlight its long-standing commitment to EVs and to subtly critique Ford and Tesla. The article points out that GM is re-launching the Chevy Bolt at a more affordable price than Tesla's entry-level Model 3 and emphasizes GM's pioneering role in EV technology through the EV1. It also touches on advancements in battery technology and GM's future EV plans.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.816443
+        },
+        {
+            "source": "Teslarati",
+            "date": "20260311T210804",
+            "title": "Tesla VP explains latest updates in trade secret theft case",
+            "summary": "Tesla Vice President Bonne Eggleston provided an update on the company's trade secret theft lawsuit against former supplier Matthews International. A judge issued a permanent injunction blocking Matthews from using certain stolen Tesla parts or designs and found them liable for damages, which will be calculated later. Tesla initiated the suit, demanding over $1 billion, after allegedly finding Matthews copying proprietary battery manufacturing technology and selling it to competitors despite earlier denials.",
+            "text_to_analyze": "Tesla VP explains latest updates in trade secret theft case. Tesla Vice President Bonne Eggleston provided an update on the company's trade secret theft lawsuit against former supplier Matthews International. A judge issued a permanent injunction blocking Matthews from using certain stolen Tesla parts or designs and found them liable for damages, which will be calculated later. Tesla initiated the suit, demanding over $1 billion, after allegedly finding Matthews copying proprietary battery manufacturing technology and selling it to competitors despite earlier denials.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.982749
+        },
+        {
+            "source": "Reuters",
+            "date": "20260311T161900",
+            "title": "Musk unveils joint Tesla-xAI project 'Macrohard', eyes software disruption",
+            "summary": "Elon Musk has announced a joint project between Tesla and xAI called \"Macrohard\" or \"Digital Optimus,\" which he claims can emulate the functions of entire software companies. This system combines xAI's Grok large language model with a Tesla-developed AI agent to process real-time computer screen input and user actions. The initiative comes amidst concerns among investors about agents-based AI disrupting established business models and follows recent significant investments in and acquisitions of xAI by Tesla and SpaceX.",
+            "text_to_analyze": "Musk unveils joint Tesla-xAI project 'Macrohard', eyes software disruption. Elon Musk has announced a joint project between Tesla and xAI called \"Macrohard\" or \"Digital Optimus,\" which he claims can emulate the functions of entire software companies. This system combines xAI's Grok large language model with a Tesla-developed AI agent to process real-time computer screen input and user actions. The initiative comes amidst concerns among investors about agents-based AI disrupting established business models and follows recent significant investments in and acquisitions of xAI by Tesla and SpaceX.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.32907
+        }
+    ]
+}

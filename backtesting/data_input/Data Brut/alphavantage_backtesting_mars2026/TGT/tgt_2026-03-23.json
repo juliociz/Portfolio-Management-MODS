@@ -1,0 +1,90 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-23",
+    "window_start": "2026-03-20 16:00",
+    "window_end": "2026-03-23 09:27",
+    "articles": [
+        {
+            "source": "Simply Wall Street",
+            "date": "20260323T032528",
+            "title": "Does Ulta’s K‑Beauty and Wellness Surge via Marketplace Expansion Reshape the Bull Case for Ulta (ULTA)?",
+            "summary": "Ulta Beauty is expanding its K-Beauty and wellness offerings through its marketplace and store network, recently adding 17 Korean brands and rolling out Dr. Melaxin and Cymbiotika products nationwide. This expansion leverages Ulta's platform for international brands, aiming to act as a discovery platform and support its 6-7% net sales growth and 6-9% operating income growth targets for 2026. However, increased online-only competition and shifting beauty habits pose a potential risk to Ulta's store economics and future profitability.",
+            "text_to_analyze": "Does Ulta’s K‑Beauty and Wellness Surge via Marketplace Expansion Reshape the Bull Case for Ulta (ULTA)?. Ulta Beauty is expanding its K-Beauty and wellness offerings through its marketplace and store network, recently adding 17 Korean brands and rolling out Dr. Melaxin and Cymbiotika products nationwide. This expansion leverages Ulta's platform for international brands, aiming to act as a discovery platform and support its 6-7% net sales growth and 6-9% operating income growth targets for 2026. However, increased online-only competition and shifting beauty habits pose a potential risk to Ulta's store economics and future profitability.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.628157
+        },
+        {
+            "source": "News of Orange",
+            "date": "20260323T013818",
+            "title": "Additional tenants announced for Target shopping center in Mebane",
+            "summary": "Koury Corp. has announced several national retailers as new tenants for its Third & Wood shopping center development in Mebane. The confirmed tenants include Target, Marshalls, Burlington Coat Factory, Five Below, HomeGoods, Michaels, and PetSmart. Third & Wood is a 305,100-square-foot commercial development expected to serve the growing Mebane community, with approximately 85 percent of the space already leased.",
+            "text_to_analyze": "Additional tenants announced for Target shopping center in Mebane. Koury Corp. has announced several national retailers as new tenants for its Third & Wood shopping center development in Mebane. The confirmed tenants include Target, Marshalls, Burlington Coat Factory, Five Below, HomeGoods, Michaels, and PetSmart. Third & Wood is a 305,100-square-foot commercial development expected to serve the growing Mebane community, with approximately 85 percent of the space already leased.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260322T220826",
+            "title": "Target Corp. stock faces scrutiny amid store refresh and turnaround push as dividend yield attracts",
+            "summary": "Target Corp. is implementing a multi-billion dollar turnaround strategy, including staff dress code changes and supplier brand refreshes, to address declining sales and improve in-store experience. Despite competitive pressures and past controversies, DACH investors are drawn to the stock's attractive valuation and reliable 4.03% dividend yield. The operational overhaul and dividend consistency position Target as a compelling watch for investors seeking US retail exposure with an income buffer.",
+            "text_to_analyze": "Target Corp. stock faces scrutiny amid store refresh and turnaround push as dividend yield attracts. Target Corp. is implementing a multi-billion dollar turnaround strategy, including staff dress code changes and supplier brand refreshes, to address declining sales and improve in-store experience. Despite competitive pressures and past controversies, DACH investors are drawn to the stock's attractive valuation and reliable 4.03% dividend yield. The operational overhaul and dividend consistency position Target as a compelling watch for investors seeking US retail exposure with an income buffer.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260322T114124",
+            "title": "Wedmont Private Capital Has $3 Million Stock Position in AT&T Inc. $T",
+            "summary": "Wedmont Private Capital reduced its stake in AT&T (NYSE:T) by 29.5% in Q4, holding 125,013 shares valued at approximately $2.997 million. AT&T plans to invest over $250 billion, return more than $45 billion to shareholders by 2028, expand its fiber network, and launch AI customer tools. Analysts currently rate AT&T as a \"Moderate Buy\" with a consensus target price of $30.35, trading around $28.33.",
+            "text_to_analyze": "Wedmont Private Capital Has $3 Million Stock Position in AT&T Inc. $T. Wedmont Private Capital reduced its stake in AT&T (NYSE:T) by 29.5% in Q4, holding 125,013 shares valued at approximately $2.997 million. AT&T plans to invest over $250 billion, return more than $45 billion to shareholders by 2028, expand its fiber network, and launch AI customer tools. Analysts currently rate AT&T as a \"Moderate Buy\" with a consensus target price of $30.35, trading around $28.33.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.605494
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260322T101452",
+            "title": "Nordea Investment Management AB Boosts Stake in Kimberly-Clark Corporation $KMB",
+            "summary": "Nordea Investment Management AB increased its stake in Kimberly-Clark Corporation by 13.7% in Q4, acquiring an additional 334,598 shares to hold a total of 2,774,290 shares valued at approximately $281.3 million. Kimberly-Clark also announced an increase in its quarterly dividend to $1.28, resulting in an annualized dividend of $5.12 and a yield of about 5.2%. Analyst sentiment for KMB is mixed, with a consensus \"Hold\" rating and an average price target of $116.42.",
+            "text_to_analyze": "Nordea Investment Management AB Boosts Stake in Kimberly-Clark Corporation $KMB. Nordea Investment Management AB increased its stake in Kimberly-Clark Corporation by 13.7% in Q4, acquiring an additional 334,598 shares to hold a total of 2,774,290 shares valued at approximately $281.3 million. Kimberly-Clark also announced an increase in its quarterly dividend to $1.28, resulting in an annualized dividend of $5.12 and a yield of about 5.2%. Analyst sentiment for KMB is mixed, with a consensus \"Hold\" rating and an average price target of $116.42.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.546332
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260322T091332",
+            "title": "Target Corp. stock faces scrutiny amid store refresh and turnaround push as dividend yield attracts",
+            "summary": "Target Corp. is implementing a multi-billion dollar turnaround strategy, including operational tweaks like staff dress code changes and supplier brand refreshes, to combat declining sales and competitive pressures. Despite mixed stock returns, its reliable 4.03% dividend yield and perceived undervaluation are attracting investors, particularly those in the DACH region seeking US retail exposure and income stability. The success of its turnaround plan, focusing on improved in-store experience and exclusive offerings, will be crucial for re-rating the stock and delivering on promises of profitable growth in 2026.",
+            "text_to_analyze": "Target Corp. stock faces scrutiny amid store refresh and turnaround push as dividend yield attracts. Target Corp. is implementing a multi-billion dollar turnaround strategy, including operational tweaks like staff dress code changes and supplier brand refreshes, to combat declining sales and competitive pressures. Despite mixed stock returns, its reliable 4.03% dividend yield and perceived undervaluation are attracting investors, particularly those in the DACH region seeking US retail exposure and income stability. The success of its turnaround plan, focusing on improved in-store experience and exclusive offerings, will be crucial for re-rating the stock and delivering on promises of profitable growth in 2026.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260322T054419",
+            "title": "Costco Wholesale Corporation stock surges on robust Q2 membership fee growth amid retail resilience",
+            "summary": "Costco Wholesale Corporation (ISIN: US22160K1051) shares surged after reporting strong Q2 fiscal 2026 results, driven by a 13.6% increase in membership fees to $1,355 million. This robust growth in its core revenue stream highlights the company's defensive strength amid current retail challenges, making it an attractive option for investors seeking stability. Analysts maintain a \"Moderate Buy\" consensus, with price targets suggesting a significant upside, despite current high valuations, due to Costco's consistent execution and strong customer loyalty.",
+            "text_to_analyze": "Costco Wholesale Corporation stock surges on robust Q2 membership fee growth amid retail resilience. Costco Wholesale Corporation (ISIN: US22160K1051) shares surged after reporting strong Q2 fiscal 2026 results, driven by a 13.6% increase in membership fees to $1,355 million. This robust growth in its core revenue stream highlights the company's defensive strength amid current retail challenges, making it an attractive option for investors seeking stability. Analysts maintain a \"Moderate Buy\" consensus, with price targets suggesting a significant upside, despite current high valuations, due to Costco's consistent execution and strong customer loyalty.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.550191
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260321T200851",
+            "title": "SMPL: Easy Protein Tailwinds And Buybacks Will Support Future Repricing",
+            "summary": "Analyst sentiment for Simply Good Foods (SMPL) is mixed, with some bullish analysts seeing potential in the \"easy protein\" trend despite slightly trimmed price targets, while others express caution regarding competition and profitability. The company recently saw its former CEO, Joe Scalzo, return and reaffirmed its fiscal 2026 earnings guidance. Valuation adjustments include a slightly lower fair value and revenue growth assumptions, alongside significant share repurchases and an increased buyback authorization.",
+            "text_to_analyze": "SMPL: Easy Protein Tailwinds And Buybacks Will Support Future Repricing. Analyst sentiment for Simply Good Foods (SMPL) is mixed, with some bullish analysts seeing potential in the \"easy protein\" trend despite slightly trimmed price targets, while others express caution regarding competition and profitability. The company recently saw its former CEO, Joe Scalzo, return and reaffirmed its fiscal 2026 earnings guidance. Valuation adjustments include a slightly lower fair value and revenue growth assumptions, alongside significant share repurchases and an increased buyback authorization.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.621563
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260320T164900",
+            "title": "Target Corp. stock outperforms competitors despite losses on the day",
+            "summary": "Shares of Target Corp. (TGT) decreased by 1.06% on Friday, closing at $113.26, amidst a generally negative trading session where the S&P 500 Index and Dow Jones Industrial Average also fell. Despite this daily loss and being its fifth consecutive day of declines, Target's stock performance still managed to outperform its competitors on the day.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors despite losses on the day. Shares of Target Corp. (TGT) decreased by 1.06% on Friday, closing at $113.26, amidst a generally negative trading session where the S&P 500 Index and Dow Jones Industrial Average also fell. Despite this daily loss and being its fifth consecutive day of declines, Target's stock performance still managed to outperform its competitors on the day.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.344488
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-28",
+    "window_start": "2026-05-27 16:00",
+    "window_end": "2026-05-28 09:27",
+    "articles": [
+        {
+            "source": "MSN",
+            "date": "20260528T084031",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.1943",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.1943 per share. This distribution is payable on June 07, 2024, to shareholders of record as of May 31, 2024, with an ex-dividend date of May 31, 2024.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.1943. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.1943 per share. This distribution is payable on June 07, 2024, to shareholders of record as of May 31, 2024, with an ex-dividend date of May 31, 2024.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.898763
+        },
+        {
+            "source": "MSN",
+            "date": "20260528T053953",
+            "title": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2728",
+            "summary": "The REX TSLA Growth & Income ETF (TSLY) has announced a weekly distribution of $0.2728 per share for its shareholders. The ex-dividend date is set for May 30, 2026, with the payment date on June 03, 2026. This distribution highlights the ETF's strategy to provide income to investors.",
+            "text_to_analyze": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2728. The REX TSLA Growth & Income ETF (TSLY) has announced a weekly distribution of $0.2728 per share for its shareholders. The ex-dividend date is set for May 30, 2026, with the payment date on June 03, 2026. This distribution highlights the ETF's strategy to provide income to investors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.725418
+        },
+        {
+            "source": "MSN",
+            "date": "20260528T044000",
+            "title": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2728",
+            "summary": "The REX TSLA Growth & Income ETF (TSLY) has announced a weekly distribution of $0.2728 per share for the week of May 25 to May 31, 2026. This distribution will be payable on June 3, 2026, to shareholders of record as of June 3, 2026, with an ex-dividend date of June 2, 2026. The distribution amount remains unchanged from the previous week.",
+            "text_to_analyze": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2728. The REX TSLA Growth & Income ETF (TSLY) has announced a weekly distribution of $0.2728 per share for the week of May 25 to May 31, 2026. This distribution will be payable on June 3, 2026, to shareholders of record as of June 3, 2026, with an ex-dividend date of June 2, 2026. The distribution amount remains unchanged from the previous week.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.864057
+        },
+        {
+            "source": "GlobeNewswire",
+            "date": "20260527T220949",
+            "title": "SunCar Technology Reports First Quarter 2026 Financial Results",
+            "summary": "SunCar Technology Group Inc. reported its first quarter 2026 financial results, achieving its third consecutive quarter of profitability with a net income of $1.6 million, an increase from a net loss in the prior year. The company witnessed a 28% year-over-year revenue growth, reaching $131.2 million, driven by a significant 43% growth in EV insurance premiums and strong performance in auto eInsurance and technology services. SunCar also expanded its partnerships with major companies like Tesla, Xiaomi, and various banks and insurance providers, leveraging AI technology for enhanced services and anticipating approximately $600 million in revenue for the full year 2026.",
+            "text_to_analyze": "SunCar Technology Reports First Quarter 2026 Financial Results. SunCar Technology Group Inc. reported its first quarter 2026 financial results, achieving its third consecutive quarter of profitability with a net income of $1.6 million, an increase from a net loss in the prior year. The company witnessed a 28% year-over-year revenue growth, reaching $131.2 million, driven by a significant 43% growth in EV insurance premiums and strong performance in auto eInsurance and technology services. SunCar also expanded its partnerships with major companies like Tesla, Xiaomi, and various banks and insurance providers, leveraging AI technology for enhanced services and anticipating approximately $600 million in revenue for the full year 2026.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.6294
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260527T220839",
+            "title": "Why Tesla’s Lens Cleaning Patent Matters For Optimus, Robotaxi - Tesla (NASDAQ:TSLA)",
+            "summary": "Tesla recently received a patent for a \"Lens Cleaning System\" designed for its robotaxis and Optimus humanoid robot. This system, which uses fluid and wipers, aims to keep cameras clean without human intervention, addressing debris issues for robotaxis and maintaining the Optimus's vision. The patent is crucial as Tesla shifts its focus towards robotics, AI, and self-driving technology, with Elon Musk believing these areas will drive the company's future valuation significantly.",
+            "text_to_analyze": "Why Tesla’s Lens Cleaning Patent Matters For Optimus, Robotaxi - Tesla (NASDAQ:TSLA). Tesla recently received a patent for a \"Lens Cleaning System\" designed for its robotaxis and Optimus humanoid robot. This system, which uses fluid and wipers, aims to keep cameras clean without human intervention, addressing debris issues for robotaxis and maintaining the Optimus's vision. The patent is crucial as Tesla shifts its focus towards robotics, AI, and self-driving technology, with Elon Musk believing these areas will drive the company's future valuation significantly.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260527T210921",
+            "title": "Jefferies (JEF) issues autocallable buffered leveraged notes linked to worst-performing tech trio",
+            "summary": "Jefferies Financial Group Inc. has priced an offering of $1.185 million in Senior Autocallable Buffered Leveraged Notes. These notes, maturing on May 28, 2031, are linked to the performance of Alphabet Inc. (GOOGL), Microsoft Corporation (MSFT), and Tesla, Inc. (TSLA), specifically to the worst-performing of the trio. The notes offer a 200% participation rate on upside at maturity if the worst-performing underlying appreciates, with potential for early call on August 24, 2026, and significant principal loss risk if the worst-performing underlying declines below its threshold value.",
+            "text_to_analyze": "Jefferies (JEF) issues autocallable buffered leveraged notes linked to worst-performing tech trio. Jefferies Financial Group Inc. has priced an offering of $1.185 million in Senior Autocallable Buffered Leveraged Notes. These notes, maturing on May 28, 2031, are linked to the performance of Alphabet Inc. (GOOGL), Microsoft Corporation (MSFT), and Tesla, Inc. (TSLA), specifically to the worst-performing of the trio. The notes offer a 200% participation rate on upside at maturity if the worst-performing underlying appreciates, with potential for early call on August 24, 2026, and significant principal loss risk if the worst-performing underlying declines below its threshold value.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.879732
+        },
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260527T182558",
+            "title": "Tesla's long-awaited Roadster will be built in Texas, executives say",
+            "summary": "Tesla executives have confirmed that the long-awaited Roadster, dubbed an \"all-electric supercar,\" will be built at Gigafactory Texas, signaling further investment in the Austin-area plant. The vehicle is expected to achieve 0-60 mph in 1.9 seconds, a top speed of 250 mph, and a 620-mile range. This marks the return of the Roadster, with its second generation having faced several production delays since its initial prototype in 2006.",
+            "text_to_analyze": "Tesla's long-awaited Roadster will be built in Texas, executives say. Tesla executives have confirmed that the long-awaited Roadster, dubbed an \"all-electric supercar,\" will be built at Gigafactory Texas, signaling further investment in the Austin-area plant. The vehicle is expected to achieve 0-60 mph in 1.9 seconds, a top speed of 250 mph, and a 620-mile range. This marks the return of the Roadster, with its second generation having faced several production delays since its initial prototype in 2006.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260527T181934",
+            "title": "Tesla is ready to resurrect its long-awaited Roadster at Gigafactory Texas, execs say",
+            "summary": "Tesla executives have confirmed that the next-generation Roadster, an all-electric supercar, will be produced at Gigafactory Texas. Chief Designer Franz von Holzhausen and engineering Vice President Lars Moravy stated that fans can expect developments in the coming months, signaling further investment in the Austin factory. This move adds a high-performance vehicle to the facility's current production of the Cybertruck, Model Y, and Cybercab, showcasing Tesla's continued expansion in Texas.",
+            "text_to_analyze": "Tesla is ready to resurrect its long-awaited Roadster at Gigafactory Texas, execs say. Tesla executives have confirmed that the next-generation Roadster, an all-electric supercar, will be produced at Gigafactory Texas. Chief Designer Franz von Holzhausen and engineering Vice President Lars Moravy stated that fans can expect developments in the coming months, signaling further investment in the Austin factory. This move adds a high-performance vehicle to the facility's current production of the Cybertruck, Model Y, and Cybercab, showcasing Tesla's continued expansion in Texas.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260527T163848",
+            "title": "EV insurance up 42.5% at SunCar as Tesla expands use, banks add chauffeur deals",
+            "summary": "SunCar Technology (NASDAQ: SDA) reported strong Q1 2026 financial results, achieving its third consecutive profitable quarter with revenue up 28% year-over-year to $131.2 million and net income of $1.6 million. The company saw significant growth in EV insurance premiums, surging 42.5% to $514.4 million, driven by expanded partnerships with major EV makers like Tesla and Xiaomi. SunCar also secured substantial multi-year contracts with prominent banks such as AgBank and Minsheng Bank for chauffeur and transportation services, projecting full-year 2026 revenue of approximately $600 million.",
+            "text_to_analyze": "EV insurance up 42.5% at SunCar as Tesla expands use, banks add chauffeur deals. SunCar Technology (NASDAQ: SDA) reported strong Q1 2026 financial results, achieving its third consecutive profitable quarter with revenue up 28% year-over-year to $131.2 million and net income of $1.6 million. The company saw significant growth in EV insurance premiums, surging 42.5% to $514.4 million, driven by expanded partnerships with major EV makers like Tesla and Xiaomi. SunCar also secured substantial multi-year contracts with prominent banks such as AgBank and Minsheng Bank for chauffeur and transportation services, projecting full-year 2026 revenue of approximately $600 million.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.641292
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-29",
+    "window_start": "2026-05-28 16:00",
+    "window_end": "2026-05-29 09:27",
+    "articles": [
+        {
+            "source": "TradingView",
+            "date": "20260529T090814",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS",
+            "summary": "This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS, NYSE:NKE) from multiple traders on TradingView. The ideas range from identifying potential bottoming formations and long setups based on Fibonacci retracements and support levels to bearish outlooks due to weak guidance and declining moving averages. Several contributors highlight the significance of recent insider buying and the stock's significant drop from its all-time highs as potential turnarounds, while others caution about continued downtrends and competition in key markets.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVL:NKEUS. This article compiles various trade ideas and technical analyses for NIKE, Inc. Class B (NKEUS, NYSE:NKE) from multiple traders on TradingView. The ideas range from identifying potential bottoming formations and long setups based on Fibonacci retracements and support levels to bearish outlooks due to weak guidance and declining moving averages. Several contributors highlight the significance of recent insider buying and the stock's significant drop from its all-time highs as potential turnarounds, while others caution about continued downtrends and competition in key markets.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.996893
+        }
+    ]
+}

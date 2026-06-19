@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-17",
+    "window_start": "2026-03-16 16:00",
+    "window_end": "2026-03-17 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260317T010924",
+            "title": "Target (NYSE: TGT) CAO covers tax obligations through share withholding",
+            "summary": "Target Corporation's Chief Accounting Officer, Matthew A. Liegel, settled tax obligations by withholding shares upon the vesting of restricted stock units. On two separate occasions in March 2026, a total of 617 shares were withheld, valued at $116.55 and $116.73 per share, respectively, under the company's 2020 Long-Term Incentive Plan. Following these transactions, Liegel directly holds 14,196 Target shares.",
+            "text_to_analyze": "Target (NYSE: TGT) CAO covers tax obligations through share withholding. Target Corporation's Chief Accounting Officer, Matthew A. Liegel, settled tax obligations by withholding shares upon the vesting of restricted stock units. On two separate occasions in March 2026, a total of 617 shares were withheld, valued at $116.55 and $116.73 per share, respectively, under the company's 2020 Long-Term Incentive Plan. Following these transactions, Liegel directly holds 14,196 Target shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Chain Store Age",
+            "date": "20260316T183814",
+            "title": "Target offers Circle loyalty members three-day spring savings event",
+            "summary": "Target is hosting a three-day \"Target Circle Days\" savings event from March 25-27, 2026, offering discounts of up to 50% on various items for its free Circle loyalty program members. Members of the paid Target Circle 360 tier will get early access on March 24. This event, which includes daily deals and incentives for new members, aims to provide value during the spring season and competes with Amazon's annual Big Spring Sale.",
+            "text_to_analyze": "Target offers Circle loyalty members three-day spring savings event. Target is hosting a three-day \"Target Circle Days\" savings event from March 25-27, 2026, offering discounts of up to 50% on various items for its free Circle loyalty program members. Members of the paid Target Circle 360 tier will get early access on March 24. This event, which includes daily deals and incentives for new members, aims to provide value during the spring season and competes with Amazon's annual Big Spring Sale.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Star Tribune",
+            "date": "20260316T180700",
+            "title": "Perry: Why I no longer shop at Target — and am not going back (yet)",
+            "summary": "The author explains why his family has stopped shopping at Target, citing concerns beyond the DEI boycott. He points to Target's decision to pull Pride merchandise and its silence regarding the detention of employees by ICE as reasons for their change in shopping habits. A marketing professor is quoted, stating that while customers can be lost due to \"moral violations,\" winning them back is very expensive and requires correctly diagnosing the underlying problem.",
+            "text_to_analyze": "Perry: Why I no longer shop at Target — and am not going back (yet). The author explains why his family has stopped shopping at Target, citing concerns beyond the DEI boycott. He points to Target's decision to pull Pride merchandise and its silence regarding the detention of employees by ICE as reasons for their change in shopping habits. A marketing professor is quoted, stating that while customers can be lost due to \"moral violations,\" winning them back is very expensive and requires correctly diagnosing the underlying problem.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

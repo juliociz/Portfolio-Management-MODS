@@ -1,0 +1,8 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-29",
+    "window_start": "2026-05-28 16:00",
+    "window_end": "2026-05-29 09:27",
+    "articles": []
+}

@@ -1,0 +1,63 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-22",
+    "window_start": "2026-05-21 16:00",
+    "window_end": "2026-05-22 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260522T083834",
+            "title": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cathie Wood",
+            "summary": "Cathie Wood highlighted the Tesla Model S as the catalyst for Elon Musk's revolution in AI, robotics, and space exploration, moving beyond just energy storage. This comes as SpaceX reveals a massive potential market including AI and prepares for an IPO, while Tesla shifts focus to its Optimus robot. The article also touches on concerns that SpaceX's IPO could impact Tesla shares.",
+            "text_to_analyze": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cathie Wood. Cathie Wood highlighted the Tesla Model S as the catalyst for Elon Musk's revolution in AI, robotics, and space exploration, moving beyond just energy storage. This comes as SpaceX reveals a massive potential market including AI and prepares for an IPO, while Tesla shifts focus to its Optimus robot. The article also touches on concerns that SpaceX's IPO could impact Tesla shares.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260522T072930",
+            "title": "Tesla to recall over 14,500 Model Y SUVs in US over missing weight certification label",
+            "summary": "Tesla is recalling 14,575 Model Y SUVs in the U.S. because a missing certification label could lead to customers overloading their vehicles, increasing the risk of a crash. The U.S. National Highway Traffic Safety Administration (NHTSA) stated there have been no reported collisions, fatalities, or injuries related to this issue, and Tesla will inspect and install the labels on affected cars.",
+            "text_to_analyze": "Tesla to recall over 14,500 Model Y SUVs in US over missing weight certification label. Tesla is recalling 14,575 Model Y SUVs in the U.S. because a missing certification label could lead to customers overloading their vehicles, increasing the risk of a crash. The U.S. National Highway Traffic Safety Administration (NHTSA) stated there have been no reported collisions, fatalities, or injuries related to this issue, and Tesla will inspect and install the labels on affected cars.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.963628
+        },
+        {
+            "source": "MSN",
+            "date": "20260522T021007",
+            "title": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2013",
+            "summary": "The REX TSLA Growth & Income ETF has announced a weekly distribution of $0.2013 per share. This distribution provides investors with income generated from the ETF's holdings related to Tesla.",
+            "text_to_analyze": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2013. The REX TSLA Growth & Income ETF has announced a weekly distribution of $0.2013 per share. This distribution provides investors with income generated from the ETF's holdings related to Tesla.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.902737
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260522T010839",
+            "title": "TSLA Stock Rises Premarket Despite Model Y Recalls — Retail Expects Musk To Reward Tesla Holders In 'Overpriced' IPO",
+            "summary": "Tesla (TSLA) stock rose premarket despite a recall of over 14,000 Model Y SUVs, as investors focused on Elon Musk's upcoming SpaceX IPO. Retail traders speculate that Musk will reward Tesla shareholders, citing his past comments and the significant overlap between his companies. While some are bullish on SpaceX's potential multi-trillion-dollar valuation, others express concerns about an \"overpriced\" IPO and the possibility of passive investors buying at inflated prices.",
+            "text_to_analyze": "TSLA Stock Rises Premarket Despite Model Y Recalls — Retail Expects Musk To Reward Tesla Holders In 'Overpriced' IPO. Tesla (TSLA) stock rose premarket despite a recall of over 14,000 Model Y SUVs, as investors focused on Elon Musk's upcoming SpaceX IPO. Retail traders speculate that Musk will reward Tesla shareholders, citing his past comments and the significant overlap between his companies. While some are bullish on SpaceX's potential multi-trillion-dollar valuation, others express concerns about an \"overpriced\" IPO and the possibility of passive investors buying at inflated prices.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260521T200944",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2123",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2123 per share. This announcement provides investors with details regarding the ex-dividend date, record date, and payment date for this distribution.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2123. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2123 per share. This announcement provides investors with details regarding the ex-dividend date, record date, and payment date for this distribution.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.801572
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260521T160857",
+            "title": "Testing Tesla Cybertruck's Wade Mode Got This Man Arrested—But What Exactly Is It And How Does It Work?",
+            "summary": "A Cybertruck owner was arrested in Texas after attempting to test the vehicle's 'Wade Mode' in Grapevine Lake, leading to the truck becoming disabled and partially submerged. This incident highlights the specific operational parameters and limitations of Tesla's Wade Mode, which is designed for shallow water crossings up to 32 inches deep for a maximum of 30 minutes, and explicitly states that water damage is not covered by warranty. The event also underscores the Cybertruck's struggle with sales, as it significantly underperformed Elon Musk's targeted production capacity.",
+            "text_to_analyze": "Testing Tesla Cybertruck's Wade Mode Got This Man Arrested—But What Exactly Is It And How Does It Work?. A Cybertruck owner was arrested in Texas after attempting to test the vehicle's 'Wade Mode' in Grapevine Lake, leading to the truck becoming disabled and partially submerged. This incident highlights the specific operational parameters and limitations of Tesla's Wade Mode, which is designed for shallow water crossings up to 32 inches deep for a maximum of 30 minutes, and explicitly states that water damage is not covered by warranty. The event also underscores the Cybertruck's struggle with sales, as it significantly underperformed Elon Musk's targeted production capacity.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

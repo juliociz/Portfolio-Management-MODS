@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-23",
+    "window_start": "2026-03-20 16:00",
+    "window_end": "2026-03-23 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260321T133804",
+            "title": "Nike Wholesale Rebound Offers New Clues On Turnaround Progress",
+            "summary": "Nike is showing early signs of a turnaround with a rebound in wholesale revenue, indicating management's efforts to mend relationships with partners and stabilize sales. This shift balances the previous direct-to-consumer focus with broader market reach amidst ongoing consumer demand and macroeconomic pressures. Investors should monitor whether this wholesale growth signifies healthy demand or relies on discounting, impacting clean inventories and profit margins, while also considering risks to profit margins and dividend coverage.",
+            "text_to_analyze": "Nike Wholesale Rebound Offers New Clues On Turnaround Progress. Nike is showing early signs of a turnaround with a rebound in wholesale revenue, indicating management's efforts to mend relationships with partners and stabilize sales. This shift balances the previous direct-to-consumer focus with broader market reach amidst ongoing consumer demand and macroeconomic pressures. Investors should monitor whether this wholesale growth signifies healthy demand or relies on discounting, impacting clean inventories and profit margins, while also considering risks to profit margins and dividend coverage.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

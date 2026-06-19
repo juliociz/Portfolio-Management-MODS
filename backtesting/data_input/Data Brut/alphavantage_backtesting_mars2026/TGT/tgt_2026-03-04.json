@@ -1,0 +1,108 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-04",
+    "window_start": "2026-03-03 16:00",
+    "window_end": "2026-03-04 09:27",
+    "articles": [
+        {
+            "source": "Finviz",
+            "date": "20260304T075114",
+            "title": "Target Corp. (TGT) Jumps 6.7% as Firm Turns to AI For Growth",
+            "summary": "Target Corporation (TGT) saw its stock jump 6.7% after announcing a strategic plan focused on AI adoption, store remodels, and increased capital expenditures to boost growth starting this year. This optimistic outlook comes despite a decline in net income and net sales for the previous fiscal year. The company plans to invest $5 billion and open 30 new stores this year, aiming for 300 new stores by 2035.",
+            "text_to_analyze": "Target Corp. (TGT) Jumps 6.7% as Firm Turns to AI For Growth. Target Corporation (TGT) saw its stock jump 6.7% after announcing a strategic plan focused on AI adoption, store remodels, and increased capital expenditures to boost growth starting this year. This optimistic outlook comes despite a decline in net income and net sales for the previous fiscal year. The company plans to invest $5 billion and open 30 new stores this year, aiming for 300 new stores by 2035.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260304T065108",
+            "title": "Target Corp. (TGT) Jumps 6.7% as Firm Turns to AI For Growth",
+            "summary": "Target Corporation (NYSE:TGT) saw its stock jump 6.74% after announcing plans to integrate AI, transform in-store layouts, and increase investments in technology and training to boost growth. This strategic shift comes despite a dismal earnings performance in 2025, with net income and net sales experiencing declines. The company plans $5 billion in capital expenditures for 2026, including opening 30 new stores as part of a larger plan to reach 300 new stores by 2035.",
+            "text_to_analyze": "Target Corp. (TGT) Jumps 6.7% as Firm Turns to AI For Growth. Target Corporation (NYSE:TGT) saw its stock jump 6.74% after announcing plans to integrate AI, transform in-store layouts, and increase investments in technology and training to boost growth. This strategic shift comes despite a dismal earnings performance in 2025, with net income and net sales experiencing declines. The company plans $5 billion in capital expenditures for 2026, including opening 30 new stores as part of a larger plan to reach 300 new stores by 2035.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260304T035034",
+            "title": "Kroger (KR) Reports Earnings Tomorrow: What To Expect",
+            "summary": "Kroger (KR) is set to release its earnings results on Thursday morning, with analysts expecting a 2.1% year-on-year revenue growth after missing expectations last quarter. While the company's full-year EPS guidance exceeded expectations, it significantly missed analysts' EPS estimates. The stock has outperformed the non-discretionary retail segment recently, rising 8.9% over the last month, and holds an average analyst price target of $73.45.",
+            "text_to_analyze": "Kroger (KR) Reports Earnings Tomorrow: What To Expect. Kroger (KR) is set to release its earnings results on Thursday morning, with analysts expecting a 2.1% year-on-year revenue growth after missing expectations last quarter. While the company's full-year EPS guidance exceeded expectations, it significantly missed analysts' EPS estimates. The stock has outperformed the non-discretionary retail segment recently, rising 8.9% over the last month, and holds an average analyst price target of $73.45.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.638095
+        },
+        {
+            "source": "Finviz - Stock Screener",
+            "date": "20260304T031628",
+            "title": "Kroger (KR) Reports Earnings Tomorrow: What To Expect",
+            "summary": "Kroger (KR) is set to announce its earnings this Thursday morning, following a mixed previous quarter where it missed revenue but exceeded full-year EPS guidance. The market anticipates a 2.1% year-on-year revenue growth for Kroger, a significant turnaround from the previous year's decline. Despite general underperformance in the non-discretionary retail segment, Kroger's stock has risen by 8.9% over the last month, heading into earnings with an average analyst price target of $73.45.",
+            "text_to_analyze": "Kroger (KR) Reports Earnings Tomorrow: What To Expect. Kroger (KR) is set to announce its earnings this Thursday morning, following a mixed previous quarter where it missed revenue but exceeded full-year EPS guidance. The market anticipates a 2.1% year-on-year revenue growth for Kroger, a significant turnaround from the previous year's decline. Despite general underperformance in the non-discretionary retail segment, Kroger's stock has risen by 8.9% over the last month, heading into earnings with an average analyst price target of $73.45.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.612691
+        },
+        {
+            "source": "TradingView",
+            "date": "20260304T025038",
+            "title": "Kroger (KR) Reports Earnings Tomorrow: What To Expect",
+            "summary": "Kroger (KR) is set to announce its earnings this Thursday morning. Analysts expect a 2.1% year-on-year revenue growth, a turnaround from last year's decrease, despite the company having missed Wall Street's revenue estimates multiple times in the past two years. The stock currently trades below the average analyst price target of $73.45, having outperformed the non-discretionary retail segment over the last month.",
+            "text_to_analyze": "Kroger (KR) Reports Earnings Tomorrow: What To Expect. Kroger (KR) is set to announce its earnings this Thursday morning. Analysts expect a 2.1% year-on-year revenue growth, a turnaround from last year's decrease, despite the company having missed Wall Street's revenue estimates multiple times in the past two years. The stock currently trades below the average analyst price target of $73.45, having outperformed the non-discretionary retail segment over the last month.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.611727
+        },
+        {
+            "source": "Finviz",
+            "date": "20260304T014800",
+            "title": "Best Buy (BBY) Climbs 7% as Earnings Impress",
+            "summary": "Best Buy (BBY) saw its stock climb 7% after reporting strong earnings for fiscal year 2026, with net income increasing by 15% to $1.07 billion. While revenues were flat at $41.7 billion, the company's profitability impressed investors, particularly a 362% surge in net income for the three months ending January 2026. Best Buy provided fiscal year 2027 guidance targeting revenues between $41.2 billion and $42.1 billion, and adjusted diluted earnings per share of $6.30 to $6.60.",
+            "text_to_analyze": "Best Buy (BBY) Climbs 7% as Earnings Impress. Best Buy (BBY) saw its stock climb 7% after reporting strong earnings for fiscal year 2026, with net income increasing by 15% to $1.07 billion. While revenues were flat at $41.7 billion, the company's profitability impressed investors, particularly a 362% surge in net income for the three months ending January 2026. Best Buy provided fiscal year 2027 guidance targeting revenues between $41.2 billion and $42.1 billion, and adjusted diluted earnings per share of $6.30 to $6.60.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.603777
+        },
+        {
+            "source": "CDF Labor Law LLP",
+            "date": "20260304T005109",
+            "title": "Target’s Defeat Of Class Certification Emphasizes The Role Of Proof",
+            "summary": "Target recently defeated class certification in a federal court case alleging various wage and hour violations. The court's decision highlighted the critical need for plaintiffs to provide sufficient and specific evidence to meet class certification requirements, particularly regarding numerosity and the predominance of common issues over individual ones. This outcome underscores the importance of rigorous evidentiary scrutiny for defense counsel and emphasizes the need for employers to maintain legally compliant policies.",
+            "text_to_analyze": "Target’s Defeat Of Class Certification Emphasizes The Role Of Proof. Target recently defeated class certification in a federal court case alleging various wage and hour violations. The court's decision highlighted the critical need for plaintiffs to provide sufficient and specific evidence to meet class certification requirements, particularly regarding numerosity and the predominance of common issues over individual ones. This outcome underscores the importance of rigorous evidentiary scrutiny for defense counsel and emphasizes the need for employers to maintain legally compliant policies.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Morningstar",
+            "date": "20260303T225205",
+            "title": "MongoDB Earnings: Revenue Growth Losing Speed as Go-to-Market Leadership Restructures",
+            "summary": "MongoDB finished fiscal 2026 with strong revenue growth and improved operating margins, but its soft fiscal 2027 guidance and unexpected leadership changes caused shares to drop significantly. The restructuring of its go-to-market leadership, including the departure of key executives, is ill-timed, especially as enterprises show increased interest in data infrastructure for AI readiness. Despite the challenges, Morningstar maintains its $303 fair value estimate, viewing the stock as undervalued post-selloff and optimistic about AI-led growth opportunities, assuming the company can effectively target a broader audience for its RAG pipeline.",
+            "text_to_analyze": "MongoDB Earnings: Revenue Growth Losing Speed as Go-to-Market Leadership Restructures. MongoDB finished fiscal 2026 with strong revenue growth and improved operating margins, but its soft fiscal 2027 guidance and unexpected leadership changes caused shares to drop significantly. The restructuring of its go-to-market leadership, including the departure of key executives, is ill-timed, especially as enterprises show increased interest in data infrastructure for AI readiness. Despite the challenges, Morningstar maintains its $303 fair value estimate, viewing the stock as undervalued post-selloff and optimistic about AI-led growth opportunities, assuming the company can effectively target a broader audience for its RAG pipeline.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.614142
+        },
+        {
+            "source": "CDF Labor Law LLP",
+            "date": "20260303T203824",
+            "title": "Target’s Defeat Of Class Certification Emphasizes The Role Of Proof",
+            "summary": "Target Corporation successfully defeated class certification in a federal lawsuit alleging various wage and hour violations, including unpaid meal break premiums and uncompensated work time. The court's decision highlighted the critical importance of presenting robust evidence for class certification, particularly concerning numerosity and commonality. This case serves as a key reminder for defense counsel to scrutinize plaintiffs' evidence and for employers to maintain compliant wage and hour policies.",
+            "text_to_analyze": "Target’s Defeat Of Class Certification Emphasizes The Role Of Proof. Target Corporation successfully defeated class certification in a federal lawsuit alleging various wage and hour violations, including unpaid meal break premiums and uncompensated work time. The court's decision highlighted the critical importance of presenting robust evidence for class certification, particularly concerning numerosity and commonality. This case serves as a key reminder for defense counsel to scrutinize plaintiffs' evidence and for employers to maintain compliant wage and hour policies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.313995
+        },
+        {
+            "source": "StocksToTrade",
+            "date": "20260303T184948",
+            "title": "Best Buy Faces Challenges Amid Price Target Adjustments",
+            "summary": "Best Buy's stock has risen by 7.13% due to positive earnings, but faces challenges with analysts lowering price targets and concerns over a tough holiday season. While some analysts maintain positive outlooks, others anticipate declines in sales and traffic issues affecting home-related spending. The company is navigating market adjustments with a focus on strategic recalibrations and new product launches to balance the outlook.",
+            "text_to_analyze": "Best Buy Faces Challenges Amid Price Target Adjustments. Best Buy's stock has risen by 7.13% due to positive earnings, but faces challenges with analysts lowering price targets and concerns over a tough holiday season. While some analysts maintain positive outlooks, others anticipate declines in sales and traffic issues affecting home-related spending. The company is navigating market adjustments with a focus on strategic recalibrations and new product launches to balance the outlook.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.641998
+        },
+        {
+            "source": "Transport Topics",
+            "date": "20260303T173000",
+            "title": "Target Raises Outlook as New CEO Pushes Revamp",
+            "summary": "Target's new CEO, Michael Fiddelke, is setting ambitious goals for the company, expecting net sales growth this year after a three-year slump. The retailer plans to revitalize its offerings with new food products, in-store beauty services, and an expanded baby department, aiming to regain market share. Despite some skepticism regarding the uniqueness of the strategy compared to past efforts, the company emphasizes a return to design-led differentiation and enhanced customer experience.",
+            "text_to_analyze": "Target Raises Outlook as New CEO Pushes Revamp. Target's new CEO, Michael Fiddelke, is setting ambitious goals for the company, expecting net sales growth this year after a three-year slump. The retailer plans to revitalize its offerings with new food products, in-store beauty services, and an expanded baby department, aiming to regain market share. Despite some skepticism regarding the uniqueness of the strategy compared to past efforts, the company emphasizes a return to design-led differentiation and enhanced customer experience.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.970588
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-16",
+    "window_start": "2026-03-13 16:00",
+    "window_end": "2026-03-16 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260316T072805",
+            "title": "Ameriprise Financial Inc. Has $429.72 Million Holdings in NIKE, Inc. $NKE",
+            "summary": "Ameriprise Financial Inc. significantly increased its stake in NIKE, Inc. during the third quarter, now holding over 6.2 million shares valued at $429.72 million. This comes as NIKE receives mixed sentiment from Wall Street analysts, with some restating \"outperform\" ratings and others lowering price targets. The company recently announced a quarterly dividend and saw insider buying activity.",
+            "text_to_analyze": "Ameriprise Financial Inc. Has $429.72 Million Holdings in NIKE, Inc. $NKE. Ameriprise Financial Inc. significantly increased its stake in NIKE, Inc. during the third quarter, now holding over 6.2 million shares valued at $429.72 million. This comes as NIKE receives mixed sentiment from Wall Street analysts, with some restating \"outperform\" ratings and others lowering price targets. The company recently announced a quarterly dividend and saw insider buying activity.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260316T030807",
+            "title": "NIKE, Inc. Stock (ISIN: US6541061031) Hits Multi-Year Lows Amid Turnaround Push",
+            "summary": "NIKE, Inc. stock recently hit multi-year lows, closing at $53.98, reflecting a 23.78% annual decline amidst weakening consumer demand and competitive pressures. Despite a recent upgrade from Barclays to Overweight with a $73 target, the company is implementing a turnaround strategy focused on innovation, supply chain resilience, and direct-to-consumer sales. Regional performance varies significantly, with North America stabilizing while Greater China and APLA lag, underscoring the challenges and opportunities for the sportswear giant.",
+            "text_to_analyze": "NIKE, Inc. Stock (ISIN: US6541061031) Hits Multi-Year Lows Amid Turnaround Push. NIKE, Inc. stock recently hit multi-year lows, closing at $53.98, reflecting a 23.78% annual decline amidst weakening consumer demand and competitive pressures. Despite a recent upgrade from Barclays to Overweight with a $73 target, the company is implementing a turnaround strategy focused on innovation, supply chain resilience, and direct-to-consumer sales. Regional performance varies significantly, with North America stabilizing while Greater China and APLA lag, underscoring the challenges and opportunities for the sportswear giant.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260315T155043",
+            "title": "NIKE, Inc. Stock (ISIN: US6541061031) Shows Rebound Momentum on Barclays Upgrade Near 52-Week Lows",
+            "summary": "NIKE, Inc. stock is showing early rebound signals after Barclays upgraded it to Overweight with a $73 price target, despite trading near 52-week lows. The upgrade highlights operational progress, including North America's stabilization and robust Q3 results, positioning Nike as a potential value play ahead of its March 31 quarterly results. European investors, particularly those in the DACH region, are eyeing the stock on Xetra for its diversification benefits and potential for growth.",
+            "text_to_analyze": "NIKE, Inc. Stock (ISIN: US6541061031) Shows Rebound Momentum on Barclays Upgrade Near 52-Week Lows. NIKE, Inc. stock is showing early rebound signals after Barclays upgraded it to Overweight with a $73 price target, despite trading near 52-week lows. The upgrade highlights operational progress, including North America's stabilization and robust Q3 results, positioning Nike as a potential value play ahead of its March 31 quarterly results. European investors, particularly those in the DACH region, are eyeing the stock on Xetra for its diversification benefits and potential for growth.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Intellectia AI",
+            "date": "20260315T123959",
+            "title": "Latest BAMV ETF News Today | Earnings, Events & Price Alerts",
+            "summary": "This page provides current news, earnings, events, and price alerts for the BAMV ETF. It also lists recent relevant news articles, such as Corona Beer Maker discussing tariff impact and Nike's NFL partnership leading to stock gains. The page is hosted by Intellectia.AI, showcasing its AI trading platform features.",
+            "text_to_analyze": "Latest BAMV ETF News Today | Earnings, Events & Price Alerts. This page provides current news, earnings, events, and price alerts for the BAMV ETF. It also lists recent relevant news articles, such as Corona Beer Maker discussing tariff impact and Nike's NFL partnership leading to stock gains. The page is hosted by Intellectia.AI, showcasing its AI trading platform features.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.803229
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260314T235042",
+            "title": "NIKE, Inc. Stock (ISIN: US6541061031) Slides Amid Volatility as Barclays Sees Recovery Bottom",
+            "summary": "NIKE, Inc. stock (ISIN: US6541061031) experienced a 2.9% drop despite beating recent earnings estimates and an upgrade from Barclays to Overweight with a $73 price target, citing a \"fundamental bottom\" and operational progress. The stock's decline is influenced by ongoing market volatility and challenges in Greater China and Converse, even as insiders show confidence through significant share purchases. European investors, particularly in the DACH region, track NIKE's performance on Xetra, considering currency risks and the resilience of sportswear demand.",
+            "text_to_analyze": "NIKE, Inc. Stock (ISIN: US6541061031) Slides Amid Volatility as Barclays Sees Recovery Bottom. NIKE, Inc. stock (ISIN: US6541061031) experienced a 2.9% drop despite beating recent earnings estimates and an upgrade from Barclays to Overweight with a $73 price target, citing a \"fundamental bottom\" and operational progress. The stock's decline is influenced by ongoing market volatility and challenges in Greater China and Converse, even as insiders show confidence through significant share purchases. European investors, particularly in the DACH region, track NIKE's performance on Xetra, considering currency risks and the resilience of sportswear demand.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260314T183902",
+            "title": "Barclays (ATMP) $3.625M autocallable notes pay 15.40% coupon",
+            "summary": "Barclays PLC is offering $3.625 million in Trigger Autocallable Contingent Yield Notes due March 15, 2029, linked to the performance of NIKE Inc. (NKE), Starbucks Corporation (SBUX), and Constellation Brands Inc. (STZ). These notes offer a quarterly contingent coupon of 15.40% per annum if each underlying meets its coupon barrier and can be autocalled early if all underlyings reach or exceed their trade-date closing prices. Investors face potential for partial or total loss of principal at maturity if the least performing underlying falls below a 60% downside threshold, and the notes are subject to Barclays' credit risk and U.K. bail-in powers.",
+            "text_to_analyze": "Barclays (ATMP) $3.625M autocallable notes pay 15.40% coupon. Barclays PLC is offering $3.625 million in Trigger Autocallable Contingent Yield Notes due March 15, 2029, linked to the performance of NIKE Inc. (NKE), Starbucks Corporation (SBUX), and Constellation Brands Inc. (STZ). These notes offer a quarterly contingent coupon of 15.40% per annum if each underlying meets its coupon barrier and can be autocalled early if all underlyings reach or exceed their trade-date closing prices. Investors face potential for partial or total loss of principal at maturity if the least performing underlying falls below a 60% downside threshold, and the notes are subject to Barclays' credit risk and U.K. bail-in powers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.995898
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260313T232651",
+            "title": "NIKE, Inc. Stock (ISIN: US6541061031) Slides Amid Volatility as Barclays Sees Recovery Bottom",
+            "summary": "NIKE, Inc. stock (ISIN: US6541061031) experienced a 2.9% dip despite a recent earnings beat and an analyst upgrade from Barclays to Overweight with a $73 target. The market is weighing insider buying against persistent challenges in Greater China and Converse, while analysts remain largely optimistic about a \"fundamental bottom\" and operational turnaround, especially in North America. European investors can access the stock via Xetra, with dividend yields providing attractive euro-denominated income, though potential risks include prolonged consumer weakness and currency volatility.",
+            "text_to_analyze": "NIKE, Inc. Stock (ISIN: US6541061031) Slides Amid Volatility as Barclays Sees Recovery Bottom. NIKE, Inc. stock (ISIN: US6541061031) experienced a 2.9% dip despite a recent earnings beat and an analyst upgrade from Barclays to Overweight with a $73 target. The market is weighing insider buying against persistent challenges in Greater China and Converse, while analysts remain largely optimistic about a \"fundamental bottom\" and operational turnaround, especially in North America. European investors can access the stock via Xetra, with dividend yields providing attractive euro-denominated income, though potential risks include prolonged consumer weakness and currency volatility.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

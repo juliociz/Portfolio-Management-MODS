@@ -1,0 +1,126 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-18",
+    "window_start": "2026-05-15 16:00",
+    "window_end": "2026-05-18 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260518T082340",
+            "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says",
+            "summary": "A YouTuber has called for Elon Musk to explain two recent low-speed crashes involving Tesla's Supervised Robotaxis in Austin, as revealed by unredacted NHTSA documents. These incidents, which occurred since July 2025 and involved no injuries or passengers, involved a teleoperator error. The news comes as Tesla continues production of its Cybercab amidst ongoing testing and criticism regarding its robotaxi technology compared to Waymo.",
+            "text_to_analyze": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says. A YouTuber has called for Elon Musk to explain two recent low-speed crashes involving Tesla's Supervised Robotaxis in Austin, as revealed by unredacted NHTSA documents. These incidents, which occurred since July 2025 and involved no injuries or passengers, involved a teleoperator error. The news comes as Tesla continues production of its Cybercab amidst ongoing testing and criticism regarding its robotaxi technology compared to Waymo.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260518T074059",
+            "title": "Tesla Insider Sold Shares Worth $1,350,000, According to a Recent SEC Filing",
+            "summary": "This article reports on a recent SEC filing indicating that a Tesla insider sold shares worth $1,350,000. It highlights key details from the filing including the transaction date, number of shares sold, and the price per share. The report underscores the importance of monitoring insider trading activities for potential insights into a company's prospects.",
+            "text_to_analyze": "Tesla Insider Sold Shares Worth $1,350,000, According to a Recent SEC Filing. This article reports on a recent SEC filing indicating that a Tesla insider sold shares worth $1,350,000. It highlights key details from the filing including the transaction date, number of shares sold, and the price per share. The report underscores the importance of monitoring insider trading activities for potential insights into a company's prospects.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260518T071200",
+            "title": "2,180 Shares in Tesla, Inc. $TSLA Acquired by Aegis Wealth Management Inc.",
+            "summary": "Aegis Wealth Management Inc. recently acquired 2,180 shares of Tesla (NASDAQ:TSLA) valued at approximately $980,000, making it their 28th largest position. This adds to significant institutional ownership, with firms like Vanguard and State Street also increasing their stakes. Despite beating EPS estimates, Tesla's revenue was below expectations, and analysts currently rate the stock as a \"Hold\" with an average target price of $395.20.",
+            "text_to_analyze": "2,180 Shares in Tesla, Inc. $TSLA Acquired by Aegis Wealth Management Inc.. Aegis Wealth Management Inc. recently acquired 2,180 shares of Tesla (NASDAQ:TSLA) valued at approximately $980,000, making it their 28th largest position. This adds to significant institutional ownership, with firms like Vanguard and State Street also increasing their stakes. Despite beating EPS estimates, Tesla's revenue was below expectations, and analysts currently rate the stock as a \"Hold\" with an average target price of $395.20.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260518T060825",
+            "title": "TSLA stock slips overnight: Gene Munster sees over 50% odds of Tesla-SpaceX AI powerhouse merger",
+            "summary": "Gene Munster, managing partner at Deepwater Asset Management, speculates that there is over a 50% chance of a merger between Tesla and SpaceX within the next 5-10 years. He believes such a merger would create an AI powerhouse, benefiting from shared leadership under Elon Musk and shared technologies. This speculation comes as Tesla's stock experienced a slight overnight dip.",
+            "text_to_analyze": "TSLA stock slips overnight: Gene Munster sees over 50% odds of Tesla-SpaceX AI powerhouse merger. Gene Munster, managing partner at Deepwater Asset Management, speculates that there is over a 50% chance of a merger between Tesla and SpaceX within the next 5-10 years. He believes such a merger would create an AI powerhouse, benefiting from shared leadership under Elon Musk and shared technologies. This speculation comes as Tesla's stock experienced a slight overnight dip.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.937088
+        },
+        {
+            "source": "TipRanks",
+            "date": "20260518T060749",
+            "title": "Trump Says He “Should Have Asked for More” on Intel as INTC’s 300% Rally Faces Wall Street Caution",
+            "summary": "Donald Trump commented that he should have negotiated for a larger stake in Intel (INTC) after the U.S. acquired a nearly 10% holding, which has since seen the stock surge over 300%. Intel is now perceived as a U.S.-backed AI chip player, benefiting from renewed interest in CPUs for AI data centers and major deals with companies like Apple and Tesla. Despite this impressive rally, Wall Street remains cautious, with a consensus Hold rating and an average price target suggesting a 22% downside.",
+            "text_to_analyze": "Trump Says He “Should Have Asked for More” on Intel as INTC’s 300% Rally Faces Wall Street Caution. Donald Trump commented that he should have negotiated for a larger stake in Intel (INTC) after the U.S. acquired a nearly 10% holding, which has since seen the stock surge over 300%. Intel is now perceived as a U.S.-backed AI chip player, benefiting from renewed interest in CPUs for AI data centers and major deals with companies like Apple and Tesla. Despite this impressive rally, Wall Street remains cautious, with a consensus Hold rating and an average price target suggesting a 22% downside.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.624745
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260517T145130",
+            "title": "Tesla Model Y as a family EV: range, charging, safety",
+            "summary": "The Tesla Model Y is highlighted as a popular electric compact SUV in the US, appealing to families and commuters due to its long range, fast charging via the Supercharger network, and advanced safety features. This article details its market position, technical specifications, and consumer benefits, emphasizing its role in the transition from gasoline to electric vehicles. It also touches upon current discussions, FAQs, and the Model Y's impact on the automotive industry.",
+            "text_to_analyze": "Tesla Model Y as a family EV: range, charging, safety. The Tesla Model Y is highlighted as a popular electric compact SUV in the US, appealing to families and commuters due to its long range, fast charging via the Supercharger network, and advanced safety features. This article details its market position, technical specifications, and consumer benefits, emphasizing its role in the transition from gasoline to electric vehicles. It also touches upon current discussions, FAQs, and the Model Y's impact on the automotive industry.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260517T130842",
+            "title": "This Week In Tesla: Elon Musk's EV Giant Falls Out Of Top 10 EV Makers, Gavin Newsom's Semi Truck Boost",
+            "summary": "This article covers recent events concerning Tesla, including Governor Gavin Newsom's $1 billion EV incentive program benefiting the Tesla Semi, and Tesla's affordable financing options introduced in China to counter domestic sales dips. It also highlights a reported drop in North American EV demand, challenges faced by Tesla's Robotaxi services and FSD feedback system, and Ford's new battery storage initiative poised to compete with Tesla. Additionally, Chinese authorities are investigating EV makers, including Tesla, over claims of reduced range after a software update.",
+            "text_to_analyze": "This Week In Tesla: Elon Musk's EV Giant Falls Out Of Top 10 EV Makers, Gavin Newsom's Semi Truck Boost. This article covers recent events concerning Tesla, including Governor Gavin Newsom's $1 billion EV incentive program benefiting the Tesla Semi, and Tesla's affordable financing options introduced in China to counter domestic sales dips. It also highlights a reported drop in North American EV demand, challenges faced by Tesla's Robotaxi services and FSD feedback system, and Ford's new battery storage initiative poised to compete with Tesla. Additionally, Chinese authorities are investigating EV makers, including Tesla, over claims of reduced range after a software update.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TipRanks",
+            "date": "20260517T034928",
+            "title": "Howard Hughes Medical Institute boosts Tesla stake by 40,574 shares",
+            "summary": "Howard Hughes Medical Institute, managed by Erin OShea, has increased its stake in Tesla (TSLA) by 40,574 shares. TipRanks' AI Analyst, Spark, assesses TSLA as Neutral due to strong financials tempered by compressed profitability and high valuation, with mixed technicals and long-term initiatives facing near-term cash flow pressures. Tesla's Year-to-Date price performance is -6.11%, with a current market cap of $1585.8 billion.",
+            "text_to_analyze": "Howard Hughes Medical Institute boosts Tesla stake by 40,574 shares. Howard Hughes Medical Institute, managed by Erin OShea, has increased its stake in Tesla (TSLA) by 40,574 shares. TipRanks' AI Analyst, Spark, assesses TSLA as Neutral due to strong financials tempered by compressed profitability and high valuation, with mixed technicals and long-term initiatives facing near-term cash flow pressures. Tesla's Year-to-Date price performance is -6.11%, with a current market cap of $1585.8 billion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo",
+            "date": "20260516T153825",
+            "title": "Ron DeSantis Admits Tesla's Are Undeniably 'Top-Notch Products' But Rejects The Idea That 'EVs Will Save The World'",
+            "summary": "Florida Gov. Ron DeSantis praised Tesla vehicles as \"absolutely top-notch products\" acknowledging their technology and performance-driven customer loyalty. However, he reiterated his opposition to electric vehicle mandates, stating that he rejects the idea that \"EVs will save the world\" and prefers traditional engines. DeSantis emphasized that Tesla's success is a result of market dynamics and technological appeal rather than government intervention.",
+            "text_to_analyze": "Ron DeSantis Admits Tesla's Are Undeniably 'Top-Notch Products' But Rejects The Idea That 'EVs Will Save The World'. Florida Gov. Ron DeSantis praised Tesla vehicles as \"absolutely top-notch products\" acknowledging their technology and performance-driven customer loyalty. However, he reiterated his opposition to electric vehicle mandates, stating that he rejects the idea that \"EVs will save the world\" and prefers traditional engines. DeSantis emphasized that Tesla's success is a result of market dynamics and technological appeal rather than government intervention.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.976833
+        },
+        {
+            "source": "Reuters",
+            "date": "20260516T140836",
+            "title": "Tesla raises prices of Model Y cars in the US for the first time in two years",
+            "summary": "Tesla has increased the prices of its Model Y cars in the United States for the first time in two years, with increments ranging from $500 to $1,000 for various models. The company's website shows the Model Y premium all-wheel drive and premium rear-wheel drive increasing by $1,000, while the Model Y Performance all-wheel drive rose by $500. Tesla did not provide a reason for the price hike, which follows a significant price increase for its Cybertruck last year.",
+            "text_to_analyze": "Tesla raises prices of Model Y cars in the US for the first time in two years. Tesla has increased the prices of its Model Y cars in the United States for the first time in two years, with increments ranging from $500 to $1,000 for various models. The company's website shows the Model Y premium all-wheel drive and premium rear-wheel drive increasing by $1,000, while the Model Y Performance all-wheel drive rose by $500. Tesla did not provide a reason for the price hike, which follows a significant price increase for its Cybertruck last year.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260516T094017",
+            "title": "Rivian Automotive, Inc. Class A Trade Ideas — LSX:A3C47B",
+            "summary": "This article compiles several trade ideas and analyses for Rivian Automotive, Inc. (LSX:A3C47B, NASDAQ:RIVN) from various traders. It discusses recent stock performance, technical indicators, and fundamental analysis, noting Rivian's recent stock price increase, exceeding delivery expectations, and an agreement with Tesla for charging access, but also highlights concerns about its valuation, profitability, and competition. Traders offer both long and short positions based on technical patterns, market sentiment, and upcoming earnings.",
+            "text_to_analyze": "Rivian Automotive, Inc. Class A Trade Ideas — LSX:A3C47B. This article compiles several trade ideas and analyses for Rivian Automotive, Inc. (LSX:A3C47B, NASDAQ:RIVN) from various traders. It discusses recent stock performance, technical indicators, and fundamental analysis, noting Rivian's recent stock price increase, exceeding delivery expectations, and an agreement with Tesla for charging access, but also highlights concerns about its valuation, profitability, and competition. Traders offer both long and short positions based on technical patterns, market sentiment, and upcoming earnings.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.706686
+        },
+        {
+            "source": "CleanTechnica",
+            "date": "20260515T175135",
+            "title": "Will Investors Still Love The Tesla Brand If It’s Not An Electric Vehicle Company?",
+            "summary": "The article discusses how Tesla's mission has evolved beyond just electric vehicles, focusing on robotaxis and AI under Elon Musk's leadership. It questions whether this shift, combined with Musk's complex international dealings and financial challenges, will impact investor loyalty for the Tesla brand despite his extensive network of companies and ventures. The author highlights the increasing capital expenditures and controversial issues surrounding Musk, which may affect Tesla's future as a software-centric company.",
+            "text_to_analyze": "Will Investors Still Love The Tesla Brand If It’s Not An Electric Vehicle Company?. The article discusses how Tesla's mission has evolved beyond just electric vehicles, focusing on robotaxis and AI under Elon Musk's leadership. It questions whether this shift, combined with Musk's complex international dealings and financial challenges, will impact investor loyalty for the Tesla brand despite his extensive network of companies and ventures. The author highlights the increasing capital expenditures and controversial issues surrounding Musk, which may affect Tesla's future as a software-centric company.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260515T163842",
+            "title": "Ford Stock Extends Rally As Morgan Stanley Sees $10 Billion Energy Opportunity",
+            "summary": "Ford Motor Company's stock rallied after Morgan Stanley estimated its new Ford Energy subsidiary, focusing on energy storage, could be worth $10 billion. This initiative, which includes a partnership with CATL for battery technology, positions Ford to compete with Tesla in grid and home storage. Morgan Stanley projects the business to be EBIT profitable by 2028 with potential for significant gross margins, and the stock is showing bullish technical indicators.",
+            "text_to_analyze": "Ford Stock Extends Rally As Morgan Stanley Sees $10 Billion Energy Opportunity. Ford Motor Company's stock rallied after Morgan Stanley estimated its new Ford Energy subsidiary, focusing on energy storage, could be worth $10 billion. This initiative, which includes a partnership with CATL for battery technology, positions Ford to compete with Tesla in grid and home storage. Morgan Stanley projects the business to be EBIT profitable by 2028 with potential for significant gross margins, and the stock is showing bullish technical indicators.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.723546
+        }
+    ]
+}

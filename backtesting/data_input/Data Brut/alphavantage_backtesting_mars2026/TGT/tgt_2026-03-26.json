@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-26",
+    "window_start": "2026-03-25 16:00",
+    "window_end": "2026-03-26 09:27",
+    "articles": [
+        {
+            "source": "The Business Journals",
+            "date": "20260326T010822",
+            "title": "Target to tighten store dress code, restrict shirt colors - Bizwomen",
+            "summary": "Target Corp. is set to implement stricter dress code rules for its store employees this summer, requiring specific red shirts, limiting logo sizes, and defining acceptable bottom wear. While the company will provide one free shirt and a denim discount, specialized roles will retain their current dress codes. This change, along with a boosted employee discount on owned brands, comes under the leadership of new CEO Michael Fiddelke.",
+            "text_to_analyze": "Target to tighten store dress code, restrict shirt colors - Bizwomen. Target Corp. is set to implement stricter dress code rules for its store employees this summer, requiring specific red shirts, limiting logo sizes, and defining acceptable bottom wear. While the company will provide one free shirt and a denim discount, specialized roles will retain their current dress codes. This change, along with a boosted employee discount on owned brands, comes under the leadership of new CEO Michael Fiddelke.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260325T210919",
+            "title": "Target to tighten store dress code, restrict shirt colors - Bizwomen",
+            "summary": "Target Corporation is implementing a new, stricter dress code for its store employees, effective this summer. The updated policy requires workers to wear explicitly red shirts, disallowing shades like maroon or burgundy, and restricts large logos. Additionally, it specifies only khaki or blue denim bottoms are permitted and boosts the employee discount on Target-owned brands to 20%.",
+            "text_to_analyze": "Target to tighten store dress code, restrict shirt colors - Bizwomen. Target Corporation is implementing a new, stricter dress code for its store employees, effective this summer. The updated policy requires workers to wear explicitly red shirts, disallowing shades like maroon or burgundy, and restricts large logos. Additionally, it specifies only khaki or blue denim bottoms are permitted and boosts the employee discount on Target-owned brands to 20%.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260325T190826",
+            "title": "Target to tighten store dress code, restrict shirt colors - Bizwomen",
+            "summary": "Target Corp. is set to implement stricter dress code rules for its store employees this summer, requiring truly red shirts instead of maroon or burgundy, and limiting large logos. This change, overseen by new CEO Michael Fiddelke, is part of broader updates that also include offering one free red shirt, discounts on denim, and boosting employee discounts on owner-brand products by 20%. Specific roles like Ulta Beauty staff and security will retain their current dress codes.",
+            "text_to_analyze": "Target to tighten store dress code, restrict shirt colors - Bizwomen. Target Corp. is set to implement stricter dress code rules for its store employees this summer, requiring truly red shirts instead of maroon or burgundy, and limiting large logos. This change, overseen by new CEO Michael Fiddelke, is part of broader updates that also include offering one free red shirt, discounts on denim, and boosting employee discounts on owner-brand products by 20%. Specific roles like Ulta Beauty staff and security will retain their current dress codes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

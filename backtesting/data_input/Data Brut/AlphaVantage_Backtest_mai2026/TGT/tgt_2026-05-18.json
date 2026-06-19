@@ -1,0 +1,126 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-18",
+    "window_start": "2026-05-15 16:00",
+    "window_end": "2026-05-18 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260518T090937",
+            "title": "Northwestern Mutual Wealth Management Co. Has $83.90 Million Stake in DICK'S Sporting Goods, Inc. $DKS",
+            "summary": "Northwestern Mutual Wealth Management Co. significantly increased its stake in DICK'S Sporting Goods by 8,305% in Q4, now holding 452,271 shares valued at approximately $83.9 million. Other institutional investors like Bank of America, Wellington, and Vanguard also boosted their positions, contributing to institutional investors owning 89.83% of the company. DICK'S Sporting Goods reported strong quarterly results, raised its dividend to $1.25 per share, and maintains a \"Moderate Buy\" analyst rating with an average target price of $245.89.",
+            "text_to_analyze": "Northwestern Mutual Wealth Management Co. Has $83.90 Million Stake in DICK'S Sporting Goods, Inc. $DKS. Northwestern Mutual Wealth Management Co. significantly increased its stake in DICK'S Sporting Goods by 8,305% in Q4, now holding 452,271 shares valued at approximately $83.9 million. Other institutional investors like Bank of America, Wellington, and Vanguard also boosted their positions, contributing to institutional investors owning 89.83% of the company. DICK'S Sporting Goods reported strong quarterly results, raised its dividend to $1.25 per share, and maintains a \"Moderate Buy\" analyst rating with an average target price of $245.89.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.588808
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260518T003359",
+            "title": "Target Corp. stock (US87612E1064): Investors focus on Q1 2027 earnings update",
+            "summary": "Target Corp. is preparing to release its Q1 2027 earnings on May 20, 2026, amid strong stock performance, with shares up over 20% year-to-date and trading near a 52-week high. Investors are keenly watching for updates on comparable sales, traffic, operating margins, and the retailer's ability to sustain its turnaround and margin recovery. The report will be critical in assessing whether recent strategic initiatives are effectively addressing consumer behavior shifts and cost pressures, with market sentiment highly susceptible to the guidance provided for the remainder of the fiscal year.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): Investors focus on Q1 2027 earnings update. Target Corp. is preparing to release its Q1 2027 earnings on May 20, 2026, amid strong stock performance, with shares up over 20% year-to-date and trading near a 52-week high. Investors are keenly watching for updates on comparable sales, traffic, operating margins, and the retailer's ability to sustain its turnaround and margin recovery. The report will be critical in assessing whether recent strategic initiatives are effectively addressing consumer behavior shifts and cost pressures, with market sentiment highly susceptible to the guidance provided for the remainder of the fiscal year.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260517T205335",
+            "title": "Target Corp stock (US8725901040): investors eye Q1 2027 earnings and solid year-to-date rally",
+            "summary": "Target Corp (TGT) has shown a strong year-to-date rally, trading significantly above its 2026 starting level with investors anticipating Q1 2027 earnings. The article examines Target's core business model, key revenue drivers, and competitive position in the US retail landscape. It emphasizes the company’s omnichannel strategy, broad product assortment, and sensitivity to consumer confidence as crucial aspects for investors to consider.",
+            "text_to_analyze": "Target Corp stock (US8725901040): investors eye Q1 2027 earnings and solid year-to-date rally. Target Corp (TGT) has shown a strong year-to-date rally, trading significantly above its 2026 starting level with investors anticipating Q1 2027 earnings. The article examines Target's core business model, key revenue drivers, and competitive position in the US retail landscape. It emphasizes the company’s omnichannel strategy, broad product assortment, and sensitivity to consumer confidence as crucial aspects for investors to consider.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barron's",
+            "date": "20260517T175947",
+            "title": "Home Sales, Nvidia, Walmart, Home Depot, Target, and More to Watch This Week",
+            "summary": "The S&P 500 index recorded its seventh consecutive weekly gain, marking its longest winning streak since late 2023. Despite a Friday slump, the index finished up 0.1% for the week, after achieving record-high closes on Monday, Wednesday, and Thursday. This article highlights key companies and economic data to monitor in the coming week, including home sales figures and the performance of Nvidia, Walmart, Home Depot, and Target.",
+            "text_to_analyze": "Home Sales, Nvidia, Walmart, Home Depot, Target, and More to Watch This Week. The S&P 500 index recorded its seventh consecutive weekly gain, marking its longest winning streak since late 2023. Despite a Friday slump, the index finished up 0.1% for the week, after achieving record-high closes on Monday, Wednesday, and Thursday. This article highlights key companies and economic data to monitor in the coming week, including home sales figures and the performance of Nvidia, Walmart, Home Depot, and Target.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.918276
+        },
+        {
+            "source": "TIKR.com",
+            "date": "20260517T174243",
+            "title": "Why HCA Healthcare Stock Appears to be a Buy After the Post-Earnings Drop to $423",
+            "summary": "HCA Healthcare's stock dropped 8% after its Q1 2026 earnings report, despite beating revenue and adjusted EPS estimates, primarily due to a shortfall in respiratory-related admissions caused by a mild flu season and a January winter storm. Analysts view this as a temporary, not structural, issue, with most maintaining Buy ratings and a mean target price suggesting significant upside. TIKR's valuation model also indicates the stock is undervalued, projecting an 82% total return potential.",
+            "text_to_analyze": "Why HCA Healthcare Stock Appears to be a Buy After the Post-Earnings Drop to $423. HCA Healthcare's stock dropped 8% after its Q1 2026 earnings report, despite beating revenue and adjusted EPS estimates, primarily due to a shortfall in respiratory-related admissions caused by a mild flu season and a January winter storm. Analysts view this as a temporary, not structural, issue, with most maintaining Buy ratings and a mean target price suggesting significant upside. TIKR's valuation model also indicates the stock is undervalued, projecting an 82% total return potential.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.647405
+        },
+        {
+            "source": "USA Today",
+            "date": "20260517T120839",
+            "title": "Target dropped an exclusive Stanley Stars & Stripes collection today",
+            "summary": "Target has released an exclusive limited-edition Stanley Stars & Stripes collection featuring red, white, and blue designs on various products, including the popular Quencher tumbler and a new Stay-Chill Pitcher. The collection was launched today, May 17, 2026, and is expected to sell out quickly before Memorial Day, celebrating America's 250th birthday. The article also provides details on how to shop the collection and information about Target Circle membership benefits.",
+            "text_to_analyze": "Target dropped an exclusive Stanley Stars & Stripes collection today. Target has released an exclusive limited-edition Stanley Stars & Stripes collection featuring red, white, and blue designs on various products, including the popular Quencher tumbler and a new Stay-Chill Pitcher. The collection was launched today, May 17, 2026, and is expected to sell out quickly before Memorial Day, celebrating America's 250th birthday. The article also provides details on how to shop the collection and information about Target Circle membership benefits.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AL.com",
+            "date": "20260517T120000",
+            "title": "National retailer spending $5 billion to remodel 130 stores",
+            "summary": "Target Corporation is investing $5 billion to remodel over 130 stores and open 30 new locations across the country. The initiative focuses on enhancing the in-store shopping experience through updated layouts, expanded product selections, and modernized amenities, while also strengthening digital fulfillment services. These upgrades will occur in key markets like Atlanta, Chicago, and Dallas, with specific features and timelines varying by location.",
+            "text_to_analyze": "National retailer spending $5 billion to remodel 130 stores. Target Corporation is investing $5 billion to remodel over 130 stores and open 30 new locations across the country. The initiative focuses on enhancing the in-store shopping experience through updated layouts, expanded product selections, and modernized amenities, while also strengthening digital fulfillment services. These upgrades will occur in key markets like Atlanta, Chicago, and Dallas, with specific features and timelines varying by location.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260517T093827",
+            "title": "Stephens Inc. AR Has $7.71 Million Holdings in Target Corporation $TGT",
+            "summary": "Stephens Inc. AR significantly increased its stake in Target Corporation by 362.8% in the fourth quarter, now owning 78,393 shares valued at $7.71 million. Despite mixed analyst ratings, with a consensus \"Hold\" and target price of $119.75, Target reported better-than-expected EPS of $2.44 and announced a quarterly dividend of $1.14, yielding 3.8%. Institutional investors collectively own 79.73% of the company's stock, though insider selling has also occurred.",
+            "text_to_analyze": "Stephens Inc. AR Has $7.71 Million Holdings in Target Corporation $TGT. Stephens Inc. AR significantly increased its stake in Target Corporation by 362.8% in the fourth quarter, now owning 78,393 shares valued at $7.71 million. Despite mixed analyst ratings, with a consensus \"Hold\" and target price of $119.75, Target reported better-than-expected EPS of $2.44 and announced a quarterly dividend of $1.14, yielding 3.8%. Institutional investors collectively own 79.73% of the company's stock, though insider selling has also occurred.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Northwest Arkansas Democrat-Gazette",
+            "date": "20260517T070335",
+            "title": "Dress codes: no way to fix what’s broken",
+            "summary": "This article argues that corporate crackdowns on employee dress codes by companies like Target and Starbucks are attempts by management to reassert control in an era of AI anxiety and layoffs. While dress codes can signal professionalism, the author contends they are often more about optics than solving real business problems, such as understaffing, and can decrease worker satisfaction. The piece suggests that genuine improvements come from substantive investments in employees, like better pay and staffing, rather than superficial directives on attire.",
+            "text_to_analyze": "Dress codes: no way to fix what’s broken. This article argues that corporate crackdowns on employee dress codes by companies like Target and Starbucks are attempts by management to reassert control in an era of AI anxiety and layoffs. While dress codes can signal professionalism, the author contends they are often more about optics than solving real business problems, such as understaffing, and can decrease worker satisfaction. The piece suggests that genuine improvements come from substantive investments in employees, like better pay and staffing, rather than superficial directives on attire.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.854059
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260517T034118",
+            "title": "Costco Verdict On Disability Discrimination Raises ESG And Valuation Questions",
+            "summary": "A federal jury has found Costco liable for disability discrimination, a verdict that includes damages and could lead to further legal costs. This ruling puts Costco's employment practices and ESG standing under scrutiny, raising questions for investors about potential financial impact, management attention, and the company's internal culture given its reliance on a large frontline workforce. The stock is currently trading below analyst targets but above its estimated fair value.",
+            "text_to_analyze": "Costco Verdict On Disability Discrimination Raises ESG And Valuation Questions. A federal jury has found Costco liable for disability discrimination, a verdict that includes damages and could lead to further legal costs. This ruling puts Costco's employment practices and ESG standing under scrutiny, raising questions for investors about potential financial impact, management attention, and the company's internal culture given its reliance on a large frontline workforce. The stock is currently trading below analyst targets but above its estimated fair value.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.645304
+        },
+        {
+            "source": "The Cool Down",
+            "date": "20260516T131027",
+            "title": "Popular snack mixes sold at Target and QVC recalled over salmonella threat",
+            "summary": "John B. Sanfilippo & Son has recalled various snack mixes sold at retailers like Target and QVC due to a salmonella threat. The recall stems from a seasoning ingredient linked to dry milk powder previously recalled by California Dairies Inc. Consumers are advised not to eat the affected products and to return them for a refund or replacement, especially given the potential health risks associated with salmonella.",
+            "text_to_analyze": "Popular snack mixes sold at Target and QVC recalled over salmonella threat. John B. Sanfilippo & Son has recalled various snack mixes sold at retailers like Target and QVC due to a salmonella threat. The recall stems from a seasoning ingredient linked to dry milk powder previously recalled by California Dairies Inc. Consumers are advised not to eat the affected products and to return them for a refund or replacement, especially given the potential health risks associated with salmonella.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.94877
+        },
+        {
+            "source": "Yahoo",
+            "date": "20260516T130000",
+            "title": "Popular snack mixes sold at Target and QVC recalled over salmonella threat",
+            "summary": "Popular snack mixes, including brands like Fisher and Good & Gather, sold at Target, QVC, and other retailers have been recalled due to a seasoning ingredient potentially contaminated with salmonella. The issue stems from dry milk powder previously recalled by California Dairies Inc. While no illnesses have been reported, consumers are advised not to eat the products and to return them for a refund, as salmonella can cause severe health issues, especially for vulnerable populations.",
+            "text_to_analyze": "Popular snack mixes sold at Target and QVC recalled over salmonella threat. Popular snack mixes, including brands like Fisher and Good & Gather, sold at Target, QVC, and other retailers have been recalled due to a seasoning ingredient potentially contaminated with salmonella. The issue stems from dry milk powder previously recalled by California Dairies Inc. While no illnesses have been reported, consumers are advised not to eat the products and to return them for a refund, as salmonella can cause severe health issues, especially for vulnerable populations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.970465
+        },
+        {
+            "source": "GoNintendo",
+            "date": "20260515T191004",
+            "title": "All-New Wave of Super Mario Galaxy Toys from JAKKS Pacific Coming Soon",
+            "summary": "JAKKS Pacific is launching a new wave of Super Mario Galaxy toys, inspired by The Super Mario Galaxy Movie, with the Chomping Wonder Bowser Jr. figure available for pre-order now at Target and Smyths. This expansion follows strong sales of initial movie merchandise and includes exclusive figures, playsets, and plush toys, with more products arriving at retailers in late summer 2026.",
+            "text_to_analyze": "All-New Wave of Super Mario Galaxy Toys from JAKKS Pacific Coming Soon. JAKKS Pacific is launching a new wave of Super Mario Galaxy toys, inspired by The Super Mario Galaxy Movie, with the Chomping Wonder Bowser Jr. figure available for pre-order now at Target and Smyths. This expansion follows strong sales of initial movie merchandise and includes exclusive figures, playsets, and plush toys, with more products arriving at retailers in late summer 2026.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.63301
+        }
+    ]
+}

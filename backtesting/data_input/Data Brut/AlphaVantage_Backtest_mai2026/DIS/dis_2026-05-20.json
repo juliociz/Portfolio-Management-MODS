@@ -1,0 +1,36 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-20",
+    "window_start": "2026-05-19 16:00",
+    "window_end": "2026-05-20 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260520T085630",
+            "title": "The Walt Disney Company (NYSE:DIS) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts",
+            "summary": "The Walt Disney Company (NYSE: DIS) has garnered a \"Moderate Buy\" consensus recommendation from 23 research firms, with an average 12-month price target of $134.47. The company recently exceeded quarterly earnings expectations with an EPS of $1.57 and revenue of $25.17 billion, a 6.5% year-over-year increase. Despite a new lawsuit concerning facial recognition, analysts have lifted some earnings estimates, and Disney has launched a \"Blockbuster Summer\" campaign to boost brand momentum.",
+            "text_to_analyze": "The Walt Disney Company (NYSE:DIS) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts. The Walt Disney Company (NYSE: DIS) has garnered a \"Moderate Buy\" consensus recommendation from 23 research firms, with an average 12-month price target of $134.47. The company recently exceeded quarterly earnings expectations with an EPS of $1.57 and revenue of $25.17 billion, a 6.5% year-over-year increase. Despite a new lawsuit concerning facial recognition, analysts have lifted some earnings estimates, and Disney has launched a \"Blockbuster Summer\" campaign to boost brand momentum.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260519T193743",
+            "title": "Disney and Epic Games Bring ‘Star Wars’ Stories to Fortnite Fans",
+            "summary": "Disney and Epic Games are partnering to integrate 'Star Wars' content into Fortnite, coinciding with the theatrical release of 'Star Wars: The Mandalorian and Grogu'. This collaboration includes a dedicated \"Watch Party Island\" in Fortnite featuring a sneak peek of the film and developer Q&A, and the release of a Star Wars Toolkit for creators. The initiative extends to Disney Parks attractions, aiming to provide interactive and immersive fan experiences across various platforms.",
+            "text_to_analyze": "Disney and Epic Games Bring ‘Star Wars’ Stories to Fortnite Fans. Disney and Epic Games are partnering to integrate 'Star Wars' content into Fortnite, coinciding with the theatrical release of 'Star Wars: The Mandalorian and Grogu'. This collaboration includes a dedicated \"Watch Party Island\" in Fortnite featuring a sneak peek of the film and developer Q&A, and the release of a Star Wars Toolkit for creators. The initiative extends to Disney Parks attractions, aiming to provide interactive and immersive fan experiences across various platforms.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260519T163725",
+            "title": "Hulu on Disney+ Just Got Better: What You Need to Know About Linking Your Profiles",
+            "summary": "Disney+ is enhancing the integration of Hulu content by allowing eligible bundle subscribers to link their Hulu profiles, bringing watch history, watchlists, and recommendations directly into Disney+. This change ensures a seamless viewing experience, with Hulu content appearing in personalized sections and a dedicated Hulu Hub on Disney+. Upcoming features also include a new Live Guide for Disney+ users.",
+            "text_to_analyze": "Hulu on Disney+ Just Got Better: What You Need to Know About Linking Your Profiles. Disney+ is enhancing the integration of Hulu content by allowing eligible bundle subscribers to link their Hulu profiles, bringing watch history, watchlists, and recommendations directly into Disney+. This change ensures a seamless viewing experience, with Hulu content appearing in personalized sections and a dedicated Hulu Hub on Disney+. Upcoming features also include a new Live Guide for Disney+ users.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

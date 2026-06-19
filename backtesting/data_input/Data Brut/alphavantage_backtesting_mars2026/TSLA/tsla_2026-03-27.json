@@ -1,0 +1,72 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-27",
+    "window_start": "2026-03-26 16:00",
+    "window_end": "2026-03-27 09:27",
+    "articles": [
+        {
+            "source": "Fast Company",
+            "date": "20260327T040956",
+            "title": "Musk vs. the ‘like’ button: Tesla CEO challenges judge over LinkedIn activity",
+            "summary": "Elon Musk's legal team has filed a motion for recusal against Delaware Chancery Court Chancellor Kathaleen McCormick, citing a LinkedIn \"like\" on a post critical of Musk as evidence of potential bias. McCormick has a history of ruling against Musk, including a significant Tesla pay package case. The judge claims the \"like\" was accidental or that she didn't click it and has locked her account.",
+            "text_to_analyze": "Musk vs. the ‘like’ button: Tesla CEO challenges judge over LinkedIn activity. Elon Musk's legal team has filed a motion for recusal against Delaware Chancery Court Chancellor Kathaleen McCormick, citing a LinkedIn \"like\" on a post critical of Musk as evidence of potential bias. McCormick has a history of ruling against Musk, including a significant Tesla pay package case. The judge claims the \"like\" was accidental or that she didn't click it and has locked her account.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.977082
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260327T004018",
+            "title": "Lemonade Stock Eyes Fourth Straight Weekly Win: CEO Says AI Insurer Is ‘On A Tear’ And Sees Profitability This Year",
+            "summary": "Lemonade, an AI-driven insurer, is poised for its fourth consecutive weekly gain, with CEO Daniel Schreiber announcing expectations for profitability this year. The company's AI platform efficiently handles most claims and policy issuances, and it has expanded into underserved segments by attracting first-time insurance buyers. Additionally, Lemonade's partnership with Tesla for autonomous car insurance and strong Q4 results have contributed to its significant stock performance over the past year.",
+            "text_to_analyze": "Lemonade Stock Eyes Fourth Straight Weekly Win: CEO Says AI Insurer Is ‘On A Tear’ And Sees Profitability This Year. Lemonade, an AI-driven insurer, is poised for its fourth consecutive weekly gain, with CEO Daniel Schreiber announcing expectations for profitability this year. The company's AI platform efficiently handles most claims and policy issuances, and it has expanded into underserved segments by attracting first-time insurance buyers. Additionally, Lemonade's partnership with Tesla for autonomous car insurance and strong Q4 results have contributed to its significant stock performance over the past year.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.713832
+        },
+        {
+            "source": "Inc.com",
+            "date": "20260327T003832",
+            "title": "The Tesla Semi Will Cost Double a Standard Truck—but the Math Shows It Could Kill Off Diesels",
+            "summary": "Tesla is set to significantly ramp up production of its Semi truck, with plans to deliver between 5,000 and 15,000 units in 2026, eventually reaching 50,000 annually. Despite costing approximately double that of a diesel truck, Tesla suggests the Semi's operational economics, including a 50 percent lower running cost in California, will lead to a payback within the first few years. Recent updates have also brought the 500-mile version to payload parity with diesel Class 8 trucks, aided by a federal weight exemption.",
+            "text_to_analyze": "The Tesla Semi Will Cost Double a Standard Truck—but the Math Shows It Could Kill Off Diesels. Tesla is set to significantly ramp up production of its Semi truck, with plans to deliver between 5,000 and 15,000 units in 2026, eventually reaching 50,000 annually. Despite costing approximately double that of a diesel truck, Tesla suggests the Semi's operational economics, including a 50 percent lower running cost in California, will lead to a payback within the first few years. Recent updates have also brought the 500-mile version to payload parity with diesel Class 8 trucks, aided by a federal weight exemption.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingKey",
+            "date": "20260326T201400",
+            "title": "Tesla Inc Stock (TSLA) Closed Down by 3.55% on Mar 26: Drivers Behind the Movement",
+            "summary": "Tesla Inc. (TSLA) stock closed down 3.55% on March 26, 2026, driven by an escalated NHTSA probe into its Full Self-Driving technology, regulatory clarification on its \"Robotaxi\" service requiring a human driver, and analysts lowering vehicle delivery outlooks. Broader market sentiment, including moderation in EV demand, and weakening financial metrics also contributed to the decline. The company faces increased regulatory scrutiny and intensified competition, impacting its near-term sales and financial performance.",
+            "text_to_analyze": "Tesla Inc Stock (TSLA) Closed Down by 3.55% on Mar 26: Drivers Behind the Movement. Tesla Inc. (TSLA) stock closed down 3.55% on March 26, 2026, driven by an escalated NHTSA probe into its Full Self-Driving technology, regulatory clarification on its \"Robotaxi\" service requiring a human driver, and analysts lowering vehicle delivery outlooks. Broader market sentiment, including moderation in EV demand, and weakening financial metrics also contributed to the decline. The company faces increased regulatory scrutiny and intensified competition, impacting its near-term sales and financial performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260326T184022",
+            "title": "YieldMax TSLA option income strategy ETF announces weekly distribution of $0.2626",
+            "summary": "The YieldMax TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2626 per share. This announcement highlights the ETF's strategy to provide income through options on Tesla stock.",
+            "text_to_analyze": "YieldMax TSLA option income strategy ETF announces weekly distribution of $0.2626. The YieldMax TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2626 per share. This announcement highlights the ETF's strategy to provide income through options on Tesla stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.745975
+        },
+        {
+            "source": "TradingView",
+            "date": "20260326T183828",
+            "title": "Tesla Cuts 2026 Delivery Outlook to 1.69 Million Units",
+            "summary": "Tesla's delivery outlook for 2026 has been lowered to 1.69 million units, down from 1.75 million, based on analysts' consensus. This adjustment reflects a more cautious sentiment and suggests a slower recovery in demand for electric vehicles following consecutive years of declining sales. The revised forecast also follows Tesla's recent track record of actual sales falling below estimates.",
+            "text_to_analyze": "Tesla Cuts 2026 Delivery Outlook to 1.69 Million Units. Tesla's delivery outlook for 2026 has been lowered to 1.69 million units, down from 1.75 million, based on analysts' consensus. This adjustment reflects a more cautious sentiment and suggests a slower recovery in demand for electric vehicles following consecutive years of declining sales. The revised forecast also follows Tesla's recent track record of actual sales falling below estimates.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260326T160914",
+            "title": "Zacks Earnings Trends Highlights: Amazon and Tesla",
+            "summary": "The article highlights that S&P 500 earnings are projected to increase by 12.8% in Q1 2026, driven significantly by the Tech sector's estimated 27.1% growth. Despite geopolitical tensions and \"soft sentiment\" towards Mag 7 stocks like Amazon and Tesla (which are classified outside the Tech sector by Zacks), earnings estimates are showing a positive revision trend across multiple sectors, including Energy, Tech, Finance, Construction, and Basic Materials. The report emphasizes the Tech sector's crucial role in aggregate earnings growth and the broader S&P 500's improving outlook.",
+            "text_to_analyze": "Zacks Earnings Trends Highlights: Amazon and Tesla. The article highlights that S&P 500 earnings are projected to increase by 12.8% in Q1 2026, driven significantly by the Tech sector's estimated 27.1% growth. Despite geopolitical tensions and \"soft sentiment\" towards Mag 7 stocks like Amazon and Tesla (which are classified outside the Tech sector by Zacks), earnings estimates are showing a positive revision trend across multiple sectors, including Energy, Tech, Finance, Construction, and Basic Materials. The report emphasizes the Tech sector's crucial role in aggregate earnings growth and the broader S&P 500's improving outlook.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.892873
+        }
+    ]
+}

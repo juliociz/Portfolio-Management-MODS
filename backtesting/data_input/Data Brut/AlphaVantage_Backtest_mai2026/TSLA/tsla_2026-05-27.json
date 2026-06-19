@@ -1,0 +1,54 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-27",
+    "window_start": "2026-05-26 16:00",
+    "window_end": "2026-05-27 09:27",
+    "articles": [
+        {
+            "source": "TradingView",
+            "date": "20260527T083922",
+            "title": "Baidu, Inc. ADR Unsponsored Brazilian Depository Receipt Repr 0.0714286 ADR",
+            "summary": "This article compiles various trade ideas and analyses for Baidu (BIDU) from different traders and analysts, focusing on its potential in AI and autonomous driving. Many view Baidu as undervalued and a strong long-term investment due to its advancements in robotaxis and generative AI, despite some expressing caution regarding its stock performance and China's economic environment. The analyses include technical outlooks, financial results from Q1 2024, and discussions of recent partnerships like the one with Tesla for FSD in China.",
+            "text_to_analyze": "Baidu, Inc. ADR Unsponsored Brazilian Depository Receipt Repr 0.0714286 ADR. This article compiles various trade ideas and analyses for Baidu (BIDU) from different traders and analysts, focusing on its potential in AI and autonomous driving. Many view Baidu as undervalued and a strong long-term investment due to its advancements in robotaxis and generative AI, despite some expressing caution regarding its stock performance and China's economic environment. The analyses include technical outlooks, financial results from Q1 2024, and discussions of recent partnerships like the one with Tesla for FSD in China.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.688265
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260527T070825",
+            "title": "Tesla Stock Rides SpaceX Hype: Trump Floats $20B Lunar Push, Musk Eyes 'Major' Moon Base",
+            "summary": "Tesla stock surged following news of NASA's $20 billion Moon Base initiative and Elon Musk's declaration of a \"major base on the Moon\" as SpaceX's \"prime directive.\" The article highlights the deepening ties between Tesla, SpaceX, and xAI, fueling speculation of a potential merger and benefitting Tesla's stock performance. This comes as SpaceX successfully completed a Starship V3 test flight and gears up for a potential IPO, further exciting investors about Musk's interconnected AI and space ventures.",
+            "text_to_analyze": "Tesla Stock Rides SpaceX Hype: Trump Floats $20B Lunar Push, Musk Eyes 'Major' Moon Base. Tesla stock surged following news of NASA's $20 billion Moon Base initiative and Elon Musk's declaration of a \"major base on the Moon\" as SpaceX's \"prime directive.\" The article highlights the deepening ties between Tesla, SpaceX, and xAI, fueling speculation of a potential merger and benefitting Tesla's stock performance. This comes as SpaceX successfully completed a Starship V3 test flight and gears up for a potential IPO, further exciting investors about Musk's interconnected AI and space ventures.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260526T230834",
+            "title": "Elon Musk Hits Back At Tesla Brand Damage Critics, Reaffirms Model Y's Sales Dominance",
+            "summary": "Elon Musk has responded to critics who believe his political activism is damaging the Tesla brand. He reaffirmed the company's strong market position by highlighting the Tesla Model Y's continued dominance as the best-selling EV globally across multiple years. Despite concerns from some investors about brand degradation due to Musk's political ties, the Model Y's sales performance suggests the product's strength remains a key factor.",
+            "text_to_analyze": "Elon Musk Hits Back At Tesla Brand Damage Critics, Reaffirms Model Y's Sales Dominance. Elon Musk has responded to critics who believe his political activism is damaging the Tesla brand. He reaffirmed the company's strong market position by highlighting the Tesla Model Y's continued dominance as the best-selling EV globally across multiple years. Despite concerns from some investors about brand degradation due to Musk's political ties, the Model Y's sales performance suggests the product's strength remains a key factor.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CNBC",
+            "date": "20260526T170700",
+            "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company toward Nasdaq",
+            "summary": "As Elon Musk prepares to take SpaceX public, speculation is growing that his ultimate goal is to merge it with Tesla. Both companies already share resources and engineers, with Musk having discussed the possibility of combining them with his colleagues. The potential merger is driven by the increasing focus on AI and shared challenges related to power and compute constraints.",
+            "text_to_analyze": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company toward Nasdaq. As Elon Musk prepares to take SpaceX public, speculation is growing that his ultimate goal is to merge it with Tesla. Both companies already share resources and engineers, with Musk having discussed the possibility of combining them with his colleagues. The potential merger is driven by the increasing focus on AI and shared challenges related to power and compute constraints.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Inc.com",
+            "date": "20260526T163933",
+            "title": "A Full List of Tesla’s Cybertruck Recalls—Including the Latest Debacle",
+            "summary": "Tesla is recalling 173 Cybertrucks due to a defect where wheels can fall off while the vehicle is in motion, specifically affecting models with 18-inch steel wheels built between March 21, 2024, and November 25, 2025. This issue, caused by potential cracks in the brake rotor's stud holes, adds to a history of quality control problems for the Cybertruck, including shattered windows during its presentation and manufacturing inconsistencies. Tesla plans to replace affected wheel hubs and rotors free of charge.",
+            "text_to_analyze": "A Full List of Tesla’s Cybertruck Recalls—Including the Latest Debacle. Tesla is recalling 173 Cybertrucks due to a defect where wheels can fall off while the vehicle is in motion, specifically affecting models with 18-inch steel wheels built between March 21, 2024, and November 25, 2025. This issue, caused by potential cracks in the brake rotor's stud holes, adds to a history of quality control problems for the Cybertruck, including shattered windows during its presentation and manufacturing inconsistencies. Tesla plans to replace affected wheel hubs and rotors free of charge.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-13",
+    "window_start": "2026-05-12 16:00",
+    "window_end": "2026-05-13 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260513T061030",
+            "title": "Deli foods maker with Walmart, Target placements pursues $1B goal",
+            "summary": "Mama's Creations (NASDAQ: MAMA) announced its participation in four investor conferences in Spring 2026, where CEO Adam L. Michaels will engage in one-on-one meetings with institutional investors. The company highlighted ongoing integration of Crown 1, ERP consolidation, expanded production, and new national distribution deals with Walmart and Target, as it works towards its long-term objective of becoming a $1 billion deli prepared foods company.",
+            "text_to_analyze": "Deli foods maker with Walmart, Target placements pursues $1B goal. Mama's Creations (NASDAQ: MAMA) announced its participation in four investor conferences in Spring 2026, where CEO Adam L. Michaels will engage in one-on-one meetings with institutional investors. The company highlighted ongoing integration of Crown 1, ERP consolidation, expanded production, and new national distribution deals with Walmart and Target, as it works towards its long-term objective of becoming a $1 billion deli prepared foods company.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.644186
+        },
+        {
+            "source": "Yahoo Finance Singapore",
+            "date": "20260512T220846",
+            "title": "Target (TGT) Gains As Market Dips: What You Should Know",
+            "summary": "Target (TGT) saw a 2.81% increase in its stock price, outperforming the S&P 500's daily loss despite broader market dips. The company is set to announce its earnings on May 20, 2026, with analysts predicting a rise in EPS and revenue. Target currently holds a Zacks Rank of #3 (Hold) and shows a favorable valuation compared to its industry average.",
+            "text_to_analyze": "Target (TGT) Gains As Market Dips: What You Should Know. Target (TGT) saw a 2.81% increase in its stock price, outperforming the S&P 500's daily loss despite broader market dips. The company is set to announce its earnings on May 20, 2026, with analysts predicting a rise in EPS and revenue. Target currently holds a Zacks Rank of #3 (Hold) and shows a favorable valuation compared to its industry average.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260512T200841",
+            "title": "Target pays $11.2 million for Nashville site eyed for new location",
+            "summary": "Target has paid $11.2 million for land in Nashville to build a new store, making way for the retailer to establish a presence in one of the city's largest developments. The deal was closed on May 12, 2026, and is a significant step for Target's expansion in the Greater Nashville area.",
+            "text_to_analyze": "Target pays $11.2 million for Nashville site eyed for new location. Target has paid $11.2 million for land in Nashville to build a new store, making way for the retailer to establish a presence in one of the city's largest developments. The deal was closed on May 12, 2026, and is a significant step for Target's expansion in the Greater Nashville area.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260512T193534",
+            "title": "Target Corp stock (US87612E1064): UBS highlights Q1 catalyst, $5B store investment",
+            "summary": "Target Corp. is set to release its Q1 2026 earnings, which UBS analysts believe will validate the retailer's turnaround strategy. The company is also investing $5 billion in 2026 to remodel over 130 stores, open 30 new ones, and upgrade its supply chain, marking its most significant store transformation in a decade. This investment aims to boost shopper engagement and enhance its competitive position in the US retail landscape.",
+            "text_to_analyze": "Target Corp stock (US87612E1064): UBS highlights Q1 catalyst, $5B store investment. Target Corp. is set to release its Q1 2026 earnings, which UBS analysts believe will validate the retailer's turnaround strategy. The company is also investing $5 billion in 2026 to remodel over 130 stores, open 30 new ones, and upgrade its supply chain, marking its most significant store transformation in a decade. This investment aims to boost shopper engagement and enhance its competitive position in the US retail landscape.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Bloomberg Law News",
+            "date": "20260512T190100",
+            "title": "Key Democrat Asks Target, CVS About Consumer Data Use in Pricing",
+            "summary": "A key Democrat in Congress, Representative Frank Pallone, Jr., has initiated an inquiry into how two dozen retailers, including Target and CVS Health, use personal consumer data to set personalized prices. These companies have until May 26 to provide detailed responses regarding their use of data points such as gender, age, race, location, employment, and spending history. Pallone noted that this investigation is just the beginning and plans to extend his questions across various industries in the coming months.",
+            "text_to_analyze": "Key Democrat Asks Target, CVS About Consumer Data Use in Pricing. A key Democrat in Congress, Representative Frank Pallone, Jr., has initiated an inquiry into how two dozen retailers, including Target and CVS Health, use personal consumer data to set personalized prices. These companies have until May 26 to provide detailed responses regarding their use of data points such as gender, age, race, location, employment, and spending history. Pallone noted that this investigation is just the beginning and plans to extend his questions across various industries in the coming months.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.935335
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260512T165636",
+            "title": "Target Corp. stock (US87612E1064): UBS highlights Q1 results catalyst",
+            "summary": "UBS analysts view Target Corp.'s upcoming Q1 2026 results as a crucial catalyst to validate the retailer's turnaround progress. The stock recently traded at $121.94 with a daily gain, and while Barclays maintained an \"Underweight\" rating, they increased their price target to $115, suggesting evolving analyst opinions. The article emphasizes Target's strong position in the U.S. discount retail sector and its relevance for investors through its exposure to consumer spending.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): UBS highlights Q1 results catalyst. UBS analysts view Target Corp.'s upcoming Q1 2026 results as a crucial catalyst to validate the retailer's turnaround progress. The stock recently traded at $121.94 with a daily gain, and while Barclays maintained an \"Underweight\" rating, they increased their price target to $115, suggesting evolving analyst opinions. The article emphasizes Target's strong position in the U.S. discount retail sector and its relevance for investors through its exposure to consumer spending.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-06",
+    "window_start": "2026-03-05 16:00",
+    "window_end": "2026-03-06 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260305T215019",
+            "title": "F-150 Lightning Outsold Tesla's Cybertruck, But Ford CEO Says He 'Would've Done It Differently'",
+            "summary": "Ford CEO Jim Farley expressed regrets about the company's electric vehicle strategy, particularly with the F-150 Lightning, despite it outselling Tesla's Cybertruck in 2025. Farley acknowledged that Ford lost money on each electric pickup sold and plans to focus on profitability with hybrids and gas-powered vehicles, while later introducing a more affordable EV platform. He also highlighted China's rapid advancements in the automotive sector and Ford's new focus on vehicles as \"entertainment space.\"",
+            "text_to_analyze": "F-150 Lightning Outsold Tesla's Cybertruck, But Ford CEO Says He 'Would've Done It Differently'. Ford CEO Jim Farley expressed regrets about the company's electric vehicle strategy, particularly with the F-150 Lightning, despite it outselling Tesla's Cybertruck in 2025. Farley acknowledged that Ford lost money on each electric pickup sold and plans to focus on profitability with hybrids and gas-powered vehicles, while later introducing a more affordable EV platform. He also highlighted China's rapid advancements in the automotive sector and Ford's new focus on vehicles as \"entertainment space.\"",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.712831
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260305T201109",
+            "title": "Roundhill’s 50% Yield Innovation-100 ETF Is Waiting To Step on A Landmine",
+            "summary": "The Roundhill Innovation-100 0DTE Covered Call Strategy ETF (QDTE) aims to provide income from tech exposure by selling zero-days-to-expiration covered calls on the Innovation-100 Index. Despite its attractive yield, the fund faces significant risk due to its volatile underlying holdings like MicroStrategy, Palantir, Tesla, and NVIDIA. The article highlights that the collected options premium offers minimal protection against sharp drawdowns in these high-multiple, binary-outcome stocks and that the fund's income is vulnerable to shifts in market volatility.",
+            "text_to_analyze": "Roundhill’s 50% Yield Innovation-100 ETF Is Waiting To Step on A Landmine. The Roundhill Innovation-100 0DTE Covered Call Strategy ETF (QDTE) aims to provide income from tech exposure by selling zero-days-to-expiration covered calls on the Innovation-100 Index. Despite its attractive yield, the fund faces significant risk due to its volatile underlying holdings like MicroStrategy, Palantir, Tesla, and NVIDIA. The article highlights that the collected options premium offers minimal protection against sharp drawdowns in these high-multiple, binary-outcome stocks and that the fund's income is vulnerable to shifts in market volatility.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.645518
+        }
+    ]
+}

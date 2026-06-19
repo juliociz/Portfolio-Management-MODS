@@ -1,0 +1,171 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-30",
+    "window_start": "2026-03-27 16:00",
+    "window_end": "2026-03-30 09:27",
+    "articles": [
+        {
+            "source": "TradingView",
+            "date": "20260330T040727",
+            "title": "Deckers Outdoor Corporation Trade Ideas — LSX:894298",
+            "summary": "This article compiles various trading ideas and analyses for Deckers Outdoor Corporation (LSX:894298, NYSE:DECK) from different traders, with several expressing bullish sentiment due to strong brand performance (Hoka, Ugg), robust financials, and growth prospects. It also includes discussions on valuation, market positioning against competitors like Nike, and technical indicators, with some traders identifying potential entry points or short setups. The diverse opinions highlight the complexities and different approaches to analyzing DECK's stock performance.",
+            "text_to_analyze": "Deckers Outdoor Corporation Trade Ideas — LSX:894298. This article compiles various trading ideas and analyses for Deckers Outdoor Corporation (LSX:894298, NYSE:DECK) from different traders, with several expressing bullish sentiment due to strong brand performance (Hoka, Ugg), robust financials, and growth prospects. It also includes discussions on valuation, market positioning against competitors like Nike, and technical indicators, with some traders identifying potential entry points or short setups. The diverse opinions highlight the complexities and different approaches to analyzing DECK's stock performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.829926
+        },
+        {
+            "source": "TradingView",
+            "date": "20260329T233756",
+            "title": "NIKE, Inc. Class B Trade Ideas — LSX:866993",
+            "summary": "This article compiles a variety of trade ideas and analyses for NIKE, Inc. (LSX:866993, NYSE:NKE) from multiple traders and analysts on TradingView. It covers both bullish and bearish perspectives, discussing technical analysis, options strategies, and the company's recent strategic moves like cost-cutting measures and expansion into virtual fashion. The content highlights Nike's financial performance, market challenges from competitors, and global economic uncertainties influencing its stock price.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — LSX:866993. This article compiles a variety of trade ideas and analyses for NIKE, Inc. (LSX:866993, NYSE:NKE) from multiple traders and analysts on TradingView. It covers both bullish and bearish perspectives, discussing technical analysis, options strategies, and the company's recent strategic moves like cost-cutting measures and expansion into virtual fashion. The content highlights Nike's financial performance, market challenges from competitors, and global economic uncertainties influencing its stock price.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260329T220802",
+            "title": "Operating cash flow per share of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article provides financial data on the operating cash flow per share for NIKE, Inc. Class B (NKE BSESOF). It includes sections for period value, change, and change percentage related to this financial metric. The content appears to be a financial data snippet from a platform showing current and historical figures for NKE.",
+            "text_to_analyze": "Operating cash flow per share of NIKE, Inc. Class B – BSESOF:NKE. This article provides financial data on the operating cash flow per share for NIKE, Inc. Class B (NKE BSESOF). It includes sections for period value, change, and change percentage related to this financial metric. The content appears to be a financial data snippet from a platform showing current and historical figures for NKE.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260329T170802",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), highlighting bearish sentiments due to macroeconomic factors and declining analyst forecasts, alongside some bullish perspectives based on technical indicators and long-term growth potential. It draws parallels to a similar downturn in 2008, where Goldman Sachs' downgraded forecasts impacted shoe companies. The piece includes several individual analyst ratings, price targets, and trading strategies, from both short-term speculative plays to long-term investment recommendations.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), highlighting bearish sentiments due to macroeconomic factors and declining analyst forecasts, alongside some bullish perspectives based on technical indicators and long-term growth potential. It draws parallels to a similar downturn in 2008, where Goldman Sachs' downgraded forecasts impacted shoe companies. The piece includes several individual analyst ratings, price targets, and trading strategies, from both short-term speculative plays to long-term investment recommendations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260329T103832",
+            "title": "Return on invested capital % of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article provides financial data for NIKE, Inc. Class B (BSESOF:NKE), specifically focusing on its Return on Invested Capital (ROIC) percentage. It presents a data table for NKE's ROIC, showing the value and change over different periods, and notes that the market is currently closed for trading. The content is primarily a data placeholder within a financial data platform.",
+            "text_to_analyze": "Return on invested capital % of NIKE, Inc. Class B – BSESOF:NKE. This article provides financial data for NIKE, Inc. Class B (BSESOF:NKE), specifically focusing on its Return on Invested Capital (ROIC) percentage. It presents a data table for NKE's ROIC, showing the value and change over different periods, and notes that the market is currently closed for trading. The content is primarily a data placeholder within a financial data platform.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260329T043809",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles several trading ideas and analyses for NIKE, Inc. (NKE) stock from various traders and analysts. Many highlight NKE's current oversold conditions and multi-year lows as a potential long-term buying opportunity, despite recent declines attributed to tariffs, competition, and macroeconomic uncertainty. Some analysts project a significant recovery for NKE in the coming years, while others maintain a bearish short-term outlook.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles several trading ideas and analyses for NIKE, Inc. (NKE) stock from various traders and analysts. Many highlight NKE's current oversold conditions and multi-year lows as a potential long-term buying opportunity, despite recent declines attributed to tariffs, competition, and macroeconomic uncertainty. Some analysts project a significant recovery for NKE in the coming years, while others maintain a bearish short-term outlook.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.953123
+        },
+        {
+            "source": "TradingView",
+            "date": "20260329T020805",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKE), with many analysts suggesting a bullish outlook due to strong brand moat, valuation compression, and strategic growth initiatives. Several analyses detail technical indicators like falling wedges, Fibonacci retracements, and channel structures to support potential upward movements. Some contrasting views also present bearish setups based on short-term overbought conditions or divergence.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKE), with many analysts suggesting a bullish outlook due to strong brand moat, valuation compression, and strategic growth initiatives. Several analyses detail technical indicators like falling wedges, Fibonacci retracements, and channel structures to support potential upward movements. Some contrasting views also present bearish setups based on short-term overbought conditions or divergence.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260328T200806",
+            "title": "NIKE, Inc. Class B Trade Ideas — BVC:NKE",
+            "summary": "This article compiles various trading ideas and technical analyses for NIKE, Inc. (NKE) from multiple contributors on TradingView. Traders offer diverse perspectives ranging from short swing trades, options strategies ahead of earnings, long-term investment analyses considering Nike's brand strength and financial health, to bearish scenarios based on chart formations and macro technical findings. The discussions highlight potential entry/exit points, support/resistance levels, and risks associated with upcoming earnings reports and broader market conditions.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BVC:NKE. This article compiles various trading ideas and technical analyses for NIKE, Inc. (NKE) from multiple contributors on TradingView. Traders offer diverse perspectives ranging from short swing trades, options strategies ahead of earnings, long-term investment analyses considering Nike's brand strength and financial health, to bearish scenarios based on chart formations and macro technical findings. The discussions highlight potential entry/exit points, support/resistance levels, and risks associated with upcoming earnings reports and broader market conditions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260328T183810",
+            "title": "Asset turnover of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article provides the asset turnover data for NIKE, Inc. Class B, identified by the stock symbol NKE on the BSESOF exchange. It appears to be a financial data page from TradingView, offering an overview of the company's financials for investors and analysts. The page includes metrics like asset turnover which is crucial for evaluating a company's operational efficiency.",
+            "text_to_analyze": "Asset turnover of NIKE, Inc. Class B – BSESOF:NKE. This article provides the asset turnover data for NIKE, Inc. Class B, identified by the stock symbol NKE on the BSESOF exchange. It appears to be a financial data page from TradingView, offering an overview of the company's financials for investors and analysts. The page includes metrics like asset turnover which is crucial for evaluating a company's operational efficiency.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260328T143818",
+            "title": "NIKE, Inc. Class B Trade Ideas — LS:866993",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. Class B (LS:866993, NYSE:NKE) from multiple contributors on TradingView. It covers technical analysis using Fibonacci levels, Bollinger Bands, moving averages, chart patterns like double top and triangles, and discusses options strategies. The insights also touch upon Nike's financial performance, cost-cutting measures, and potential future price movements based on different timeframes and indicators.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — LS:866993. This article compiles various trading ideas and analyses for NIKE, Inc. Class B (LS:866993, NYSE:NKE) from multiple contributors on TradingView. It covers technical analysis using Fibonacci levels, Bollinger Bands, moving averages, chart patterns like double top and triangles, and discusses options strategies. The insights also touch upon Nike's financial performance, cost-cutting measures, and potential future price movements based on different timeframes and indicators.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260328T010807",
+            "title": "CapEx per share of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This page provides information on the CapEx per share for NIKE, Inc. Class B (NKE) listed on the BSESOF exchange, as displayed on TradingView. It offers a financial overview including period values, changes, and percentage changes for this metric. The content is primarily a financial data display with links to various TradingView features and resources.",
+            "text_to_analyze": "CapEx per share of NIKE, Inc. Class B – BSESOF:NKE. This page provides information on the CapEx per share for NIKE, Inc. Class B (NKE) listed on the BSESOF exchange, as displayed on TradingView. It offers a financial overview including period values, changes, and percentage changes for this metric. The content is primarily a financial data display with links to various TradingView features and resources.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Morningstar",
+            "date": "20260327T233946",
+            "title": "What’s Happening in the Markets This Week",
+            "summary": "This article provides an overview of key economic releases and company earnings scheduled for the upcoming week. It highlights important dates and consensus figures for reports such as the March jobs report, consumer confidence, and various manufacturing and employment data. Major companies like Nike and Tilray Brands are also scheduled to release their earnings.",
+            "text_to_analyze": "What’s Happening in the Markets This Week. This article provides an overview of key economic releases and company earnings scheduled for the upcoming week. It highlights important dates and consensus figures for reports such as the March jobs report, consumer confidence, and various manufacturing and employment data. Major companies like Nike and Tilray Brands are also scheduled to release their earnings.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260327T230808",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles various trade ideas and technical analyses for NIKE, Inc. (NKE), discussing potential entry and exit points, long-term cycles, and short-term reversals. Analysts offer diverse perspectives ranging from bullish outlooks based on seasonal trends and brand strength to cautious or bearish stances due to fundamental weaknesses and technical breakdowns. The overarching theme is the company's current critical inflection point, with varying opinions on its future stock performance.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles various trade ideas and technical analyses for NIKE, Inc. (NKE), discussing potential entry and exit points, long-term cycles, and short-term reversals. Analysts offer diverse perspectives ranging from bullish outlooks based on seasonal trends and brand strength to cautious or bearish stances due to fundamental weaknesses and technical breakdowns. The overarching theme is the company's current critical inflection point, with varying opinions on its future stock performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260327T230802",
+            "title": "Nike World Cup Waste Textiles Test Investor Faith In Turnaround",
+            "summary": "Nike has launched a 2026 World Cup apparel line made from recycled textiles, aiming to link sustainability with a major sporting event as part of its brand turnaround efforts. This initiative is under investor scrutiny regarding its potential to boost brand perception, demand, and higher-quality revenue, especially given Nike's recent stock performance and existing challenges like margin pressures. While it could differentiate Nike from competitors and increase brand loyalty among sustainability-focused consumers, risks include production costs, potential discounting, and consumer reception impacting inventory and financial strain.",
+            "text_to_analyze": "Nike World Cup Waste Textiles Test Investor Faith In Turnaround. Nike has launched a 2026 World Cup apparel line made from recycled textiles, aiming to link sustainability with a major sporting event as part of its brand turnaround efforts. This initiative is under investor scrutiny regarding its potential to boost brand perception, demand, and higher-quality revenue, especially given Nike's recent stock performance and existing challenges like margin pressures. While it could differentiate Nike from competitors and increase brand loyalty among sustainability-focused consumers, risks include production costs, potential discounting, and consumer reception impacting inventory and financial strain.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.992799
+        },
+        {
+            "source": "TradingView",
+            "date": "20260327T230800",
+            "title": "Return on assets % of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article displays the return on assets percentage for NIKE, Inc. Class B (BSESOF:NKE) on a TradingView page. The content primarily focuses on the financial metric \"Return on assets %\" for the specified company, without providing actual numerical data in the snippet. It also lists various financial and community features available on the TradingView platform.",
+            "text_to_analyze": "Return on assets % of NIKE, Inc. Class B – BSESOF:NKE. This article displays the return on assets percentage for NIKE, Inc. Class B (BSESOF:NKE) on a TradingView page. The content primarily focuses on the financial metric \"Return on assets %\" for the specified company, without providing actual numerical data in the snippet. It also lists various financial and community features available on the TradingView platform.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260327T213806",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), discussing both bullish and bearish perspectives. Analysts highlight factors such as insider buying, price targets, technical patterns, and fundamental analysis, while also pointing out risks like struggles in the China market and potential volatility from earnings. The collected insights provide a comprehensive overview of NKE's current market position and potential future movements based on different trading strategies and timeframes.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), discussing both bullish and bearish perspectives. Analysts highlight factors such as insider buying, price targets, technical patterns, and fundamental analysis, while also pointing out risks like struggles in the China market and potential volatility from earnings. The collected insights provide a comprehensive overview of NKE's current market position and potential future movements based on different trading strategies and timeframes.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260327T213804",
+            "title": "Operating income of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article provides an overview of the operating income for NIKE, Inc. Class B, ticker symbol NKE (BSESOF). It is part of a financial data section on a trading platform that offers various tools and information for market analysis. The content primarily serves as a placeholder or title for detailed financial data.",
+            "text_to_analyze": "Operating income of NIKE, Inc. Class B – BSESOF:NKE. This article provides an overview of the operating income for NIKE, Inc. Class B, ticker symbol NKE (BSESOF). It is part of a financial data section on a trading platform that offers various tools and information for market analysis. The content primarily serves as a placeholder or title for detailed financial data.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260327T212310",
+            "title": "Net income before discontinued operations of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article displays the \"Net income before discontinued operations\" for NIKE, Inc. Class B (BSESOF:NKE) on TradingView. It presents financial data including the period, value, change, and change percentage. The information is provided by ICE Data Services, FactSet, and American Bankers Association.",
+            "text_to_analyze": "Net income before discontinued operations of NIKE, Inc. Class B – BSESOF:NKE. This article displays the \"Net income before discontinued operations\" for NIKE, Inc. Class B (BSESOF:NKE) on TradingView. It presents financial data including the period, value, change, and change percentage. The information is provided by ICE Data Services, FactSet, and American Bankers Association.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.326613
+        }
+    ]
+}

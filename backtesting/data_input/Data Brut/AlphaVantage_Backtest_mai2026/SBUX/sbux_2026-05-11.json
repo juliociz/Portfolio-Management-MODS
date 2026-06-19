@@ -1,0 +1,72 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-11",
+    "window_start": "2026-05-08 16:00",
+    "window_end": "2026-05-11 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260510T100426",
+            "title": "MGO One Seven LLC Increases Stock Position in Starbucks Corporation $SBUX",
+            "summary": "MGO One Seven LLC significantly increased its stake in Starbucks Corporation ($SBUX) by 48.9% in the fourth quarter, bringing its total to 51,415 shares valued at $4.33 million. This comes after Starbucks reported stronger-than-expected quarterly earnings with EPS of $0.50 and revenue of $9.53 billion, an 8.8% year-over-year increase. The company also announced a quarterly dividend of $0.62 per share, and analysts currently rate the stock as a \"Moderate Buy\" with a consensus price target of $107.",
+            "text_to_analyze": "MGO One Seven LLC Increases Stock Position in Starbucks Corporation $SBUX. MGO One Seven LLC significantly increased its stake in Starbucks Corporation ($SBUX) by 48.9% in the fourth quarter, bringing its total to 51,415 shares valued at $4.33 million. This comes after Starbucks reported stronger-than-expected quarterly earnings with EPS of $0.50 and revenue of $9.53 billion, an 8.8% year-over-year increase. The company also announced a quarterly dividend of $0.62 per share, and analysts currently rate the stock as a \"Moderate Buy\" with a consensus price target of $107.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260509T191421",
+            "title": "Starbucks Corp. stock (US8552441094): Q2 2026 beats expectations as shares rise on earnings surprise",
+            "summary": "Starbucks Corp.'s stock rose after the company reported better-than-expected Q2 2026 results, with quarterly revenue of $9.5 billion and earnings per share of $0.50, surpassing Wall Street forecasts. This positive reaction comes amidst analyst concerns regarding slower top-line growth and margin pressures, indicating that the company's operational turnaround efforts are showing tangible financial improvement. For investors, Starbucks offers exposure to a globally recognized brand but is sensitive to consumer spending and competitive dynamics.",
+            "text_to_analyze": "Starbucks Corp. stock (US8552441094): Q2 2026 beats expectations as shares rise on earnings surprise. Starbucks Corp.'s stock rose after the company reported better-than-expected Q2 2026 results, with quarterly revenue of $9.5 billion and earnings per share of $0.50, surpassing Wall Street forecasts. This positive reaction comes amidst analyst concerns regarding slower top-line growth and margin pressures, indicating that the company's operational turnaround efforts are showing tangible financial improvement. For investors, Starbucks offers exposure to a globally recognized brand but is sensitive to consumer spending and competitive dynamics.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T120818",
+            "title": "Wesbanco Bank Inc. Lowers Stock Holdings in Starbucks Corporation $SBUX",
+            "summary": "Wesbanco Bank Inc. significantly reduced its holdings in Starbucks Corporation by 56.5% during the fourth quarter, now owning 69,134 shares valued at $5.82 million. This reduction comes despite Starbucks reporting better-than-expected quarterly results, including EPS of $0.50 and revenue of $9.53 billion, along with declaring a quarterly dividend of $0.62 per share. Analyst sentiment remains a \"Moderate Buy\" with an average target price of $107.",
+            "text_to_analyze": "Wesbanco Bank Inc. Lowers Stock Holdings in Starbucks Corporation $SBUX. Wesbanco Bank Inc. significantly reduced its holdings in Starbucks Corporation by 56.5% during the fourth quarter, now owning 69,134 shares valued at $5.82 million. This reduction comes despite Starbucks reporting better-than-expected quarterly results, including EPS of $0.50 and revenue of $9.53 billion, along with declaring a quarterly dividend of $0.62 per share. Analyst sentiment remains a \"Moderate Buy\" with an average target price of $107.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260509T070533",
+            "title": "ASR Vermogensbeheer N.V. Boosts Stake in Starbucks Corporation $SBUX",
+            "summary": "ASR Vermogensbeheer N.V. increased its stake in Starbucks Corporation by 9.6% in the fourth quarter, bringing its total holdings to 109,286 shares valued at approximately $9.2 million. This increase follows Starbucks' strong quarterly results, where it surpassed earnings and revenue expectations and announced a quarterly dividend of $0.62 per share. Analysts generally rate Starbucks as a \"Moderate Buy\" with an average price target of $107.00.",
+            "text_to_analyze": "ASR Vermogensbeheer N.V. Boosts Stake in Starbucks Corporation $SBUX. ASR Vermogensbeheer N.V. increased its stake in Starbucks Corporation by 9.6% in the fourth quarter, bringing its total holdings to 109,286 shares valued at approximately $9.2 million. This increase follows Starbucks' strong quarterly results, where it surpassed earnings and revenue expectations and announced a quarterly dividend of $0.62 per share. Analysts generally rate Starbucks as a \"Moderate Buy\" with an average price target of $107.00.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260509T060833",
+            "title": "Starbucks Corp (SBUX) Stock Price, Quote, News & History",
+            "summary": "This Benzinga article provides a comprehensive overview of Starbucks (SBUX) stock, including its current price, key statistics, recent news, financial data, and analyst trends. It highlights the company's performance following its Q2 results, which indicated improving traffic and a positive turnaround narrative, leading to a rise in share prices and increased analyst price targets. The report also includes FAQs about buying SBUX stock, competitors, price forecasts, and dividend information.",
+            "text_to_analyze": "Starbucks Corp (SBUX) Stock Price, Quote, News & History. This Benzinga article provides a comprehensive overview of Starbucks (SBUX) stock, including its current price, key statistics, recent news, financial data, and analyst trends. It highlights the company's performance following its Q2 results, which indicated improving traffic and a positive turnaround narrative, leading to a rise in share prices and increased analyst price targets. The report also includes FAQs about buying SBUX stock, competitors, price forecasts, and dividend information.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260508T171844",
+            "title": "Humana poaches Starbucks data chief for C-suite role",
+            "summary": "Humana has hired Bhagyesh Phanse, Starbucks' former data chief, for a C-suite role. This strategic move indicates Humana's increased focus on artificial intelligence and data analytics to further its business goals. The appointment highlights the growing importance of data leadership in the healthcare industry.",
+            "text_to_analyze": "Humana poaches Starbucks data chief for C-suite role. Humana has hired Bhagyesh Phanse, Starbucks' former data chief, for a C-suite role. This strategic move indicates Humana's increased focus on artificial intelligence and data analytics to further its business goals. The appointment highlights the growing importance of data leadership in the healthcare industry.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.808706
+        },
+        {
+            "source": "ROI-NJ",
+            "date": "20260508T160023",
+            "title": "Chipotle opens Park 11 location in Belleville with Tulfra Real Estate",
+            "summary": "Chipotle has opened its 110th New Jersey location at Park 11 in Belleville, a project developed by Tulfra Real Estate and The Hampshire Companies. The grand opening was celebrated with local officials and also served as an opportunity for Tulfra to donate to the Legacy Boxing Club, which is rebuilding after a fire. This addition further enhances Park 11 as a vibrant destination, joining other national brands like Starbucks and Wawa.",
+            "text_to_analyze": "Chipotle opens Park 11 location in Belleville with Tulfra Real Estate. Chipotle has opened its 110th New Jersey location at Park 11 in Belleville, a project developed by Tulfra Real Estate and The Hampshire Companies. The grand opening was celebrated with local officials and also served as an opportunity for Tulfra to donate to the Legacy Boxing Club, which is rebuilding after a fire. This addition further enhances Park 11 as a vibrant destination, joining other national brands like Starbucks and Wawa.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.641524
+        }
+    ]
+}

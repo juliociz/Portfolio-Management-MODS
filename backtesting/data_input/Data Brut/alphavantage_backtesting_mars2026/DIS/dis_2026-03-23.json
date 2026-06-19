@@ -1,0 +1,90 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-23",
+    "window_start": "2026-03-20 16:00",
+    "window_end": "2026-03-23 09:27",
+    "articles": [
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260323T044530",
+            "title": "The Walt Disney Company stock holds resilient position amid volatile entertainment market challenges",
+            "summary": "The Walt Disney Company (ISIN: US9314271084) is demonstrating stability in a turbulent entertainment market, making it an appealing prospect for investors in Germany, Austria, and Switzerland (DACH region). Its diversified business model, encompassing streaming services, theme parks, and film studios, is credited with its resilience against economic pressures and intense competition. While challenges like regulatory scrutiny and content spending persist, Disney's strategic focus on profitability and strong cash flow from its parks division underscore its balanced risk-reward profile for long-term holders.",
+            "text_to_analyze": "The Walt Disney Company stock holds resilient position amid volatile entertainment market challenges. The Walt Disney Company (ISIN: US9314271084) is demonstrating stability in a turbulent entertainment market, making it an appealing prospect for investors in Germany, Austria, and Switzerland (DACH region). Its diversified business model, encompassing streaming services, theme parks, and film studios, is credited with its resilience against economic pressures and intense competition. While challenges like regulatory scrutiny and content spending persist, Disney's strategic focus on profitability and strong cash flow from its parks division underscore its balanced risk-reward profile for long-term holders.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260322T182826",
+            "title": "Josh D’Amaro",
+            "summary": "This article profiles Josh D'Amaro, the Chief Executive Officer of The Walt Disney Company. It highlights his strategic vision to combine human creativity with cutting-edge technology to enhance storytelling experiences. Previously, as Chairman of Disney Experiences, he oversaw significant expansion and investment, and his career at Disney spans nearly three decades, marked by a commitment to quality, ingenuity, and global growth.",
+            "text_to_analyze": "Josh D’Amaro. This article profiles Josh D'Amaro, the Chief Executive Officer of The Walt Disney Company. It highlights his strategic vision to combine human creativity with cutting-edge technology to enhance storytelling experiences. Previously, as Chairman of Disney Experiences, he oversaw significant expansion and investment, and his career at Disney spans nearly three decades, marked by a commitment to quality, ingenuity, and global growth.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260322T092623",
+            "title": "The Walt Disney Company $DIS Shares Purchased by Park Avenue Securities LLC",
+            "summary": "Park Avenue Securities LLC increased its stake in The Walt Disney Company (NYSE:DIS) by 23.1% in Q4, acquiring an additional 11,570 shares to hold a total of 61,677 shares valued at approximately $7.02 million. Analysts have a \"Moderate Buy\" consensus rating with a target price of $134.13. Disney recently reported strong quarterly earnings, beating estimates with EPS of $1.63 and revenue of $25.98 billion, while outlining a strategy to position Disney+ as its digital centerpiece.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Purchased by Park Avenue Securities LLC. Park Avenue Securities LLC increased its stake in The Walt Disney Company (NYSE:DIS) by 23.1% in Q4, acquiring an additional 11,570 shares to hold a total of 61,677 shares valued at approximately $7.02 million. Analysts have a \"Moderate Buy\" consensus rating with a target price of $134.13. Disney recently reported strong quarterly earnings, beating estimates with EPS of $1.63 and revenue of $25.98 billion, while outlining a strategy to position Disney+ as its digital centerpiece.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.998852
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260321T154017",
+            "title": "If You Invested $1,000 in WEBTOON ENTERTAINMENT INC. (WBTN)",
+            "summary": "This article analyzes the historical performance of an imagined $1,000 investment in WEBTOON ENTERTAINMENT INC. (WBTN) over 1, 5, and 10 years, noting significant losses and underperformance compared to the S&P 500. It also provides a detailed overview of WEBTOON Entertainment, highlighting its business model, content formats, creator support, partnerships (including with Disney and Warner Bros. Animation), advertising strategy, and financial reporting. The company operates as a global leader in digital storytelling, focusing on webcomics and webnovels for a large, often Gen Z, audience.",
+            "text_to_analyze": "If You Invested $1,000 in WEBTOON ENTERTAINMENT INC. (WBTN). This article analyzes the historical performance of an imagined $1,000 investment in WEBTOON ENTERTAINMENT INC. (WBTN) over 1, 5, and 10 years, noting significant losses and underperformance compared to the S&P 500. It also provides a detailed overview of WEBTOON Entertainment, highlighting its business model, content formats, creator support, partnerships (including with Disney and Warner Bros. Animation), advertising strategy, and financial reporting. The company operates as a global leader in digital storytelling, focusing on webcomics and webnovels for a large, often Gen Z, audience.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.748588
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260321T102522",
+            "title": "QP Wealth Management LLC Purchases New Shares in The Walt Disney Company $DIS",
+            "summary": "QP Wealth Management LLC has acquired a new stake of 6,460 shares in The Walt Disney Company, valued at approximately $735,000, during the fourth quarter. Analysts currently rate Disney as a \"Moderate Buy\" with an average price target of $134.13, despite some firms adjusting their targets. The company recently surpassed quarterly estimates and is focusing on Disney+ as its central digital platform.",
+            "text_to_analyze": "QP Wealth Management LLC Purchases New Shares in The Walt Disney Company $DIS. QP Wealth Management LLC has acquired a new stake of 6,460 shares in The Walt Disney Company, valued at approximately $735,000, during the fourth quarter. Analysts currently rate Disney as a \"Moderate Buy\" with an average price target of $134.13, despite some firms adjusting their targets. The company recently surpassed quarterly estimates and is focusing on Disney+ as its central digital platform.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.959624
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260320T204026",
+            "title": "FuboTV (FUBO) ownership update as Disney and Hulu report 72.9% stake",
+            "summary": "Disney and Hulu have filed an updated Schedule 13D/A, reaffirming their significant stake in FuboTV (FUBO), showing beneficial ownership of 72.9% of the Class A common stock. This updated percentage is based on 947,910,220 as-converted FuboTV Class A shares, relative to 352,715,216 Class A shares outstanding as of February 3, 2026. The companies clarify that the change from previous filings is due to updated share-count methodology rather than new transactions.",
+            "text_to_analyze": "FuboTV (FUBO) ownership update as Disney and Hulu report 72.9% stake. Disney and Hulu have filed an updated Schedule 13D/A, reaffirming their significant stake in FuboTV (FUBO), showing beneficial ownership of 72.9% of the Class A common stock. This updated percentage is based on 947,910,220 as-converted FuboTV Class A shares, relative to 352,715,216 Class A shares outstanding as of February 3, 2026. The companies clarify that the change from previous filings is due to updated share-count methodology rather than new transactions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.709225
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260320T201626",
+            "title": "Disney (DIS) shareholders back directors, CEO joins Board and key proposals fail",
+            "summary": "The Walt Disney Company announced that its CEO, Josh D’Amaro, has been appointed to the Board of Directors, effective immediately, following the annual meeting where shareholders re-elected all nominated directors, including Robert A. Iger. Shareholders also ratified PricewaterhouseCoopers LLP as the independent registered public accountants for fiscal 2026 and approved executive compensation on an advisory basis. Several shareholder proposals, including those regarding religious discrimination risks, cumulative voting, and disability inclusion, were not approved.",
+            "text_to_analyze": "Disney (DIS) shareholders back directors, CEO joins Board and key proposals fail. The Walt Disney Company announced that its CEO, Josh D’Amaro, has been appointed to the Board of Directors, effective immediately, following the annual meeting where shareholders re-elected all nominated directors, including Robert A. Iger. Shareholders also ratified PricewaterhouseCoopers LLP as the independent registered public accountants for fiscal 2026 and approved executive compensation on an advisory basis. Several shareholder proposals, including those regarding religious discrimination risks, cumulative voting, and disability inclusion, were not approved.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.986864
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260320T200732",
+            "title": "Disney (DIS) executive Dana Walden reports stock, options and RSU holdings",
+            "summary": "Disney (DIS) executive Dana Walden, President & Chief Creative Officer, has filed an initial Form 3 statement disclosing her beneficial ownership of Disney Common Stock, stock options, and restricted stock units. This filing serves as a disclosure of existing holdings and does not indicate any recent transactions (buys or sells). Her holdings include direct ownership of Disney Common Stock, indirect ownership via a trust, and various stock option grants and restricted stock units with different vesting schedules extending through December 2028.",
+            "text_to_analyze": "Disney (DIS) executive Dana Walden reports stock, options and RSU holdings. Disney (DIS) executive Dana Walden, President & Chief Creative Officer, has filed an initial Form 3 statement disclosing her beneficial ownership of Disney Common Stock, stock options, and restricted stock units. This filing serves as a disclosure of existing holdings and does not indicate any recent transactions (buys or sells). Her holdings include direct ownership of Disney Common Stock, indirect ownership via a trust, and various stock option grants and restricted stock units with different vesting schedules extending through December 2028.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.960357
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260320T200126",
+            "title": "Jeffrey E. Williams joins Walt Disney Co (DIS) board with Form 3 filing",
+            "summary": "Jeffrey E. Williams has been appointed to the board of Walt Disney Co, as indicated by a Form 3 filing. This initial statement of beneficial ownership identifies Williams as a director but does not show any specific stock or option holdings, nor does it report any recent insider buy or sell transactions. The filing confirms his directorship without disclosing a significant ownership stake or derivative securities.",
+            "text_to_analyze": "Jeffrey E. Williams joins Walt Disney Co (DIS) board with Form 3 filing. Jeffrey E. Williams has been appointed to the board of Walt Disney Co, as indicated by a Form 3 filing. This initial statement of beneficial ownership identifies Williams as a director but does not show any specific stock or option holdings, nor does it report any recent insider buy or sell transactions. The filing confirms his directorship without disclosing a significant ownership stake or derivative securities.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

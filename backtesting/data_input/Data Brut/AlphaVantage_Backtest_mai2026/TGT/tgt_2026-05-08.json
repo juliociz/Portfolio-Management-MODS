@@ -1,0 +1,81 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-08",
+    "window_start": "2026-05-07 16:00",
+    "window_end": "2026-05-08 09:27",
+    "articles": [
+        {
+            "source": "Intellectia AI",
+            "date": "20260508T080844",
+            "title": "Target Launches Baby Boutiques to Attract Family Customers",
+            "summary": "Target has launched baby boutiques in 200 stores to attract family customers and enhance its market share in the baby product industry. Despite a decline in market share compared to competitors like Walmart and Amazon, Target projects a 2% increase in year-over-year net sales and plans to invest $5 billion in capital expenditures to improve store experiences and product quality. This strategic move aims to strengthen customer loyalty and address competitive pressures.",
+            "text_to_analyze": "Target Launches Baby Boutiques to Attract Family Customers. Target has launched baby boutiques in 200 stores to attract family customers and enhance its market share in the baby product industry. Despite a decline in market share compared to competitors like Walmart and Amazon, Target projects a 2% increase in year-over-year net sales and plans to invest $5 billion in capital expenditures to improve store experiences and product quality. This strategic move aims to strengthen customer loyalty and address competitive pressures.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260508T030919",
+            "title": "Disguise Cooks Up Costume Fun With Hormel Foods SPAM®, SKIPPY® & CORN NUTS® Brands",
+            "summary": "Disguise, Inc., a subsidiary of JAKKS Pacific, Inc., has announced a new licensing partnership with Hormel Foods to create officially licensed costumes and accessories based on popular Hormel brands like SPAM®, SKIPPY®, and CORN NUTS®. The first products are expected to launch at Target stores in the United States in 2026, with an expanded global release in 2027. This collaboration aims to provide fun and nostalgic costume options that will appeal to a wide age range, especially tweens and teens.",
+            "text_to_analyze": "Disguise Cooks Up Costume Fun With Hormel Foods SPAM®, SKIPPY® & CORN NUTS® Brands. Disguise, Inc., a subsidiary of JAKKS Pacific, Inc., has announced a new licensing partnership with Hormel Foods to create officially licensed costumes and accessories based on popular Hormel brands like SPAM®, SKIPPY®, and CORN NUTS®. The first products are expected to launch at Target stores in the United States in 2026, with an expanded global release in 2027. This collaboration aims to provide fun and nostalgic costume options that will appeal to a wide age range, especially tweens and teens.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.61971
+        },
+        {
+            "source": "WTVR.com",
+            "date": "20260508T023415",
+            "title": "Trail mix and nuts recalled over potential salmonella contamination",
+            "summary": "John B. Sanfilippo & Son, Inc. has issued a voluntary recall for various trail mix and nut products, including some sold at Target, due to potential Salmonella contamination from a dry milk powder used as seasoning. Although no Salmonella has been detected in the seasoning and no illnesses have been reported, the recall is a precautionary measure. Consumers are advised to dispose of the products or return them for a refund, and aware of Salmonella symptoms, which can be severe for vulnerable populations.",
+            "text_to_analyze": "Trail mix and nuts recalled over potential salmonella contamination. John B. Sanfilippo & Son, Inc. has issued a voluntary recall for various trail mix and nut products, including some sold at Target, due to potential Salmonella contamination from a dry milk powder used as seasoning. Although no Salmonella has been detected in the seasoning and no illnesses have been reported, the recall is a precautionary measure. Consumers are advised to dispose of the products or return them for a refund, and aware of Salmonella symptoms, which can be severe for vulnerable populations.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.721301
+        },
+        {
+            "source": "Good Morning America",
+            "date": "20260507T233915",
+            "title": "Snacks sold at Target voluntarily recalled over possible salmonella concerns",
+            "summary": "Several snack mixes, including Target's Good & Gather Mexican Street Corn Trail Mix, have been voluntarily recalled due to potential salmonella contamination. The recall stems from a seasoning mix produced by a third-party supplier, which used a recalled dry milk powder from California Dairies, Inc. No illnesses have been reported so far, and a full list of affected products can be found on the FDA website.",
+            "text_to_analyze": "Snacks sold at Target voluntarily recalled over possible salmonella concerns. Several snack mixes, including Target's Good & Gather Mexican Street Corn Trail Mix, have been voluntarily recalled due to potential salmonella contamination. The recall stems from a seasoning mix produced by a third-party supplier, which used a recalled dry milk powder from California Dairies, Inc. No illnesses have been reported so far, and a full list of affected products can be found on the FDA website.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.808052
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260507T220902",
+            "title": "Target (NYSE:TGT) - Stock Analysis",
+            "summary": "This article provides a detailed stock analysis of Target (NYSE:TGT), including its current valuation, future growth prospects, past performance, financial health, dividends, management, and ownership. It highlights that Target is trading below its fair value with reliable dividends but faces risks such as significant insider selling and high debt levels. The report also compiles recent news and analyst narratives, offering a comprehensive overview of the company's financial standing and strategic initiatives.",
+            "text_to_analyze": "Target (NYSE:TGT) - Stock Analysis. This article provides a detailed stock analysis of Target (NYSE:TGT), including its current valuation, future growth prospects, past performance, financial health, dividends, management, and ownership. It highlights that Target is trading below its fair value with reliable dividends but faces risks such as significant insider selling and high debt levels. The report also compiles recent news and analyst narratives, offering a comprehensive overview of the company's financial standing and strategic initiatives.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "KSHB 41 Kansas City",
+            "date": "20260507T203956",
+            "title": "Trail mix and nuts recalled over potential salmonella contamination",
+            "summary": "John B. Sanfilippo & Son, Inc. has issued a voluntary recall of various trail mix and nut products, including brands sold at Target stores, due to potential Salmonella contamination. Although no illnesses have been reported and the seasoning in question did not test positive for Salmonella, the recall is a precautionary measure. Consumers are advised to discard the products or return them for a full refund.",
+            "text_to_analyze": "Trail mix and nuts recalled over potential salmonella contamination. John B. Sanfilippo & Son, Inc. has issued a voluntary recall of various trail mix and nut products, including brands sold at Target stores, due to potential Salmonella contamination. Although no illnesses have been reported and the seasoning in question did not test positive for Salmonella, the recall is a precautionary measure. Consumers are advised to discard the products or return them for a full refund.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.60315
+        },
+        {
+            "source": "LiveNOW from FOX",
+            "date": "20260507T174023",
+            "title": "Snacks sold at Target, QVC recalled over salmonella concerns",
+            "summary": "John B. Sanfilippo & Son, Inc. has recalled several snack and trail mixes sold at Target and QVC due to salmonella concerns. The products, under Fisher, Squirrel Brand, and Southern Style Nuts brands, used dry milk powder previously recalled by California Dairies, Inc. Although initial testing for salmonella was negative and no illnesses have been reported, consumers are advised to return the items for a refund as a precaution.",
+            "text_to_analyze": "Snacks sold at Target, QVC recalled over salmonella concerns. John B. Sanfilippo & Son, Inc. has recalled several snack and trail mixes sold at Target and QVC due to salmonella concerns. The products, under Fisher, Squirrel Brand, and Southern Style Nuts brands, used dry milk powder previously recalled by California Dairies, Inc. Although initial testing for salmonella was negative and no illnesses have been reported, consumers are advised to return the items for a refund as a precaution.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.806006
+        },
+        {
+            "source": "AL.com",
+            "date": "20260507T160700",
+            "title": "If you bought snack mix recently, you need to check your pantry right now",
+            "summary": "John B. Sanfilippo & Son, Inc. has issued a nationwide recall of various snack mix products, including Target's Good & Gather, Fisher, Squirrel Brand, and Southern Style Nuts brands, due to potential Salmonella contamination. The recall stems from concerns over an ingredient, dry milk powder, supplied by California Dairies, Inc. Although the specific seasoning batches tested negative for Salmonella, the recall was initiated out of caution.",
+            "text_to_analyze": "If you bought snack mix recently, you need to check your pantry right now. John B. Sanfilippo & Son, Inc. has issued a nationwide recall of various snack mix products, including Target's Good & Gather, Fisher, Squirrel Brand, and Southern Style Nuts brands, due to potential Salmonella contamination. The recall stems from concerns over an ingredient, dry milk powder, supplied by California Dairies, Inc. Although the specific seasoning batches tested negative for Salmonella, the recall was initiated out of caution.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.993228
+        }
+    ]
+}

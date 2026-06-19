@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-05",
+    "window_start": "2026-05-04 16:00",
+    "window_end": "2026-05-05 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260505T071541",
+            "title": "Alliance Wealth Advisors LLC UT Decreases Holdings in The Walt Disney Company $DIS",
+            "summary": "Alliance Wealth Advisors LLC UT reduced its stake in The Walt Disney Company by 24.3% in Q4 2025, selling 5,301 shares and ending the quarter with 16,530 shares valued at approximately $1.88 million. Disney's stock, currently trading around $101.29 with a market cap of $179.4 billion, recently beat quarterly earnings estimates with $1.63 EPS on $25.98 billion revenue. Analysts maintain a \"Moderate Buy\" rating with a consensus target price of $133.53 for the entertainment giant.",
+            "text_to_analyze": "Alliance Wealth Advisors LLC UT Decreases Holdings in The Walt Disney Company $DIS. Alliance Wealth Advisors LLC UT reduced its stake in The Walt Disney Company by 24.3% in Q4 2025, selling 5,301 shares and ending the quarter with 16,530 shares valued at approximately $1.88 million. Disney's stock, currently trading around $101.29 with a market cap of $179.4 billion, recently beat quarterly earnings estimates with $1.63 EPS on $25.98 billion revenue. Analysts maintain a \"Moderate Buy\" rating with a consensus target price of $133.53 for the entertainment giant.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.992572
+        },
+        {
+            "source": "Sahm",
+            "date": "20260504T200927",
+            "title": "Star Wars Day (May The 4th) Is Here, But The Real Test For Disney Stock Comes In Three Weeks",
+            "summary": "Star Wars Day on May 4th highlights the upcoming release of \"The Mandalorian & Grogu\" on May 22nd, Disney's first theatrical Star Wars movie since 2019. This film, along with other major releases like \"Toy Story 5,\" \"Moana,\" and \"Avengers: Doomsday,\" is expected to significantly boost Disney's box office performance in 2026. While Disney may not have the single highest-grossing film, these releases are anticipated to help the company dominate the overall box office chart.",
+            "text_to_analyze": "Star Wars Day (May The 4th) Is Here, But The Real Test For Disney Stock Comes In Three Weeks. Star Wars Day on May 4th highlights the upcoming release of \"The Mandalorian & Grogu\" on May 22nd, Disney's first theatrical Star Wars movie since 2019. This film, along with other major releases like \"Toy Story 5,\" \"Moana,\" and \"Avengers: Doomsday,\" is expected to significantly boost Disney's box office performance in 2026. While Disney may not have the single highest-grossing film, these releases are anticipated to help the company dominate the overall box office chart.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

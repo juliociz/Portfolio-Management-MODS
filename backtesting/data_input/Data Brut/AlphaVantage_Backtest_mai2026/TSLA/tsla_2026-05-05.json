@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-05",
+    "window_start": "2026-05-04 16:00",
+    "window_end": "2026-05-05 09:27",
+    "articles": [
+        {
+            "source": "CNBC",
+            "date": "20260505T090000",
+            "title": "Ford’s secret EV unit emerges from shadows, still bullish on new pickup amid market slowdown",
+            "summary": "Ford is continuing its push into electric vehicles with a new \"Universal Electric Vehicle\" (UEV) platform, despite a market slowdown and leadership changes. This platform is expected to help the automaker's Model e unit achieve profitability by 2029, with the first product being a midsize pickup truck priced around $30,000. Ford's strategy aims to compete with global EV leaders like Tesla and Chinese manufacturers by focusing on affordability and efficiency.",
+            "text_to_analyze": "Ford’s secret EV unit emerges from shadows, still bullish on new pickup amid market slowdown. Ford is continuing its push into electric vehicles with a new \"Universal Electric Vehicle\" (UEV) platform, despite a market slowdown and leadership changes. This platform is expected to help the automaker's Model e unit achieve profitability by 2029, with the first product being a midsize pickup truck priced around $30,000. Ford's strategy aims to compete with global EV leaders like Tesla and Chinese manufacturers by focusing on affordability and efficiency.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.629928
+        },
+        {
+            "source": "MSN",
+            "date": "20260505T080835",
+            "title": "TSLA stock rises marginally premarket: Elon Musk’s FSD ambitions in Europe hang in balance ahead of EU regulatory hearing",
+            "summary": "This article reports that Tesla (TSLA) stock is experiencing a marginal rise in pre-market trading. The increase comes as Elon Musk's plans for Full Self-Driving (FSD) in Europe face uncertainty, pending an upcoming regulatory hearing with the European Union. The outcome of this hearing will be critical for Tesla's advanced driver-assistance system expansion in the European market.",
+            "text_to_analyze": "TSLA stock rises marginally premarket: Elon Musk’s FSD ambitions in Europe hang in balance ahead of EU regulatory hearing. This article reports that Tesla (TSLA) stock is experiencing a marginal rise in pre-market trading. The increase comes as Elon Musk's plans for Full Self-Driving (FSD) in Europe face uncertainty, pending an upcoming regulatory hearing with the European Union. The outcome of this hearing will be critical for Tesla's advanced driver-assistance system expansion in the European market.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260505T071007",
+            "title": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2997",
+            "summary": "REX TSLA Growth & Income ETF has declared a weekly distribution of $0.2997. This announcement provides current information regarding the fund's payout to its investors.",
+            "text_to_analyze": "REX TSLA Growth & Income ETF announces weekly distribution of $0.2997. REX TSLA Growth & Income ETF has declared a weekly distribution of $0.2997. This announcement provides current information regarding the fund's payout to its investors.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.805517
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260504T223835",
+            "title": "Tesla Loyalty Surges In US Survey As Brand Rebounds - Tesla (NASDAQ:TSLA)",
+            "summary": "A recent S&P Global Mobility survey for February shows a significant rebound in Tesla's US loyalty rates, reaching 61.1%, up from 54.7% the previous year. This places Tesla at the top of the list, a positive sign for the brand amidst prior reports of declining brand reputation. Investor Chamath Palihapitiya praised Tesla's driving experience, highlighting its FSD software, while some other automotive brands like Ford and Chevrolet saw their loyalty ratings fall.",
+            "text_to_analyze": "Tesla Loyalty Surges In US Survey As Brand Rebounds - Tesla (NASDAQ:TSLA). A recent S&P Global Mobility survey for February shows a significant rebound in Tesla's US loyalty rates, reaching 61.1%, up from 54.7% the previous year. This places Tesla at the top of the list, a positive sign for the brand amidst prior reports of declining brand reputation. Investor Chamath Palihapitiya praised Tesla's driving experience, highlighting its FSD software, while some other automotive brands like Ford and Chevrolet saw their loyalty ratings fall.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260504T210950",
+            "title": "TD (TD) launches autocallable notes linked to META, NVDA, TSLA — ≥6.90% coupon",
+            "summary": "The Toronto-Dominion Bank is offering autocallable contingent interest notes linked to the performance of Meta (META), NVIDIA (NVDA), and Tesla (TSLA). These notes feature a monthly contingent interest payment at an annual rate of at least 6.90%, provided each reference asset's closing value is at least 75.00% of its initial value. The notes can be automatically called if all reference assets reach 100.00% of their initial value on a monthly call observation date, returning the principal plus any accrued interest.",
+            "text_to_analyze": "TD (TD) launches autocallable notes linked to META, NVDA, TSLA — ≥6.90% coupon. The Toronto-Dominion Bank is offering autocallable contingent interest notes linked to the performance of Meta (META), NVIDIA (NVDA), and Tesla (TSLA). These notes feature a monthly contingent interest payment at an annual rate of at least 6.90%, provided each reference asset's closing value is at least 75.00% of its initial value. The notes can be automatically called if all reference assets reach 100.00% of their initial value on a monthly call observation date, returning the principal plus any accrued interest.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.862623
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260504T183849",
+            "title": "GraniteShares 2x Short TSLA Daily ETF (TSDD) Stock Forum and Discussion",
+            "summary": "The article provides a stock forum and discussion platform for the GraniteShares 2x Short TSLA Daily ETF (TSDD). It serves as a central hub for investors to share insights, analysis, and opinions regarding the performance and future outlook of TSDD.",
+            "text_to_analyze": "GraniteShares 2x Short TSLA Daily ETF (TSDD) Stock Forum and Discussion. The article provides a stock forum and discussion platform for the GraniteShares 2x Short TSLA Daily ETF (TSDD). It serves as a central hub for investors to share insights, analysis, and opinions regarding the performance and future outlook of TSDD.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.808407
+        },
+        {
+            "source": "openPR.com",
+            "date": "20260504T163808",
+            "title": "Commercial Vehicle Electrification Market Size Accelerating",
+            "summary": "The Commercial Vehicle Electrification Market is experiencing significant growth, projected to reach $410.2 Billion by 2033 with an 18.2% CAGR, driven by geopolitical tensions, volatile diesel prices, government policies, and technological advancements. Key players include Tesla, BYD, and Volvo Group, while AI plays a crucial role in optimizing fleet operations and battery management. The market offers compelling investment opportunities across various segments and regions, with Asia-Pacific leading in adoption.",
+            "text_to_analyze": "Commercial Vehicle Electrification Market Size Accelerating. The Commercial Vehicle Electrification Market is experiencing significant growth, projected to reach $410.2 Billion by 2033 with an 18.2% CAGR, driven by geopolitical tensions, volatile diesel prices, government policies, and technological advancements. Key players include Tesla, BYD, and Volvo Group, while AI plays a crucial role in optimizing fleet operations and battery management. The market offers compelling investment opportunities across various segments and regions, with Asia-Pacific leading in adoption.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.729749
+        },
+        {
+            "source": "Reuters",
+            "date": "20260504T161700",
+            "title": "Italy new car registrations up 11.6% in April, minister says",
+            "summary": "New car registrations in Italy increased by 11.6% year-on-year in April, reaching 155,210 vehicles, according to transport ministry data. For the first four months of 2026, registrations were up 9.8% to 640,083 units. Stellantis, the market leader, saw its April sales rise by 14.4%, while Chinese brands like BYD and Chery experienced significant growth; Tesla's sales, however, declined.",
+            "text_to_analyze": "Italy new car registrations up 11.6% in April, minister says. New car registrations in Italy increased by 11.6% year-on-year in April, reaching 155,210 vehicles, according to transport ministry data. For the first four months of 2026, registrations were up 9.8% to 640,083 units. Stellantis, the market leader, saw its April sales rise by 14.4%, while Chinese brands like BYD and Chery experienced significant growth; Tesla's sales, however, declined.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.724584
+        }
+    ]
+}

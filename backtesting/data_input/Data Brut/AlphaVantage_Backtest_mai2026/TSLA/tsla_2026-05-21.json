@@ -1,0 +1,36 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-21",
+    "window_start": "2026-05-20 16:00",
+    "window_end": "2026-05-21 09:27",
+    "articles": [
+        {
+            "source": "Seeking Alpha",
+            "date": "20260521T070840",
+            "title": "Tesla says FSD Supervised is available in China (TSLA:NASDAQ)",
+            "summary": "Tesla has announced the availability of its FSD (fully self-driving) Supervised system in China, adding it to a list of other countries where it is already offered, including the U.S. and Canada. The timeline for the launch of the fully autonomous FSD system in China, however, remains uncertain. This supervised version requires active monitoring by a human driver.",
+            "text_to_analyze": "Tesla says FSD Supervised is available in China (TSLA:NASDAQ). Tesla has announced the availability of its FSD (fully self-driving) Supervised system in China, adding it to a list of other countries where it is already offered, including the U.S. and Canada. The timeline for the launch of the fully autonomous FSD system in China, however, remains uncertain. This supervised version requires active monitoring by a human driver.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "WSJ",
+            "date": "20260520T230843",
+            "title": "Analyst Predicts a 2027 Merger Between Tesla and SpaceX",
+            "summary": "Wedbush analyst Dan Ives predicts a merger between Tesla and SpaceX in 2027, citing Tesla's existing stake in SpaceX and their joint Terafab facility. Ives believes Elon Musk aims to control more of the AI ecosystem by combining the two disruptive tech companies. SpaceX's prospectus also acknowledges a strong partnership through commercial engagements.",
+            "text_to_analyze": "Analyst Predicts a 2027 Merger Between Tesla and SpaceX. Wedbush analyst Dan Ives predicts a merger between Tesla and SpaceX in 2027, citing Tesla's existing stake in SpaceX and their joint Terafab facility. Ives believes Elon Musk aims to control more of the AI ecosystem by combining the two disruptive tech companies. SpaceX's prospectus also acknowledges a strong partnership through commercial engagements.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260520T174014",
+            "title": "Barclays (DJP) offers $300K buffered callable notes linked to TSLA, COIN, HOOD",
+            "summary": "Barclays Bank PLC is offering $300,000 in Buffered Callable Contingent Coupon Notes due May 23, 2029, linked to the performance of TSLA, COIN, and HOOD. These notes pay a contingent coupon of $19.583 per $1,000 (23.50% per annum) if each underlying asset meets its coupon barrier. Principal repayment at maturity depends on the least performing asset's final value relative to its buffer value, with potential losses up to 60%.",
+            "text_to_analyze": "Barclays (DJP) offers $300K buffered callable notes linked to TSLA, COIN, HOOD. Barclays Bank PLC is offering $300,000 in Buffered Callable Contingent Coupon Notes due May 23, 2029, linked to the performance of TSLA, COIN, and HOOD. These notes pay a contingent coupon of $19.583 per $1,000 (23.50% per annum) if each underlying asset meets its coupon barrier. Principal repayment at maturity depends on the least performing asset's final value relative to its buffer value, with potential losses up to 60%.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.815984
+        }
+    ]
+}

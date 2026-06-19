@@ -1,0 +1,18 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-13",
+    "window_start": "2026-03-12 16:00",
+    "window_end": "2026-03-13 09:27",
+    "articles": [
+        {
+            "source": "ETF Database",
+            "date": "20260313T075150",
+            "title": "How Autocallable ETFs Are Revolutionizing Single-Stock Income",
+            "summary": "GraniteShares is introducing autocallable single-stock ETFs to make institutional income strategies more accessible to advisors and investors. These ETFs aim to overcome traditional structured note drawbacks like illiquidity and high fees by offering continuous liquidity, lower costs, and a laddered design. The strategy, which combines elements of equities and fixed income, provides defined income streams and downside protection, leveraging the volatility of high-growth stocks like Tesla and Nvidia.",
+            "text_to_analyze": "How Autocallable ETFs Are Revolutionizing Single-Stock Income. GraniteShares is introducing autocallable single-stock ETFs to make institutional income strategies more accessible to advisors and investors. These ETFs aim to overcome traditional structured note drawbacks like illiquidity and high fees by offering continuous liquidity, lower costs, and a laddered design. The strategy, which combines elements of equities and fixed income, provides defined income streams and downside protection, leveraging the volatility of high-growth stocks like Tesla and Nvidia.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.891022
+        }
+    ]
+}

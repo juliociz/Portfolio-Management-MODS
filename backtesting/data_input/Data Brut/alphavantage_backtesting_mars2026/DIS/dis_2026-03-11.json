@@ -1,0 +1,63 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-11",
+    "window_start": "2026-03-10 16:00",
+    "window_end": "2026-03-11 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260311T083303",
+            "title": "Capital International Investors Grows Stake in The Walt Disney Company $DIS",
+            "summary": "Capital International Investors has increased its stake in The Walt Disney Company by 0.4%, bringing its total holding to 5,148,071 shares valued at approximately $589.45 million. Despite Disney beating quarterly earnings and revenue estimates, the near-term outlook is mixed due to strong box office performance for its new Pixar film \"Hoppers\" contrasted with increasing ad-market competition and geopolitical travel risks. Analysts currently have a consensus \"Moderate Buy\" rating for DIS, with an average target price of $135.80.",
+            "text_to_analyze": "Capital International Investors Grows Stake in The Walt Disney Company $DIS. Capital International Investors has increased its stake in The Walt Disney Company by 0.4%, bringing its total holding to 5,148,071 shares valued at approximately $589.45 million. Despite Disney beating quarterly earnings and revenue estimates, the near-term outlook is mixed due to strong box office performance for its new Pixar film \"Hoppers\" contrasted with increasing ad-market competition and geopolitical travel risks. Analysts currently have a consensus \"Moderate Buy\" rating for DIS, with an average target price of $135.80.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.303787
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260311T072811",
+            "title": "Banque Cantonale Vaudoise Cuts Position in The Walt Disney Company $DIS",
+            "summary": "Banque Cantonale Vaudoise reduced its stake in The Walt Disney Company by 21.5% in the third quarter, selling 9,523 shares and leaving it with 34,817 shares valued at approximately $3.99 million. The company's stock currently trades around $101, with analysts giving it a \"Moderate Buy\" consensus rating and an average target price of $135.80. Disney recently beat EPS estimates with $1.63 and reported $25.98 billion in revenue, highlighting some positive performance despite market pressures.",
+            "text_to_analyze": "Banque Cantonale Vaudoise Cuts Position in The Walt Disney Company $DIS. Banque Cantonale Vaudoise reduced its stake in The Walt Disney Company by 21.5% in the third quarter, selling 9,523 shares and leaving it with 34,817 shares valued at approximately $3.99 million. The company's stock currently trades around $101, with analysts giving it a \"Moderate Buy\" consensus rating and an average target price of $135.80. Disney recently beat EPS estimates with $1.63 and reported $25.98 billion in revenue, highlighting some positive performance despite market pressures.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Deadline",
+            "date": "20260310T225007",
+            "title": "Disney Names Thomas Mazloum As New Head Of Experiences",
+            "summary": "Thomas Mazloum has been appointed Chairman, Disney Experiences, taking over from Josh D’Amaro, who became CEO of The Walt Disney Co. In this role, Mazloum will oversee Disney's global portfolio of businesses, including theme parks, cruise ships, resorts, and consumer products. This promotion follows his successful tenure as President of Disneyland Resort and comes as Disney plans to invest $60 billion in its Experiences segment over the next decade.",
+            "text_to_analyze": "Disney Names Thomas Mazloum As New Head Of Experiences. Thomas Mazloum has been appointed Chairman, Disney Experiences, taking over from Josh D’Amaro, who became CEO of The Walt Disney Co. In this role, Mazloum will oversee Disney's global portfolio of businesses, including theme parks, cruise ships, resorts, and consumer products. This promotion follows his successful tenure as President of Disneyland Resort and comes as Disney plans to invest $60 billion in its Experiences segment over the next decade.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.955037
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260310T220204",
+            "title": "Disney Experiences Announces Leadership Changes",
+            "summary": "Disney Experiences has announced significant leadership changes, with Thomas Mazloum succeeding Josh D’Amaro as Chairman of Disney Experiences. Mazloum, bringing extensive operational expertise and international leadership, will oversee Disney's global theme parks, cruise lines, resorts, and consumer products. This restructuring also includes new roles for Jill Estorino as President of Disneyland Resort, Tasia Filippatos as President of Disney Parks International, and Lisa Baldzicki as President of Disney Consumer Products, aiming to drive growth and enhance guest experiences globally.",
+            "text_to_analyze": "Disney Experiences Announces Leadership Changes. Disney Experiences has announced significant leadership changes, with Thomas Mazloum succeeding Josh D’Amaro as Chairman of Disney Experiences. Mazloum, bringing extensive operational expertise and international leadership, will oversee Disney's global theme parks, cruise lines, resorts, and consumer products. This restructuring also includes new roles for Jill Estorino as President of Disneyland Resort, Tasia Filippatos as President of Disney Parks International, and Lisa Baldzicki as President of Disney Consumer Products, aiming to drive growth and enhance guest experiences globally.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Hollywood Reporter",
+            "date": "20260310T220204",
+            "title": "Josh D’Amaro Sets New Leadership at Disney’s Lucrative Experiences Division",
+            "summary": "The Walt Disney Co. has appointed Thomas Mazloum, current president of the Disneyland Resort, as the new chairman of Disney Experiences, succeeding Josh D’Amaro. D'Amaro will become Disney’s CEO next week. This leadership change also involves new roles for Jill Estorino at Disneyland Resort, Tasia Filippatos at Disney Parks International, and Lisa Baldzicki at Disney Consumer Products, as Disney continues to invest heavily in its highly profitable experiences division.",
+            "text_to_analyze": "Josh D’Amaro Sets New Leadership at Disney’s Lucrative Experiences Division. The Walt Disney Co. has appointed Thomas Mazloum, current president of the Disneyland Resort, as the new chairman of Disney Experiences, succeeding Josh D’Amaro. D'Amaro will become Disney’s CEO next week. This leadership change also involves new roles for Jill Estorino at Disneyland Resort, Tasia Filippatos at Disney Parks International, and Lisa Baldzicki at Disney Consumer Products, as Disney continues to invest heavily in its highly profitable experiences division.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260310T162504",
+            "title": "Disney Cruise Line Makes Asia Debut with Maiden Voyage of ‘Disney Adventure’",
+            "summary": "Disney Cruise Line is expanding its global presence with the maiden voyage of the Disney Adventure from Singapore, marking its first ship in Asia. The company sees this as a significant step to introduce new guests to Disney Experiences, with most passengers being first-time cruisers and over 80% of sailings already booked for fiscal year 2026. The Disney Adventure, the largest ship in the fleet, offers unique immersive storytelling experiences inspired by Disney, Marvel, and Pixar, tailored with regional influences.",
+            "text_to_analyze": "Disney Cruise Line Makes Asia Debut with Maiden Voyage of ‘Disney Adventure’. Disney Cruise Line is expanding its global presence with the maiden voyage of the Disney Adventure from Singapore, marking its first ship in Asia. The company sees this as a significant step to introduce new guests to Disney Experiences, with most passengers being first-time cruisers and over 80% of sailings already booked for fiscal year 2026. The Disney Adventure, the largest ship in the fleet, offers unique immersive storytelling experiences inspired by Disney, Marvel, and Pixar, tailored with regional influences.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-06",
+    "window_start": "2026-03-05 16:00",
+    "window_end": "2026-03-06 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260306T001553",
+            "title": "Costco Wholesale (NASDAQ:COST) Releases Earnings Results, Beats Expectations By $0.07 EPS",
+            "summary": "Costco Wholesale (NASDAQ:COST) reported Q2 earnings of $4.58 per share, exceeding analyst estimates by $0.07, and revenue of $69.60 billion, beating expectations. Despite strong performance including 7.4% comparable sales growth and a 13.6% increase in membership fee income, the stock saw a dip of $24 after the report due to mixed margin dynamics, tariff uncertainties, and some insider selling. Analysts, however, hold a generally \"Moderate Buy\" consensus rating with an average price target of $1,016.18, and the company plans to open approximately 28 new warehouses in FY26.",
+            "text_to_analyze": "Costco Wholesale (NASDAQ:COST) Releases Earnings Results, Beats Expectations By $0.07 EPS. Costco Wholesale (NASDAQ:COST) reported Q2 earnings of $4.58 per share, exceeding analyst estimates by $0.07, and revenue of $69.60 billion, beating expectations. Despite strong performance including 7.4% comparable sales growth and a 13.6% increase in membership fee income, the stock saw a dip of $24 after the report due to mixed margin dynamics, tariff uncertainties, and some insider selling. Analysts, however, hold a generally \"Moderate Buy\" consensus rating with an average price target of $1,016.18, and the company plans to open approximately 28 new warehouses in FY26.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.620686
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260305T212728",
+            "title": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Target (NYSE:TGT) Stock",
+            "summary": "JPMorgan Chase & Co. has increased its price target for Target (NYSE:TGT) stock to $120.00 from $115.00, maintaining a \"neutral\" rating, despite potential downside from the previous close. This adjustment follows Target's strong Q4 earnings beat and a multi-year turnaround plan that includes significant investments and new store openings. While analysts acknowledge bullish catalysts, the consensus remains a \"Hold\" due to lingering revenue weakness and execution risks associated with the turnaround strategy.",
+            "text_to_analyze": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Target (NYSE:TGT) Stock. JPMorgan Chase & Co. has increased its price target for Target (NYSE:TGT) stock to $120.00 from $115.00, maintaining a \"neutral\" rating, despite potential downside from the previous close. This adjustment follows Target's strong Q4 earnings beat and a multi-year turnaround plan that includes significant investments and new store openings. While analysts acknowledge bullish catalysts, the consensus remains a \"Hold\" due to lingering revenue weakness and execution risks associated with the turnaround strategy.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260305T182403",
+            "title": "Target opens 30 stores this year, including 'food-forward' prototype",
+            "summary": "Target plans to open 30 new stores this year, reaching a total of 2,000 locations. This expansion is part of a $5 billion investment aimed at reversing recent quarterly sales declines. One of the new store formats will include a \"food-forward\" prototype.",
+            "text_to_analyze": "Target opens 30 stores this year, including 'food-forward' prototype. Target plans to open 30 new stores this year, reaching a total of 2,000 locations. This expansion is part of a $5 billion investment aimed at reversing recent quarterly sales declines. One of the new store formats will include a \"food-forward\" prototype.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.938293
+        }
+    ]
+}

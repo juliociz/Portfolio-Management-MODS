@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-17",
+    "window_start": "2026-03-16 16:00",
+    "window_end": "2026-03-17 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260317T084914",
+            "title": "Starbucks Corporation $SBUX Shares Sold by Focus Partners Wealth",
+            "summary": "Focus Partners Wealth reduced its holdings in Starbucks Corporation (NASDAQ:SBUX) by 21.2% in the third quarter, now owning 729,741 shares valued at $61,734,000. Other institutions like Brighton Jones LLC and Schnieders Capital Management LLC increased their stakes in the coffee giant. Analysts currently rate SBUX as a \"Moderate Buy\" with an average target price of $104.22, despite some recent data breach concerns and an EPS miss last quarter.",
+            "text_to_analyze": "Starbucks Corporation $SBUX Shares Sold by Focus Partners Wealth. Focus Partners Wealth reduced its holdings in Starbucks Corporation (NASDAQ:SBUX) by 21.2% in the third quarter, now owning 729,741 shares valued at $61,734,000. Other institutions like Brighton Jones LLC and Schnieders Capital Management LLC increased their stakes in the coffee giant. Analysts currently rate SBUX as a \"Moderate Buy\" with an average target price of $104.22, despite some recent data breach concerns and an EPS miss last quarter.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.955554
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260317T082414",
+            "title": "CSM Advisors LLC Sells 50,685 Shares of Starbucks Corporation $SBUX",
+            "summary": "CSM Advisors LLC significantly reduced its stake in Starbucks Corporation ($SBUX) by selling 50,685 shares, bringing their total holdings to 19,650 shares valued at $1,661,000. Several other institutional investors also adjusted their positions in Starbucks, with some increasing and others acquiring new stakes. Starbucks' financial performance shows a market capitalization of $111.45 billion and recent earnings that missed analyst expectations, contributing to a \"Moderate Buy\" consensus rating from analysts with an average target price of $104.22.",
+            "text_to_analyze": "CSM Advisors LLC Sells 50,685 Shares of Starbucks Corporation $SBUX. CSM Advisors LLC significantly reduced its stake in Starbucks Corporation ($SBUX) by selling 50,685 shares, bringing their total holdings to 19,650 shares valued at $1,661,000. Several other institutional investors also adjusted their positions in Starbucks, with some increasing and others acquiring new stakes. Starbucks' financial performance shows a market capitalization of $111.45 billion and recent earnings that missed analyst expectations, contributing to a \"Moderate Buy\" consensus rating from analysts with an average target price of $104.22.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.969815
+        },
+        {
+            "source": "Simply Wall St",
+            "date": "20260317T005620",
+            "title": "Assessing Starbucks (SBUX) Valuation After Mixed Share Performance And Slower International Growth Concerns",
+            "summary": "Starbucks (SBUX) stock has experienced mixed performance recently, with short-term dips contrasting with medium-term gains, while revenue and net income have shown growth. Despite this, a common analyst narrative suggests the stock is overvalued at $97.82, with a fair value estimated at $67.08, due to concerns over international growth in India and China. The article advises investors to assess the numbers themselves, considering both optimistic forecasts for earnings and potential risks from cost pressures or shifting consumer demand.",
+            "text_to_analyze": "Assessing Starbucks (SBUX) Valuation After Mixed Share Performance And Slower International Growth Concerns. Starbucks (SBUX) stock has experienced mixed performance recently, with short-term dips contrasting with medium-term gains, while revenue and net income have shown growth. Despite this, a common analyst narrative suggests the stock is overvalued at $97.82, with a fair value estimated at $67.08, due to concerns over international growth in India and China. The article advises investors to assess the numbers themselves, considering both optimistic forecasts for earnings and potential risks from cost pressures or shifting consumer demand.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "IndexBox",
+            "date": "20260316T202012",
+            "title": "Nasdaq 100 Stock Analysis: Starbucks vs. MercadoLibre & Costco Performance - News and Statistics",
+            "summary": "An analysis of the Nasdaq 100 index reveals contrasting performances among key companies. Starbucks is facing challenges with declining operating margins and slower earnings per share growth despite revenue increases. In contrast, MercadoLibre and Costco are exhibiting strength, with MercadoLibre showing strong revenue per user growth and free cash flow margin, while Costco boasts consistent same-store sales growth and industry-leading return on capital.",
+            "text_to_analyze": "Nasdaq 100 Stock Analysis: Starbucks vs. MercadoLibre & Costco Performance - News and Statistics. An analysis of the Nasdaq 100 index reveals contrasting performances among key companies. Starbucks is facing challenges with declining operating margins and slower earnings per share growth despite revenue increases. In contrast, MercadoLibre and Costco are exhibiting strength, with MercadoLibre showing strong revenue per user growth and free cash flow margin, while Costco boasts consistent same-store sales growth and industry-leading return on capital.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.331584
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260316T201912",
+            "title": "NYC Comptroller Urges SBUX Board Accountability After Labor Conflicts (SBUX)",
+            "summary": "The NYC Comptroller is urging Starbucks shareholders to push for board accountability, citing concerns over the company's handling of labor conflicts. The Comptroller's office has engaged with Starbucks since union organizing began in 2021, and notes a shift in board oversight after the CEO consolidated the roles of Chair and CEO in September 2024, leading to a perceived decline in independent engagement regarding labor issues. The report highlights recurring unfair labor practice claims and stalled collective bargaining, recommending a restoration of robust board-level oversight.",
+            "text_to_analyze": "NYC Comptroller Urges SBUX Board Accountability After Labor Conflicts (SBUX). The NYC Comptroller is urging Starbucks shareholders to push for board accountability, citing concerns over the company's handling of labor conflicts. The Comptroller's office has engaged with Starbucks since union organizing began in 2021, and notes a shift in board oversight after the CEO consolidated the roles of Chair and CEO in September 2024, leading to a perceived decline in independent engagement regarding labor issues. The report highlights recurring unfair labor practice claims and stalled collective bargaining, recommending a restoration of robust board-level oversight.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

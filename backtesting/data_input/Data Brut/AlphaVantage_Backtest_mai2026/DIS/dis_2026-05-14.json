@@ -1,0 +1,54 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-14",
+    "window_start": "2026-05-13 16:00",
+    "window_end": "2026-05-14 09:27",
+    "articles": [
+        {
+            "source": "Proactive financial news",
+            "date": "20260514T091102",
+            "title": "Phunware names new CEO, taps Disney+ veteran for AI platform push",
+            "summary": "Phunware (NASDAQ:PHUN) has appointed Dmitry Kroshka as its new CEO and engaged an AI-first product consultancy led by a former Disney+ executive, Michael Cerda, to advance its mobile guest intelligence platform. Kroshka will lead the company's \"2.0 Strategy,\" focusing on transforming its mobile and customer engagement capabilities into an AI-enabled platform for large property operators in hospitality and healthcare. This move aims to sharpen Phunware's commercial focus on \"Guest Intelligence\" and build upon its AI Concierge module, which has seen strong engagement since its January release.",
+            "text_to_analyze": "Phunware names new CEO, taps Disney+ veteran for AI platform push. Phunware (NASDAQ:PHUN) has appointed Dmitry Kroshka as its new CEO and engaged an AI-first product consultancy led by a former Disney+ executive, Michael Cerda, to advance its mobile guest intelligence platform. Kroshka will lead the company's \"2.0 Strategy,\" focusing on transforming its mobile and customer engagement capabilities into an AI-enabled platform for large property operators in hospitality and healthcare. This move aims to sharpen Phunware's commercial focus on \"Guest Intelligence\" and build upon its AI Concierge module, which has seen strong engagement since its January release.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.714101
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260514T082226",
+            "title": "Bank Julius Baer & Co. Ltd Zurich Lowers Stock Holdings in The Walt Disney Company $DIS",
+            "summary": "Bank Julius Baer & Co. Ltd Zurich decreased its holdings in The Walt Disney Company by 3.1% in the fourth quarter, selling 46,681 shares, though other institutional investors boosted their positions. Despite this, institutional investors still hold 65.71% of Disney's shares. Analysts maintain a \"Moderate Buy\" rating with a target price of $134.47, following Disney's recent beat on quarterly earnings and revenue estimates.",
+            "text_to_analyze": "Bank Julius Baer & Co. Ltd Zurich Lowers Stock Holdings in The Walt Disney Company $DIS. Bank Julius Baer & Co. Ltd Zurich decreased its holdings in The Walt Disney Company by 3.1% in the fourth quarter, selling 46,681 shares, though other institutional investors boosted their positions. Despite this, institutional investors still hold 65.71% of Disney's shares. Analysts maintain a \"Moderate Buy\" rating with a target price of $134.47, following Disney's recent beat on quarterly earnings and revenue estimates.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.969538
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260514T073128",
+            "title": "The Walt Disney Company $DIS Shares Sold by Atria Investments Inc",
+            "summary": "Atria Investments Inc. decreased its holdings in The Walt Disney Company ($DIS) by 14.6% in the fourth quarter, selling 27,535 shares. Despite this, Disney's recent earnings exceeded expectations, reporting an EPS of $1.57 and revenue of $25.17 billion, while analysts maintain a \"Moderate Buy\" rating with an average target price of $134.47. The stock is currently trading at $104.90, down 1.2%.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by Atria Investments Inc. Atria Investments Inc. decreased its holdings in The Walt Disney Company ($DIS) by 14.6% in the fourth quarter, selling 27,535 shares. Despite this, Disney's recent earnings exceeded expectations, reporting an EPS of $1.57 and revenue of $25.17 billion, while analysts maintain a \"Moderate Buy\" rating with an average target price of $134.47. The stock is currently trading at $104.90, down 1.2%.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260514T071225",
+            "title": "Allworth Financial LP Has $38.35 Million Holdings in The Walt Disney Company $DIS",
+            "summary": "Allworth Financial LP significantly increased its stake in The Walt Disney Company, now holding over $38 million worth of shares. This move aligns with broader institutional interest, as major investors like Vanguard and State Street also boosted their positions, collectively owning 65.71% of Disney's stock. The article highlights positive sentiment driven by analyst upgrades, strong earnings, and progress in streaming profitability, alongside some neutral and negative news regarding organizational changes and FCC scrutiny.",
+            "text_to_analyze": "Allworth Financial LP Has $38.35 Million Holdings in The Walt Disney Company $DIS. Allworth Financial LP significantly increased its stake in The Walt Disney Company, now holding over $38 million worth of shares. This move aligns with broader institutional interest, as major investors like Vanguard and State Street also boosted their positions, collectively owning 65.71% of Disney's stock. The article highlights positive sentiment driven by analyst upgrades, strong earnings, and progress in streaming profitability, alongside some neutral and negative news regarding organizational changes and FCC scrutiny.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.990238
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260513T163400",
+            "title": "Walt Disney Co. stock underperforms Wednesday when compared to competitors",
+            "summary": "Shares of Walt Disney Co. (DIS) fell 1.19% on Wednesday, closing at $104.90, while the S&P 500 Index rose and the Dow Jones Industrial Average fell. The stock is currently 15.87% below its 52-week high of $124.69, reached on June 30th. This performance indicates an underperformance compared to the broader market trends on that day.",
+            "text_to_analyze": "Walt Disney Co. stock underperforms Wednesday when compared to competitors. Shares of Walt Disney Co. (DIS) fell 1.19% on Wednesday, closing at $104.90, while the S&P 500 Index rose and the Dow Jones Industrial Average fell. The stock is currently 15.87% below its 52-week high of $124.69, reached on June 30th. This performance indicates an underperformance compared to the broader market trends on that day.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

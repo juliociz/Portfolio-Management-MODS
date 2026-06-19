@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-25",
+    "window_start": "2026-03-24 16:00",
+    "window_end": "2026-03-25 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260325T082535",
+            "title": "E. Ohman J or Asset Management AB Sells 15,700 Shares of Starbucks Corporation $SBUX",
+            "summary": "E. Ohman J or Asset Management AB reduced its stake in Starbucks Corporation ($SBUX) by 33.3% in the fourth quarter, selling 15,700 shares and owning 31,514 shares valued at $2,654,000. Despite this, several other institutional investors increased their holdings, and 72.29% of the stock is owned by",
+            "text_to_analyze": "E. Ohman J or Asset Management AB Sells 15,700 Shares of Starbucks Corporation $SBUX. E. Ohman J or Asset Management AB reduced its stake in Starbucks Corporation ($SBUX) by 33.3% in the fourth quarter, selling 15,700 shares and owning 31,514 shares valued at $2,654,000. Despite this, several other institutional investors increased their holdings, and 72.29% of the stock is owned by",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Starbucks Coffee",
+            "date": "20260325T024031",
+            "title": "Recap: Starbucks 2026 Annual Meeting of Shareholders",
+            "summary": "Starbucks virtually hosted its 34th Annual Meeting of Shareholders on March 25, 2026, where chairman and CEO Brian Niccol provided an update on the company's progress under the \"Back to Starbucks\" plan. Niccol highlighted improvements in customer and coffeehouse experiences, brand relevance, digital engagement, and international growth, noting that the company is ahead of schedule in its turnaround. He also reaffirmed Starbucks' commitment to partner benefits and outlined a clear path for long-term sustainable growth, driven by a stronger morning peak, growing afternoon daypart, and menu innovation.",
+            "text_to_analyze": "Recap: Starbucks 2026 Annual Meeting of Shareholders. Starbucks virtually hosted its 34th Annual Meeting of Shareholders on March 25, 2026, where chairman and CEO Brian Niccol provided an update on the company's progress under the \"Back to Starbucks\" plan. Niccol highlighted improvements in customer and coffeehouse experiences, brand relevance, digital engagement, and international growth, noting that the company is ahead of schedule in its turnaround. He also reaffirmed Starbucks' commitment to partner benefits and outlined a clear path for long-term sustainable growth, driven by a stronger morning peak, growing afternoon daypart, and menu innovation.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260324T201644",
+            "title": "Starbucks Corp. stock faces pressure amid slowing US traffic and intensifying competition pressures",
+            "summary": "Starbucks stock is experiencing pressure due to slowing U.S. traffic and rising competition, reflected in declining comparable store sales. The company has initiated a multi-year \"Reinvention\" strategy focused on digital engagement, new store formats, and menu innovation to regain growth. While domestic challenges persist, Starbucks' expansion in China offers a growth avenue, and its dividend yield provides appeal for income-focused investors.",
+            "text_to_analyze": "Starbucks Corp. stock faces pressure amid slowing US traffic and intensifying competition pressures. Starbucks stock is experiencing pressure due to slowing U.S. traffic and rising competition, reflected in declining comparable store sales. The company has initiated a multi-year \"Reinvention\" strategy focused on digital engagement, new store formats, and menu innovation to regain growth. While domestic challenges persist, Starbucks' expansion in China offers a growth avenue, and its dividend yield provides appeal for income-focused investors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260324T163900",
+            "title": "Starbucks Corp. stock underperforms Tuesday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) stock fell 1.97% to $91.98 on Tuesday, underperforming the broader market as the S&P 500 Index and Dow Jones Industrial Average also declined. The stock closed 12.25% below its 52-week high reached in January.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Tuesday when compared to competitors. Starbucks Corp. (SBUX) stock fell 1.97% to $91.98 on Tuesday, underperforming the broader market as the S&P 500 Index and Dow Jones Industrial Average also declined. The stock closed 12.25% below its 52-week high reached in January.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.339925
+        }
+    ]
+}

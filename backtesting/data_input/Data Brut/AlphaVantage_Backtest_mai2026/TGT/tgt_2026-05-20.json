@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-20",
+    "window_start": "2026-05-19 16:00",
+    "window_end": "2026-05-20 09:27",
+    "articles": [
+        {
+            "source": "10TV",
+            "date": "20260520T063700",
+            "title": "Target: Fiscal Q1 Earnings Snapshot",
+            "summary": "Target Corporation (TGT) has reported fiscal first-quarter profits of $781 million, translating to $1.71 per share, which surpassed Wall Street's expectations of $1.41 per share. The retailer's revenue for the quarter was $25.44 billion, also beating analyst forecasts. Target anticipates full-year earnings to be between $7.50 and $8.50 per share.",
+            "text_to_analyze": "Target: Fiscal Q1 Earnings Snapshot. Target Corporation (TGT) has reported fiscal first-quarter profits of $781 million, translating to $1.71 per share, which surpassed Wall Street's expectations of $1.41 per share. The retailer's revenue for the quarter was $25.44 billion, also beating analyst forecasts. Target anticipates full-year earnings to be between $7.50 and $8.50 per share.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260520T050337",
+            "title": "Target Corp. stock (US87612E1064): Q1 2026 earnings call puts US retailer in the spotlight",
+            "summary": "Target Corp. is set to hold its Q1 2026 earnings call on May 20, 2026, where investors will look for insights into consumer demand, margins, and strategy in the competitive US retail environment. The company's business model leverages large-format stores, owned brands, and integrated digital services, with a focus on blending physical and digital experiences for customers. Key areas of interest for investors include commentary on comparable store sales, traffic, ticket size, digital growth, inventory management, and cost dynamics.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): Q1 2026 earnings call puts US retailer in the spotlight. Target Corp. is set to hold its Q1 2026 earnings call on May 20, 2026, where investors will look for insights into consumer demand, margins, and strategy in the competitive US retail environment. The company's business model leverages large-format stores, owned brands, and integrated digital services, with a focus on blending physical and digital experiences for customers. Key areas of interest for investors include commentary on comparable store sales, traffic, ticket size, digital growth, inventory management, and cost dynamics.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260520T032036",
+            "title": "Target Corp. stock (US87612E1064): new supply chain chief and 2026 share price momentum",
+            "summary": "Target Corp. has appointed Jeff England, a former Walmart executive, as its new chief of global supply chain and logistics to address inventory and distribution challenges. The company's stock has seen a 25% year-to-date increase in 2026, trading near a mean analyst price target of $128, and reflects renewed optimism despite past volatility. This strategic leadership change is expected to improve operational efficiency and is significant for investors observing the domestic retail sector and consumer spending trends.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): new supply chain chief and 2026 share price momentum. Target Corp. has appointed Jeff England, a former Walmart executive, as its new chief of global supply chain and logistics to address inventory and distribution challenges. The company's stock has seen a 25% year-to-date increase in 2026, trading near a mean analyst price target of $128, and reflects renewed optimism despite past volatility. This strategic leadership change is expected to improve operational efficiency and is significant for investors observing the domestic retail sector and consumer spending trends.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "HBS Dealer",
+            "date": "20260519T204103",
+            "title": "QXO exec leaves for Target",
+            "summary": "Jeff England, formerly QXO's chief supply chain officer, has been hired by Target Corp. to lead its global supply chain and logistics efforts, starting May 31. England's career includes experience at Genuine Parts Company and Walmart, and he is credited with improving inventory availability and reducing transportation costs at QXO. This move comes as QXO, led by Brad Jacobs, is rapidly expanding in the building products space with ambitious sales targets.",
+            "text_to_analyze": "QXO exec leaves for Target. Jeff England, formerly QXO's chief supply chain officer, has been hired by Target Corp. to lead its global supply chain and logistics efforts, starting May 31. England's career includes experience at Genuine Parts Company and Walmart, and he is credited with improving inventory availability and reducing transportation costs at QXO. This move comes as QXO, led by Brad Jacobs, is rapidly expanding in the building products space with ambitious sales targets.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.932594
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260519T164800",
+            "title": "Target Corp. stock outperforms competitors on strong trading day",
+            "summary": "Target Corp. (TGT) stock increased by 3.11% to $127.24, outperforming the broader market during a negative trading session where the S&P 500 Index and Dow Jones Industrial Average both fell. This marks the second consecutive day of gains for Target's stock.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors on strong trading day. Target Corp. (TGT) stock increased by 3.11% to $127.24, outperforming the broader market during a negative trading session where the S&P 500 Index and Dow Jones Industrial Average both fell. This marks the second consecutive day of gains for Target's stock.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

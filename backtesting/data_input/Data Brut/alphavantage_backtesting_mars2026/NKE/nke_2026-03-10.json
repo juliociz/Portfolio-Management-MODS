@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-10",
+    "window_start": "2026-03-09 16:00",
+    "window_end": "2026-03-10 09:27",
+    "articles": [
+        {
+            "source": "StreetInsider",
+            "date": "20260309T165220",
+            "title": "Form 424B2 BARCLAYS BANK PLC",
+            "summary": "This SEC filing (Form 424B2) from Barclays Bank PLC details an offering of $1,275,000 Autocallable Contingent Coupon Barrier Notes due March 10, 2027. These notes are linked to the common stock of Lululemon Athletica Inc., Nike, Inc. (Class B), and Target Corporation, and do not guarantee principal repayment or interest. The document outlines the terms, risks, hypothetical scenarios for payments, and tax considerations for investors.",
+            "text_to_analyze": "Form 424B2 BARCLAYS BANK PLC. This SEC filing (Form 424B2) from Barclays Bank PLC details an offering of $1,275,000 Autocallable Contingent Coupon Barrier Notes due March 10, 2027. These notes are linked to the common stock of Lululemon Athletica Inc., Nike, Inc. (Class B), and Target Corporation, and do not guarantee principal repayment or interest. The document outlines the terms, risks, hypothetical scenarios for payments, and tax considerations for investors.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.870459
+        }
+    ]
+}

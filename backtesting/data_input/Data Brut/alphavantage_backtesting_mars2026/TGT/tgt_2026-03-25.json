@@ -1,0 +1,63 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-25",
+    "window_start": "2026-03-24 16:00",
+    "window_end": "2026-03-25 09:27",
+    "articles": [
+        {
+            "source": "StockStory",
+            "date": "20260325T080809",
+            "title": "Non-Discretionary Retail Stocks Q4 Results: Benchmarking Kroger (NYSE:KR)",
+            "summary": "This article reviews the Q4 earnings results for several non-discretionary retail stocks, focusing on Kroger (NYSE:KR). It highlights Kroger's mixed performance with a slight revenue miss but a stock price increase post-reporting. The article also benchmarks other retailers like Dollar General, Grocery Outlet, Sprouts Farmers Market, and Target, noting their individual performances against analyst expectations and market reactions.",
+            "text_to_analyze": "Non-Discretionary Retail Stocks Q4 Results: Benchmarking Kroger (NYSE:KR). This article reviews the Q4 earnings results for several non-discretionary retail stocks, focusing on Kroger (NYSE:KR). It highlights Kroger's mixed performance with a slight revenue miss but a stock price increase post-reporting. The article also benchmarks other retailers like Dollar General, Grocery Outlet, Sprouts Farmers Market, and Target, noting their individual performances against analyst expectations and market reactions.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.704736
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260325T071022",
+            "title": "Academy Sports and Outdoors, Inc. (NASDAQ:ASO) Given Consensus Recommendation of \"Hold\" by Brokerages",
+            "summary": "MarketBeat reports that Academy Sports and Outdoors, Inc. (NASDAQ:ASO) has received a consensus \"Hold\" recommendation from sixteen research firms, with an average one-year price target of $57.36. The company recently missed earnings expectations, reporting EPS of $1.97 against an estimated $2.05, and revenue of $1.72 billion versus an expected $1.76 billion. Despite the earnings miss, Academy Sports and Outdoors increased its quarterly dividend to $0.15 per share.",
+            "text_to_analyze": "Academy Sports and Outdoors, Inc. (NASDAQ:ASO) Given Consensus Recommendation of \"Hold\" by Brokerages. MarketBeat reports that Academy Sports and Outdoors, Inc. (NASDAQ:ASO) has received a consensus \"Hold\" recommendation from sixteen research firms, with an average one-year price target of $57.36. The company recently missed earnings expectations, reporting EPS of $1.97 against an estimated $2.05, and revenue of $1.72 billion versus an expected $1.76 billion. Despite the earnings miss, Academy Sports and Outdoors increased its quarterly dividend to $0.15 per share.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.630744
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260325T070000",
+            "title": "Target to tighten store dress code, restrict shirt colors - Bizwomen",
+            "summary": "Target is updating its store dress code this summer, requiring employees to wear red shirts rather than reddish hues, restricting large logos, and limiting bottoms to khaki or blue denim. The company will provide one free shirt and a 50% discount on denim for employees. This move also includes an increased employee discount on adult-owned brands, boosting it by 20% on top of the existing 10% discount.",
+            "text_to_analyze": "Target to tighten store dress code, restrict shirt colors - Bizwomen. Target is updating its store dress code this summer, requiring employees to wear red shirts rather than reddish hues, restricting large logos, and limiting bottoms to khaki or blue denim. The company will provide one free shirt and a 50% discount on denim for employees. This move also includes an increased employee discount on adult-owned brands, boosting it by 20% on top of the existing 10% discount.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.942779
+        },
+        {
+            "source": "TradingView",
+            "date": "20260325T033803",
+            "title": "Non-Discretionary Retail Stocks Q4 Results: Benchmarking Kroger (NYSE:KR)",
+            "summary": "This article reviews the Q4 performance of several non-discretionary retail stocks, focusing on Kroger (NYSE:KR). It highlights Kroger's mixed quarter with revenues slightly below expectations, while Dollar General (DG) had the strongest Q4, and Grocery Outlet (GO) delivered the weakest results. The report also touches upon Sprouts Farmers Market (SFM) and Target (TGT), noting their performance against analyst estimates.",
+            "text_to_analyze": "Non-Discretionary Retail Stocks Q4 Results: Benchmarking Kroger (NYSE:KR). This article reviews the Q4 performance of several non-discretionary retail stocks, focusing on Kroger (NYSE:KR). It highlights Kroger's mixed quarter with revenues slightly below expectations, while Dollar General (DG) had the strongest Q4, and Grocery Outlet (GO) delivered the weakest results. The report also touches upon Sprouts Farmers Market (SFM) and Target (TGT), noting their performance against analyst estimates.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.638464
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260324T230834",
+            "title": "Target to anchor new retail center in Farmington, developer's first Missouri project",
+            "summary": "Target will be the anchor store for a new open-air retail center in Farmington, Missouri. This development marks the national developer's first project in the state. The center is expected to attract shoppers from across the region.",
+            "text_to_analyze": "Target to anchor new retail center in Farmington, developer's first Missouri project. Target will be the anchor store for a new open-air retail center in Farmington, Missouri. This development marks the national developer's first project in the state. The center is expected to attract shoppers from across the region.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260324T190921",
+            "title": "Barclays (ATMP) launches $500K AutoCallable Notes due March 23, 2028",
+            "summary": "Barclays Bank PLC has launched $500,000 in Phoenix AutoCallable Notes due March 23, 2028, linked to the performance of Lockheed Martin (LMT), The Kroger Co. (KR), and Target Corporation (TGT) common stocks. These notes offer contingent coupons of $16.417 per $1,000 note if all reference assets meet coupon barriers on observation dates and may be automatically called early if call levels are met. Investors face principal loss potential if the least performing asset falls below its barrier value at maturity, and payments are unsecured obligations of Barclays, subject to credit risk and U.K. Bail-in Power.",
+            "text_to_analyze": "Barclays (ATMP) launches $500K AutoCallable Notes due March 23, 2028. Barclays Bank PLC has launched $500,000 in Phoenix AutoCallable Notes due March 23, 2028, linked to the performance of Lockheed Martin (LMT), The Kroger Co. (KR), and Target Corporation (TGT) common stocks. These notes offer contingent coupons of $16.417 per $1,000 note if all reference assets meet coupon barriers on observation dates and may be automatically called early if call levels are met. Investors face principal loss potential if the least performing asset falls below its barrier value at maturity, and payments are unsecured obligations of Barclays, subject to credit risk and U.K. Bail-in Power.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.824094
+        }
+    ]
+}

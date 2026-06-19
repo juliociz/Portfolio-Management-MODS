@@ -1,0 +1,90 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-26",
+    "window_start": "2026-03-25 16:00",
+    "window_end": "2026-03-26 09:27",
+    "articles": [
+        {
+            "source": "San Antonio Express-News",
+            "date": "20260326T090827",
+            "title": "Tesla, Oracle make Fortune list of most innovative companies",
+            "summary": "Austin-based Tesla Inc. and Oracle Corp. have been named among Fortune's most innovative companies of 2026, ranking 17th and 10th respectively. Tesla was recognized for product innovation ahead of its anticipated Cybercab launch, while Oracle also received acclaim for its product innovation in cloud technology. Other Texas-based companies and Elon Musk's SpaceX also appeared on the list.",
+            "text_to_analyze": "Tesla, Oracle make Fortune list of most innovative companies. Austin-based Tesla Inc. and Oracle Corp. have been named among Fortune's most innovative companies of 2026, ranking 17th and 10th respectively. Tesla was recognized for product innovation ahead of its anticipated Cybercab launch, while Oracle also received acclaim for its product innovation in cloud technology. Other Texas-based companies and Elon Musk's SpaceX also appeared on the list.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.972344
+        },
+        {
+            "source": "MSN",
+            "date": "20260326T084030",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.3879",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.3879 per share for its common stock. This distribution is payable on April 1, 2026, to shareholders of record as of March 27, 2026. The ex-dividend date is March 27, 2026.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.3879. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has announced a weekly distribution of $0.3879 per share for its common stock. This distribution is payable on April 1, 2026, to shareholders of record as of March 27, 2026. The ex-dividend date is March 27, 2026.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.621503
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260326T080843",
+            "title": "Elon Musk's Tesla Ride-Hailing Service Isn't A Robotaxi, California Regulator Says",
+            "summary": "A California Public Utilities Commission (CPUC) official stated that Tesla's ride-hailing service is not classified as an autonomous vehicle service or robotaxi in California. This is because Tesla's current technology is considered SAE Level 2 and requires a safety driver, exempting it from autonomous vehicle reporting requirements. The classification comes as Tesla prepares to launch its Cybercab, which will lack pedals and a steering wheel, amid ongoing scrutiny of its Full Self-Driving system and previous crash incidents in its Austin ride-hailing service.",
+            "text_to_analyze": "Elon Musk's Tesla Ride-Hailing Service Isn't A Robotaxi, California Regulator Says. A California Public Utilities Commission (CPUC) official stated that Tesla's ride-hailing service is not classified as an autonomous vehicle service or robotaxi in California. This is because Tesla's current technology is considered SAE Level 2 and requires a safety driver, exempting it from autonomous vehicle reporting requirements. The classification comes as Tesla prepares to launch its Cybercab, which will lack pedals and a steering wheel, amid ongoing scrutiny of its Full Self-Driving system and previous crash incidents in its Austin ride-hailing service.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Capital.com",
+            "date": "20260326T030955",
+            "title": "TIM S.A. share price",
+            "summary": "This article provides current and historical data for TIM S.A. (TIMB) stock price, highlighting its latest trading figures, key statistics, and an overview of the company's telecommunications services in Brazil. It also details CFD trading conditions for TIMB, including spreads, overnight funding adjustments, and margin requirements. The piece further includes recent market articles on other companies like NVIDIA, Tesla, Siemens Energy, and BYD, and user reviews for the Capital.com platform.",
+            "text_to_analyze": "TIM S.A. share price. This article provides current and historical data for TIM S.A. (TIMB) stock price, highlighting its latest trading figures, key statistics, and an overview of the company's telecommunications services in Brazil. It also details CFD trading conditions for TIMB, including spreads, overnight funding adjustments, and margin requirements. The piece further includes recent market articles on other companies like NVIDIA, Tesla, Siemens Energy, and BYD, and user reviews for the Capital.com platform.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.605557
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260326T030924",
+            "title": "Leverage Shares 2X Long Tsla Daily ETF (TSLG-Q) Analyst Research & Price Targets",
+            "summary": "This article provides analyst research and price targets for the Leverage Shares 2X Long Tsla Daily ETF (TSLG-Q), traded on NASDAQ. It includes real-time market data, links to related financial news, and disclaimers about market data providers. The page mainly serves as a data hub rather than an editorial analysis.",
+            "text_to_analyze": "Leverage Shares 2X Long Tsla Daily ETF (TSLG-Q) Analyst Research & Price Targets. This article provides analyst research and price targets for the Leverage Shares 2X Long Tsla Daily ETF (TSLG-Q), traded on NASDAQ. It includes real-time market data, links to related financial news, and disclaimers about market data providers. The page mainly serves as a data hub rather than an editorial analysis.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.801569
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260326T010901",
+            "title": "CM SEC Filings - Canadian Imperial Bank of Commerce 10-K, 10-Q, 8-K Forms",
+            "summary": "This page provides a comprehensive resource for Canadian Imperial Bank of Commerce (CM) SEC filings, including annual reports (Form 40-F), quarterly earnings, and material event disclosures (Form 6-K). Recent filings detailed include a prospectus supplement, a free writing prospectus for high-yield memory coupon barrier notes linked to AMD, Tesla, and Salesforce, and a routine 6-K focusing on an updated Board Mandate. The page also offers current stock price and market capitalization data for CM, alongside an explanation of how CIBC manages its U.S. regulatory obligations as a foreign private issuer.",
+            "text_to_analyze": "CM SEC Filings - Canadian Imperial Bank of Commerce 10-K, 10-Q, 8-K Forms. This page provides a comprehensive resource for Canadian Imperial Bank of Commerce (CM) SEC filings, including annual reports (Form 40-F), quarterly earnings, and material event disclosures (Form 6-K). Recent filings detailed include a prospectus supplement, a free writing prospectus for high-yield memory coupon barrier notes linked to AMD, Tesla, and Salesforce, and a routine 6-K focusing on an updated Board Mandate. The page also offers current stock price and market capitalization data for CM, alongside an explanation of how CIBC manages its U.S. regulatory obligations as a foreign private issuer.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.622037
+        },
+        {
+            "source": "富途牛牛",
+            "date": "20260325T234008",
+            "title": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On March 25th, 77,358 Contracts Were Traded, With 753.51K Open Interest",
+            "summary": "On March 25th, Direxion Daily TSLA Bull 2X Shares (TSLL.US) saw significant options trading activity, with 77,358 contracts traded. Call options comprised the majority at 67.28%, while put options accounted for 32.72% of transactions. The total open interest for TSLL options reached approximately 753.51K contracts, representing 87.24% of the average over the past 30 trading days.",
+            "text_to_analyze": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On March 25th, 77,358 Contracts Were Traded, With 753.51K Open Interest. On March 25th, Direxion Daily TSLA Bull 2X Shares (TSLL.US) saw significant options trading activity, with 77,358 contracts traded. Call options comprised the majority at 67.28%, while put options accounted for 32.72% of transactions. The total open interest for TSLL options reached approximately 753.51K contracts, representing 87.24% of the average over the past 30 trading days.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.719101
+        },
+        {
+            "source": "Sahm",
+            "date": "20260325T230853",
+            "title": "Lemonade (LMND) Joins NASDAQ Internet Index: What Does This Mean For Its AI Insurance Ambitions?",
+            "summary": "Lemonade (LMND) has been added to the NASDAQ Internet Index, which is expected to increase its visibility among institutional investors and passive funds. While this inclusion will not immediately change its financial outlook, it reinforces Lemonade's position as a tech-driven online insurer, especially with its recent launch of Autonomous Car insurance for Tesla FSD. The article delves into how this might influence Lemonade's AI-driven insurance expansion and its overall investment narrative, noting potential challenges related to data privacy and cybersecurity risks.",
+            "text_to_analyze": "Lemonade (LMND) Joins NASDAQ Internet Index: What Does This Mean For Its AI Insurance Ambitions?. Lemonade (LMND) has been added to the NASDAQ Internet Index, which is expected to increase its visibility among institutional investors and passive funds. While this inclusion will not immediately change its financial outlook, it reinforces Lemonade's position as a tech-driven online insurer, especially with its recent launch of Autonomous Car insurance for Tesla FSD. The article delves into how this might influence Lemonade's AI-driven insurance expansion and its overall investment narrative, noting potential challenges related to data privacy and cybersecurity risks.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.625864
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260325T220924",
+            "title": "Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Plans Quarterly Dividend of $0.10",
+            "summary": "Direxion Daily TSLA Bull 2X Shares (TSLL) has declared a quarterly dividend of $0.0994 per share, with a record and ex-dividend date of March 24th and a pay date of March 31st. This dividend translates to an annualized yield of approximately 3.1%. The ETF, which provides 1.5x leveraged exposure to Tesla stock, traded up 0.4% at $13.00, with a market cap of $4.43 billion.",
+            "text_to_analyze": "Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Plans Quarterly Dividend of $0.10. Direxion Daily TSLA Bull 2X Shares (TSLL) has declared a quarterly dividend of $0.0994 per share, with a record and ex-dividend date of March 24th and a pay date of March 31st. This dividend translates to an annualized yield of approximately 3.1%. The ETF, which provides 1.5x leveraged exposure to Tesla stock, traded up 0.4% at $13.00, with a market cap of $4.43 billion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.640584
+        }
+    ]
+}

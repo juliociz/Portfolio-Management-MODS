@@ -1,0 +1,90 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-26",
+    "window_start": "2026-05-25 16:00",
+    "window_end": "2026-05-26 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260526T082331",
+            "title": "Bleakley Financial Group LLC Increases Stock Position in Tesla, Inc. $TSLA",
+            "summary": "Bleakley Financial Group LLC increased its stake in Tesla, Inc. by 7.8% in the fourth quarter, bringing its total holdings to 102,669 shares valued at approximately $46.2 million. Several other hedge funds also increased their positions, indicating growing institutional interest, with 66.20% of Tesla stock now owned by institutional investors. Recent positive news, including potential SpaceX IPO ties and the rollout of Full Self-Driving in China, has contributed to this positive sentiment despite the company's high P/E ratio and recent insider selling.",
+            "text_to_analyze": "Bleakley Financial Group LLC Increases Stock Position in Tesla, Inc. $TSLA. Bleakley Financial Group LLC increased its stake in Tesla, Inc. by 7.8% in the fourth quarter, bringing its total holdings to 102,669 shares valued at approximately $46.2 million. Several other hedge funds also increased their positions, indicating growing institutional interest, with 66.20% of Tesla stock now owned by institutional investors. Recent positive news, including potential SpaceX IPO ties and the rollout of Full Self-Driving in China, has contributed to this positive sentiment despite the company's high P/E ratio and recent insider selling.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.994599
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260526T082331",
+            "title": "Box Hill Private Wealth LLC Buys New Stake in Tesla, Inc. $TSLA",
+            "summary": "Box Hill Private Wealth LLC has acquired a new stake in Tesla, Inc. by purchasing 5,940 shares valued at approximately $2.67 million, making Tesla its 7th largest holding. Several other institutional investors also adjusted their positions in Tesla, which has high institutional ownership at 66.20%. Insider trading activity shows recent sales by Tesla's CFO and a Director, totaling over $32 million in the last three months, while the company beat EPS estimates but slightly missed revenue expectations.",
+            "text_to_analyze": "Box Hill Private Wealth LLC Buys New Stake in Tesla, Inc. $TSLA. Box Hill Private Wealth LLC has acquired a new stake in Tesla, Inc. by purchasing 5,940 shares valued at approximately $2.67 million, making Tesla its 7th largest holding. Several other institutional investors also adjusted their positions in Tesla, which has high institutional ownership at 66.20%. Insider trading activity shows recent sales by Tesla's CFO and a Director, totaling over $32 million in the last three months, while the company beat EPS estimates but slightly missed revenue expectations.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260526T075536",
+            "title": "Ceera Investments LLC Buys 1,253 Shares of Tesla, Inc. $TSLA",
+            "summary": "Ceera Investments LLC increased its stake in Tesla by 276.6% in the fourth quarter, purchasing an additional 1,253 shares and bringing its total holding to 1,706 shares valued at $767,000. Institutional investors and hedge funds own 66.20% of Tesla's stock, with several other major funds also adding to their positions. Despite recent insider share sales and a consensus \"Hold\" rating from analysts with a target price of $395.20, Tesla's stock performance shows a 52-week low of $273.21 and a high of $498.83, and the company reported higher-than-expected earnings per share in its latest quarter.",
+            "text_to_analyze": "Ceera Investments LLC Buys 1,253 Shares of Tesla, Inc. $TSLA. Ceera Investments LLC increased its stake in Tesla by 276.6% in the fourth quarter, purchasing an additional 1,253 shares and bringing its total holding to 1,706 shares valued at $767,000. Institutional investors and hedge funds own 66.20% of Tesla's stock, with several other major funds also adding to their positions. Despite recent insider share sales and a consensus \"Hold\" rating from analysts with a target price of $395.20, Tesla's stock performance shows a 52-week low of $273.21 and a high of $498.83, and the company reported higher-than-expected earnings per share in its latest quarter.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260526T071951",
+            "title": "Allstate Corp Has $96.79 Million Stock Holdings in Tesla, Inc. $TSLA",
+            "summary": "Allstate Corp significantly increased its stake in Tesla, Inc. by 104.3% in the 4th quarter, bringing its total holdings to 215,214 shares valued at $96.79 million. This makes Tesla the 18th largest holding in Allstate's portfolio. Several other institutional investors also adjusted their positions in Tesla, while analysts issued a range of ratings with a consensus \"Hold\" and target price of $395.20.",
+            "text_to_analyze": "Allstate Corp Has $96.79 Million Stock Holdings in Tesla, Inc. $TSLA. Allstate Corp significantly increased its stake in Tesla, Inc. by 104.3% in the 4th quarter, bringing its total holdings to 215,214 shares valued at $96.79 million. This makes Tesla the 18th largest holding in Allstate's portfolio. Several other institutional investors also adjusted their positions in Tesla, while analysts issued a range of ratings with a consensus \"Hold\" and target price of $395.20.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260526T051554",
+            "title": "Jony Ive Designed Ferrari Luce Debuts With A $640,000 Price Tag And Interiors That Drift Apart From Tesla's Screen-Heavy Approach",
+            "summary": "Ferrari has unveiled its first fully electric, five-seater car, the Luce, designed in collaboration with Jony Ive. Priced at €550,000 ($640,000), it features four electric motors producing over 1,000 horsepower, a range of more than 500 kilometers, and interiors that prioritize traditional luxury materials over the screen-heavy approach of Tesla. This launch represents Ferrari's high-stakes bet on electric luxury, particularly targeting younger buyers and the Chinese market.",
+            "text_to_analyze": "Jony Ive Designed Ferrari Luce Debuts With A $640,000 Price Tag And Interiors That Drift Apart From Tesla's Screen-Heavy Approach. Ferrari has unveiled its first fully electric, five-seater car, the Luce, designed in collaboration with Jony Ive. Priced at €550,000 ($640,000), it features four electric motors producing over 1,000 horsepower, a range of more than 500 kilometers, and interiors that prioritize traditional luxury materials over the screen-heavy approach of Tesla. This launch represents Ferrari's high-stakes bet on electric luxury, particularly targeting younger buyers and the Chinese market.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.855317
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260525T234446",
+            "title": "Tesla is building a massive Texas solar factory in its clearest push yet for 100 GW",
+            "summary": "Tesla is reportedly building a large-scale solar manufacturing operation in Brookshire, Texas, alongside its Megapack battery factory. This move represents a significant step towards Elon Musk's goal of 100 gigawatts of annual solar manufacturing capacity and could help diversify Tesla's business amid challenges in its automotive sector. The project would vertically integrate the solar manufacturing process, from ingot growth to panel assembly, and support the growing demand for electricity-intensive technologies like AI data centers.",
+            "text_to_analyze": "Tesla is building a massive Texas solar factory in its clearest push yet for 100 GW. Tesla is reportedly building a large-scale solar manufacturing operation in Brookshire, Texas, alongside its Megapack battery factory. This move represents a significant step towards Elon Musk's goal of 100 gigawatts of annual solar manufacturing capacity and could help diversify Tesla's business amid challenges in its automotive sector. The project would vertically integrate the solar manufacturing process, from ingot growth to panel assembly, and support the growing demand for electricity-intensive technologies like AI data centers.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260525T204000",
+            "title": "Tesla scraps India factory after years of broken promises as EV rivals move in",
+            "summary": "Tesla has officially abandoned its plans to build a factory in India after years of negotiations, leaving the market open to rivals. The decision stems from an impasse with the Indian government regarding local manufacturing requirements and Tesla's reluctance to invest until import duties for EVs were reduced. This exit means Tesla vehicles in India will remain imported and expensive, limiting their market reach and adding to the company's broader challenges with slumping sales and underutilized production capacity elsewhere.",
+            "text_to_analyze": "Tesla scraps India factory after years of broken promises as EV rivals move in. Tesla has officially abandoned its plans to build a factory in India after years of negotiations, leaving the market open to rivals. The decision stems from an impasse with the Indian government regarding local manufacturing requirements and Tesla's reluctance to invest until import duties for EVs were reduced. This exit means Tesla vehicles in India will remain imported and expensive, limiting their market reach and adding to the company's broader challenges with slumping sales and underutilized production capacity elsewhere.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ESG Today",
+            "date": "20260525T183335",
+            "title": "Enbridge to Develop $1.2 Billion Solar & Storage Project to Power Meta Data Centers",
+            "summary": "Enbridge announced a new $1.2 billion solar and battery energy storage project in Wyoming to power Meta's data centers, expanding their clean energy partnership to approximately 1.6 GW. The \"Cowboy Project\" will combine 365 MW of solar with a 200 MW/1600 MWh battery system, providing dispatchable power to Meta through Cheyenne Light, Fuel and Power, with Tesla supplying the batteries. This initiative supports Meta's goal to achieve net-zero emissions by 2030 and match 100% of its electricity consumption with renewable energy.",
+            "text_to_analyze": "Enbridge to Develop $1.2 Billion Solar & Storage Project to Power Meta Data Centers. Enbridge announced a new $1.2 billion solar and battery energy storage project in Wyoming to power Meta's data centers, expanding their clean energy partnership to approximately 1.6 GW. The \"Cowboy Project\" will combine 365 MW of solar with a 200 MW/1600 MWh battery system, providing dispatchable power to Meta through Cheyenne Light, Fuel and Power, with Tesla supplying the batteries. This initiative supports Meta's goal to achieve net-zero emissions by 2030 and match 100% of its electricity consumption with renewable energy.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.612058
+        },
+        {
+            "source": "Barchart",
+            "date": "20260525T173952",
+            "title": "Investors Pile Into Tesla Call Options in Huge, Unusual Volume - a Bullish Signal?",
+            "summary": "Investors have significantly increased their purchases of Tesla (TSLA) call options with a near-term expiration and at-the-money strike price, showing a volume over 223 times normal. This unusual activity suggests some investors believe TSLA stock, which has seen some recovery since its Q1 earnings, is undervalued despite a Barchart analysis indicating it might be overvalued based on current free cash flow metrics and analyst price targets. The article suggests this options activity might be more of a speculative \"momentum wave\" play rather than one based on fundamental undervaluation.",
+            "text_to_analyze": "Investors Pile Into Tesla Call Options in Huge, Unusual Volume - a Bullish Signal?. Investors have significantly increased their purchases of Tesla (TSLA) call options with a near-term expiration and at-the-money strike price, showing a volume over 223 times normal. This unusual activity suggests some investors believe TSLA stock, which has seen some recovery since its Q1 earnings, is undervalued despite a Barchart analysis indicating it might be overvalued based on current free cash flow metrics and analyst price targets. The article suggests this options activity might be more of a speculative \"momentum wave\" play rather than one based on fundamental undervaluation.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

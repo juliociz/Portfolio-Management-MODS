@@ -1,0 +1,36 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-14",
+    "window_start": "2026-05-13 16:00",
+    "window_end": "2026-05-14 09:27",
+    "articles": [
+        {
+            "source": "KHOU",
+            "date": "20260514T082300",
+            "title": "HCC announces new partnership with Tesla to 'strengthen Houston's workforce'",
+            "summary": "Houston Community College (HCC) has announced a new partnership with Tesla, Inc. to train Houston's workforce for advanced manufacturing careers. The program's pilot class recently graduated, and officials plan to increase enrollment to 250 students this year. The collaboration aims to provide students with technical skills and real-world experience, with graduates from the first class working at Tesla's Megafactory Texas.",
+            "text_to_analyze": "HCC announces new partnership with Tesla to 'strengthen Houston's workforce'. Houston Community College (HCC) has announced a new partnership with Tesla, Inc. to train Houston's workforce for advanced manufacturing careers. The program's pilot class recently graduated, and officials plan to increase enrollment to 250 students this year. The collaboration aims to provide students with technical skills and real-world experience, with graduates from the first class working at Tesla's Megafactory Texas.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Carrier Management",
+            "date": "20260514T050838",
+            "title": "Tesla Premiums Soared in ’25; Loss Ratios 40 Pts. Worse Than Industry: Analysis",
+            "summary": "A new S&P Global Market Intelligence analysis reveals that Tesla's insurance premiums grew by 40.7% in 2025, reaching nearly $1.4 billion, largely due to a strategic shift from managing general agents to direct underwriting. Despite this significant growth, particularly a 585% jump in California, Tesla's insurance loss ratios remained about 40 points worse than the industry average for the third consecutive year. The report also highlights regulatory scrutiny in California and geographic expansion into new states.",
+            "text_to_analyze": "Tesla Premiums Soared in ’25; Loss Ratios 40 Pts. Worse Than Industry: Analysis. A new S&P Global Market Intelligence analysis reveals that Tesla's insurance premiums grew by 40.7% in 2025, reaching nearly $1.4 billion, largely due to a strategic shift from managing general agents to direct underwriting. Despite this significant growth, particularly a 585% jump in California, Tesla's insurance loss ratios remained about 40 points worse than the industry average for the third consecutive year. The report also highlights regulatory scrutiny in California and geographic expansion into new states.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Yahoo Autos",
+            "date": "20260513T173834",
+            "title": "Tesla Rival Waymo Recalls Nearly 3800 Robotaxis Over Software Issue Affecting Vehicles With Latest Self-Driving Stack",
+            "summary": "Alphabet Inc.'s Waymo is recalling 3,791 autonomous vehicles due to a software glitch that could lead robotaxis to drive onto flooded roads. The issue was identified after an incident in San Antonio where an unoccupied Waymo vehicle entered a flooded lane. Waymo is implementing software safeguards and refining extreme weather operations to prevent future occurrences, while competitors like Uber and Tesla also expand their robotaxi initiatives.",
+            "text_to_analyze": "Tesla Rival Waymo Recalls Nearly 3800 Robotaxis Over Software Issue Affecting Vehicles With Latest Self-Driving Stack. Alphabet Inc.'s Waymo is recalling 3,791 autonomous vehicles due to a software glitch that could lead robotaxis to drive onto flooded roads. The issue was identified after an incident in San Antonio where an unoccupied Waymo vehicle entered a flooded lane. Waymo is implementing software safeguards and refining extreme weather operations to prevent future occurrences, while competitors like Uber and Tesla also expand their robotaxi initiatives.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.872957
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-21",
+    "window_start": "2026-05-20 16:00",
+    "window_end": "2026-05-21 09:27",
+    "articles": [
+        {
+            "source": "Yahoo Finance",
+            "date": "20260521T050000",
+            "title": "Global Partners taps Starbucks vet to lead retail operations",
+            "summary": "Global Partners has appointed Emily Filc, a veteran from Starbucks with 22 years of experience, as its new vice president of retail operations. Filc, who previously oversaw 140 Starbucks locations and led numerous pilot programs, will help enhance guest experiences and operational discipline across Global Partners' retail network. This hiring aligns with Global Partners' increased investment in its convenience retail network, including opening new Alltown Fresh and Honey Farms Market locations, with planned capital expenditures of $75 million to $85 million this year for facility development and upgrades.",
+            "text_to_analyze": "Global Partners taps Starbucks vet to lead retail operations. Global Partners has appointed Emily Filc, a veteran from Starbucks with 22 years of experience, as its new vice president of retail operations. Filc, who previously oversaw 140 Starbucks locations and led numerous pilot programs, will help enhance guest experiences and operational discipline across Global Partners' retail network. This hiring aligns with Global Partners' increased investment in its convenience retail network, including opening new Alltown Fresh and Honey Farms Market locations, with planned capital expenditures of $75 million to $85 million this year for facility development and upgrades.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.841552
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260520T201526",
+            "title": "Starbucks (NASDAQ: SBUX) settles cash tender offers for senior notes",
+            "summary": "Starbucks Corporation has completed cash tender offers for several series of its senior notes, reducing portions of its outstanding debt. The company accepted specific amounts of notes, including 4.800% Senior Notes due 2030 and 5.400% Senior Notes due 2035, while other series remained unchanged. Starbucks settled on the Early Settlement Date and does not plan to purchase additional notes through these offers, thus reshaping its debt profile.",
+            "text_to_analyze": "Starbucks (NASDAQ: SBUX) settles cash tender offers for senior notes. Starbucks Corporation has completed cash tender offers for several series of its senior notes, reducing portions of its outstanding debt. The company accepted specific amounts of notes, including 4.800% Senior Notes due 2030 and 5.400% Senior Notes due 2035, while other series remained unchanged. Starbucks settled on the Early Settlement Date and does not plan to purchase additional notes through these offers, thus reshaping its debt profile.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

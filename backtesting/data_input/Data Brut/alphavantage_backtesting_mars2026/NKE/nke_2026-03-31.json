@@ -1,0 +1,54 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-31",
+    "window_start": "2026-03-30 16:00",
+    "window_end": "2026-03-31 09:27",
+    "articles": [
+        {
+            "source": "TradingView",
+            "date": "20260331T013817",
+            "title": "Debt to equity ratio of NIKE, Inc. Class B – BSESOF:NKE",
+            "summary": "This article provides financial information for NIKE, Inc. Class B (BSESOF:NKE), specifically focusing on its debt to equity ratio. It lists various financial data, market information, and available analytical tools on the TradingView platform for this security.",
+            "text_to_analyze": "Debt to equity ratio of NIKE, Inc. Class B – BSESOF:NKE. This article provides financial information for NIKE, Inc. Class B (BSESOF:NKE), specifically focusing on its debt to equity ratio. It lists various financial data, market information, and available analytical tools on the TradingView platform for this security.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260331T003808",
+            "title": "Nike Q3 Preview: 'Maybe There Is Hope,' Says Expert After Stock Hits 9-Year Low",
+            "summary": "Nike Inc. (NKE) is set to release its third-quarter financial results, with analysts expecting a decline in EPS and revenue year-over-year. Despite the stock hitting a nine-year low, market expert Jay Woods suggests there could be hope for a rebound, noting the stock has rallied after two of its last three earnings reports. Key areas to watch include China sales, tariff commentary, and the impact of recent layoffs, as investors look for signs of a turnaround.",
+            "text_to_analyze": "Nike Q3 Preview: 'Maybe There Is Hope,' Says Expert After Stock Hits 9-Year Low. Nike Inc. (NKE) is set to release its third-quarter financial results, with analysts expecting a decline in EPS and revenue year-over-year. Despite the stock hitting a nine-year low, market expert Jay Woods suggests there could be hope for a rebound, noting the stock has rallied after two of its last three earnings reports. Key areas to watch include China sales, tariff commentary, and the impact of recent layoffs, as investors look for signs of a turnaround.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260330T220812",
+            "title": "NIKE, Inc. Class B Trade Ideas — BX:NKE",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), primarily from TradingView users. Many contributors suggest a bullish outlook due to technical indicators, undervaluations, and potential recovery after recent dips. However, some analyses also highlight bearish factors like intense competition, tariff impacts, and market share loss to competitors, leading to a mixed outlook ranging from long-term accumulation plays to short-term trading strategies.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BX:NKE. This article compiles various trade ideas and analyses for NIKE, Inc. (NKE), primarily from TradingView users. Many contributors suggest a bullish outlook due to technical indicators, undervaluations, and potential recovery after recent dips. However, some analyses also highlight bearish factors like intense competition, tariff impacts, and market share loss to competitors, leading to a mixed outlook ranging from long-term accumulation plays to short-term trading strategies.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.308138
+        },
+        {
+            "source": "TradingView",
+            "date": "20260330T220808",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. Class B (NKE) stock from different traders on TradingView. The ideas range from bullish forecasts recognizing potential buying opportunities due to current valuations and strong brand fundamentals, to more cautious or bearish outlooks considering recent price movements and technical indicators. Several analyses highlight technical patterns like support zones, resistance levels, and potential reversals, while others discuss fundamental factors such as financial health, dividend growth, and market positioning.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles various trading ideas and analyses for NIKE, Inc. Class B (NKE) stock from different traders on TradingView. The ideas range from bullish forecasts recognizing potential buying opportunities due to current valuations and strong brand fundamentals, to more cautious or bearish outlooks considering recent price movements and technical indicators. Several analyses highlight technical patterns like support zones, resistance levels, and potential reversals, while others discuss fundamental factors such as financial health, dividend growth, and market positioning.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260330T170816",
+            "title": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE",
+            "summary": "This article compiles various trading ideas and analyses for NIKE, Inc. (NKE) stock from TradingView, highlighting its current challenges and potential future movements. Many analysts discuss Nike's significant stock decline from its 2021 peak, attributing it to issues like slowing European and Chinese markets, struggles with the wholesale business, and a need for brand re-relevancy. Several trading ideas, spanning bullish and bearish outlooks, delve into technical analysis, fundamental indicators, and scenario planning, offering diverse perspectives on whether Nike is nearing a bottom or faces further downside.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — BSESOF:NKE. This article compiles various trading ideas and analyses for NIKE, Inc. (NKE) stock from TradingView, highlighting its current challenges and potential future movements. Many analysts discuss Nike's significant stock decline from its 2021 peak, attributing it to issues like slowing European and Chinese markets, struggles with the wholesale business, and a need for brand re-relevancy. Several trading ideas, spanning bullish and bearish outlooks, delve into technical analysis, fundamental indicators, and scenario planning, offering diverse perspectives on whether Nike is nearing a bottom or faces further downside.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

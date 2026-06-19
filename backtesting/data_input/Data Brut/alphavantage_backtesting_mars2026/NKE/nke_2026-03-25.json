@@ -1,0 +1,18 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-25",
+    "window_start": "2026-03-24 16:00",
+    "window_end": "2026-03-25 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260325T000802",
+            "title": "Nike’s Profit Hit And CEO Share Buy Spark Recovery Debate",
+            "summary": "Nike, Inc. (NYSE:NKE) has reported a significant decline in FY2025 revenue and net income due to higher tariffs and increased discounting, leading to a 17.6% drop in its stock price over the past year. Despite these challenges, CEO Elliott Hill has made a substantial personal share purchase, signaling confidence in the company's future. Analysts are divided on the outlook, with some foreseeing a multi-year recovery based on North American stabilization and wholesale growth, while others remain cautious due to weak global sales and challenges in key markets.",
+            "text_to_analyze": "Nike’s Profit Hit And CEO Share Buy Spark Recovery Debate. Nike, Inc. (NYSE:NKE) has reported a significant decline in FY2025 revenue and net income due to higher tariffs and increased discounting, leading to a 17.6% drop in its stock price over the past year. Despite these challenges, CEO Elliott Hill has made a substantial personal share purchase, signaling confidence in the company's future. Analysts are divided on the outlook, with some foreseeing a multi-year recovery based on North American stabilization and wholesale growth, while others remain cautious due to weak global sales and challenges in key markets.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

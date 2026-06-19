@@ -1,0 +1,90 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-04",
+    "window_start": "2026-05-01 16:00",
+    "window_end": "2026-05-04 09:27",
+    "articles": [
+        {
+            "source": "Zacks Investment Research",
+            "date": "20260504T073644",
+            "title": "The Zacks Analyst Blog Highlights Philip Morris International, Honeywell, Starbucks and United-Guardian",
+            "summary": "Zacks Equity Research has highlighted research reports for Philip Morris International (PM), Honeywell International (HON), Starbucks Corp. (SBUX), and United-Guardian, Inc. (UG). The reports discuss each company's recent performance, growth drivers, and challenges, providing an overview of their financial health and market position.",
+            "text_to_analyze": "The Zacks Analyst Blog Highlights Philip Morris International, Honeywell, Starbucks and United-Guardian. Zacks Equity Research has highlighted research reports for Philip Morris International (PM), Honeywell International (HON), Starbucks Corp. (SBUX), and United-Guardian, Inc. (UG). The reports discuss each company's recent performance, growth drivers, and challenges, providing an overview of their financial health and market position.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.83195
+        },
+        {
+            "source": "Yahoo Finance",
+            "date": "20260504T051023",
+            "title": "Why Starbucks (SBUX) Is Up 8.2% After Mixed Q2 Results And Higher Earnings Guidance",
+            "summary": "Starbucks reported mixed Q2 results with revenue up but net income for the first six months down year-over-year. Despite ongoing margin pressures from elevated labor and store investment costs, the company raised its full-year earnings guidance, indicating the effectiveness of its \"Back to Starbucks\" initiatives in boosting sales and customer traffic. The core challenge for Starbucks remains translating improved sales into sustainable margin recovery and managing cost pressures, which will be critical for its longer-term performance.",
+            "text_to_analyze": "Why Starbucks (SBUX) Is Up 8.2% After Mixed Q2 Results And Higher Earnings Guidance. Starbucks reported mixed Q2 results with revenue up but net income for the first six months down year-over-year. Despite ongoing margin pressures from elevated labor and store investment costs, the company raised its full-year earnings guidance, indicating the effectiveness of its \"Back to Starbucks\" initiatives in boosting sales and customer traffic. The core challenge for Starbucks remains translating improved sales into sustainable margin recovery and managing cost pressures, which will be critical for its longer-term performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260503T110623",
+            "title": "PFA Pension Forsikringsaktieselskab Takes Position in Starbucks Corporation $SBUX",
+            "summary": "PFA Pension Forsikringsaktieselskab recently acquired a new stake in Starbucks Corporation, purchasing over 700,000 shares valued at approximately $59.7 million during the fourth quarter. Several other institutional investors also adjusted their positions in Starbucks, while company insiders made significant share sales in March. Starbucks reported strong earnings for the last quarter, beating analyst estimates, and announced a quarterly dividend, though some analysts warn about potential valuation issues after its recent stock surge.",
+            "text_to_analyze": "PFA Pension Forsikringsaktieselskab Takes Position in Starbucks Corporation $SBUX. PFA Pension Forsikringsaktieselskab recently acquired a new stake in Starbucks Corporation, purchasing over 700,000 shares valued at approximately $59.7 million during the fourth quarter. Several other institutional investors also adjusted their positions in Starbucks, while company insiders made significant share sales in March. Starbucks reported strong earnings for the last quarter, beating analyst estimates, and announced a quarterly dividend, though some analysts warn about potential valuation issues after its recent stock surge.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Finviz",
+            "date": "20260502T100835",
+            "title": "SBUX - Starbucks Corp Stock Price and Quote",
+            "summary": "This article provides comprehensive financial data for Starbucks Corp (SBUX), including its stock price, market performance metrics, insider transactions, and analyst ratings. It also features a timeline of recent news headlines related to Starbucks, covering earnings reports, turnaround efforts, and new initiatives.",
+            "text_to_analyze": "SBUX - Starbucks Corp Stock Price and Quote. This article provides comprehensive financial data for Starbucks Corp (SBUX), including its stock price, market performance metrics, insider transactions, and analyst ratings. It also features a timeline of recent news headlines related to Starbucks, covering earnings reports, turnaround efforts, and new initiatives.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Tennessean",
+            "date": "20260502T100328",
+            "title": "Nashville mayor considers cash incentives for Starbucks in rare move",
+            "summary": "Nashville Mayor Freddie O'Connell is reportedly considering offering cash incentives to Starbucks for its corporate expansion in Tennessee, a move that would represent a significant policy shift for his administration. O'Connell has previously avoided such cash-per-job incentives in an effort to attract high-paying jobs without negatively impacting local businesses. This potential deal highlights Nashville's ongoing effort to balance economic development with local business concerns.",
+            "text_to_analyze": "Nashville mayor considers cash incentives for Starbucks in rare move. Nashville Mayor Freddie O'Connell is reportedly considering offering cash incentives to Starbucks for its corporate expansion in Tennessee, a move that would represent a significant policy shift for his administration. O'Connell has previously avoided such cash-per-job incentives in an effort to attract high-paying jobs without negatively impacting local businesses. This potential deal highlights Nashville's ongoing effort to balance economic development with local business concerns.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260502T083741",
+            "title": "Danske Bank A S Acquires 48,706 Shares of Starbucks Corporation $SBUX",
+            "summary": "Danske Bank A S increased its stake in Starbucks Corporation by 9.3% in the fourth quarter, purchasing an additional 48,706 shares and bringing their total ownership to 573,419 shares valued at $48.29 million. Other institutional investors also adjusted their positions in Starbucks, which saw positive sentiment from a Q2 earnings beat and improved margins, despite ongoing concerns about valuation and margin pressure. The company recently announced a quarterly dividend of $0.62 per share.",
+            "text_to_analyze": "Danske Bank A S Acquires 48,706 Shares of Starbucks Corporation $SBUX. Danske Bank A S increased its stake in Starbucks Corporation by 9.3% in the fourth quarter, purchasing an additional 48,706 shares and bringing their total ownership to 573,419 shares valued at $48.29 million. Other institutional investors also adjusted their positions in Starbucks, which saw positive sentiment from a Q2 earnings beat and improved margins, despite ongoing concerns about valuation and margin pressure. The company recently announced a quarterly dividend of $0.62 per share.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Food Digital",
+            "date": "20260502T070550",
+            "title": "Hotels, Sustainability & Coffee: This Week’s Top Stories",
+            "summary": "This article highlights top news in the food and drink industry, focusing on sustainability efforts from major companies. Key stories include Liverpool FC's food sustainability certification, Anheuser-Busch's increased US manufacturing investment, Hershey's 10-year sustainability roadmap, Starbucks' new weekly pay structure for baristas, and easyJet's initiatives to reduce plastic and carbon emissions in hotels. These developments showcase a growing industry trend towards environmental responsibility and operational efficiency.",
+            "text_to_analyze": "Hotels, Sustainability & Coffee: This Week’s Top Stories. This article highlights top news in the food and drink industry, focusing on sustainability efforts from major companies. Key stories include Liverpool FC's food sustainability certification, Anheuser-Busch's increased US manufacturing investment, Hershey's 10-year sustainability roadmap, Starbucks' new weekly pay structure for baristas, and easyJet's initiatives to reduce plastic and carbon emissions in hotels. These developments showcase a growing industry trend towards environmental responsibility and operational efficiency.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.710074
+        },
+        {
+            "source": "Barchart.com",
+            "date": "20260502T063953",
+            "title": "Starbucks Invested $500 Million in a Turnaround and Now Wall Street Is Drinking Up SBUX Stock",
+            "summary": "Starbucks invested over $500 million in a turnaround strategy called \"Back to Starbucks,\" focusing on enhancing the in-store experience, increasing labor hours, and expanding store rosters. This investment has led to a stronger-than-expected fiscal Q2 2026 performance, causing a 9% stock jump and prompting Wall Street analysts to raise their price targets and maintain \"Buy\" ratings. The company is also expanding in China through a new joint venture and plans to open hundreds of new U.S. stores, signaling a promising path for continued growth.",
+            "text_to_analyze": "Starbucks Invested $500 Million in a Turnaround and Now Wall Street Is Drinking Up SBUX Stock. Starbucks invested over $500 million in a turnaround strategy called \"Back to Starbucks,\" focusing on enhancing the in-store experience, increasing labor hours, and expanding store rosters. This investment has led to a stronger-than-expected fiscal Q2 2026 performance, causing a 9% stock jump and prompting Wall Street analysts to raise their price targets and maintain \"Buy\" ratings. The company is also expanding in China through a new joint venture and plans to open hundreds of new U.S. stores, signaling a promising path for continued growth.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260502T023854",
+            "title": "Stock Market Today: Dow Jones, Nasdaq Futures Gain Ahead Of Powell's Last Speech As Fed Chair— Robinhood, Starbucks, Alphabet In Focus",
+            "summary": "U.S. stock futures rose ahead of what is anticipated to be Jerome Powell's final press conference as Fed Chair, with markets expecting interest rates to remain unchanged. Booking Holdings and Robinhood saw their shares drop after reporting earnings that missed estimates, while Starbucks jumped due to stronger-than-expected revenue. Amazon and Alphabet were also in focus as they prepared to release their earnings reports.",
+            "text_to_analyze": "Stock Market Today: Dow Jones, Nasdaq Futures Gain Ahead Of Powell's Last Speech As Fed Chair— Robinhood, Starbucks, Alphabet In Focus. U.S. stock futures rose ahead of what is anticipated to be Jerome Powell's final press conference as Fed Chair, with markets expecting interest rates to remain unchanged. Booking Holdings and Robinhood saw their shares drop after reporting earnings that missed estimates, while Starbucks jumped due to stronger-than-expected revenue. Amazon and Alphabet were also in focus as they prepared to release their earnings reports.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.846065
+        }
+    ]
+}

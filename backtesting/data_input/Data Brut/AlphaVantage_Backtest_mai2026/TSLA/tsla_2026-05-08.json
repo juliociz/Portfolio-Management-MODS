@@ -1,0 +1,72 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-08",
+    "window_start": "2026-05-07 16:00",
+    "window_end": "2026-05-08 09:27",
+    "articles": [
+        {
+            "source": "Tesla Oracle",
+            "date": "20260508T080821",
+            "title": "Tesla launches new blue colors for higher Model Y and Model 3 trims (prices, availability, comparison)",
+            "summary": "Tesla has discontinued its Deep Blue Metallic paint globally and introduced two new blue color options: Marine Blue and Frost Blue Metallic. Marine Blue is now available for premium versions of the Model Y and Model 3 worldwide, while Frost Blue Metallic is exclusively offered for the Performance variants of these models in the US, Puerto Rico, and Mexico. The article also details pricing differences for these new colors across various regions.",
+            "text_to_analyze": "Tesla launches new blue colors for higher Model Y and Model 3 trims (prices, availability, comparison). Tesla has discontinued its Deep Blue Metallic paint globally and introduced two new blue color options: Marine Blue and Frost Blue Metallic. Marine Blue is now available for premium versions of the Model Y and Model 3 worldwide, while Frost Blue Metallic is exclusively offered for the Performance variants of these models in the US, Puerto Rico, and Mexico. The article also details pricing differences for these new colors across various regions.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260508T064009",
+            "title": "YieldMax TSLA Option Income Strategy ETF announces weekly distribution of $0.3384",
+            "summary": "The YieldMax TSLA Option Income Strategy ETF has announced a weekly distribution of $0.3384 per share. This distribution is part of its strategy to generate income from options on Tesla stock.",
+            "text_to_analyze": "YieldMax TSLA Option Income Strategy ETF announces weekly distribution of $0.3384. The YieldMax TSLA Option Income Strategy ETF has announced a weekly distribution of $0.3384 per share. This distribution is part of its strategy to generate income from options on Tesla stock.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260508T023827",
+            "title": "Tesla: Bullish Structure Still Intact After 30% Pullback for NASDAQ:TSLA by ew-forecast",
+            "summary": "Despite a nearly 30% pullback from recent highs, Tesla's stock (TSLA) appears to be in a corrective phase rather than a sustained bearish trend. The price action is approaching a significant Fibonacci support zone, suggesting a potential recovery and continuation of a broader bullish structure. However, a break below $260 could weaken the bullish outlook and lead to a deeper correction.",
+            "text_to_analyze": "Tesla: Bullish Structure Still Intact After 30% Pullback for NASDAQ:TSLA by ew-forecast. Despite a nearly 30% pullback from recent highs, Tesla's stock (TSLA) appears to be in a corrective phase rather than a sustained bearish trend. The price action is approaching a significant Fibonacci support zone, suggesting a potential recovery and continuation of a broader bullish structure. However, a break below $260 could weaken the bullish outlook and lead to a deeper correction.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260507T182125",
+            "title": "Tesla Model Y is first vehicle to pass new US driver assistance system tests",
+            "summary": "The 2026 Tesla Model Y has become the first vehicle to pass the U.S. National Highway Traffic Safety Administration's (NHTSA) new advanced driver assistance system tests. These new tests are part of the agency's New Car Assessment Program and cover pedestrian automatic emergency braking, lane keeping assistance, blind spot warning, and blind spot intervention. The Model Y vehicles that passed are those manufactured on or after November 12.",
+            "text_to_analyze": "Tesla Model Y is first vehicle to pass new US driver assistance system tests. The 2026 Tesla Model Y has become the first vehicle to pass the U.S. National Highway Traffic Safety Administration's (NHTSA) new advanced driver assistance system tests. These new tests are part of the agency's New Car Assessment Program and cover pedestrian automatic emergency braking, lane keeping assistance, blind spot warning, and blind spot intervention. The Model Y vehicles that passed are those manufactured on or after November 12.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Seeking Alpha",
+            "date": "20260507T173831",
+            "title": "Musk offered Tesla board seat to OpenAI's Altman, Shivon Zilis says (TSLA:NASDAQ)",
+            "summary": "Former OpenAI board member Shivon Zilis testified that Elon Musk offered OpenAI CEO Sam Altman a board seat at Tesla. This offer was reportedly part of an attempt by Musk to merge OpenAI into Tesla. The potential merger and ongoing legal disputes could impact the future valuations and IPOs of OpenAI and SpaceX, as well as investor confidence.",
+            "text_to_analyze": "Musk offered Tesla board seat to OpenAI's Altman, Shivon Zilis says (TSLA:NASDAQ). Former OpenAI board member Shivon Zilis testified that Elon Musk offered OpenAI CEO Sam Altman a board seat at Tesla. This offer was reportedly part of an attempt by Musk to merge OpenAI into Tesla. The potential merger and ongoing legal disputes could impact the future valuations and IPOs of OpenAI and SpaceX, as well as investor confidence.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Trefis",
+            "date": "20260507T164955",
+            "title": "Intel, Lam, KLA: Will Musk’s $120B Terafab Boost These Stocks?",
+            "summary": "Elon Musk announced the Terafab Initiative, a $55 billion to $119 billion chip fabrication facility in Texas, aiming to produce advanced AI chips for Tesla, SpaceX, and xAI. This massive project significantly boosts the demand for semiconductor equipment, directly benefiting companies like Intel (as the primary manufacturing partner), Applied Materials, Lam Research, and KLA Corporation. These companies provide critical technologies for chip fabrication, including process nodes, deposition, etching, metrology, and inspection systems, essential for producing high-yield 14A process node chips.",
+            "text_to_analyze": "Intel, Lam, KLA: Will Musk’s $120B Terafab Boost These Stocks?. Elon Musk announced the Terafab Initiative, a $55 billion to $119 billion chip fabrication facility in Texas, aiming to produce advanced AI chips for Tesla, SpaceX, and xAI. This massive project significantly boosts the demand for semiconductor equipment, directly benefiting companies like Intel (as the primary manufacturing partner), Applied Materials, Lam Research, and KLA Corporation. These companies provide critical technologies for chip fabrication, including process nodes, deposition, etching, metrology, and inspection systems, essential for producing high-yield 14A process node chips.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.712486
+        },
+        {
+            "source": "Stock Traders Daily",
+            "date": "20260507T163200",
+            "title": "(TSLP) Movement Within Algorithmic Entry Frameworks",
+            "summary": "This article provides an algorithmic analysis for Kurv Yield Premium Strategy Tesla (TSLP), indicating strong near-term sentiment but a mid-term neutrality moving towards a long-term positive bias. It details an exceptional short setup with a significant risk-reward ratio and outlines three distinct trading strategies—Position Trading, Momentum Breakout, and Risk Hedging—with specific entry, target, and stop-loss levels. The report also includes a multi-timeframe signal analysis showing support and resistance levels.",
+            "text_to_analyze": "(TSLP) Movement Within Algorithmic Entry Frameworks. This article provides an algorithmic analysis for Kurv Yield Premium Strategy Tesla (TSLP), indicating strong near-term sentiment but a mid-term neutrality moving towards a long-term positive bias. It details an exceptional short setup with a significant risk-reward ratio and outlines three distinct trading strategies—Position Trading, Momentum Breakout, and Risk Hedging—with specific entry, target, and stop-loss levels. The report also includes a multi-timeframe signal analysis showing support and resistance levels.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.835198
+        }
+    ]
+}

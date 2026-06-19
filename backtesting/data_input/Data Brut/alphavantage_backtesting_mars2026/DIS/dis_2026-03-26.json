@@ -1,0 +1,27 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-26",
+    "window_start": "2026-03-25 16:00",
+    "window_end": "2026-03-26 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260326T085525",
+            "title": "Czech National Bank Boosts Stock Holdings in The Walt Disney Company $DIS",
+            "summary": "The Czech National Bank increased its stake in The Walt Disney Company by 3.1% in Q4 2025, now holding 470,754 shares valued at $53.56 million. Multiple institutional investors also adjusted their holdings. While Disney surpassed Q4 earnings expectations with $1.63 EPS and $25.98 billion in revenue, the company faces strategic risks due to the collapse of its AI tie-up with OpenAI and uncertainty surrounding a $1.5 billion investment in Epic Games.",
+            "text_to_analyze": "Czech National Bank Boosts Stock Holdings in The Walt Disney Company $DIS. The Czech National Bank increased its stake in The Walt Disney Company by 3.1% in Q4 2025, now holding 470,754 shares valued at $53.56 million. Multiple institutional investors also adjusted their holdings. While Disney surpassed Q4 earnings expectations with $1.63 EPS and $25.98 billion in revenue, the company faces strategic risks due to the collapse of its AI tie-up with OpenAI and uncertainty surrounding a $1.5 billion investment in Epic Games.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "GuruFocus",
+            "date": "20260326T070727",
+            "title": "The Walt Disney Co (XBUL:WDP) Stock Earnings Transcripts",
+            "summary": "This article provides a comprehensive list of earnings call and conference transcripts for The Walt Disney Co (XBUL:WDP) dating back to 2019. It serves as a valuable resource for investors and analysts seeking detailed insights into the company's financial performance and management discussions. The page also includes essential stock metrics such as market cap, P/E ratio, and GF Score for quick reference.",
+            "text_to_analyze": "The Walt Disney Co (XBUL:WDP) Stock Earnings Transcripts. This article provides a comprehensive list of earnings call and conference transcripts for The Walt Disney Co (XBUL:WDP) dating back to 2019. It serves as a valuable resource for investors and analysts seeking detailed insights into the company's financial performance and management discussions. The page also includes essential stock metrics such as market cap, P/E ratio, and GF Score for quick reference.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

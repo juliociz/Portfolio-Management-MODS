@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-13",
+    "window_start": "2026-03-12 16:00",
+    "window_end": "2026-03-13 09:27",
+    "articles": [
+        {
+            "source": "Sahm",
+            "date": "20260313T075046",
+            "title": "Nike Names Cimarron Nix CSO As Sustainability Becomes Earnings Risk Focus",
+            "summary": "Nike has appointed Cimarron Nix as its new Chief Sustainability Officer, a move aimed at addressing regulatory and reputational pressures around sustainability and labor practices. Nix's extensive background in sustainable manufacturing and labor issues is expected to integrate ESG priorities more closely with Nike's operational and strategic decisions, potentially impacting supply chain standards and regulatory engagement. This appointment comes as Nike faces declining stock performance and increased scrutiny, making sustainability a key factor in earnings quality and investor confidence.",
+            "text_to_analyze": "Nike Names Cimarron Nix CSO As Sustainability Becomes Earnings Risk Focus. Nike has appointed Cimarron Nix as its new Chief Sustainability Officer, a move aimed at addressing regulatory and reputational pressures around sustainability and labor practices. Nix's extensive background in sustainable manufacturing and labor issues is expected to integrate ESG priorities more closely with Nike's operational and strategic decisions, potentially impacting supply chain standards and regulatory engagement. This appointment comes as Nike faces declining stock performance and increased scrutiny, making sustainability a key factor in earnings quality and investor confidence.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "American Airlines Newsroom",
+            "date": "20260312T165153",
+            "title": "American Airlines makes AAdvantage miles more flexible with ability to redeem miles for gift cards",
+            "summary": "American Airlines has enhanced its AAdvantage program by allowing members to redeem miles for gift cards from various top brands, including Sephora, Nike, and Best Buy. This new platform, aadvantagegiftcards.com, offers gift cards ranging from $10 to $500, providing more everyday redemption options for AAdvantage members. This initiative aims to offer greater flexibility and value for members' miles, building on previous expansions like AAdvantage Exchange and AAdvantage Cruises.",
+            "text_to_analyze": "American Airlines makes AAdvantage miles more flexible with ability to redeem miles for gift cards. American Airlines has enhanced its AAdvantage program by allowing members to redeem miles for gift cards from various top brands, including Sephora, Nike, and Best Buy. This new platform, aadvantagegiftcards.com, offers gift cards ranging from $10 to $500, providing more everyday redemption options for AAdvantage members. This initiative aims to offer greater flexibility and value for members' miles, building on previous expansions like AAdvantage Exchange and AAdvantage Cruises.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.616552
+        }
+    ]
+}

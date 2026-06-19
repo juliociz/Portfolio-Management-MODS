@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-13",
+    "window_start": "2026-05-12 16:00",
+    "window_end": "2026-05-13 09:27",
+    "articles": [
+        {
+            "source": "FashionUnited UK",
+            "date": "20260513T073945",
+            "title": "Saucony appoints former Nike executive Wendy Kula as CMO",
+            "summary": "Saucony has appointed Wendy Kula, formerly Nike's vice president of women’s brand marketing for North America, as its new Chief Marketing Officer. This strategic hire aims to enhance Saucony's presence in performance running and lifestyle categories. The company anticipates Kula's expertise in culture, community, and storytelling will be key to its global brand growth and consumer engagement efforts.",
+            "text_to_analyze": "Saucony appoints former Nike executive Wendy Kula as CMO. Saucony has appointed Wendy Kula, formerly Nike's vice president of women’s brand marketing for North America, as its new Chief Marketing Officer. This strategic hire aims to enhance Saucony's presence in performance running and lifestyle categories. The company anticipates Kula's expertise in culture, community, and storytelling will be key to its global brand growth and consumer engagement efforts.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.720562
+        },
+        {
+            "source": "Sahm",
+            "date": "20260512T190818",
+            "title": "Nike Tariff Lawsuit Puts Pricing Practices And Investor Risks In Focus",
+            "summary": "A class action lawsuit has been filed against Nike (NYSE:NKE) alleging the company raised prices on footwear and apparel to offset import tariffs and did not issue refunds when the tariffs were removed. This case places Nike's pricing transparency under scrutiny and could significantly impact its brand trust, financial performance, and future pricing strategies. Investors are advised to monitor the lawsuit's progress and Nike's response, as it could have implications for cash flow, legal expenses, and potentially influence how other consumer brands handle tariff-related costs.",
+            "text_to_analyze": "Nike Tariff Lawsuit Puts Pricing Practices And Investor Risks In Focus. A class action lawsuit has been filed against Nike (NYSE:NKE) alleging the company raised prices on footwear and apparel to offset import tariffs and did not issue refunds when the tariffs were removed. This case places Nike's pricing transparency under scrutiny and could significantly impact its brand trust, financial performance, and future pricing strategies. Investors are advised to monitor the lawsuit's progress and Nike's response, as it could have implications for cash flow, legal expenses, and potentially influence how other consumer brands handle tariff-related costs.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

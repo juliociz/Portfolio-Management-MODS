@@ -1,0 +1,27 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-05-19",
+    "window_start": "2026-05-18 16:00",
+    "window_end": "2026-05-19 09:27",
+    "articles": [
+        {
+            "source": "GuruFocus",
+            "date": "20260519T020814",
+            "title": "Nike Inc (STU:NKE) Stock Price, Trades & News",
+            "summary": "This page provides a detailed overview of Nike Inc (STU:NKE) stock information, including its current price (€36.41), market capitalization, financial strength, growth, profitability, and valuation ranks. It also lists upcoming important dates such as earnings calls and dividend payments, along with recent news and press releases related to the company. The article highlights two severe warning signs detected by GuruFocus and offers a free trial to access this information.",
+            "text_to_analyze": "Nike Inc (STU:NKE) Stock Price, Trades & News. This page provides a detailed overview of Nike Inc (STU:NKE) stock information, including its current price (€36.41), market capitalization, financial strength, growth, profitability, and valuation ranks. It also lists upcoming important dates such as earnings calls and dividend payments, along with recent news and press releases related to the company. The article highlights two severe warning signs detected by GuruFocus and offers a free trial to access this information.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260518T213814",
+            "title": "NIKE, Inc. Class B Trade Ideas — AQUISUK:NKED",
+            "summary": "This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKED, NKE) from different traders and analysts. The contributions discuss technical analysis, fundamental factors, potential bullish and bearish scenarios, and risk assessments for Nike's stock, particularly focusing on its downtrend, revenue challenges, and restructuring efforts. Several authors highlight the impact of tariffs, competition, and the direct-to-consumer strategy on Nike's performance and future outlook.",
+            "text_to_analyze": "NIKE, Inc. Class B Trade Ideas — AQUISUK:NKED. This article compiles various trade ideas and analyses for NIKE, Inc. Class B (NKED, NKE) from different traders and analysts. The contributions discuss technical analysis, fundamental factors, potential bullish and bearish scenarios, and risk assessments for Nike's stock, particularly focusing on its downtrend, revenue challenges, and restructuring efforts. Several authors highlight the impact of tariffs, competition, and the direct-to-consumer strategy on Nike's performance and future outlook.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

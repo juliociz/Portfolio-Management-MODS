@@ -1,0 +1,45 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-26",
+    "window_start": "2026-05-25 16:00",
+    "window_end": "2026-05-26 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260526T072340",
+            "title": "AlphaQuest LLC Buys 12,549 Shares of Ross Stores, Inc. $ROST",
+            "summary": "AlphaQuest LLC significantly increased its stake in Ross Stores during the fourth quarter, purchasing 12,549 additional shares to bring its total holdings to 22,465 shares valued at approximately $4.05 million. This increase follows strong quarterly results from Ross Stores, which reported EPS of $2.02 against expectations of $1.73 and revenue of $6.01 billion, up 20.6% year-over-year. The company also announced a quarterly dividend and maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $230.88.",
+            "text_to_analyze": "AlphaQuest LLC Buys 12,549 Shares of Ross Stores, Inc. $ROST. AlphaQuest LLC significantly increased its stake in Ross Stores during the fourth quarter, purchasing 12,549 additional shares to bring its total holdings to 22,465 shares valued at approximately $4.05 million. This increase follows strong quarterly results from Ross Stores, which reported EPS of $2.02 against expectations of $1.73 and revenue of $6.01 billion, up 20.6% year-over-year. The company also announced a quarterly dividend and maintains a \"Moderate Buy\" consensus rating from analysts with an average price target of $230.88.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.628032
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260526T072324",
+            "title": "Allstate Corp Boosts Position in Costco Wholesale Corporation $COST",
+            "summary": "Allstate Corp significantly increased its stake in Costco Wholesale Corporation by 109.2% in the fourth quarter, now owning 33,975 shares valued at $29.29 million. Several other institutional investors also adjusted their holdings in Costco, which has an average analyst rating of \"Moderate Buy\" and a consensus price target of $1,052.60. The retailer recently reported strong quarterly earnings, exceeding analyst expectations, and increased its quarterly dividend.",
+            "text_to_analyze": "Allstate Corp Boosts Position in Costco Wholesale Corporation $COST. Allstate Corp significantly increased its stake in Costco Wholesale Corporation by 109.2% in the fourth quarter, now owning 33,975 shares valued at $29.29 million. Several other institutional investors also adjusted their holdings in Costco, which has an average analyst rating of \"Moderate Buy\" and a consensus price target of $1,052.60. The retailer recently reported strong quarterly earnings, exceeding analyst expectations, and increased its quarterly dividend.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.616405
+        },
+        {
+            "source": "Moomoo",
+            "date": "20260526T033828",
+            "title": "Truist Financial Maintains Target(TGT.US) With Hold Rating, Maintains Target Price $130",
+            "summary": "Truist Financial has reiterated its Hold rating on Target (TGT.US) stock, maintaining a target price of $130. This indicates the firm's view that the stock is currently trading at a fair value and does not recommend buying or selling at this time. The maintained target price suggests Truist Financial's continued outlook on Target's future performance.",
+            "text_to_analyze": "Truist Financial Maintains Target(TGT.US) With Hold Rating, Maintains Target Price $130. Truist Financial has reiterated its Hold rating on Target (TGT.US) stock, maintaining a target price of $130. This indicates the firm's view that the stock is currently trading at a fair value and does not recommend buying or selling at this time. The maintained target price suggests Truist Financial's continued outlook on Target's future performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.944874
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260525T174041",
+            "title": "Target Corp stock (US87612E1064): Analyst upgrade and dividend yield attract fresh attention",
+            "summary": "Target Corp stock is gaining renewed investor attention following an analyst's price target increase to $114 and a robust dividend yield of about 3.6%. While a recent quarter was dubbed \"Goldilocks,\" investors are keenly watching the sustainability of sales and margin trends. Target remains a bellwether for US consumer spending and a key dividend stock, navigating a competitive retail landscape.",
+            "text_to_analyze": "Target Corp stock (US87612E1064): Analyst upgrade and dividend yield attract fresh attention. Target Corp stock is gaining renewed investor attention following an analyst's price target increase to $114 and a robust dividend yield of about 3.6%. While a recent quarter was dubbed \"Goldilocks,\" investors are keenly watching the sustainability of sales and margin trends. Target remains a bellwether for US consumer spending and a key dividend stock, navigating a competitive retail landscape.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-24",
+    "window_start": "2026-03-23 16:00",
+    "window_end": "2026-03-24 09:27",
+    "articles": [
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260323T230833",
+            "title": "'Largest chip manufacturing facility ever': Elon Musk to build part of Terafab in Austin",
+            "summary": "Elon Musk announced plans for Tesla and SpaceX to build the world's largest chip manufacturing facility, dubbed \"Terafab,\" in Austin, Texas, to produce chips for AI and space data centers. While a small chip design facility will be located at Tesla's Gigafactory Texas, the main Terafab will be a massive 100 million square feet, dwarfing Samsung's plant in Taylor, with locations still under consideration. This ambitious project aims to meet the companies' growing need for semiconductors, which Musk states current suppliers cannot provide at the desired pace.",
+            "text_to_analyze": "'Largest chip manufacturing facility ever': Elon Musk to build part of Terafab in Austin. Elon Musk announced plans for Tesla and SpaceX to build the world's largest chip manufacturing facility, dubbed \"Terafab,\" in Austin, Texas, to produce chips for AI and space data centers. While a small chip design facility will be located at Tesla's Gigafactory Texas, the main Terafab will be a massive 100 million square feet, dwarfing Samsung's plant in Taylor, with locations still under consideration. This ambitious project aims to meet the companies' growing need for semiconductors, which Musk states current suppliers cannot provide at the desired pace.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.325183
+        },
+        {
+            "source": "富途牛牛",
+            "date": "20260323T214011",
+            "title": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On March 23rd, 134.93K Contracts Were Traded, With 952.56K Open Interest",
+            "summary": "This article reports on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) from March 23rd. It highlights that 134.93K contracts were traded, with a notable open interest of 952.56K. The data suggests significant investor attention and positioning around this leveraged ETF tracking Tesla.",
+            "text_to_analyze": "Direxion Daily TSLA Bull 2X Shares Options Spot-On: On March 23rd, 134.93K Contracts Were Traded, With 952.56K Open Interest. This article reports on the options trading activity for Direxion Daily TSLA Bull 2X Shares (TSLL) from March 23rd. It highlights that 134.93K contracts were traded, with a notable open interest of 952.56K. The data suggests significant investor attention and positioning around this leveraged ETF tracking Tesla.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.843052
+        },
+        {
+            "source": "Barron's",
+            "date": "20260323T180731",
+            "title": "Norwegian, Freeport-McMoRan, Super Micro, Tesla, United, Synopsys, and More Stock Movers",
+            "summary": "Stock futures were rising Monday, a trend that continued into the trading day for several companies including Norwegian, Super Micro, Freeport-McMoRan, Tesla, United Airlines, and Synopsys. This positive market movement was attributed to hopes for a de-escalation of tensions in the Middle East following comments from former President Trump. The article suggests that \"productive conversations\" between the U.S. and Iran have boosted investor confidence.",
+            "text_to_analyze": "Norwegian, Freeport-McMoRan, Super Micro, Tesla, United, Synopsys, and More Stock Movers. Stock futures were rising Monday, a trend that continued into the trading day for several companies including Norwegian, Super Micro, Freeport-McMoRan, Tesla, United Airlines, and Synopsys. This positive market movement was attributed to hopes for a de-escalation of tensions in the Middle East following comments from former President Trump. The article suggests that \"productive conversations\" between the U.S. and Iran have boosted investor confidence.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.871737
+        },
+        {
+            "source": "Yahoo Finance UK",
+            "date": "20260323T173100",
+            "title": "Elon Musk Unveils Ambitious Terafab Plans For Tesla, SpaceX: 'We're Starting A Galactic Civilization'",
+            "summary": "Elon Musk has announced the Terafab project, a joint venture between Tesla, SpaceX, and xAI, aimed at revolutionizing chip manufacturing for both space and AI applications. This ambitious undertaking seeks to produce over a terawatt of compute per year, with a significant portion dedicated to space. Musk envisions the Terafab as a comprehensive facility that will integrate all stages of chip development, supporting autonomous vehicles, humanoid robots, and solar-powered AI satellites, with an eye towards establishing an industrial base on the moon and a \"galactic civilization.\"",
+            "text_to_analyze": "Elon Musk Unveils Ambitious Terafab Plans For Tesla, SpaceX: 'We're Starting A Galactic Civilization'. Elon Musk has announced the Terafab project, a joint venture between Tesla, SpaceX, and xAI, aimed at revolutionizing chip manufacturing for both space and AI applications. This ambitious undertaking seeks to produce over a terawatt of compute per year, with a significant portion dedicated to space. Musk envisions the Terafab as a comprehensive facility that will integrate all stages of chip development, supporting autonomous vehicles, humanoid robots, and solar-powered AI satellites, with an eye towards establishing an industrial base on the moon and a \"galactic civilization.\"",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Barron's",
+            "date": "20260323T163735",
+            "title": "These Stocks Are Today’s Movers: Norwegian, Freeport-McMoRan, Super Micro, Tesla, United Airlines, and More",
+            "summary": "This article identifies several stocks, including Norwegian, Super Micro, Freeport-McMoRan, Tesla, United Airlines, and Synopsys, as today's market movers. The rise in these stocks on Monday is attributed to an optimistic post by President Donald Trump on Truth Social, which suggested progress in U.S.-Iran relations and a potential de-escalation of tensions in the Middle East.",
+            "text_to_analyze": "These Stocks Are Today’s Movers: Norwegian, Freeport-McMoRan, Super Micro, Tesla, United Airlines, and More. This article identifies several stocks, including Norwegian, Super Micro, Freeport-McMoRan, Tesla, United Airlines, and Synopsys, as today's market movers. The rise in these stocks on Monday is attributed to an optimistic post by President Donald Trump on Truth Social, which suggested progress in U.S.-Iran relations and a potential de-escalation of tensions in the Middle East.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.783676
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-06",
+    "window_start": "2026-03-05 16:00",
+    "window_end": "2026-03-06 09:27",
+    "articles": [
+        {
+            "source": "Korea JoongAng Daily",
+            "date": "20260306T065910",
+            "title": "Webtoon Entertainment promotes chief strategy officer to president",
+            "summary": "Webtoon Entertainment has promoted Kim Yong-soo, its chief strategy officer and head of global, to president and internal director of the board. This move aims to reorganize leadership for accelerated global growth and innovation. Kim, who joined in late 2022, was instrumental in strengthening the company's financial position, leading its IPO, and overseeing global webtoon operations, including a collaboration with The Walt Disney Company.",
+            "text_to_analyze": "Webtoon Entertainment promotes chief strategy officer to president. Webtoon Entertainment has promoted Kim Yong-soo, its chief strategy officer and head of global, to president and internal director of the board. This move aims to reorganize leadership for accelerated global growth and innovation. Kim, who joined in late 2022, was instrumental in strengthening the company's financial position, leading its IPO, and overseeing global webtoon operations, including a collaboration with The Walt Disney Company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.728592
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-18",
+    "window_start": "2026-03-17 16:00",
+    "window_end": "2026-03-18 09:27",
+    "articles": [
+        {
+            "source": "Stock Titan",
+            "date": "20260317T172217",
+            "title": "TGT (NYSE: TGT) files Form 144 notices for vested restricted shares in March 2026",
+            "summary": "Target Corporation (TGT) has filed Form 144 notices regarding proposed sales of common stock derived from restricted stock vesting on various dates in March 2026. These filings indicate an intent to resell shares that vested on specific dates, ranging from 284 to 833 shares per vesting event, and are considered routine insider/employee vesting. The Form 144 serves as a notice of proposed sale under Rule 144 and does not confirm actual sale execution, price, or proceeds for the company.",
+            "text_to_analyze": "TGT (NYSE: TGT) files Form 144 notices for vested restricted shares in March 2026. Target Corporation (TGT) has filed Form 144 notices regarding proposed sales of common stock derived from restricted stock vesting on various dates in March 2026. These filings indicate an intent to resell shares that vested on specific dates, ranging from 284 to 833 shares per vesting event, and are considered routine insider/employee vesting. The Form 144 serves as a notice of proposed sale under Rule 144 and does not confirm actual sale execution, price, or proceeds for the company.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.338039
+        }
+    ]
+}

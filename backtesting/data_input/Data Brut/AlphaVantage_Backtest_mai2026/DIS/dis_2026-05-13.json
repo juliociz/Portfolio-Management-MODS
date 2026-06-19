@@ -1,0 +1,45 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-13",
+    "window_start": "2026-05-12 16:00",
+    "window_end": "2026-05-13 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260513T073430",
+            "title": "Atlantic Union Bankshares Corp Reduces Holdings in The Walt Disney Company $DIS",
+            "summary": "Atlantic Union Bankshares Corp reduced its stake in The Walt Disney Company by 5.4% in the fourth quarter, selling 5,533 shares and ending with 96,125 shares valued at approximately $10.9 million. Despite this, Disney's stock appears to be gaining momentum due to strong earnings, beating quarterly EPS and revenue estimates, and upbeat analyst sentiment, with several firms raising price targets and one upgrading the stock to \"strong-buy\". Institutional investors and hedge funds collectively own 65.71% of Disney stock, with some increasing their positions while Atlantic Union Bankshares Corp decreased its holdings.",
+            "text_to_analyze": "Atlantic Union Bankshares Corp Reduces Holdings in The Walt Disney Company $DIS. Atlantic Union Bankshares Corp reduced its stake in The Walt Disney Company by 5.4% in the fourth quarter, selling 5,533 shares and ending with 96,125 shares valued at approximately $10.9 million. Despite this, Disney's stock appears to be gaining momentum due to strong earnings, beating quarterly EPS and revenue estimates, and upbeat analyst sentiment, with several firms raising price targets and one upgrading the stock to \"strong-buy\". Institutional investors and hedge funds collectively own 65.71% of Disney stock, with some increasing their positions while Atlantic Union Bankshares Corp decreased its holdings.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.927339
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260513T004126",
+            "title": "Fandom Takes Center Stage as Disney’s Sports, TV and Film Powerhouses Command the North Javits Center",
+            "summary": "The Walt Disney Company held its 2026 Upfront presentation, featuring CEO Josh D’Amaro's debut and a lineup of over 100 stars from Disney's franchises. The event showcased the company's extensive entertainment and sports portfolio, highlighting upcoming content, major cultural moments in 2027 like the Super Bowl LXI and the Oscars, and new series announcements for Disney+ and Hulu. The presentation concluded with a performance by GRAMMY®-winner Olivia Rodrigo, emphasizing Disney's commitment to fandom, storytelling, and innovation.",
+            "text_to_analyze": "Fandom Takes Center Stage as Disney’s Sports, TV and Film Powerhouses Command the North Javits Center. The Walt Disney Company held its 2026 Upfront presentation, featuring CEO Josh D’Amaro's debut and a lineup of over 100 stars from Disney's franchises. The event showcased the company's extensive entertainment and sports portfolio, highlighting upcoming content, major cultural moments in 2027 like the Super Bowl LXI and the Oscars, and new series announcements for Disney+ and Hulu. The presentation concluded with a performance by GRAMMY®-winner Olivia Rodrigo, emphasizing Disney's commitment to fandom, storytelling, and innovation.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260512T170728",
+            "title": "'The Punisher: One Last Kill': Behind the Scenes of Marvel Television's Dark, Action-Packed Special Presentation on Disney+",
+            "summary": "This article goes behind the scenes of Marvel Television's new special presentation, \"The Punisher: One Last Kill,\" premiering on Disney+. Director Reinaldo Marcus Green discusses collaborating with star Jon Bernthal, the character's dark journey, and integrating real veteran experiences into the story. The special aims to offer a gritty, character-driven action experience distinct from other MCU street-level narratives.",
+            "text_to_analyze": "'The Punisher: One Last Kill': Behind the Scenes of Marvel Television's Dark, Action-Packed Special Presentation on Disney+. This article goes behind the scenes of Marvel Television's new special presentation, \"The Punisher: One Last Kill,\" premiering on Disney+. Director Reinaldo Marcus Green discusses collaborating with star Jon Bernthal, the character's dark journey, and integrating real veteran experiences into the story. The special aims to offer a gritty, character-driven action experience distinct from other MCU street-level narratives.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "24/7 Wall St.",
+            "date": "20260512T162617",
+            "title": "Netflix vs Disney: Only One Is a Winner of The Streaming War",
+            "summary": "This article compares the Q1 FY26 performance of Netflix and the fiscal Q2 FY26 performance of Disney, highlighting their differing strategies in the streaming war. Netflix is focusing on a leaner, software-style operation with a successful ad-supported tier, while Disney is broadening its portfolio through parks, IP-driven streaming, and strategic acquisitions. The author suggests leaning towards Disney due to its streaming profitability milestone and record parks revenue, despite Netflix's cleaner business model.",
+            "text_to_analyze": "Netflix vs Disney: Only One Is a Winner of The Streaming War. This article compares the Q1 FY26 performance of Netflix and the fiscal Q2 FY26 performance of Disney, highlighting their differing strategies in the streaming war. Netflix is focusing on a leaner, software-style operation with a successful ad-supported tier, while Disney is broadening its portfolio through parks, IP-driven streaming, and strategic acquisitions. The author suggests leaning towards Disney due to its streaming profitability milestone and record parks revenue, despite Netflix's cleaner business model.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.950376
+        }
+    ]
+}

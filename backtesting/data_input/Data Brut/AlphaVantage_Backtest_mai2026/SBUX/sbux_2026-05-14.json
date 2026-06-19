@@ -1,0 +1,27 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-14",
+    "window_start": "2026-05-13 16:00",
+    "window_end": "2026-05-14 09:27",
+    "articles": [
+        {
+            "source": "Connect CRE",
+            "date": "20260513T203936",
+            "title": "Vornado JV Refinance Meatpacking Offices for $161M",
+            "summary": "Vornado Realty Trust's joint venture has secured a new $161-million refinancing for 61 Ninth Ave. in the Meatpacking District, a property fully leased to Aetna and Starbucks. This interest-only loan replaces a previous $155-million loan and carries a variable interest rate tied to SOFR. The refinancing follows a recent extension and partial paydown of a $167.5-million loan secured in 2019.",
+            "text_to_analyze": "Vornado JV Refinance Meatpacking Offices for $161M. Vornado Realty Trust's joint venture has secured a new $161-million refinancing for 61 Ninth Ave. in the Meatpacking District, a property fully leased to Aetna and Starbucks. This interest-only loan replaces a previous $155-million loan and carries a variable interest rate tied to SOFR. The refinancing follows a recent extension and partial paydown of a $167.5-million loan secured in 2019.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.63488
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260513T202525",
+            "title": "Starbucks Corp stock (US8552441094): Shares up 26.6% YTD amid union news and debt tender",
+            "summary": "Starbucks Corp shares have climbed 26.6% year-to-date to $106.58, driven by US labor developments, expansion into Chile, and a significant $1.1 billion debt tender offer. The company's performance reflects its resilience amidst rising labor costs and unionization pressures, alongside continued global demand for premium coffee. Investors are monitoring upcoming earnings and further labor developments to gauge future insights.",
+            "text_to_analyze": "Starbucks Corp stock (US8552441094): Shares up 26.6% YTD amid union news and debt tender. Starbucks Corp shares have climbed 26.6% year-to-date to $106.58, driven by US labor developments, expansion into Chile, and a significant $1.1 billion debt tender offer. The company's performance reflects its resilience amidst rising labor costs and unionization pressures, alongside continued global demand for premium coffee. Investors are monitoring upcoming earnings and further labor developments to gauge future insights.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

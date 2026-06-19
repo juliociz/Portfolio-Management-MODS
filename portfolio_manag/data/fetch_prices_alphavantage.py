@@ -2,7 +2,6 @@
 Téléchargement des prix journaliers via Alpha Vantage.
 """
 
-import os
 import time
 from pathlib import Path
 
@@ -10,6 +9,13 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 
+# On va chercher le fichier config
+import sys
+import os
+# Remonte de 3 niveaux pour atteindre le dossier principal (Portfolio-Management-MODS)
+root_path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+if root_path not in sys.path:
+    sys.path.append(root_path)
 from config import END_DATE, START_DATE, TICKERS
 
 

@@ -1,0 +1,45 @@
+{
+    "ticker": "NKE",
+    "company_name": "Nike",
+    "target_date": "2026-03-18",
+    "window_start": "2026-03-17 16:00",
+    "window_end": "2026-03-18 09:27",
+    "articles": [
+        {
+            "source": "StreetInsider",
+            "date": "20260318T053926",
+            "title": "DICK'S Sporting Goods and NIKE, Inc. Enlist Dave \"Lil Dicky\" Burd and Diana Taurasi to Find the Next Generation of Hoopers with \"The Scouts Are Out\" Campaign",
+            "summary": "DICK'S Sporting Goods and NIKE, Inc. have launched a new campaign called \"The Scouts Are Out\" to find the next generation of basketball talent. Featuring Dave \"Lil Dicky\" Burd and Diana Taurasi as scouts, the campaign highlights DICK'S as the premier destination for discovering hoopers and acquiring necessary gear. The campaign includes appearances by top NBA and WNBA athletes like Jayson Tatum and Sabrina Ionescu, emphasizing March as a critical month for showcasing basketball skills.",
+            "text_to_analyze": "DICK'S Sporting Goods and NIKE, Inc. Enlist Dave \"Lil Dicky\" Burd and Diana Taurasi to Find the Next Generation of Hoopers with \"The Scouts Are Out\" Campaign. DICK'S Sporting Goods and NIKE, Inc. have launched a new campaign called \"The Scouts Are Out\" to find the next generation of basketball talent. Featuring Dave \"Lil Dicky\" Burd and Diana Taurasi as scouts, the campaign highlights DICK'S as the premier destination for discovering hoopers and acquiring necessary gear. The campaign includes appearances by top NBA and WNBA athletes like Jayson Tatum and Sabrina Ionescu, emphasizing March as a critical month for showcasing basketball skills.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.902734
+        },
+        {
+            "source": "Lelezard",
+            "date": "20260318T050921",
+            "title": "DICK'S Sporting Goods and NIKE, Inc. Enlist Dave \"Lil Dicky\" Burd and Diana Taurasi to Find the Next Generation of Hoopers with \"The Scouts Are Out\" Campaign",
+            "summary": "DICK'S Sporting Goods and NIKE, Inc. have launched a new campaign called \"The Scouts Are Out\" to find the next generation of basketball talent. The campaign features Dave \"Lil Dicky\" Burd and Diana Taurasi as scouts, along with NBA and WNBA stars, highlighting DICK'S as the premier destination for basketball gear and expertise. This initiative aims to celebrate March as a crucial month for hoopers to showcase their skills, following up on their successful 2023 collaboration \"Sports Change Lives.\"",
+            "text_to_analyze": "DICK'S Sporting Goods and NIKE, Inc. Enlist Dave \"Lil Dicky\" Burd and Diana Taurasi to Find the Next Generation of Hoopers with \"The Scouts Are Out\" Campaign. DICK'S Sporting Goods and NIKE, Inc. have launched a new campaign called \"The Scouts Are Out\" to find the next generation of basketball talent. The campaign features Dave \"Lil Dicky\" Burd and Diana Taurasi as scouts, along with NBA and WNBA stars, highlighting DICK'S as the premier destination for basketball gear and expertise. This initiative aims to celebrate March as a crucial month for hoopers to showcase their skills, following up on their successful 2023 collaboration \"Sports Change Lives.\"",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.921659
+        },
+        {
+            "source": "Bitget",
+            "date": "20260317T223936",
+            "title": "Q4 Earnings Leaders: Genesco (NYSE:GCO) and Other Top Consumer Discretionary - Footwear Shares",
+            "summary": "This article analyzes the Q4 earnings performance of several leading footwear companies in the consumer discretionary sector, including Genesco (GCO), Nike (NKE), Steven Madden (SHOO), Wolverine Worldwide (WWW), and Deckers (DECK). While most companies reported strong financial results, surpassing revenue and EBITDA expectations, their stock prices have generally declined post-earnings, with the group averaging a 7.3% drop. Genesco notably achieved its sixth consecutive quarter of positive comparable sales growth, driven by its Journeys brand, while Nike's shares fell significantly despite outperforming estimates.",
+            "text_to_analyze": "Q4 Earnings Leaders: Genesco (NYSE:GCO) and Other Top Consumer Discretionary - Footwear Shares. This article analyzes the Q4 earnings performance of several leading footwear companies in the consumer discretionary sector, including Genesco (GCO), Nike (NKE), Steven Madden (SHOO), Wolverine Worldwide (WWW), and Deckers (DECK). While most companies reported strong financial results, surpassing revenue and EBITDA expectations, their stock prices have generally declined post-earnings, with the group averaging a 7.3% drop. Genesco notably achieved its sixth consecutive quarter of positive comparable sales growth, driven by its Journeys brand, while Nike's shares fell significantly despite outperforming estimates.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.732276
+        },
+        {
+            "source": "Financial Times",
+            "date": "20260317T160921",
+            "title": "DICK'S Sporting Goods and NIKE, Inc. Enlist Dave \"Lil Dicky\" Burd and Diana Taurasi to Find the Next Generation of Hoopers with \"The Scouts Are Out\" Campaign – Company Announcement - FT.com",
+            "summary": "DICK'S Sporting Goods and NIKE, Inc. have launched a new campaign called \"The Scouts are Out\" featuring Dave \"Lil Dicky\" Burd and WNBA legend Diana Taurasi. The campaign, which includes cameos from basketball stars like Jayson Tatum and Sabrina Ionescu, positions DICK'S as the premier destination for discovering and equipping future basketball talent. It highlights March as a crucial time for young hoopers to showcase their skills.",
+            "text_to_analyze": "DICK'S Sporting Goods and NIKE, Inc. Enlist Dave \"Lil Dicky\" Burd and Diana Taurasi to Find the Next Generation of Hoopers with \"The Scouts Are Out\" Campaign – Company Announcement - FT.com. DICK'S Sporting Goods and NIKE, Inc. have launched a new campaign called \"The Scouts are Out\" featuring Dave \"Lil Dicky\" Burd and WNBA legend Diana Taurasi. The campaign, which includes cameos from basketball stars like Jayson Tatum and Sabrina Ionescu, positions DICK'S as the premier destination for discovering and equipping future basketball talent. It highlights March as a crucial time for young hoopers to showcase their skills.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.929312
+        }
+    ]
+}

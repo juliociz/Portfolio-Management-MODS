@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-13",
+    "window_start": "2026-05-12 16:00",
+    "window_end": "2026-05-13 09:27",
+    "articles": [
+        {
+            "source": "The Tennessean",
+            "date": "20260512T210833",
+            "title": "Tennessee lawmakers debate $30M incentive deal with Starbucks",
+            "summary": "Tennessee is considering a $30 million FastTrack Economic Development grant for Starbucks to establish a corporate office in Nashville, creating up to 2,000 jobs. This incentive package, which would need approval from the Tennessee State Funding Board, is part of Starbucks' \"Back to Starbucks\" strategy focused on expanding its U.S. presence and improving customer experience. Nashville Mayor Freddie O'Connell is also weighing a city-level economic development deal for the company.",
+            "text_to_analyze": "Tennessee lawmakers debate $30M incentive deal with Starbucks. Tennessee is considering a $30 million FastTrack Economic Development grant for Starbucks to establish a corporate office in Nashville, creating up to 2,000 jobs. This incentive package, which would need approval from the Tennessee State Funding Board, is part of Starbucks' \"Back to Starbucks\" strategy focused on expanding its U.S. presence and improving customer experience. Nashville Mayor Freddie O'Connell is also weighing a city-level economic development deal for the company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260512T200927",
+            "title": "Manhattan office with Aetna and Starbucks gets $161M refi",
+            "summary": "Vornado Realty Trust's joint venture has refinanced its 61 Ninth Avenue property in Manhattan for $161 million. The office and retail space, fully leased to Aetna and Starbucks, received an interest-only loan that extends its maturity to March 2029. This new financing replaces a previous $155 million facility and features tiered interest rates over SOFR.",
+            "text_to_analyze": "Manhattan office with Aetna and Starbucks gets $161M refi. Vornado Realty Trust's joint venture has refinanced its 61 Ninth Avenue property in Manhattan for $161 million. The office and retail space, fully leased to Aetna and Starbucks, received an interest-only loan that extends its maturity to March 2029. This new financing replaces a previous $155 million facility and features tiered interest rates over SOFR.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.639821
+        },
+        {
+            "source": "Fox News",
+            "date": "20260512T180830",
+            "title": "Starbucks cuts jobs in Seattle as former CEO Howard Schultz blasts ‘socialist’ mayor",
+            "summary": "Starbucks is laying off 61 employees at its Seattle headquarters amidst criticism from former CEO Howard Schultz, who accused Seattle Mayor Katie Wilson of \"socialist rhetoric\" that targets businesses. Schultz, who recently moved to Florida, criticized Washington's tax system and reliance on sales taxes, arguing that the city's approach is driving businesses and entrepreneurs away. Seattle has also seen multiple Starbucks store closures and a decline in public safety, which Schultz believes are contributing factors to businesses leaving the city.",
+            "text_to_analyze": "Starbucks cuts jobs in Seattle as former CEO Howard Schultz blasts ‘socialist’ mayor. Starbucks is laying off 61 employees at its Seattle headquarters amidst criticism from former CEO Howard Schultz, who accused Seattle Mayor Katie Wilson of \"socialist rhetoric\" that targets businesses. Schultz, who recently moved to Florida, criticized Washington's tax system and reliance on sales taxes, arguing that the city's approach is driving businesses and entrepreneurs away. Seattle has also seen multiple Starbucks store closures and a decline in public safety, which Schultz believes are contributing factors to businesses leaving the city.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260512T165330",
+            "title": "Tennessee set to give Starbucks $30M for 2,000-job office expansion",
+            "summary": "Starbucks Corp. is set to receive a $30 million jobs grant from the state of Tennessee for a significant expansion of its corporate office in Nashville. The company plans to hire 2,000 corporate office workers within five years, making it one of the largest job announcements in the state's history. This grant is part of a larger incentive package for the global coffee giant's move to Nashville.",
+            "text_to_analyze": "Tennessee set to give Starbucks $30M for 2,000-job office expansion. Starbucks Corp. is set to receive a $30 million jobs grant from the state of Tennessee for a significant expansion of its corporate office in Nashville. The company plans to hire 2,000 corporate office workers within five years, making it one of the largest job announcements in the state's history. This grant is part of a larger incentive package for the global coffee giant's move to Nashville.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

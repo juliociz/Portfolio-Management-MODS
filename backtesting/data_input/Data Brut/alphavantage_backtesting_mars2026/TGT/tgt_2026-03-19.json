@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-19",
+    "window_start": "2026-03-18 16:00",
+    "window_end": "2026-03-19 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260319T073632",
+            "title": "Allworth Financial LP Sells 174,094 Shares of AT&T Inc. $T",
+            "summary": "Allworth Financial LP significantly reduced its stake in AT&T Inc. by selling 174,094 shares, now holding 1,592,002 shares valued at approximately $44.96 million. The company's recent earnings beat expectations with an EPS of $0.52 and revenue of $33.47 billion, and it provided a positive FY2026 guidance. Analysts currently rate AT&T as a \"Moderate Buy\" with a consensus price target of $30.35, despite recent stock performance showing some volatility and institutional ownership around 57.10%.",
+            "text_to_analyze": "Allworth Financial LP Sells 174,094 Shares of AT&T Inc. $T. Allworth Financial LP significantly reduced its stake in AT&T Inc. by selling 174,094 shares, now holding 1,592,002 shares valued at approximately $44.96 million. The company's recent earnings beat expectations with an EPS of $0.52 and revenue of $33.47 billion, and it provided a positive FY2026 guidance. Analysts currently rate AT&T as a \"Moderate Buy\" with a consensus price target of $30.35, despite recent stock performance showing some volatility and institutional ownership around 57.10%.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.618366
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260319T071726",
+            "title": "AIA Group Ltd Boosts Holdings in AT&T Inc. $T",
+            "summary": "AIA Group Ltd significantly increased its stake in AT&T Inc. during Q3, raising its holdings by 89.9% to 437,086 shares valued at $12.34 million. This move is part of a broader trend, with several other institutional investors also increasing their positions, bringing total institutional ownership to 57.10%. Wall Street analysts maintain a \"Moderate Buy\" consensus rating for AT&T, with an average price target of $30.35, following a recent earnings beat and positive FY2026 guidance.",
+            "text_to_analyze": "AIA Group Ltd Boosts Holdings in AT&T Inc. $T. AIA Group Ltd significantly increased its stake in AT&T Inc. during Q3, raising its holdings by 89.9% to 437,086 shares valued at $12.34 million. This move is part of a broader trend, with several other institutional investors also increasing their positions, bringing total institutional ownership to 57.10%. Wall Street analysts maintain a \"Moderate Buy\" consensus rating for AT&T, with an average price target of $30.35, following a recent earnings beat and positive FY2026 guidance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.638088
+        },
+        {
+            "source": "MSN",
+            "date": "20260318T210821",
+            "title": "Target Corp shares jump 6% to 11-month high as company lifts sales forecast after another weak quarter",
+            "summary": "Shares of Target Corp rose significantly, hitting an 11-month high, despite the company reporting another weak quarter. This jump was primarily driven by Target's increased sales forecast, signaling investor confidence in future performance despite recent challenges.",
+            "text_to_analyze": "Target Corp shares jump 6% to 11-month high as company lifts sales forecast after another weak quarter. Shares of Target Corp rose significantly, hitting an 11-month high, despite the company reporting another weak quarter. This jump was primarily driven by Target's increased sales forecast, signaling investor confidence in future performance despite recent challenges.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260318T164900",
+            "title": "Target Corp. stock outperforms competitors despite losses on the day",
+            "summary": "Target Corp. (TGT) shares dropped 1.46% to $115.05 on Wednesday, marking its third consecutive day of losses. Despite the decline, Target outperformed the broader market, as the S&P 500 Index fell 1.36% and the Dow Jones Industrial Average dropped 1.63% during the same trading session.",
+            "text_to_analyze": "Target Corp. stock outperforms competitors despite losses on the day. Target Corp. (TGT) shares dropped 1.46% to $115.05 on Wednesday, marking its third consecutive day of losses. Despite the decline, Target outperformed the broader market, as the S&P 500 Index fell 1.36% and the Dow Jones Industrial Average dropped 1.63% during the same trading session.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260318T163819",
+            "title": "Target Corp. (TGT) jumps 6.7% as firm turns to AI for growth",
+            "summary": "Target (TGT) saw its stock jump by 6.7% as the company focuses on artificial intelligence to drive growth. This move indicates a strategic shift towards leveraging technology for future expansion and improved operations.",
+            "text_to_analyze": "Target Corp. (TGT) jumps 6.7% as firm turns to AI for growth. Target (TGT) saw its stock jump by 6.7% as the company focuses on artificial intelligence to drive growth. This move indicates a strategic shift towards leveraging technology for future expansion and improved operations.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

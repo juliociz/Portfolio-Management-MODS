@@ -1,0 +1,90 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-16",
+    "window_start": "2026-03-13 16:00",
+    "window_end": "2026-03-16 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260316T083628",
+            "title": "Banco Bilbao Vizcaya Argentaria S.A. Has $9.72 Million Position in Starbucks Corporation $SBUX",
+            "summary": "Banco Bilbao Vizcaya Argentaria S.A. increased its holdings in Starbucks Corporation by 37.7% in the third quarter, bringing its total position to $9.72 million. Other institutional investors also adjusted their stakes, with Vanguard Group Inc. holding the largest share at $9.6 billion. The article also notes recent insider selling by executives, ongoing labor disputes, and differing analyst opinions on SBUX's future performance.",
+            "text_to_analyze": "Banco Bilbao Vizcaya Argentaria S.A. Has $9.72 Million Position in Starbucks Corporation $SBUX. Banco Bilbao Vizcaya Argentaria S.A. increased its holdings in Starbucks Corporation by 37.7% in the third quarter, bringing its total position to $9.72 million. Other institutional investors also adjusted their stakes, with Vanguard Group Inc. holding the largest share at $9.6 billion. The article also notes recent insider selling by executives, ongoing labor disputes, and differing analyst opinions on SBUX's future performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.964014
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260316T074204",
+            "title": "Ameriprise Financial Inc. Acquires 2,277,792 Shares of Starbucks Corporation $SBUX",
+            "summary": "Ameriprise Financial Inc. significantly increased its stake in Starbucks Corporation ($SBUX) during the third quarter, acquiring an additional 2,277,792 shares and bringing their total holdings to over 5.1 million shares valued at $433.9 million. This move comes as institutional ownership in Starbucks remains high, despite recent mixed analyst ratings and concerns over labor disputes. The article also highlights recent insider stock sales by Starbucks executives and outlines the company's latest earnings and stock performance.",
+            "text_to_analyze": "Ameriprise Financial Inc. Acquires 2,277,792 Shares of Starbucks Corporation $SBUX. Ameriprise Financial Inc. significantly increased its stake in Starbucks Corporation ($SBUX) during the third quarter, acquiring an additional 2,277,792 shares and bringing their total holdings to over 5.1 million shares valued at $433.9 million. This move comes as institutional ownership in Starbucks remains high, despite recent mixed analyst ratings and concerns over labor disputes. The article also highlights recent insider stock sales by Starbucks executives and outlines the company's latest earnings and stock performance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260315T185107",
+            "title": "Guggenheim Maintains Neutral Rating on Starbucks Corporation (SBUX) Despite Updated Projections",
+            "summary": "Guggenheim has reiterated its Neutral rating on Starbucks Corporation (SBUX), while increasing its price target from $90 to $95. Despite lowering EPS projections for FY26-FY28, the firm raised its fiscal Q2 U.S. same-store sales growth outlook to 4.8%. This update follows Starbucks' Q1 FY26 results, which showed a 4% increase in global comparable store sales and consolidated net revenue growth of 6% to $9.9 billion.",
+            "text_to_analyze": "Guggenheim Maintains Neutral Rating on Starbucks Corporation (SBUX) Despite Updated Projections. Guggenheim has reiterated its Neutral rating on Starbucks Corporation (SBUX), while increasing its price target from $90 to $95. Despite lowering EPS projections for FY26-FY28, the firm raised its fiscal Q2 U.S. same-store sales growth outlook to 4.8%. This update follows Starbucks' Q1 FY26 results, which showed a 4% increase in global comparable store sales and consolidated net revenue growth of 6% to $9.9 billion.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260315T095059",
+            "title": "Chilton Investment Co. Inc. Trims Stake in Starbucks Corporation $SBUX",
+            "summary": "Chilton Investment Co. Inc. reduced its stake in Starbucks Corporation by 33.4% in the third quarter, holding 112,101 shares valued at $9.48 million. Other institutional investors also adjusted their positions, and insiders like CEO Brady Brewer and EVP Sara Kelly sold shares. The article also covers various positive, neutral, and negative news impacting Starbucks, including turnaround momentum, labor disputes, and analyst ratings.",
+            "text_to_analyze": "Chilton Investment Co. Inc. Trims Stake in Starbucks Corporation $SBUX. Chilton Investment Co. Inc. reduced its stake in Starbucks Corporation by 33.4% in the third quarter, holding 112,101 shares valued at $9.48 million. Other institutional investors also adjusted their positions, and insiders like CEO Brady Brewer and EVP Sara Kelly sold shares. The article also covers various positive, neutral, and negative news impacting Starbucks, including turnaround momentum, labor disputes, and analyst ratings.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260314T183902",
+            "title": "Barclays (ATMP) $3.625M autocallable notes pay 15.40% coupon",
+            "summary": "Barclays PLC is offering $3.625 million in Trigger Autocallable Contingent Yield Notes due March 15, 2029, linked to the performance of NIKE Inc. (NKE), Starbucks Corporation (SBUX), and Constellation Brands Inc. (STZ). These notes offer a quarterly contingent coupon of 15.40% per annum if each underlying meets its coupon barrier and can be autocalled early if all underlyings reach or exceed their trade-date closing prices. Investors face potential for partial or total loss of principal at maturity if the least performing underlying falls below a 60% downside threshold, and the notes are subject to Barclays' credit risk and U.K. bail-in powers.",
+            "text_to_analyze": "Barclays (ATMP) $3.625M autocallable notes pay 15.40% coupon. Barclays PLC is offering $3.625 million in Trigger Autocallable Contingent Yield Notes due March 15, 2029, linked to the performance of NIKE Inc. (NKE), Starbucks Corporation (SBUX), and Constellation Brands Inc. (STZ). These notes offer a quarterly contingent coupon of 15.40% per annum if each underlying meets its coupon barrier and can be autocalled early if all underlyings reach or exceed their trade-date closing prices. Investors face potential for partial or total loss of principal at maturity if the least performing underlying falls below a 60% downside threshold, and the notes are subject to Barclays' credit risk and U.K. bail-in powers.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.939628
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260314T015937",
+            "title": "Pumpkin Spice Latte 2026: Why Starbucks' icon stays unstoppable",
+            "summary": "The article discusses the enduring cultural and commercial dominance of Starbucks' Pumpkin Spice Latte (PSL) in 2026. It highlights the drink's strategic importance as a revenue driver, its status as a seasonal icon creating scarcity-driven demand, and its ability to maintain relevance through consistency, subtle variations, and robust supply chains. The PSL's success is attributed to its emotional resonance with consumers and its role in increasing Starbucks' stock value through boosted sales and customer loyalty.",
+            "text_to_analyze": "Pumpkin Spice Latte 2026: Why Starbucks' icon stays unstoppable. The article discusses the enduring cultural and commercial dominance of Starbucks' Pumpkin Spice Latte (PSL) in 2026. It highlights the drink's strategic importance as a revenue driver, its status as a seasonal icon creating scarcity-driven demand, and its ability to maintain relevance through consistency, subtle variations, and robust supply chains. The PSL's success is attributed to its emotional resonance with consumers and its role in increasing Starbucks' stock value through boosted sales and customer loyalty.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260313T214944",
+            "title": "Franklin Resources Inc. Grows Stock Position in Starbucks Corporation $SBUX",
+            "summary": "Franklin Resources Inc. increased its stake in Starbucks Corporation by 6.8% in the third quarter, bringing its total holdings to over 3.3 million shares valued at approximately $284.4 million. This increased institutional interest comes alongside recent insider selling by Starbucks executives, with CEO Brady Brewer and EVP Sara Kelly disposing of shares worth over $460,000 in the last 90 days. Starbucks recently missed EPS estimates but beat revenue forecasts, setting its FY2026 EPS guidance between $2.15 and $2.40, and currently trades at a high valuation.",
+            "text_to_analyze": "Franklin Resources Inc. Grows Stock Position in Starbucks Corporation $SBUX. Franklin Resources Inc. increased its stake in Starbucks Corporation by 6.8% in the third quarter, bringing its total holdings to over 3.3 million shares valued at approximately $284.4 million. This increased institutional interest comes alongside recent insider selling by Starbucks executives, with CEO Brady Brewer and EVP Sara Kelly disposing of shares worth over $460,000 in the last 90 days. Starbucks recently missed EPS estimates but beat revenue forecasts, setting its FY2026 EPS guidance between $2.15 and $2.40, and currently trades at a high valuation.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.910617
+        },
+        {
+            "source": "CNBC",
+            "date": "20260313T162852",
+            "title": "Starbucks union sent the company a proposed contract. Here's what baristas want",
+            "summary": "Starbucks Workers United has sent a comprehensive contract proposal to the coffee company, seeking 4% annual raises, broader workplace protections, and a $17 per hour starting wage. The union and Starbucks have faced stalled negotiations, with the company now proposing to resume in-person bargaining as early as March 30. This development comes amidst ongoing labor disputes, including strikes and investor scrutiny over Starbucks' labor relations.",
+            "text_to_analyze": "Starbucks union sent the company a proposed contract. Here's what baristas want. Starbucks Workers United has sent a comprehensive contract proposal to the coffee company, seeking 4% annual raises, broader workplace protections, and a $17 per hour starting wage. The union and Starbucks have faced stalled negotiations, with the company now proposing to resume in-person bargaining as early as March 30. This development comes amidst ongoing labor disputes, including strikes and investor scrutiny over Starbucks' labor relations.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The State Times",
+            "date": "20260313T160252",
+            "title": "Starbucks’ Spring Menu",
+            "summary": "Starbucks has introduced its spring menu, bringing back favorites like lavender and adding new flavors such as ube and coconut. The new offerings include the Iced Ube Coconut Macchiato, Toasted Coconut Cream Cold Brew, and various lavender-infused drinks. Starbucks is also adjusting its matcha and chai powders for more customization and plans to release additional drinks, including Energy Refreshers and an Iced Ube Coconut Cream Shaken Espresso, later in the season.",
+            "text_to_analyze": "Starbucks’ Spring Menu. Starbucks has introduced its spring menu, bringing back favorites like lavender and adding new flavors such as ube and coconut. The new offerings include the Iced Ube Coconut Macchiato, Toasted Coconut Cream Cold Brew, and various lavender-infused drinks. Starbucks is also adjusting its matcha and chai powders for more customization and plans to release additional drinks, including Energy Refreshers and an Iced Ube Coconut Cream Shaken Espresso, later in the season.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

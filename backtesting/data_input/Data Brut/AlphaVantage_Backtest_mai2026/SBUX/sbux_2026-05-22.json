@@ -1,0 +1,54 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-05-22",
+    "window_start": "2026-05-21 16:00",
+    "window_end": "2026-05-22 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260522T090239",
+            "title": "Starbucks Corporation $SBUX Shares Sold by Diamond Hill Capital Management Inc.",
+            "summary": "Diamond Hill Capital Management Inc. reduced its stake in Starbucks (NASDAQ:SBUX) by 7.6% in the fourth quarter, selling 227,000 shares, though still holding 2.77 million shares valued at approximately $233.4 million. The coffee giant is navigating mixed developments, including upcoming investor events and a debt profile refinement, alongside job cuts, restructuring charges, and concerns over sustainability and China revenue reporting. Despite these challenges, Starbucks recently surpassed quarterly earnings expectations and maintains a consensus \"Moderate Buy\" rating from analysts with an average price target of $107.48.",
+            "text_to_analyze": "Starbucks Corporation $SBUX Shares Sold by Diamond Hill Capital Management Inc.. Diamond Hill Capital Management Inc. reduced its stake in Starbucks (NASDAQ:SBUX) by 7.6% in the fourth quarter, selling 227,000 shares, though still holding 2.77 million shares valued at approximately $233.4 million. The coffee giant is navigating mixed developments, including upcoming investor events and a debt profile refinement, alongside job cuts, restructuring charges, and concerns over sustainability and China revenue reporting. Despite these challenges, Starbucks recently surpassed quarterly earnings expectations and maintains a consensus \"Moderate Buy\" rating from analysts with an average price target of $107.48.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "CSP Daily News",
+            "date": "20260521T201444",
+            "title": "Global Partners hires Starbucks veteran as vice president of retail operations",
+            "summary": "Global Partners has appointed Emily Filc, a Starbucks veteran with 22 years of experience, as its new vice president of retail operations. Filc will oversee various convenience store brands including Alltown Fresh, Honey Farms, and XtraMart. Her extensive background includes elevating operating performance and building people-first cultures at Starbucks, and she is expected to bring her leadership philosophy to Global Partners' evolving retail network.",
+            "text_to_analyze": "Global Partners hires Starbucks veteran as vice president of retail operations. Global Partners has appointed Emily Filc, a Starbucks veteran with 22 years of experience, as its new vice president of retail operations. Filc will oversee various convenience store brands including Alltown Fresh, Honey Farms, and XtraMart. Her extensive background includes elevating operating performance and building people-first cultures at Starbucks, and she is expected to bring her leadership philosophy to Global Partners' evolving retail network.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.846931
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260521T200901",
+            "title": "Starbucks Corp. stock underperforms Thursday when compared to competitors",
+            "summary": "Starbucks Corp. (SBUX) stock declined by 2.23% on Thursday, closing at $104.13, despite an overall positive trading day for the stock market. The S&P 500 Index and Dow Jones Industrial Average both saw gains. Starbucks' stock ended 4.36% below its 52-week high of $108.88.",
+            "text_to_analyze": "Starbucks Corp. stock underperforms Thursday when compared to competitors. Starbucks Corp. (SBUX) stock declined by 2.23% on Thursday, closing at $104.13, despite an overall positive trading day for the stock market. The S&P 500 Index and Dow Jones Industrial Average both saw gains. Starbucks' stock ended 4.36% below its 52-week high of $108.88.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Globe and Mail",
+            "date": "20260521T195426",
+            "title": "Starbucks scraps AI tool for automating inventory at North American stores",
+            "summary": "Starbucks has terminated an AI tool used for automating inventory counts in its North American stores after nine months, citing frequent miscounts and mislabeling issues. This decision reverses part of CEO Brian Niccol's strategy to address persistent product shortages and improve supply chain efficiency. While the company stated the program's termination aims to standardize inventory counting and allow for more frequent daily replenishments, employees had previously reported difficulties with its accuracy.",
+            "text_to_analyze": "Starbucks scraps AI tool for automating inventory at North American stores. Starbucks has terminated an AI tool used for automating inventory counts in its North American stores after nine months, citing frequent miscounts and mislabeling issues. This decision reverses part of CEO Brian Niccol's strategy to address persistent product shortages and improve supply chain efficiency. While the company stated the program's termination aims to standardize inventory counting and allow for more frequent daily replenishments, employees had previously reported difficulties with its accuracy.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Tennessean",
+            "date": "20260521T181025",
+            "title": "TN State Funding Board approves $30 million incentive for Starbucks",
+            "summary": "The Tennessee State Funding Board has approved a $30 million incentive for Starbucks to relocate its Southeast corporate office to Nashville. This grant, totaling 30% of Starbucks' $100 million self-reported investment, is the highest FastTrak grant relative to investment the TNECD has ever paid. The decision faced objections from the Starbucks Workers United union and the conservative advocacy group Americans for Prosperity.",
+            "text_to_analyze": "TN State Funding Board approves $30 million incentive for Starbucks. The Tennessee State Funding Board has approved a $30 million incentive for Starbucks to relocate its Southeast corporate office to Nashville. This grant, totaling 30% of Starbucks' $100 million self-reported investment, is the highest FastTrak grant relative to investment the TNECD has ever paid. The decision faced objections from the Starbucks Workers United union and the conservative advocacy group Americans for Prosperity.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

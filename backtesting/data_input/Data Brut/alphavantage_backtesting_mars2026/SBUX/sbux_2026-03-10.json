@@ -1,0 +1,8 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-10",
+    "window_start": "2026-03-09 16:00",
+    "window_end": "2026-03-10 09:27",
+    "articles": []
+}

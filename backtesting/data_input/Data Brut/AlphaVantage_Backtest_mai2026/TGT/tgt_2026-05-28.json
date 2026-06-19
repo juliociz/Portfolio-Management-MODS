@@ -1,0 +1,54 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-28",
+    "window_start": "2026-05-27 16:00",
+    "window_end": "2026-05-28 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260528T082744",
+            "title": "Geode Capital Management LLC Increases Holdings in The TJX Companies, Inc. $TJX",
+            "summary": "Geode Capital Management LLC has increased its stake in The TJX Companies, Inc. (NYSE:TJX) by 2.6%, adding 673,690 shares to hold a total of 27.0 million shares worth approximately $4.13 billion. This increase follows TJX's strong quarterly performance, where EPS of $1.19 and revenue of $14.32 billion both exceeded estimates, with sales growing 9.2% year-over-year. The company also raised its quarterly dividend to $0.48 per share, and analysts maintain a \"Buy\" rating with an average target price of $174.58.",
+            "text_to_analyze": "Geode Capital Management LLC Increases Holdings in The TJX Companies, Inc. $TJX. Geode Capital Management LLC has increased its stake in The TJX Companies, Inc. (NYSE:TJX) by 2.6%, adding 673,690 shares to hold a total of 27.0 million shares worth approximately $4.13 billion. This increase follows TJX's strong quarterly performance, where EPS of $1.19 and revenue of $14.32 billion both exceeded estimates, with sales growing 9.2% year-over-year. The company also raised its quarterly dividend to $0.48 per share, and analysts maintain a \"Buy\" rating with an average target price of $174.58.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.621505
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260528T070644",
+            "title": "Allstate Corp Purchases 17,607 Shares of Target Corporation $TGT",
+            "summary": "Allstate Corp increased its stake in Target Corporation (TGT) by 105.7% in the fourth quarter, acquiring an additional 17,607 shares, bringing their total to 34,263 shares valued at $3.349 million. Other institutional investors also adjusted their positions in Target, while a company insider, CAO Matthew A. Liegel, sold 2,053 shares. Target recently reported strong Q1 earnings, topping analyst estimates, and announced a quarterly dividend of $1.14 per share.",
+            "text_to_analyze": "Allstate Corp Purchases 17,607 Shares of Target Corporation $TGT. Allstate Corp increased its stake in Target Corporation (TGT) by 105.7% in the fourth quarter, acquiring an additional 17,607 shares, bringing their total to 34,263 shares valued at $3.349 million. Other institutional investors also adjusted their positions in Target, while a company insider, CAO Matthew A. Liegel, sold 2,053 shares. Target recently reported strong Q1 earnings, topping analyst estimates, and announced a quarterly dividend of $1.14 per share.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.924419
+        },
+        {
+            "source": "Kalkine Media",
+            "date": "20260527T230727",
+            "title": "Big-Box Retailers Defying the Cautious Consumer Backdrop",
+            "summary": "Big-box mass-market retailers are successfully navigating a cautious consumer environment due to their value positioning and operational scale. The article highlights three US-listed mass-market retail companies and includes details about Walmart's advertising business, Dollar General's focus on rural consumers, and Target's status as a dividend aristocrat. The content requires logging in to read the full analysis.",
+            "text_to_analyze": "Big-Box Retailers Defying the Cautious Consumer Backdrop. Big-box mass-market retailers are successfully navigating a cautious consumer environment due to their value positioning and operational scale. The article highlights three US-listed mass-market retail companies and includes details about Walmart's advertising business, Dollar General's focus on rural consumers, and Target's status as a dividend aristocrat. The content requires logging in to read the full analysis.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.737069
+        },
+        {
+            "source": "Benzinga",
+            "date": "20260527T203720",
+            "title": "Costco Q3 Preview: Stock Could Hit $1,200 Or Fall To $960, Market Expert Says 'Prudent To Wait This One Out'",
+            "summary": "Costco is expected to report Q3 revenue of $69.42 billion and EPS of $4.92, with an Oppenheimer analyst raising the price target to $1,160 due to strong value proposition and potential for a special dividend or stock split. However, a market expert advises caution given the stock's technical levels, suggesting it could hit $1,200 on an optimistic report or fall to $960 on a weak one. Strong performance from peers BJ's Wholesale and Sam's Club, along with increased visitor traffic to Costco gas stations due to higher gas prices, indicate a potentially strong quarter for Costco.",
+            "text_to_analyze": "Costco Q3 Preview: Stock Could Hit $1,200 Or Fall To $960, Market Expert Says 'Prudent To Wait This One Out'. Costco is expected to report Q3 revenue of $69.42 billion and EPS of $4.92, with an Oppenheimer analyst raising the price target to $1,160 due to strong value proposition and potential for a special dividend or stock split. However, a market expert advises caution given the stock's technical levels, suggesting it could hit $1,200 on an optimistic report or fall to $960 on a weak one. Strong performance from peers BJ's Wholesale and Sam's Club, along with increased visitor traffic to Costco gas stations due to higher gas prices, indicate a potentially strong quarter for Costco.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.590487
+        },
+        {
+            "source": "Supermarket News",
+            "date": "20260527T183839",
+            "title": "Target’s focus is on the supply chain",
+            "summary": "Target has brought in former Walmart executive Jeff England as its new executive vice president and chief global supply chain and logistics officer, signaling a significant shift in its approach to tackling long-standing supply chain challenges. This move is part of Target's broader turnaround strategy, which includes a $6 billion capital expenditure with a focus on improving supply chain capabilities and store operations. The company aims to leverage England's operational expertise from Walmart to enhance key areas like fulfillment, inventory visibility, and profitability.",
+            "text_to_analyze": "Target’s focus is on the supply chain. Target has brought in former Walmart executive Jeff England as its new executive vice president and chief global supply chain and logistics officer, signaling a significant shift in its approach to tackling long-standing supply chain challenges. This move is part of Target's broader turnaround strategy, which includes a $6 billion capital expenditure with a focus on improving supply chain capabilities and store operations. The company aims to leverage England's operational expertise from Walmart to enhance key areas like fulfillment, inventory visibility, and profitability.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.991699
+        }
+    ]
+}

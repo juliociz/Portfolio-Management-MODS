@@ -1,0 +1,81 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-03-05",
+    "window_start": "2026-03-04 16:00",
+    "window_end": "2026-03-05 09:27",
+    "articles": [
+        {
+            "source": "Yahoo News Singapore",
+            "date": "20260305T011900",
+            "title": "Billionaire Tesla whale says he bought 1 million Nvidia shares",
+            "summary": "Billionaire Leo KoGuan, a major individual shareholder of Tesla, announced he purchased 1 million shares of Nvidia, with plans to buy another million, expressing strong belief in the AI market. Despite increasing skepticism about Elon Musk and Tesla's decisions, KoGuan stated he remains heavily invested in Tesla and treasury bills, viewing Tesla as a leading embodied AI company. KoGuan, who made his fortune from SHI International Corp., began investing in Tesla in 2019.",
+            "text_to_analyze": "Billionaire Tesla whale says he bought 1 million Nvidia shares. Billionaire Leo KoGuan, a major individual shareholder of Tesla, announced he purchased 1 million shares of Nvidia, with plans to buy another million, expressing strong belief in the AI market. Despite increasing skepticism about Elon Musk and Tesla's decisions, KoGuan stated he remains heavily invested in Tesla and treasury bills, viewing Tesla as a leading embodied AI company. KoGuan, who made his fortune from SHI International Corp., began investing in Tesla in 2019.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "富途牛牛",
+            "date": "20260304T235234",
+            "title": "U.S. Stock ETF Tracker | Cryptocurrency Market Stages a Full Recovery! Bitcoin Reclaims $73,000, Ethereum Surpasses $2,150, 2x Long COIN, 2x Long IREN, and 2x Long MSTR All Surge Over 20%.",
+            "summary": "The cryptocurrency market has staged a full recovery with Bitcoin surpassing $73,000 and Ethereum exceeding $2,150. This rebound led to significant surges in related U.S. stock ETFs, with 2x Long COIN, 2x Long IREN, and 2x Long MSTR all climbing over 20%. The broader U.S. stock indices also closed higher, with technology giants like Intel, Amazon, and Tesla showing strong gains.",
+            "text_to_analyze": "U.S. Stock ETF Tracker | Cryptocurrency Market Stages a Full Recovery! Bitcoin Reclaims $73,000, Ethereum Surpasses $2,150, 2x Long COIN, 2x Long IREN, and 2x Long MSTR All Surge Over 20%.. The cryptocurrency market has staged a full recovery with Bitcoin surpassing $73,000 and Ethereum exceeding $2,150. This rebound led to significant surges in related U.S. stock ETFs, with 2x Long COIN, 2x Long IREN, and 2x Long MSTR all climbing over 20%. The broader U.S. stock indices also closed higher, with technology giants like Intel, Amazon, and Tesla showing strong gains.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.62057
+        },
+        {
+            "source": "Bitget",
+            "date": "20260304T225222",
+            "title": "Is Investing in the First Trust NASDAQ Transportation ETF (FTXR) a Good Choice?",
+            "summary": "The article provides an overview of the First Trust NASDAQ Transportation ETF (FTXR), highlighting it as a passively managed fund tracking the U.S. transportation and shipping sector. It details FTXR's key index information, expense ratio, sector allocation, leading holdings like General Motors and Tesla, and its performance metrics. The article also mentions alternative ETFs and concludes with a recommendation for investors to use screening tools and industry articles for informed decisions.",
+            "text_to_analyze": "Is Investing in the First Trust NASDAQ Transportation ETF (FTXR) a Good Choice?. The article provides an overview of the First Trust NASDAQ Transportation ETF (FTXR), highlighting it as a passively managed fund tracking the U.S. transportation and shipping sector. It details FTXR's key index information, expense ratio, sector allocation, leading holdings like General Motors and Tesla, and its performance metrics. The article also mentions alternative ETFs and concludes with a recommendation for investors to use screening tools and industry articles for informed decisions.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.709586
+        },
+        {
+            "source": "The Atlantic",
+            "date": "20260304T210505",
+            "title": "Tesla’s Secret Weapon Is a Giant Metal Box",
+            "summary": "While Elon Musk focuses Tesla's future on Cybercabs and humanoid robots, the company's energy division, particularly the Megapack battery, is quietly becoming its most significant asset. Amid declining car sales and unproven robot technologies, the Megapack is poised to power the growing AI data center industry and provide Tesla with crucial cash flow, making Musk a potential \"energy baron\" in the AI arms race. This shift highlights how Tesla's less glamorous, yet highly effective, battery technology is driving its near-term success and strategic importance.",
+            "text_to_analyze": "Tesla’s Secret Weapon Is a Giant Metal Box. While Elon Musk focuses Tesla's future on Cybercabs and humanoid robots, the company's energy division, particularly the Megapack battery, is quietly becoming its most significant asset. Amid declining car sales and unproven robot technologies, the Megapack is poised to power the growing AI data center industry and provide Tesla with crucial cash flow, making Musk a potential \"energy baron\" in the AI arms race. This shift highlights how Tesla's less glamorous, yet highly effective, battery technology is driving its near-term success and strategic importance.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Austin American-Statesman",
+            "date": "20260304T192611",
+            "title": "Tesla boosted Elon Musk's wealth and U.S. inequality, analysis argues",
+            "summary": "Oxfam analysis claims Tesla's pay structure, tax practices, and political influence have contributed to Elon Musk's wealth and increased U.S. inequality. The report highlights Musk's vastly higher pay compared to employees, the company's use of tax havens, and alleged lack of corporate oversight. Oxfam advocates for increased corporate transparency and reforms to address such wealth disparities.",
+            "text_to_analyze": "Tesla boosted Elon Musk's wealth and U.S. inequality, analysis argues. Oxfam analysis claims Tesla's pay structure, tax practices, and political influence have contributed to Elon Musk's wealth and increased U.S. inequality. The report highlights Musk's vastly higher pay compared to employees, the company's use of tax havens, and alleged lack of corporate oversight. Oxfam advocates for increased corporate transparency and reforms to address such wealth disparities.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260304T185111",
+            "title": "‘Magnificent Seven’ stocks mostly climb, with big gains for Amazon and Tesla",
+            "summary": "The \"Magnificent Seven\" big tech stocks mostly rose on Wednesday afternoon, with Amazon and Tesla leading the gains. The Roundhill Magnificent Seven ETF saw a 1.7% increase, propelled by Amazon's 3.3% rise and Tesla's nearly 3% jump. Other stocks in the ETF, except for Alphabet and Apple which traded flat, also posted sharp gains.",
+            "text_to_analyze": "‘Magnificent Seven’ stocks mostly climb, with big gains for Amazon and Tesla. The \"Magnificent Seven\" big tech stocks mostly rose on Wednesday afternoon, with Amazon and Tesla leading the gains. The Roundhill Magnificent Seven ETF saw a 1.7% increase, propelled by Amazon's 3.3% rise and Tesla's nearly 3% jump. Other stocks in the ETF, except for Alphabet and Apple which traded flat, also posted sharp gains.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.312121
+        },
+        {
+            "source": "MarketWatch",
+            "date": "20260304T185103",
+            "title": "|‘Magnificent Seven’ stocks mostly climb, with big gains for Amazon and Tesla",
+            "summary": "|The \"Magnificent Seven\" tech stocks mostly saw gains on Wednesday, with Amazon and Tesla leading the way with significant climbs. The Roundhill Magnificent Seven ETF, which holds these stocks, was up 1.7%. This performance contributed to a broader market recovery with the Dow, S&P 500, and Nasdaq all bouncing back.",
+            "text_to_analyze": "|‘Magnificent Seven’ stocks mostly climb, with big gains for Amazon and Tesla. |The \"Magnificent Seven\" tech stocks mostly saw gains on Wednesday, with Amazon and Tesla leading the way with significant climbs. The Roundhill Magnificent Seven ETF, which holds these stocks, was up 1.7%. This performance contributed to a broader market recovery with the Dow, S&P 500, and Nasdaq all bouncing back.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.903014
+        },
+        {
+            "source": "Reuters",
+            "date": "20260304T175400",
+            "title": "Tesla's UK sales plummet in February but outpace BYD, New Automotive data shows",
+            "summary": "Tesla's UK sales dropped by 45.2% in February 2026, selling 2,208 vehicles, yet still managed to outsell Chinese rival BYD, which saw a 40.9% increase to 968 units. The decline in Tesla's sales points to broader challenges in Europe and intensifying competition from Chinese brands. Overall UK car registrations across all fuel types increased by 3.6% in the same month.",
+            "text_to_analyze": "Tesla's UK sales plummet in February but outpace BYD, New Automotive data shows. Tesla's UK sales dropped by 45.2% in February 2026, selling 2,208 vehicles, yet still managed to outsell Chinese rival BYD, which saw a 40.9% increase to 968 units. The decline in Tesla's sales points to broader challenges in Europe and intensifying competition from Chinese brands. Overall UK car registrations across all fuel types increased by 3.6% in the same month.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-18",
+    "window_start": "2026-03-17 16:00",
+    "window_end": "2026-03-18 09:27",
+    "articles": [
+        {
+            "source": "www.disneydining.com",
+            "date": "20260317T223621",
+            "title": "Disney To Pay $50 Million To Streaming Subscribers Following Lawsuit",
+            "summary": "The Walt Disney Company has agreed to a $50 million settlement in a class-action lawsuit from 2023. The lawsuit, filed by YouTube TV and DirecTV Stream subscribers, alleged that Disney artificially inflated streaming service costs by requiring the inclusion of ESPN in packages. Along with the monetary settlement, Disney will consider subscription packages with fewer Disney-owned networks and potentially without ESPN, though the company does not admit wrongdoing.",
+            "text_to_analyze": "Disney To Pay $50 Million To Streaming Subscribers Following Lawsuit. The Walt Disney Company has agreed to a $50 million settlement in a class-action lawsuit from 2023. The lawsuit, filed by YouTube TV and DirecTV Stream subscribers, alleged that Disney artificially inflated streaming service costs by requiring the inclusion of ESPN in packages. Along with the monetary settlement, Disney will consider subscription packages with fewer Disney-owned networks and potentially without ESPN, though the company does not admit wrongdoing.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260317T210022",
+            "title": "Bob Iger on Leadership, Disney, and the Courage to Imagine More",
+            "summary": "This article reflects on Bob Iger's nearly two-decade tenure as CEO of The Walt Disney Company, highlighting his leadership philosophy. It culls insights from his own words on leading with purpose, respecting people, fostering creativity and innovation, and honoring Disney's legacy while building its future. Iger's approach has been defined by a belief in creativity, innovation, and thoughtful risk-taking as essential for the company's evolution and continued success.",
+            "text_to_analyze": "Bob Iger on Leadership, Disney, and the Courage to Imagine More. This article reflects on Bob Iger's nearly two-decade tenure as CEO of The Walt Disney Company, highlighting his leadership philosophy. It culls insights from his own words on leading with purpose, respecting people, fostering creativity and innovation, and honoring Disney's legacy while building its future. Iger's approach has been defined by a belief in creativity, innovation, and thoughtful risk-taking as essential for the company's evolution and continued success.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260317T170719",
+            "title": "'Life Drawings' and 'Maddie & the Test' on Disney+: Inside the Making of Two Short Circuit Experimental Films from Disney Animation",
+            "summary": "This article delves into the making of two new Short Circuit experimental films from Walt Disney Animation Studios, \"Life Drawings\" and \"Maddie & the Test,\" which showcase innovative storytelling and technical approaches. Directors Larry Wu and Heather M. Roberts Russell discuss the personal inspirations and creative processes behind their projects. Both films combine traditional hand-drawn animation with CG elements, with \"Life Drawings\" exploring intergenerational artistic aspirations and \"Maddie & the Test\" focusing on a child's experience with dyslexia.",
+            "text_to_analyze": "'Life Drawings' and 'Maddie & the Test' on Disney+: Inside the Making of Two Short Circuit Experimental Films from Disney Animation. This article delves into the making of two new Short Circuit experimental films from Walt Disney Animation Studios, \"Life Drawings\" and \"Maddie & the Test,\" which showcase innovative storytelling and technical approaches. Directors Larry Wu and Heather M. Roberts Russell discuss the personal inspirations and creative processes behind their projects. Both films combine traditional hand-drawn animation with CG elements, with \"Life Drawings\" exploring intergenerational artistic aspirations and \"Maddie & the Test\" focusing on a child's experience with dyslexia.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

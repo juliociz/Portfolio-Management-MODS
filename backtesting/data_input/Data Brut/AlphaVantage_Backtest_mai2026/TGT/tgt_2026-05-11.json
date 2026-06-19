@@ -1,0 +1,117 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-11",
+    "window_start": "2026-05-08 16:00",
+    "window_end": "2026-05-11 09:27",
+    "articles": [
+        {
+            "source": "GlobeNewswire",
+            "date": "20260510T221249",
+            "title": "Mama’s Creations Invited to Attend Upcoming Investor Conferences",
+            "summary": "Mama's Creations, Inc. announced that its management will attend four investor conferences in Spring 2026, including the BMO Farm to Market Conference and the William Blair Annual Growth Conference. Chairman and CEO Adam L. Michaels will host one-on-one meetings to update investors on the company's progress, including the integration of Crown 1 and new distribution placements at Walmart and Target. The company aims to become a $1 billion deli prepared foods provider.",
+            "text_to_analyze": "Mama’s Creations Invited to Attend Upcoming Investor Conferences. Mama's Creations, Inc. announced that its management will attend four investor conferences in Spring 2026, including the BMO Farm to Market Conference and the William Blair Annual Growth Conference. Chairman and CEO Adam L. Michaels will host one-on-one meetings to update investors on the company's progress, including the integration of Crown 1 and new distribution placements at Walmart and Target. The company aims to become a $1 billion deli prepared foods provider.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.556868
+        },
+        {
+            "source": "Simply Wall Street",
+            "date": "20260510T213833",
+            "title": "Target (NYSE:TGT) Stock Forecast & Analyst Predictions",
+            "summary": "This article provides an in-depth financial analysis and forecast for Target Corporation (NYSE:TGT), detailing its future growth predictions, recent earnings reports, and analyst sentiments. It also covers major company announcements, including new product collections and executive changes, while highlighting market risks and dividend information.",
+            "text_to_analyze": "Target (NYSE:TGT) Stock Forecast & Analyst Predictions. This article provides an in-depth financial analysis and forecast for Target Corporation (NYSE:TGT), detailing its future growth predictions, recent earnings reports, and analyst sentiments. It also covers major company announcements, including new product collections and executive changes, while highlighting market risks and dividend information.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260510T124040",
+            "title": "Walmart Supercenter: What You Need to Know About the Big-Box Giant in 2026",
+            "summary": "This article provides an in-depth look at Walmart Supercenters in 2026, detailing their continued relevance, target demographics, strengths, and limitations. It highlights Walmart's adaptation to e-commerce and its position in the competitive retail landscape, along with considerations for investors.",
+            "text_to_analyze": "Walmart Supercenter: What You Need to Know About the Big-Box Giant in 2026. This article provides an in-depth look at Walmart Supercenters in 2026, detailing their continued relevance, target demographics, strengths, and limitations. It highlights Walmart's adaptation to e-commerce and its position in the competitive retail landscape, along with considerations for investors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.592462
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260510T090815",
+            "title": "Regency Centers Corporation $REG Stake Raised by Mitsubishi UFJ Asset Management Co. Ltd.",
+            "summary": "Mitsubishi UFJ Asset Management Co. Ltd. increased its holdings in Regency Centers Corporation by 7.5% in the fourth quarter, now owning 486,246 shares valued at approximately $33.0 million. Despite this positive institutional activity and a \"Moderate Buy\" consensus from analysts with an average price target of $81, the company has seen recent insider selling. Regency Centers also declared a quarterly dividend of $0.755 per share, resulting in roughly a 3.9% annualized yield.",
+            "text_to_analyze": "Regency Centers Corporation $REG Stake Raised by Mitsubishi UFJ Asset Management Co. Ltd.. Mitsubishi UFJ Asset Management Co. Ltd. increased its holdings in Regency Centers Corporation by 7.5% in the fourth quarter, now owning 486,246 shares valued at approximately $33.0 million. Despite this positive institutional activity and a \"Moderate Buy\" consensus from analysts with an average price target of $81, the company has seen recent insider selling. Regency Centers also declared a quarterly dividend of $0.755 per share, resulting in roughly a 3.9% annualized yield.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.625522
+        },
+        {
+            "source": "Stocktwits",
+            "date": "20260509T193826",
+            "title": "Target Corp (TGT) News, Articles, Events & Latest Updates",
+            "summary": "This page provides a comprehensive overview of recent news and financial data for Target Corp (TGT). It highlights options trading activity, competitive analysis with Walmart and Costco, and significant increases in holdings by institutional investors like Varma Mutual Pension Insurance Co, BML Capital Management LLC, PFA Pension Forsikringsaktieselskab, and Robertson Stephens Wealth Management LLC. The article also includes key financial metrics for Target.",
+            "text_to_analyze": "Target Corp (TGT) News, Articles, Events & Latest Updates. This page provides a comprehensive overview of recent news and financial data for Target Corp (TGT). It highlights options trading activity, competitive analysis with Walmart and Costco, and significant increases in holdings by institutional investors like Varma Mutual Pension Insurance Co, BML Capital Management LLC, PFA Pension Forsikringsaktieselskab, and Robertson Stephens Wealth Management LLC. The article also includes key financial metrics for Target.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260509T093735",
+            "title": "Target Corp. stock (US87612E1064): Tariff risks and turnaround hopes weigh on shares near 52-week hi",
+            "summary": "Target Corp. stock, trading near its 52-week high after a 40% climb over the past year, faces pressure from new tariff risks and questions regarding its turnaround strategy. Investors are keenly awaiting the Q1 2027 earnings call on May 20, 2026, for indications that new CEO Michael Fiddelke’s plan is stabilizing margins and boosting comparable-store sales. Despite strong recent performance, longer-term shareholder returns are mixed, and the stock's valuation needs to account for potential downside risks from tariffs and execution challenges.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): Tariff risks and turnaround hopes weigh on shares near 52-week hi. Target Corp. stock, trading near its 52-week high after a 40% climb over the past year, faces pressure from new tariff risks and questions regarding its turnaround strategy. Investors are keenly awaiting the Q1 2027 earnings call on May 20, 2026, for indications that new CEO Michael Fiddelke’s plan is stabilizing margins and boosting comparable-store sales. Despite strong recent performance, longer-term shareholder returns are mixed, and the stock's valuation needs to account for potential downside risks from tariffs and execution challenges.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260509T053225",
+            "title": "Mizuho Raises its Price Target on Duke Energy (DUK) to $139",
+            "summary": "Mizuho increased its price target for Duke Energy (DUK) to $139 from $130, maintaining an Outperform rating after the company reported better-than-expected Q1 adjusted EPS and revenue. Duke Energy reaffirmed its FY26 adjusted EPS outlook, and its Robinson Nuclear Plant recently had its operating license renewed through 2050. Morgan Stanley also adjusted its price target for DUK to $141 from $142, while keeping an Overweight rating.",
+            "text_to_analyze": "Mizuho Raises its Price Target on Duke Energy (DUK) to $139. Mizuho increased its price target for Duke Energy (DUK) to $139 from $130, maintaining an Outperform rating after the company reported better-than-expected Q1 adjusted EPS and revenue. Duke Energy reaffirmed its FY26 adjusted EPS outlook, and its Robinson Nuclear Plant recently had its operating license renewed through 2050. Morgan Stanley also adjusted its price target for DUK to $141 from $142, while keeping an Overweight rating.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.60685
+        },
+        {
+            "source": "The Business Journals",
+            "date": "20260509T023823",
+            "title": "Target names new design, apparel leaders as CEO pushes style-first turnaround",
+            "summary": "Target has appointed new leaders in design and apparel as CEO Brian Cornell continues to implement a style-first turnaround strategy. Gena Fox, a 25-year Target veteran, will serve as Senior Vice President of Design, focusing on cultural and trend leadership. Tara Russell has been named Senior Vice President of Apparel and Accessories, having previously contributed to the launch of the design-focused Target SoHo store.",
+            "text_to_analyze": "Target names new design, apparel leaders as CEO pushes style-first turnaround. Target has appointed new leaders in design and apparel as CEO Brian Cornell continues to implement a style-first turnaround strategy. Gena Fox, a 25-year Target veteran, will serve as Senior Vice President of Design, focusing on cultural and trend leadership. Tara Russell has been named Senior Vice President of Apparel and Accessories, having previously contributed to the launch of the design-focused Target SoHo store.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Class Action Lawsuits",
+            "date": "20260509T013820",
+            "title": "Target sued over coffee creamer that allegedly contains fewer servings than advertised",
+            "summary": "Target Corporation is facing a class action lawsuit alleging that its Market Pantry Original Coffee Creamer powder misrepresents the number of servings on its label. Plaintiff Astorria Sassano claims that independent testing revealed the product contains at least 13.31% fewer one-teaspoon servings than advertised and that the stated gram equivalency for a serving is inaccurate. The lawsuit, filed in New York federal court, accuses Target of violating consumer protection laws and breaching express warranties.",
+            "text_to_analyze": "Target sued over coffee creamer that allegedly contains fewer servings than advertised. Target Corporation is facing a class action lawsuit alleging that its Market Pantry Original Coffee Creamer powder misrepresents the number of servings on its label. Plaintiff Astorria Sassano claims that independent testing revealed the product contains at least 13.31% fewer one-teaspoon servings than advertised and that the stated gram equivalency for a serving is inaccurate. The lawsuit, filed in New York federal court, accuses Target of violating consumer protection laws and breaching express warranties.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260508T184535",
+            "title": "Target Corp. Stock (US87612E1064): RBC Raises Price Target to $132 Ahead of Q1 Earnings",
+            "summary": "RBC Capital has raised its price target for Target Corp. to $132 from $130, maintaining an Outperform rating, ahead of its Q1 earnings release. This adjustment reflects increasing confidence in Target's strategic initiatives, including pricing, assortment, and digital engagement, which are expected to improve financial performance. Target shares are currently trading near their 52-week high, indicating positive market sentiment, but investors should be aware of competitive and economic risks in the retail sector.",
+            "text_to_analyze": "Target Corp. Stock (US87612E1064): RBC Raises Price Target to $132 Ahead of Q1 Earnings. RBC Capital has raised its price target for Target Corp. to $132 from $130, maintaining an Outperform rating, ahead of its Q1 earnings release. This adjustment reflects increasing confidence in Target's strategic initiatives, including pricing, assortment, and digital engagement, which are expected to improve financial performance. Target shares are currently trading near their 52-week high, indicating positive market sentiment, but investors should be aware of competitive and economic risks in the retail sector.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ABC7 Chicago",
+            "date": "20260508T160953",
+            "title": "Snacks sold at Target voluntarily recalled over possible salmonella concerns",
+            "summary": "Several snack products, including Target's Good & Gather trail mix, have been voluntarily recalled due to potential salmonella contamination in a seasoning mix. The seasoning mix used a dry milk powder that was previously recalled, though the seasoning itself tested negative for salmonella. The manufacturer, John B. Sanfilippo & Son, Inc., has not received any reports of illnesses related to the recalled items.",
+            "text_to_analyze": "Snacks sold at Target voluntarily recalled over possible salmonella concerns. Several snack products, including Target's Good & Gather trail mix, have been voluntarily recalled due to potential salmonella contamination in a seasoning mix. The seasoning mix used a dry milk powder that was previously recalled, though the seasoning itself tested negative for salmonella. The manufacturer, John B. Sanfilippo & Son, Inc., has not received any reports of illnesses related to the recalled items.",
+            "alpha_vantage_sentiment_label": "Bearish",
+            "ticker_relevance_score": 0.834545
+        },
+        {
+            "source": "ABC7 Los Angeles",
+            "date": "20260508T160905",
+            "title": "Snacks sold at Target voluntarily recalled over possible salmonella concerns",
+            "summary": "Several snack mixes, including Target's Good & Gather brand trail mix and other brands distributed by John B. Sanfilippo & Son, Inc., have been voluntarily recalled due to potential salmonella contamination. The recall stems from a seasoning mix made with dry milk powder from California Dairies, Inc., which has caused previous recalls. While no illnesses have been reported, consumers are advised to check the FDA website for product details and be aware of salmonella symptoms.",
+            "text_to_analyze": "Snacks sold at Target voluntarily recalled over possible salmonella concerns. Several snack mixes, including Target's Good & Gather brand trail mix and other brands distributed by John B. Sanfilippo & Son, Inc., have been voluntarily recalled due to potential salmonella contamination. The recall stems from a seasoning mix made with dry milk powder from California Dairies, Inc., which has caused previous recalls. While no illnesses have been reported, consumers are advised to check the FDA website for product details and be aware of salmonella symptoms.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.806129
+        }
+    ]
+}

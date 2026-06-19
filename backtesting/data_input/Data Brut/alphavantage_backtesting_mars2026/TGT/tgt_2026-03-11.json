@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-11",
+    "window_start": "2026-03-10 16:00",
+    "window_end": "2026-03-11 09:27",
+    "articles": [
+        {
+            "source": "IndexBox",
+            "date": "20260311T041459",
+            "title": "Dollar General Q4 2025 Earnings Preview & Market Expectations - News and Statistics",
+            "summary": "Dollar General (NYSE:DG) is set to announce its Q4 2025 financial results before the market opens, with analysts projecting a revenue increase similar to the previous year. The company's prior quarter matched revenue forecasts and surpassed profit and EBITDA estimates. Despite recent volatility in the non-discretionary retail sector, Dollar General's stock price has remained stable, and the average analyst price target is slightly above its current trading price.",
+            "text_to_analyze": "Dollar General Q4 2025 Earnings Preview & Market Expectations - News and Statistics. Dollar General (NYSE:DG) is set to announce its Q4 2025 financial results before the market opens, with analysts projecting a revenue increase similar to the previous year. The company's prior quarter matched revenue forecasts and surpassed profit and EBITDA estimates. Despite recent volatility in the non-discretionary retail sector, Dollar General's stock price has remained stable, and the average analyst price target is slightly above its current trading price.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.647363
+        },
+        {
+            "source": "Finviz",
+            "date": "20260311T035214",
+            "title": "Earnings To Watch: Zumiez (ZUMZ) Reports Q4 Results Tomorrow",
+            "summary": "Zumiez (ZUMZ) is set to report its Q4 earnings on Thursday after market close, with analysts expecting revenue growth of 3.6% year over year. The company beat revenue expectations last quarter, and its peers like Victoria's Secret and Urban Outfitters have shown mixed results in their recent Q4 reports. Zumiez's stock is down 6.5% over the last month and is heading into earnings with an average analyst price target slightly above its current share price.",
+            "text_to_analyze": "Earnings To Watch: Zumiez (ZUMZ) Reports Q4 Results Tomorrow. Zumiez (ZUMZ) is set to report its Q4 earnings on Thursday after market close, with analysts expecting revenue growth of 3.6% year over year. The company beat revenue expectations last quarter, and its peers like Victoria's Secret and Urban Outfitters have shown mixed results in their recent Q4 reports. Zumiez's stock is down 6.5% over the last month and is heading into earnings with an average analyst price target slightly above its current share price.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.599124
+        }
+    ]
+}

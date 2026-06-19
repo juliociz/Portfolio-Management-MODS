@@ -1,0 +1,54 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-31",
+    "window_start": "2026-03-30 16:00",
+    "window_end": "2026-03-31 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260331T085632",
+            "title": "The Walt Disney Company (NYSE:DIS) Given Consensus Rating of \"Moderate Buy\" by Analysts",
+            "summary": "The Walt Disney Company (NYSE:DIS) has received a \"Moderate Buy\" consensus rating from analysts, with an average 12-month price target of $134.00. Institutional investors have significantly increased their holdings in the company, showcasing strong confidence. Despite positive trends in streaming profitability and theme park expansion, concerns remain regarding tech partnership setbacks and analyst caution.",
+            "text_to_analyze": "The Walt Disney Company (NYSE:DIS) Given Consensus Rating of \"Moderate Buy\" by Analysts. The Walt Disney Company (NYSE:DIS) has received a \"Moderate Buy\" consensus rating from analysts, with an average 12-month price target of $134.00. Institutional investors have significantly increased their holdings in the company, showcasing strong confidence. Despite positive trends in streaming profitability and theme park expansion, concerns remain regarding tech partnership setbacks and analyst caution.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.957713
+        },
+        {
+            "source": "Florida Politics",
+            "date": "20260331T083730",
+            "title": "Scoop: In 2024, Disney considered building hotels inside the Magic Kingdom, records show",
+            "summary": "Court records reveal that in early 2024, Disney considered building one or two new hotels inside the Magic Kingdom as part of a major expansion, a revelation made during a deposition by a Disney Imagineering executive. While this idea was reportedly nixed by August 2024, the concept highlights Disney's strategic planning amidst its legal battles with Florida Republicans and its investment in theme parks. Experts suggest such a hotel would be extremely popular, though its success would depend on ideal location, theme, and pricing.",
+            "text_to_analyze": "Scoop: In 2024, Disney considered building hotels inside the Magic Kingdom, records show. Court records reveal that in early 2024, Disney considered building one or two new hotels inside the Magic Kingdom as part of a major expansion, a revelation made during a deposition by a Disney Imagineering executive. While this idea was reportedly nixed by August 2024, the concept highlights Disney's strategic planning amidst its legal battles with Florida Republicans and its investment in theme parks. Experts suggest such a hotel would be extremely popular, though its success would depend on ideal location, theme, and pricing.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.952157
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260331T040632",
+            "title": "The Walt Disney Company Stock: Navigating Entertainment Challenges and Valuation Opportunities in 20",
+            "summary": "The Walt Disney Company's stock is navigating entertainment challenges, including streaming shifts and market volatility, but valuation metrics suggest potential undervaluation. The company's diversified segments—Entertainment, Sports, and Experiences—are key drivers of value, with the Experiences segment particularly strong in North America. While macroeconomic pressures and competition pose risks, strategic initiatives in streaming, content optimization, and parks expansion position Disney for long-term growth and make it an attractive consideration for North American investors.",
+            "text_to_analyze": "The Walt Disney Company Stock: Navigating Entertainment Challenges and Valuation Opportunities in 20. The Walt Disney Company's stock is navigating entertainment challenges, including streaming shifts and market volatility, but valuation metrics suggest potential undervaluation. The company's diversified segments—Entertainment, Sports, and Experiences—are key drivers of value, with the Experiences segment particularly strong in North America. While macroeconomic pressures and competition pose risks, strategic initiatives in streaming, content optimization, and parks expansion position Disney for long-term growth and make it an attractive consideration for North American investors.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.988538
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260330T203722",
+            "title": "The Walt Disney Company Stock: Navigating Entertainment Shifts and Investor Opportunities in a Strea",
+            "summary": "The Walt Disney Company (NYSE:DIS) is navigating the evolving entertainment landscape by focusing on its diversified portfolio, including entertainment studios, ESPN, and theme parks. Strategic pivots towards streaming profitability, resilience in its park division, and leveraging its vast intellectual property are key to its sustained investor interest. Despite competitive pressures and market shifts, analysts lean positive on Disney's growth potential due to its core strengths and adaptability.",
+            "text_to_analyze": "The Walt Disney Company Stock: Navigating Entertainment Shifts and Investor Opportunities in a Strea. The Walt Disney Company (NYSE:DIS) is navigating the evolving entertainment landscape by focusing on its diversified portfolio, including entertainment studios, ESPN, and theme parks. Strategic pivots towards streaming profitability, resilience in its park division, and leveraging its vast intellectual property are key to its sustained investor interest. Despite competitive pressures and market shifts, analysts lean positive on Disney's growth potential due to its core strengths and adaptability.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.307942
+        },
+        {
+            "source": "Travel Market Report",
+            "date": "20260330T185950",
+            "title": "The Ritz-Carlton Yacht Collection Names SVP, Customer Experience",
+            "summary": "The Ritz-Carlton Yacht Collection has appointed Tim Klauda as Senior Vice President of Customer Experience, a new role effective immediately. Klauda will be responsible for enhancing the guest experience across the fleet and all touchpoints, ensuring alignment with The Ritz-Carlton's core values. He brings extensive leadership experience from Royal Caribbean, McDonald's, and Disney, among others.",
+            "text_to_analyze": "The Ritz-Carlton Yacht Collection Names SVP, Customer Experience. The Ritz-Carlton Yacht Collection has appointed Tim Klauda as Senior Vice President of Customer Experience, a new role effective immediately. Klauda will be responsible for enhancing the guest experience across the fleet and all touchpoints, ensuring alignment with The Ritz-Carlton's core values. He brings extensive leadership experience from Royal Caribbean, McDonald's, and Disney, among others.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.582594
+        }
+    ]
+}

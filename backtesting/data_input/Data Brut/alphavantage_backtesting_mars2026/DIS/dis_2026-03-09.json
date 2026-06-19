@@ -1,0 +1,108 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-09",
+    "window_start": "2026-03-06 16:00",
+    "window_end": "2026-03-09 09:27",
+    "articles": [
+        {
+            "source": "www.marketscreener.com",
+            "date": "20260309T090000",
+            "title": "MediaCo Holding Inc. Appoints René Santaella as Chief Growth & Innovation Officer, Effective March 9, 2026",
+            "summary": "MediaCo Holding Inc. has appointed René Santaella to the newly created role of Chief Growth & Innovation Officer, effective March 9, 2026. In his new role, Santaella will be responsible for leading the strategy and execution of MediaCo's Supply + Growth Engines across TV, Audio, and Digital & Streaming. He previously served as Chief Operating Officer of MediaCo since October 2024 and has extensive experience in digital, streaming operations, and advertising monetization from his prior roles at Estrella Media Inc., Sony Pictures Television, and Disney.",
+            "text_to_analyze": "MediaCo Holding Inc. Appoints René Santaella as Chief Growth & Innovation Officer, Effective March 9, 2026. MediaCo Holding Inc. has appointed René Santaella to the newly created role of Chief Growth & Innovation Officer, effective March 9, 2026. In his new role, Santaella will be responsible for leading the strategy and execution of MediaCo's Supply + Growth Engines across TV, Audio, and Digital & Streaming. He previously served as Chief Operating Officer of MediaCo since October 2024 and has extensive experience in digital, streaming operations, and advertising monetization from his prior roles at Estrella Media Inc., Sony Pictures Television, and Disney.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.642139
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T125003",
+            "title": "The Walt Disney Company $DIS Shares Sold by Rathbones Group PLC",
+            "summary": "Rathbones Group PLC significantly reduced its stake in The Walt Disney Company by 20.4% in the third quarter of 2025, selling 188,252 shares. Despite this, analysts maintain a \"Moderate Buy\" rating with a target price of $135.80, and Disney exceeded Q1 EPS estimates while showing revenue growth. The company is navigating a leadership transition and a $9.25 billion credit facility, which are expected to create near-term volatility.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by Rathbones Group PLC. Rathbones Group PLC significantly reduced its stake in The Walt Disney Company by 20.4% in the third quarter of 2025, selling 188,252 shares. Despite this, analysts maintain a \"Moderate Buy\" rating with a target price of $135.80, and Disney exceeded Q1 EPS estimates while showing revenue growth. The company is navigating a leadership transition and a $9.25 billion credit facility, which are expected to create near-term volatility.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T121304",
+            "title": "Korea Investment CORP Sells 69,120 Shares of The Walt Disney Company $DIS",
+            "summary": "Korea Investment CORP has reduced its stake in The Walt Disney Company by selling 69,120 shares, though it still holds over a million shares valued at $127.65 million. While Korea Investment CORP trimmed its position, other major institutional investors like Norges Bank and Viking Global made significant new investments, and several firms substantially increased their existing stakes. Disney recently exceeded quarterly earnings and revenue estimates, maintains a \"Moderate Buy\" consensus from analysts with an average target price of $135.80, and institutional investors collectively own 65.71% of the stock.",
+            "text_to_analyze": "Korea Investment CORP Sells 69,120 Shares of The Walt Disney Company $DIS. Korea Investment CORP has reduced its stake in The Walt Disney Company by selling 69,120 shares, though it still holds over a million shares valued at $127.65 million. While Korea Investment CORP trimmed its position, other major institutional investors like Norges Bank and Viking Global made significant new investments, and several firms substantially increased their existing stakes. Disney recently exceeded quarterly earnings and revenue estimates, maintains a \"Moderate Buy\" consensus from analysts with an average target price of $135.80, and institutional investors collectively own 65.71% of the stock.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.980394
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T115004",
+            "title": "The Walt Disney Company $DIS Stake Cut by Natixis Advisors LLC",
+            "summary": "Natixis Advisors LLC reduced its stake in The Walt Disney Company by 4.8% in the third quarter, selling over 105,000 shares and ending with a holding worth approximately $237.19 million. Despite this, Disney reported strong Q1 earnings, exceeding analyst expectations, and maintains a \"Moderate Buy\" consensus rating with an average price target of $135.80 from analysts. The company faces a balance of operational tailwinds from theme park expansions and cruise line growth against leadership succession debates and recent safety allegations, which could lead to near-term stock volatility.",
+            "text_to_analyze": "The Walt Disney Company $DIS Stake Cut by Natixis Advisors LLC. Natixis Advisors LLC reduced its stake in The Walt Disney Company by 4.8% in the third quarter, selling over 105,000 shares and ending with a holding worth approximately $237.19 million. Despite this, Disney reported strong Q1 earnings, exceeding analyst expectations, and maintains a \"Moderate Buy\" consensus rating with an average price target of $135.80 from analysts. The company faces a balance of operational tailwinds from theme park expansions and cruise line growth against leadership succession debates and recent safety allegations, which could lead to near-term stock volatility.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.970171
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T115003",
+            "title": "24,961 Shares in The Walt Disney Company $DIS Purchased by Munich Reinsurance Co Stock Corp in Munich",
+            "summary": "Munich Reinsurance Co Stock Corp in Munich significantly increased its holdings in The Walt Disney Company by purchasing 24,961 shares valued at approximately $2.86 million during the third quarter. This comes amidst other institutional investors also adjusting their stakes in Disney. The article also provides a financial overview of Disney, recent analyst ratings, and a news summary highlighting positive, neutral, and negative sentiments affecting the company.",
+            "text_to_analyze": "24,961 Shares in The Walt Disney Company $DIS Purchased by Munich Reinsurance Co Stock Corp in Munich. Munich Reinsurance Co Stock Corp in Munich significantly increased its holdings in The Walt Disney Company by purchasing 24,961 shares valued at approximately $2.86 million during the third quarter. This comes amidst other institutional investors also adjusting their stakes in Disney. The article also provides a financial overview of Disney, recent analyst ratings, and a news summary highlighting positive, neutral, and negative sentiments affecting the company.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T084314",
+            "title": "Blair William & Co. IL Sells 11,808 Shares of The Walt Disney Company $DIS",
+            "summary": "Blair William & Co. IL has reduced its stake in The Walt Disney Company by 2.7%, selling 11,808 shares and now holding 417,811 shares valued at approximately $47.84 million. Disney recently surpassed Q1 estimates with $1.63 EPS and $25.98 billion in revenue, trading near $101.57 with a \"Moderate Buy\" consensus rating and an average price target of $135.80. The company faces mixed investor sentiment due to leadership transitions and liquidity concerns, balanced by positive developments in parks, promotions, new content, and cruise line expansion, though a recent safety allegation poses reputational risk.",
+            "text_to_analyze": "Blair William & Co. IL Sells 11,808 Shares of The Walt Disney Company $DIS. Blair William & Co. IL has reduced its stake in The Walt Disney Company by 2.7%, selling 11,808 shares and now holding 417,811 shares valued at approximately $47.84 million. Disney recently surpassed Q1 estimates with $1.63 EPS and $25.98 billion in revenue, trading near $101.57 with a \"Moderate Buy\" consensus rating and an average price target of $135.80. The company faces mixed investor sentiment due to leadership transitions and liquidity concerns, balanced by positive developments in parks, promotions, new content, and cruise line expansion, though a recent safety allegation poses reputational risk.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.962533
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260308T081914",
+            "title": "Aptus Capital Advisors LLC Trims Stock Position in The Walt Disney Company $DIS",
+            "summary": "Aptus Capital Advisors LLC reduced its stake in The Walt Disney Company by 12.4% in the third quarter, selling 6,988 shares and retaining 49,279 shares valued at approximately $5.64 million. Despite this trim, institutional ownership remains high at 65.71%, with other firms making new or adjusted smaller investments. Wall Street analysts generally rate DIS as a \"Moderate Buy\" with an average price target of $135.80, while the stock trades near $101.57.",
+            "text_to_analyze": "Aptus Capital Advisors LLC Trims Stock Position in The Walt Disney Company $DIS. Aptus Capital Advisors LLC reduced its stake in The Walt Disney Company by 12.4% in the third quarter, selling 6,988 shares and retaining 49,279 shares valued at approximately $5.64 million. Despite this trim, institutional ownership remains high at 65.71%, with other firms making new or adjusted smaller investments. Wall Street analysts generally rate DIS as a \"Moderate Buy\" with an average price target of $135.80, while the stock trades near $101.57.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.971082
+        },
+        {
+            "source": "Celeb Confirmed",
+            "date": "20260308T055834",
+            "title": "Girl group i-dle's Yuqi chosen as one of Chinese music giant's 'Women of the Year'",
+            "summary": "Yuqi of the K-pop girl group i-dle has been recognized as one of Tencent Music's Women of the Year in Music 2026 for her contributions to the Chinese music market, particularly with her solo single \"Motivation.\" She also received several accolades on Tencent Music's Korean chart and recently sang the theme song for Shanghai Disneyland's 10-year anniversary. Meanwhile, i-dle made history as the first K-pop girl group to perform at the Taipei Dome.",
+            "text_to_analyze": "Girl group i-dle's Yuqi chosen as one of Chinese music giant's 'Women of the Year'. Yuqi of the K-pop girl group i-dle has been recognized as one of Tencent Music's Women of the Year in Music 2026 for her contributions to the Chinese music market, particularly with her solo single \"Motivation.\" She also received several accolades on Tencent Music's Korean chart and recently sang the theme song for Shanghai Disneyland's 10-year anniversary. Meanwhile, i-dle made history as the first K-pop girl group to perform at the Taipei Dome.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.636425
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260307T105004",
+            "title": "Orion Porfolio Solutions LLC Sells 9,176 Shares of The Walt Disney Company $DIS",
+            "summary": "Orion Portfolio Solutions LLC has reduced its stake in The Walt Disney Company (DIS) by 9.9%, selling 9,176 shares and retaining 83,182 shares valued at approximately $9.52 million. Analysts maintain a \"Moderate Buy\" rating for DIS, with an average target price of $135.80, while the stock currently trades near $101.57. Despite recent positive earnings and operational momentum in parks and cruises, the company faces mixed sentiment due to leadership transition concerns, liquidity management, and a reputation-related safety allegation.",
+            "text_to_analyze": "Orion Porfolio Solutions LLC Sells 9,176 Shares of The Walt Disney Company $DIS. Orion Portfolio Solutions LLC has reduced its stake in The Walt Disney Company (DIS) by 9.9%, selling 9,176 shares and retaining 83,182 shares valued at approximately $9.52 million. Analysts maintain a \"Moderate Buy\" rating for DIS, with an average target price of $135.80, while the stock currently trades near $101.57. Despite recent positive earnings and operational momentum in parks and cruises, the company faces mixed sentiment due to leadership transition concerns, liquidity management, and a reputation-related safety allegation.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Traders Union",
+            "date": "20260307T015239",
+            "title": "WEBTOON Entertainment Inc. launches Mickey and Friends F1 adventure on digital platform",
+            "summary": "WEBTOON Entertainment Inc. has released a new digital series featuring Mickey and Friends entering the world of Formula 1 racing. The story involves Mickey and his friends assisting a struggling racing team, bringing popular Disney characters to the high-stakes F1 environment exclusively on WEBTOON. This initiative aims to blend animation with motorsport to attract a global online audience.",
+            "text_to_analyze": "WEBTOON Entertainment Inc. launches Mickey and Friends F1 adventure on digital platform. WEBTOON Entertainment Inc. has released a new digital series featuring Mickey and Friends entering the world of Formula 1 racing. The story involves Mickey and his friends assisting a struggling racing team, bringing popular Disney characters to the high-stakes F1 environment exclusively on WEBTOON. This initiative aims to blend animation with motorsport to attract a global online audience.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.722993
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260306T235015",
+            "title": "The Walt Disney Company (NYSE:DIS) Receives Average Rating of \"Moderate Buy\" from Brokerages",
+            "summary": "The Walt Disney Company (NYSE:DIS) has received an average \"Moderate Buy\" rating from 24 brokerages, with an average one-year target price of $135.80. The company recently reported better-than-expected quarterly earnings and revenue, and has strengthened its liquidity with new credit lines. However, investor sentiment faces pressure from a management transition and concerns over promotions potentially diluting near-term margins.",
+            "text_to_analyze": "The Walt Disney Company (NYSE:DIS) Receives Average Rating of \"Moderate Buy\" from Brokerages. The Walt Disney Company (NYSE:DIS) has received an average \"Moderate Buy\" rating from 24 brokerages, with an average one-year target price of $135.80. The company recently reported better-than-expected quarterly earnings and revenue, and has strengthened its liquidity with new credit lines. However, investor sentiment faces pressure from a management transition and concerns over promotions potentially diluting near-term margins.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

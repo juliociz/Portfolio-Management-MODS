@@ -1,0 +1,27 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-03-03",
+    "window_start": "2026-03-02 16:00",
+    "window_end": "2026-03-03 09:27",
+    "articles": [
+        {
+            "source": "www.sharewise.com",
+            "date": "20260303T035127",
+            "title": "Should State Street SPDR Russell 1000 Yield Focus ETF (ONEY) Be on Your Investing Radar?",
+            "summary": "The State Street SPDR Russell 1000 Yield Focus ETF (ONEY), launched on December 2, 2015, is a passively managed ETF targeting the Large Cap Value segment of the US equity market. With assets over $861.40 million and an expense ratio of 0.2%, ONEY focuses on high yield, high quality, and low size characteristics. The ETF holds a Zacks ETF Rank of 3 (Hold) and provides diversified exposure with notable allocations to Industrials, Consumer Staples, and Financials.",
+            "text_to_analyze": "Should State Street SPDR Russell 1000 Yield Focus ETF (ONEY) Be on Your Investing Radar?. The State Street SPDR Russell 1000 Yield Focus ETF (ONEY), launched on December 2, 2015, is a passively managed ETF targeting the Large Cap Value segment of the US equity market. With assets over $861.40 million and an expense ratio of 0.2%, ONEY focuses on high yield, high quality, and low size characteristics. The ETF holds a Zacks ETF Rank of 3 (Hold) and provides diversified exposure with notable allocations to Industrials, Consumer Staples, and Financials.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.59914
+        },
+        {
+            "source": "Grocery Dive",
+            "date": "20260302T161840",
+            "title": "6 top grocery executive changes in February",
+            "summary": "In February, several leading grocers announced significant changes to their executive teams. Kroger appointed Greg Foran, a former Walmart executive, as its new CEO and promoted Mike Goodwin to Central Division president. Target named Lisa Roath as COO and Cara Sylvester as Chief Merchandising Officer, while Sprouts Farmers Market appointed Amanda Rassi as its first chief customer officer and Don Clark as chief merchandising officer.",
+            "text_to_analyze": "6 top grocery executive changes in February. In February, several leading grocers announced significant changes to their executive teams. Kroger appointed Greg Foran, a former Walmart executive, as its new CEO and promoted Mike Goodwin to Central Division president. Target named Lisa Roath as COO and Cara Sylvester as Chief Merchandising Officer, while Sprouts Farmers Market appointed Amanda Rassi as its first chief customer officer and Don Clark as chief merchandising officer.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.945655
+        }
+    ]
+}

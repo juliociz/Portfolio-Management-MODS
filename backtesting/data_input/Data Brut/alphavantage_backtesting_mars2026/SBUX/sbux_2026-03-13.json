@@ -1,0 +1,45 @@
+{
+    "ticker": "SBUX",
+    "company_name": "Starbucks",
+    "target_date": "2026-03-13",
+    "window_start": "2026-03-12 16:00",
+    "window_end": "2026-03-13 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260313T090308",
+            "title": "Bristol John W & Co. Inc. NY Purchases 353,751 Shares of Starbucks Corporation $SBUX",
+            "summary": "Bristol John W & Co. Inc. NY has significantly increased its stake in Starbucks Corporation ($SBUX) by purchasing 353,751 shares, bringing its total holdings to over 1.3 million shares valued at approximately $113.7 million. This makes Starbucks the firm's 20th-largest holding. The article also details Starbucks' recent earnings, institutional and insider trading activity, and current analyst ratings, which reflect a \"Moderate Buy\" consensus despite mixed sentiment regarding the company's future performance.",
+            "text_to_analyze": "Bristol John W & Co. Inc. NY Purchases 353,751 Shares of Starbucks Corporation $SBUX. Bristol John W & Co. Inc. NY has significantly increased its stake in Starbucks Corporation ($SBUX) by purchasing 353,751 shares, bringing its total holdings to over 1.3 million shares valued at approximately $113.7 million. This makes Starbucks the firm's 20th-largest holding. The article also details Starbucks' recent earnings, institutional and insider trading activity, and current analyst ratings, which reflect a \"Moderate Buy\" consensus despite mixed sentiment regarding the company's future performance.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "TradingView",
+            "date": "20260313T041556",
+            "title": "Why Josh Brown sees Starbucks as 'best stock in the market'",
+            "summary": "Veteran trader Josh Brown considers Starbucks (SBUX) the \"best stock in the market\" due to its indispensable product, high-stakes leadership turnaround under Brian Niccol, and a recently repaired technical chart. He argues that Starbucks offers an \"affordable luxury\" and its \"Back to Starbucks\" strategy is driving revenue reacceleration and margin expansion. Technically, the stock is breaking out, having reclaimed its 200-day moving average and pushing past the $100 pivot level, with a $120 price objective as long as it stays above its 50-day MA.",
+            "text_to_analyze": "Why Josh Brown sees Starbucks as 'best stock in the market'. Veteran trader Josh Brown considers Starbucks (SBUX) the \"best stock in the market\" due to its indispensable product, high-stakes leadership turnaround under Brian Niccol, and a recently repaired technical chart. He argues that Starbucks offers an \"affordable luxury\" and its \"Back to Starbucks\" strategy is driving revenue reacceleration and margin expansion. Technically, the stock is breaking out, having reclaimed its 200-day moving average and pushing past the $100 pivot level, with a $120 price objective as long as it stays above its 50-day MA.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Invezz",
+            "date": "20260313T035056",
+            "title": "Why Josh Brown sees Starbucks as 'best stock in the market'",
+            "summary": "Josh Brown, CEO of Ritholtz Wealth Management, considers Starbucks (SBUX) the \"best stock in the market\" despite its past underperformance. He attributes his bullish outlook to the company's resilient demand for its \"affordable luxury\" product, the strategic leadership turnaround by CEO Brian Niccol, and a strong technical breakout on its stock chart. Brown believes these factors position Starbucks for a return to all-time highs, setting a price objective of $120.",
+            "text_to_analyze": "Why Josh Brown sees Starbucks as 'best stock in the market'. Josh Brown, CEO of Ritholtz Wealth Management, considers Starbucks (SBUX) the \"best stock in the market\" despite its past underperformance. He attributes his bullish outlook to the company's resilient demand for its \"affordable luxury\" product, the strategic leadership turnaround by CEO Brian Niccol, and a strong technical breakout on its stock chart. Brown believes these factors position Starbucks for a return to all-time highs, setting a price objective of $120.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "IndexBox - Market Intelligence Platform",
+            "date": "20260312T175055",
+            "title": "Starbucks Stock Performance & Business Trends Analysis 2026 - News and Statistics",
+            "summary": "Starbucks stock has shown strong returns over the past six months, outperforming the market with a price of $100.49 per share. However, underlying business concerns include average annual declines in same-store sales over two years, a substantial drop in operating margin to 7.2%, and decreasing earnings per share over six years despite revenue growth. The analysis suggests that the stock's current high valuation already reflects much positive news and that other companies may offer stronger fundamental business characteristics.",
+            "text_to_analyze": "Starbucks Stock Performance & Business Trends Analysis 2026 - News and Statistics. Starbucks stock has shown strong returns over the past six months, outperforming the market with a price of $100.49 per share. However, underlying business concerns include average annual declines in same-store sales over two years, a substantial drop in operating margin to 7.2%, and decreasing earnings per share over six years despite revenue growth. The analysis suggests that the stock's current high valuation already reflects much positive news and that other companies may offer stronger fundamental business characteristics.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.981573
+        }
+    ]
+}

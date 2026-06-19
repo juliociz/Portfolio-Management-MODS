@@ -1,0 +1,99 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-30",
+    "window_start": "2026-03-27 16:00",
+    "window_end": "2026-03-30 09:27",
+    "articles": [
+        {
+            "source": "Investing.com",
+            "date": "20260330T084103",
+            "title": "Citizens initiates fuboTV stock coverage at outperform on Disney deal",
+            "summary": "Citizens has initiated coverage on fuboTV (NYSE:FUBO) with a Market Outperform rating and a $13.00 price target, citing its transformative combination with Hulu + Live TV. This deal is expected to provide Fubo with greater negotiating leverage, improved content packaging, and efficient growth through Disney's ad sales and distribution. Recent developments for Fubo also include a 1-for-12 reverse stock split and varied analyst ratings from Needham, B.Riley, and Seaport Global Securities after its merger with Disney's Hulu Live.",
+            "text_to_analyze": "Citizens initiates fuboTV stock coverage at outperform on Disney deal. Citizens has initiated coverage on fuboTV (NYSE:FUBO) with a Market Outperform rating and a $13.00 price target, citing its transformative combination with Hulu + Live TV. This deal is expected to provide Fubo with greater negotiating leverage, improved content packaging, and efficient growth through Disney's ad sales and distribution. Recent developments for Fubo also include a 1-for-12 reverse stock split and varied analyst ratings from Needham, B.Riley, and Seaport Global Securities after its merger with Disney's Hulu Live.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.768726
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260329T160728",
+            "title": "Disneyland Paris Unveils Disney Adventure World and Opens World of Frozen, Marking a New Era of Immersive Storytelling",
+            "summary": "Disneyland Paris has unveiled its reimagined second park, now named Disney Adventure World, and officially opened World of Frozen, marking a significant expansion. This transformation aims to offer fully immersive experiences inspired by Disney Animation, Pixar, and Marvel stories, with Adventure Way serving as a gateway to new culinary and entertainment offerings, leading to Adventure Bay and World of Frozen. The inauguration featured a heartfelt moment with Make-A-Wish children and a spectacular ceremony attended by executives including Josh D’Amaro, CEO of The Walt Disney Company, and various celebrities.",
+            "text_to_analyze": "Disneyland Paris Unveils Disney Adventure World and Opens World of Frozen, Marking a New Era of Immersive Storytelling. Disneyland Paris has unveiled its reimagined second park, now named Disney Adventure World, and officially opened World of Frozen, marking a significant expansion. This transformation aims to offer fully immersive experiences inspired by Disney Animation, Pixar, and Marvel stories, with Adventure Way serving as a gateway to new culinary and entertainment offerings, leading to Adventure Bay and World of Frozen. The inauguration featured a heartfelt moment with Make-A-Wish children and a spectacular ceremony attended by executives including Josh D’Amaro, CEO of The Walt Disney Company, and various celebrities.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260329T083728",
+            "title": "The Walt Disney Company $DIS Shares Sold by Chesley Taft & Associates LLC",
+            "summary": "Chesley Taft & Associates LLC reduced its stake in The Walt Disney Company by 9.2% in Q4 2025, selling over 15,000 shares. Despite this, analyst sentiment remains largely positive with a \"Moderate Buy\" rating, although recent negative headlines related to AI partnerships and gaming ventures have introduced selling pressure. Disney's stock traded around $92.50 after modestly beating quarterly EPS and revenue estimates, with parks identified as a strong core business.",
+            "text_to_analyze": "The Walt Disney Company $DIS Shares Sold by Chesley Taft & Associates LLC. Chesley Taft & Associates LLC reduced its stake in The Walt Disney Company by 9.2% in Q4 2025, selling over 15,000 shares. Despite this, analyst sentiment remains largely positive with a \"Moderate Buy\" rating, although recent negative headlines related to AI partnerships and gaming ventures have introduced selling pressure. Disney's stock traded around $92.50 after modestly beating quarterly EPS and revenue estimates, with parks identified as a strong core business.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260328T163744",
+            "title": "$Hannah Montana 20th Anniversary Special$ Hits Superstar Numbers Driving 6.3 Million Views on Disney+ and Hulu",
+            "summary": "The \"Hannah Montana 20th Anniversary Special\" achieved massive success, garnering 6.3 million views on Disney+ and Hulu within three days and boosting catalog viewing by nearly 1,000%. The celebration extended beyond streaming, influencing pop culture through widespread user-generated content, brand collaborations, and significant social media engagement across multiple platforms. Miley Cyrus's new song and original Hannah Montana tracks also saw substantial increases in streaming, underscoring the franchise's enduring popularity.",
+            "text_to_analyze": "$Hannah Montana 20th Anniversary Special$ Hits Superstar Numbers Driving 6.3 Million Views on Disney+ and Hulu. The \"Hannah Montana 20th Anniversary Special\" achieved massive success, garnering 6.3 million views on Disney+ and Hulu within three days and boosting catalog viewing by nearly 1,000%. The celebration extended beyond streaming, influencing pop culture through widespread user-generated content, brand collaborations, and significant social media engagement across multiple platforms. Miley Cyrus's new song and original Hannah Montana tracks also saw substantial increases in streaming, underscoring the franchise's enduring popularity.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.327631
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260328T152645",
+            "title": "Disneyland Paris Welcomes President Macron for the Unveiling of Disney Adventure World, a Transformative Reimagining of the Resort's Second Park",
+            "summary": "Disneyland Paris welcomed French President Emmanuel Macron for the unveiling of Disney Adventure World, a significant expansion representing a €2 billion investment and nearly doubling the park's footprint. This reimagining, which includes the new \"World of Frozen\" land, is set to open on March 29 and is expected to create 1,000 new jobs and boost tourism. An independent study highlighted Disneyland Paris' substantial economic impact on France, contributing 6.1% to national tourism revenue and supporting 70,000 jobs.",
+            "text_to_analyze": "Disneyland Paris Welcomes President Macron for the Unveiling of Disney Adventure World, a Transformative Reimagining of the Resort's Second Park. Disneyland Paris welcomed French President Emmanuel Macron for the unveiling of Disney Adventure World, a significant expansion representing a €2 billion investment and nearly doubling the park's footprint. This reimagining, which includes the new \"World of Frozen\" land, is set to open on March 29 and is expected to create 1,000 new jobs and boost tourism. An independent study highlighted Disneyland Paris' substantial economic impact on France, contributing 6.1% to national tourism revenue and supporting 70,000 jobs.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260328T123728",
+            "title": "Wedge Capital Management L L P NC Raises Position in The Walt Disney Company $DIS",
+            "summary": "Wedge Capital Management L L P NC increased its stake in The Walt Disney Company by 12.2% in the fourth quarter, purchasing an additional 33,519 shares, bringing their total holdings to 307,511 shares valued at approximately $34.99 million. The company reported strong quarterly earnings, surpassing revenue and EPS estimates, with analysts forecasting a 5.47 EPS for the current fiscal year. Despite some strategic concerns regarding AI partnerships, analysts maintain a \"Moderate Buy\" consensus rating for Disney with an average target price of $134.",
+            "text_to_analyze": "Wedge Capital Management L L P NC Raises Position in The Walt Disney Company $DIS. Wedge Capital Management L L P NC increased its stake in The Walt Disney Company by 12.2% in the fourth quarter, purchasing an additional 33,519 shares, bringing their total holdings to 307,511 shares valued at approximately $34.99 million. The company reported strong quarterly earnings, surpassing revenue and EPS estimates, with analysts forecasting a 5.47 EPS for the current fiscal year. Despite some strategic concerns regarding AI partnerships, analysts maintain a \"Moderate Buy\" consensus rating for Disney with an average target price of $134.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260328T111727",
+            "title": "The Walt Disney Company Stock: Institutional Confidence Builds Amid Streaming Gains and Theme Park Strength",
+            "summary": "Institutional investors are showing increased confidence in The Walt Disney Company as it achieves streaming profitability and its theme parks deliver record revenues. Exchange Traded Concepts notably increased its stake in Q4 2025, reflecting optimism in Disney's strategic shift. The article highlights Disney's diversified business model, the accelerating path to profitability for its streaming segment, and the robust recovery of its theme parks as key drivers for long-term value for North American investors.",
+            "text_to_analyze": "The Walt Disney Company Stock: Institutional Confidence Builds Amid Streaming Gains and Theme Park Strength. Institutional investors are showing increased confidence in The Walt Disney Company as it achieves streaming profitability and its theme parks deliver record revenues. Exchange Traded Concepts notably increased its stake in Q4 2025, reflecting optimism in Disney's strategic shift. The article highlights Disney's diversified business model, the accelerating path to profitability for its streaming segment, and the robust recovery of its theme parks as key drivers for long-term value for North American investors.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MarketBeat",
+            "date": "20260328T090724",
+            "title": "Generali Investments CEE investicni spolecnost a.s. Increases Holdings in The Walt Disney Company $DIS",
+            "summary": "Generali Investments CEE investicni spolecnost a.s. increased its stake in The Walt Disney Company by 19.4% in Q4, acquiring an additional 16,642 shares to own a total of 102,398 shares valued at $11.65 million. Walt Disney now constitutes 0.8% of Generali Investments CEE's holdings, making it their 25th largest position. Despite beating quarterly earnings estimates, Disney's stock is down approximately 2.4%, facing mixed analyst sentiment and strategic headwinds such as the cancellation of the OpenAI \"Sora\" partnership.",
+            "text_to_analyze": "Generali Investments CEE investicni spolecnost a.s. Increases Holdings in The Walt Disney Company $DIS. Generali Investments CEE investicni spolecnost a.s. increased its stake in The Walt Disney Company by 19.4% in Q4, acquiring an additional 16,642 shares to own a total of 102,398 shares valued at $11.65 million. Walt Disney now constitutes 0.8% of Generali Investments CEE's holdings, making it their 25th largest position. Despite beating quarterly earnings estimates, Disney's stock is down approximately 2.4%, facing mixed analyst sentiment and strategic headwinds such as the cancellation of the OpenAI \"Sora\" partnership.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260327T181723",
+            "title": "Vanguard Amendment shows 0% stake in Walt Disney Co (NYSE: DIS)",
+            "summary": "The Vanguard Group filed an amendment (Schedule 13G/A) reporting zero beneficial ownership of Walt Disney Co common stock. This change is due to an internal realignment effective January 12, 2026, where certain subsidiaries will now report their beneficial ownership separately in accordance with SEC guidelines. The amendment emphasizes that this is a structural reporting change, not a sale of Disney shares.",
+            "text_to_analyze": "Vanguard Amendment shows 0% stake in Walt Disney Co (NYSE: DIS). The Vanguard Group filed an amendment (Schedule 13G/A) reporting zero beneficial ownership of Walt Disney Co common stock. This change is due to an internal realignment effective January 12, 2026, where certain subsidiaries will now report their beneficial ownership separately in accordance with SEC guidelines. The amendment emphasizes that this is a structural reporting change, not a sale of Disney shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Sahm",
+            "date": "20260327T173749",
+            "title": "General Mills Bets On Moana Cereal Tie In And Clean Label Push",
+            "summary": "General Mills has launched two new cereals, Lucky Charms Unicorn Cotton Candy and Tropical Trix featuring Disney’s Moana, both utilizing natural colors as part of its clean label initiative. This move aims to increase visibility and family engagement, despite the company's shares experiencing a significant decline over the past one, three, and five years. The strategy underscores General Mills' efforts to revitalize its cereal division through brand reinvestment, licensing partnerships, and reformulated ingredients, while balancing potential impacts on margins.",
+            "text_to_analyze": "General Mills Bets On Moana Cereal Tie In And Clean Label Push. General Mills has launched two new cereals, Lucky Charms Unicorn Cotton Candy and Tropical Trix featuring Disney’s Moana, both utilizing natural colors as part of its clean label initiative. This move aims to increase visibility and family engagement, despite the company's shares experiencing a significant decline over the past one, three, and five years. The strategy underscores General Mills' efforts to revitalize its cereal division through brand reinvestment, licensing partnerships, and reformulated ingredients, while balancing potential impacts on margins.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.711989
+        }
+    ]
+}

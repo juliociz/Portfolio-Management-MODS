@@ -1,0 +1,81 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-04",
+    "window_start": "2026-03-03 16:00",
+    "window_end": "2026-03-04 09:27",
+    "articles": [
+        {
+            "source": "ABC30 Fresno",
+            "date": "20260304T045001",
+            "title": "Children's and Family Emmys held in NYC; Walt Disney Company wins 22 awards",
+            "summary": "The Walt Disney Company secured 22 awards at the Children's & Family Emmy Awards in New York City. Disney+ alone accounted for 21 of these wins, with programs like \"Descendants: The Rise of Red\" and \"Win or Lose\" each receiving five awards. Bill Nye the Science Guy was also honored with a Lifetime Achievement Award during the ceremony.",
+            "text_to_analyze": "Children's and Family Emmys held in NYC; Walt Disney Company wins 22 awards. The Walt Disney Company secured 22 awards at the Children's & Family Emmy Awards in New York City. Disney+ alone accounted for 21 of these wins, with programs like \"Descendants: The Rise of Red\" and \"Win or Lose\" each receiving five awards. Bill Nye the Science Guy was also honored with a Lifetime Achievement Award during the ceremony.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "매일경제",
+            "date": "20260304T025229",
+            "title": "Webtoon Entertainment narrows operating loss by 36.9% in 2025",
+            "summary": "Webtoon Entertainment significantly narrowed its operating loss by 36.9% to $63.51 million in 2025, although net loss more than doubled due to goodwill impairment. Revenue continued to grow, reaching $1.38 billion, driven by a strong performance in its intellectual property business. The company plans to expand its IP business further in 2026, including a new platform with Disney and adaptations of popular webtoons.",
+            "text_to_analyze": "Webtoon Entertainment narrows operating loss by 36.9% in 2025. Webtoon Entertainment significantly narrowed its operating loss by 36.9% to $63.51 million in 2025, although net loss more than doubled due to goodwill impairment. Revenue continued to grow, reaching $1.38 billion, driven by a strong performance in its intellectual property business. The company plans to expand its IP business further in 2026, including a new platform with Disney and adaptations of popular webtoons.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.74247
+        },
+        {
+            "source": "6abc Philadelphia",
+            "date": "20260303T232559",
+            "title": "Children's and Family Emmys held in NYC; Walt Disney Company wins 22 awards",
+            "summary": "The Walt Disney Company secured 22 awards at the Children's & Family Emmy Awards in New York City, with Disney+ content earning 21 of these. \"Descendants: The Rise Of Red\" and \"Win or Lose\" led with five wins each, and \"Star Wars: Skeleton Crew\" won Outstanding Young Teen Series. Bill Nye the Science Guy was also honored with the Lifetime Achievement Award during the ceremony.",
+            "text_to_analyze": "Children's and Family Emmys held in NYC; Walt Disney Company wins 22 awards. The Walt Disney Company secured 22 awards at the Children's & Family Emmy Awards in New York City, with Disney+ content earning 21 of these. \"Descendants: The Rise Of Red\" and \"Win or Lose\" led with five wins each, and \"Star Wars: Skeleton Crew\" won Outstanding Young Teen Series. Bill Nye the Science Guy was also honored with the Lifetime Achievement Award during the ceremony.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "www.marketscreener.com",
+            "date": "20260303T215004",
+            "title": "The Walt Disney Company Enters into New USD 5,250 Million 364-Day Credit Agreement and USD 4,000 Million Five-Year Credit Agreement",
+            "summary": "The Walt Disney Company has secured a new 364-day credit agreement for up to $5.25 billion and a five-year credit agreement for up to $4 billion, replacing previous agreements. These unsecured credit lines, guaranteed by TWDC Enterprises 18 Corp., are intended to support commercial paper borrowings and general corporate purposes. The agreements include standard covenants, default provisions, and interest rate mechanisms, with certain entities like Hong Kong Disneyland, Shanghai Disney Resort, and FuboTV Inc. explicitly excluded from representations, covenants, or events of default.",
+            "text_to_analyze": "The Walt Disney Company Enters into New USD 5,250 Million 364-Day Credit Agreement and USD 4,000 Million Five-Year Credit Agreement. The Walt Disney Company has secured a new 364-day credit agreement for up to $5.25 billion and a five-year credit agreement for up to $4 billion, replacing previous agreements. These unsecured credit lines, guaranteed by TWDC Enterprises 18 Corp., are intended to support commercial paper borrowings and general corporate purposes. The agreements include standard covenants, default provisions, and interest rate mechanisms, with certain entities like Hong Kong Disneyland, Shanghai Disney Resort, and FuboTV Inc. explicitly excluded from representations, covenants, or events of default.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260303T214958",
+            "title": "Disney (DIS) secures $9.25B in new credit facilities and amends 2024 line",
+            "summary": "The Walt Disney Company has secured $9.25 billion in new unsecured credit facilities, replacing existing lines to support short-term borrowing and general corporate needs. These include a $5.25 billion 364-day facility and a $4 billion five-year facility, both guaranteed by TWDC Enterprises 18 Corp. The agreements feature a key financial covenant requiring a minimum Consolidated EBITDA to Consolidated Interest Expense ratio of 3.00 to 1.00, and exclude certain entities like Hong Kong Disneyland, Shanghai Disney Resort, and FuboTV Inc.",
+            "text_to_analyze": "Disney (DIS) secures $9.25B in new credit facilities and amends 2024 line. The Walt Disney Company has secured $9.25 billion in new unsecured credit facilities, replacing existing lines to support short-term borrowing and general corporate needs. These include a $5.25 billion 364-day facility and a $4 billion five-year facility, both guaranteed by TWDC Enterprises 18 Corp. The agreements feature a key financial covenant requiring a minimum Consolidated EBITDA to Consolidated Interest Expense ratio of 3.00 to 1.00, and exclude certain entities like Hong Kong Disneyland, Shanghai Disney Resort, and FuboTV Inc.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "ABC7 Chicago",
+            "date": "20260303T195008",
+            "title": "Children's and Family Emmys held in NYC; Walt Disney Company wins 22 awards",
+            "summary": "The Walt Disney Company won 22 awards at the Children's & Family Emmy Awards in New York City, with Disney+ content securing 21 of them. \"Descendants: The Rise Of Red\" and \"Win or Lose\" led with five wins each, and \"Star Wars: Skeleton Crew\" won Outstanding Young Teen Series. Bill Nye the Science Guy received the Lifetime Achievement Award during the ceremony.",
+            "text_to_analyze": "Children's and Family Emmys held in NYC; Walt Disney Company wins 22 awards. The Walt Disney Company won 22 awards at the Children's & Family Emmy Awards in New York City, with Disney+ content securing 21 of them. \"Descendants: The Rise Of Red\" and \"Win or Lose\" led with five wins each, and \"Star Wars: Skeleton Crew\" won Outstanding Young Teen Series. Bill Nye the Science Guy received the Lifetime Achievement Award during the ceremony.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Media Play News",
+            "date": "20260303T185043",
+            "title": "Morgan Stanley Technology Archives",
+            "summary": "Comcast CEO Michael Cavanagh stated that Peacock's path to profitability focuses on a domestic-first strategy in the U.S., rather than global expansion, having seen strong subscriber growth and engagement from live sports. Meanwhile, Disney CFO Hugh Johnston discussed Disney+'s strategy to increase user engagement in North America through higher quality programming and expand internationally by focusing on popular local content like Japanese anime and Latin American telenovelas, while also valuing theatrical windows for major releases. Both executives presented at the Morgan Stanley Technology, Media & Telecom Conference.",
+            "text_to_analyze": "Morgan Stanley Technology Archives. Comcast CEO Michael Cavanagh stated that Peacock's path to profitability focuses on a domestic-first strategy in the U.S., rather than global expansion, having seen strong subscriber growth and engagement from live sports. Meanwhile, Disney CFO Hugh Johnston discussed Disney+'s strategy to increase user engagement in North America through higher quality programming and expand internationally by focusing on popular local content like Japanese anime and Latin American telenovelas, while also valuing theatrical windows for major releases. Both executives presented at the Morgan Stanley Technology, Media & Telecom Conference.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.721495
+        },
+        {
+            "source": "ABC7 Los Angeles",
+            "date": "20260303T185001",
+            "title": "Children's and Family Emmy Awards held in NYC, celebrating creativity and innovation in entertainment",
+            "summary": "The Walt Disney Company achieved significant success at the Children's & Family Emmy Awards in New York City, taking home 22 awards across its various content brands and studios. Disney+ alone secured 21 of these awards, with \"Descendants: The Rise Of Red\" and \"Win or Lose\" being top programs. Honored during the ceremony, Bill Nye the Science Guy received the Lifetime Achievement Award.",
+            "text_to_analyze": "Children's and Family Emmy Awards held in NYC, celebrating creativity and innovation in entertainment. The Walt Disney Company achieved significant success at the Children's & Family Emmy Awards in New York City, taking home 22 awards across its various content brands and studios. Disney+ alone secured 21 of these awards, with \"Descendants: The Rise Of Red\" and \"Win or Lose\" being top programs. Honored during the ceremony, Bill Nye the Science Guy received the Lifetime Achievement Award.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        }
+    ]
+}

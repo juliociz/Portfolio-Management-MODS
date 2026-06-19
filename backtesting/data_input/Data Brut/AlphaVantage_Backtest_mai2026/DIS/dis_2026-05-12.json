@@ -1,0 +1,18 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-05-12",
+    "window_start": "2026-05-11 16:00",
+    "window_end": "2026-05-12 09:27",
+    "articles": [
+        {
+            "source": "매일경제",
+            "date": "20260512T051008",
+            "title": "WEBTOON's U.S. headquarters posts more than 10 billion won in operating loss in Q1",
+            "summary": "WEBTOON Entertainment Inc., Naver Webtoon's U.S. headquarters, reported an operating loss of over 10 billion won in Q1, although this marks a significant reduction from the prior year. Revenue saw a slight dip, but the company noted increased monthly paying users in Korea and globally. Strategic content diversification, including collaborations with Disney and adaptations of Wattpad novels, is key to their turnaround strategy.",
+            "text_to_analyze": "WEBTOON's U.S. headquarters posts more than 10 billion won in operating loss in Q1. WEBTOON Entertainment Inc., Naver Webtoon's U.S. headquarters, reported an operating loss of over 10 billion won in Q1, although this marks a significant reduction from the prior year. Revenue saw a slight dip, but the company noted increased monthly paying users in Korea and globally. Strategic content diversification, including collaborations with Disney and adaptations of Wattpad novels, is key to their turnaround strategy.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.710435
+        }
+    ]
+}

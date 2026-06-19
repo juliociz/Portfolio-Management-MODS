@@ -1,0 +1,45 @@
+{
+    "ticker": "TSLA",
+    "company_name": "Tesla",
+    "target_date": "2026-05-06",
+    "window_start": "2026-05-05 16:00",
+    "window_end": "2026-05-06 09:27",
+    "articles": [
+        {
+            "source": "Benzinga",
+            "date": "20260506T083825",
+            "title": "Tesla Recalls Over 218,000 Vehicles In US",
+            "summary": "Tesla has recalled over 218,000 vehicles in the U.S., including Model S, 3, X, and Y units from various model years, due to a rearview camera image delay when reversing. An over-the-air software update has been deployed to fix this issue, which causes the vehicles to fail compliance with Federal Motor Vehicle Safety Standard 111. Despite this recall, Tesla has seen varied sales performance in European markets, with significant growth in some countries while facing declines in others due to factors like the rollback of EV incentives.",
+            "text_to_analyze": "Tesla Recalls Over 218,000 Vehicles In US. Tesla has recalled over 218,000 vehicles in the U.S., including Model S, 3, X, and Y units from various model years, due to a rearview camera image delay when reversing. An over-the-air software update has been deployed to fix this issue, which causes the vehicles to fail compliance with Federal Motor Vehicle Safety Standard 111. Despite this recall, Tesla has seen varied sales performance in European markets, with significant growth in some countries while facing declines in others due to factors like the rollback of EV incentives.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "MSN",
+            "date": "20260506T041003",
+            "title": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2369",
+            "summary": "The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2369 per share for its shareholders. This distribution for the period of May 13 to May 19, 2026, is payable on or about May 24, 2026, to shareholders of record as of May 15, 2026. TSLY is an actively managed exchange-traded fund that aims to generate current income from an options trading strategy that sells put and call options on TSLA shares.",
+            "text_to_analyze": "YieldMax Short TSLA Option Income Strategy ETF announces weekly distribution of $0.2369. The YieldMax Short TSLA Option Income Strategy ETF (TSLY) has declared a weekly distribution of $0.2369 per share for its shareholders. This distribution for the period of May 13 to May 19, 2026, is payable on or about May 24, 2026, to shareholders of record as of May 15, 2026. TSLY is an actively managed exchange-traded fund that aims to generate current income from an options trading strategy that sells put and call options on TSLA shares.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 0.601643
+        },
+        {
+            "source": "Reuters",
+            "date": "20260505T170321",
+            "title": "Tesla's supervised self-driving software could be up for approval in Belgian region",
+            "summary": "Tesla's \"full self-driving\" (FSD) software, which requires driver attention, is being considered for fast-track approval in Belgium's Flanders region after receiving provisional approval in the Netherlands. Flanders' transport minister, Annick De Ridder, has requested documents from Tesla to assess a swift adoption, emphasizing the need to enable innovation thoughtfully and safely. While some EU countries are skeptical, this move could significantly boost Tesla's FSD rollout ambitions in Europe.",
+            "text_to_analyze": "Tesla's supervised self-driving software could be up for approval in Belgian region. Tesla's \"full self-driving\" (FSD) software, which requires driver attention, is being considered for fast-track approval in Belgium's Flanders region after receiving provisional approval in the Netherlands. Flanders' transport minister, Annick De Ridder, has requested documents from Tesla to assess a swift adoption, emphasizing the need to enable innovation thoughtfully and safely. While some EU countries are skeptical, this move could significantly boost Tesla's FSD rollout ambitions in Europe.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Manufacturing Dive",
+            "date": "20260505T161422",
+            "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty",
+            "summary": "U.S. robotics and automation firms like Rockwell Automation and Teradyne are experiencing double-digit sales growth, driven by demand from data centers and other manufacturing sectors. Despite some caution in capital spending due to geopolitical uncertainty, these companies are seeing strong performance in their intelligent devices and robotics divisions. Tesla is also making significant strides in its robotics division, with Elon Musk teasing the Optimus humanoid robot as potentially its \"biggest product ever\" with production expected to start this year.",
+            "text_to_analyze": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty. U.S. robotics and automation firms like Rockwell Automation and Teradyne are experiencing double-digit sales growth, driven by demand from data centers and other manufacturing sectors. Despite some caution in capital spending due to geopolitical uncertainty, these companies are seeing strong performance in their intelligent devices and robotics divisions. Tesla is also making significant strides in its robotics division, with Elon Musk teasing the Optimus humanoid robot as potentially its \"biggest product ever\" with production expected to start this year.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.863996
+        }
+    ]
+}

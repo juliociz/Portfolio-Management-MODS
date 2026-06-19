@@ -1,0 +1,63 @@
+{
+    "ticker": "TGT",
+    "company_name": "Target",
+    "target_date": "2026-05-19",
+    "window_start": "2026-05-18 16:00",
+    "window_end": "2026-05-19 09:27",
+    "articles": [
+        {
+            "source": "TechStock²",
+            "date": "20260519T083922",
+            "title": "Costco Stock Just Hit a High—Here’s the Next Thing Traders Are Watching",
+            "summary": "Costco Wholesale Corp. shares surged to a new high, closing up 2.62% at $1,076.47, marking their fifth consecutive gain as the company prepares for its fiscal third-quarter earnings call on May 28. The stock's performance is driven by strong April net sales, which rose 13.0% to $23.92 billion, and an 11.6% increase in total comparable sales. Traders are now watching to see if this sales momentum can be sustained, especially given the stock's high valuation and analyst price targets hovering near current levels.",
+            "text_to_analyze": "Costco Stock Just Hit a High—Here’s the Next Thing Traders Are Watching. Costco Wholesale Corp. shares surged to a new high, closing up 2.62% at $1,076.47, marking their fifth consecutive gain as the company prepares for its fiscal third-quarter earnings call on May 28. The stock's performance is driven by strong April net sales, which rose 13.0% to $23.92 billion, and an 11.6% increase in total comparable sales. Traders are now watching to see if this sales momentum can be sustained, especially given the stock's high valuation and analyst price targets hovering near current levels.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.624512
+        },
+        {
+            "source": "TradingView",
+            "date": "20260519T014037",
+            "title": "Marvell Technology, Inc. Trade Ideas — EUROTLX:49MW",
+            "summary": "This article compiles various trading ideas and analyses for Marvell Technology, Inc. (EUROTLX:49MW) from different traders on TradingView. The ideas range from bullish outlooks based on strong revenues and technical indicators to bearish predictions citing negative cash flow, potential trend line breaks, and upcoming corrections. Traders share their analyses, key levels, targets, and disclaimers that their opinions are not investment advice.",
+            "text_to_analyze": "Marvell Technology, Inc. Trade Ideas — EUROTLX:49MW. This article compiles various trading ideas and analyses for Marvell Technology, Inc. (EUROTLX:49MW) from different traders on TradingView. The ideas range from bullish outlooks based on strong revenues and technical indicators to bearish predictions citing negative cash flow, potential trend line breaks, and upcoming corrections. Traders share their analyses, key levels, targets, and disclaimers that their opinions are not investment advice.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.678982
+        },
+        {
+            "source": "WWD",
+            "date": "20260518T213835",
+            "title": "Isaac Mizrahi Seen Returning to Target: Sources",
+            "summary": "Designer Isaac Mizrahi is reportedly making a significant return to Target, according to industry sources. This move aligns with Target CEO Michael Fiddelke's strategy to revitalize the retailer's style and design offerings. Mizrahi previously partnered with Target for a successful five-year collaboration starting in 2002, known for democratizing fashion and adding \"zing\" to the brand.",
+            "text_to_analyze": "Isaac Mizrahi Seen Returning to Target: Sources. Designer Isaac Mizrahi is reportedly making a significant return to Target, according to industry sources. This move aligns with Target CEO Michael Fiddelke's strategy to revitalize the retailer's style and design offerings. Mizrahi previously partnered with Target for a successful five-year collaboration starting in 2002, known for democratizing fashion and adding \"zing\" to the brand.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.969441
+        },
+        {
+            "source": "AD HOC NEWS",
+            "date": "20260518T210156",
+            "title": "Target Corp. stock (US87612E1064): investors weigh recent earnings and consumer headwinds",
+            "summary": "This article analyzes Target Corp.'s recent quarterly earnings and its position within the US retail market, considering consumer behavior and competitive pressures. It details Target's business model, revenue drivers, and strategic initiatives aimed at balancing essential goods sales with discretionary categories. The piece highlights how the company's performance and operational strategies like in-store remodels, supply chain upgrades, and digital enhancements are crucial for investors monitoring US consumer spending and retail trends.",
+            "text_to_analyze": "Target Corp. stock (US87612E1064): investors weigh recent earnings and consumer headwinds. This article analyzes Target Corp.'s recent quarterly earnings and its position within the US retail market, considering consumer behavior and competitive pressures. It details Target's business model, revenue drivers, and strategic initiatives aimed at balancing essential goods sales with discretionary categories. The piece highlights how the company's performance and operational strategies like in-store remodels, supply chain upgrades, and digital enhancements are crucial for investors monitoring US consumer spending and retail trends.",
+            "alpha_vantage_sentiment_label": "Neutral",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "InvestorPlace",
+            "date": "20260518T200455",
+            "title": "Target Upgraded, Pfizer Downgraded: Updated Rankings on Top Blue-Chip Stocks",
+            "summary": "Louis Navellier, Editor of Growth Investor, has updated his Stock Grader recommendations for 95 blue-chip stocks based on institutional buying pressure and fundamental health. The article provides a comprehensive list of upgrades and downgrades, with notable changes including Target being upgraded from Neutral to Strong and Pfizer being downgraded from Strong to Neutral. Readers are encouraged to check their portfolios against the revised rankings.",
+            "text_to_analyze": "Target Upgraded, Pfizer Downgraded: Updated Rankings on Top Blue-Chip Stocks. Louis Navellier, Editor of Growth Investor, has updated his Stock Grader recommendations for 95 blue-chip stocks based on institutional buying pressure and fundamental health. The article provides a comprehensive list of upgrades and downgrades, with notable changes including Target being upgraded from Neutral to Strong and Pfizer being downgraded from Strong to Neutral. Readers are encouraged to check their portfolios against the revised rankings.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.938126
+        },
+        {
+            "source": "Barron's",
+            "date": "20260518T180857",
+            "title": "Consumer Staples Are Back in Vogue. Revisiting Coca-Cola and Target.",
+            "summary": "Consumer staples stocks have seen a recent resurgence, outperforming other sectors over the last month. This indicates a potential shift in investor focus towards more defensive investments after a strong rally in growth and technology stocks. The article points to Coca-Cola's strong 2026 performance and dividend yield as an example.",
+            "text_to_analyze": "Consumer Staples Are Back in Vogue. Revisiting Coca-Cola and Target.. Consumer staples stocks have seen a recent resurgence, outperforming other sectors over the last month. This indicates a potential shift in investor focus towards more defensive investments after a strong rally in growth and technology stocks. The article points to Coca-Cola's strong 2026 performance and dividend yield as an example.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.886096
+        }
+    ]
+}

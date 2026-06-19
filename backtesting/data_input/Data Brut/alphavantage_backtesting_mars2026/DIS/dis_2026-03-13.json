@@ -1,0 +1,108 @@
+{
+    "ticker": "DIS",
+    "company_name": "Disney",
+    "target_date": "2026-03-13",
+    "window_start": "2026-03-12 16:00",
+    "window_end": "2026-03-13 09:27",
+    "articles": [
+        {
+            "source": "MarketBeat",
+            "date": "20260313T091307",
+            "title": "The Walt Disney Company $DIS Holdings Trimmed by Entropy Technologies LP",
+            "summary": "Entropy Technologies LP reduced its stake in The Walt Disney Company (NYSE:DIS) by 25.3% in the third quarter, selling over 26,000 shares. Despite this reduction, Walt Disney remains a significant holding for the firm, representing 0.7% of its portfolio. Various other institutional investors have also adjusted their positions in DIS, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $135.80.",
+            "text_to_analyze": "The Walt Disney Company $DIS Holdings Trimmed by Entropy Technologies LP. Entropy Technologies LP reduced its stake in The Walt Disney Company (NYSE:DIS) by 25.3% in the third quarter, selling over 26,000 shares. Despite this reduction, Walt Disney remains a significant holding for the firm, representing 0.7% of its portfolio. Various other institutional investors have also adjusted their positions in DIS, while analysts maintain a \"Moderate Buy\" consensus rating with an average target price of $135.80.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Investing.com Nigeria",
+            "date": "20260312T195213",
+            "title": "Evercore ISI cuts Webtoon Entertainment stock price target on soft outlook",
+            "summary": "Evercore ISI has cut its price target for Webtoon Entertainment (WBTN) to $15 from $20, while maintaining an Outperform rating due to inconsistent execution and a soft first-quarter outlook. The firm lowered its revenue and adjusted EBITDA estimates for fiscal years 2026 and 2027. Webtoon aims to achieve double-digit revenue growth by Q4 2026 through infrastructure projects, advertising recovery, and IP growth, including a new Webtoon-Disney platform.",
+            "text_to_analyze": "Evercore ISI cuts Webtoon Entertainment stock price target on soft outlook. Evercore ISI has cut its price target for Webtoon Entertainment (WBTN) to $15 from $20, while maintaining an Outperform rating due to inconsistent execution and a soft first-quarter outlook. The firm lowered its revenue and adjusted EBITDA estimates for fiscal years 2026 and 2027. Webtoon aims to achieve double-digit revenue growth by Q4 2026 through infrastructure projects, advertising recovery, and IP growth, including a new Webtoon-Disney platform.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bearish",
+            "ticker_relevance_score": 0.567723
+        },
+        {
+            "source": "Business Wire",
+            "date": "20260312T195004",
+            "title": "Paul Roeder Named Chief Communications Officer of The Walt Disney Company",
+            "summary": "Paul Roeder has been appointed as the Senior Executive Vice President and Chief Communications Officer of The Walt Disney Company, effective March 19, reporting directly to incoming CEO Josh D’Amaro. A 25-year Disney veteran, Roeder will oversee Disney's worldwide communications and public relations strategy. He previously led communications for Disney Entertainment Studios, Direct-to-Consumer, and International, playing a key role in major studio acquisitions and the launch of Disney+.",
+            "text_to_analyze": "Paul Roeder Named Chief Communications Officer of The Walt Disney Company. Paul Roeder has been appointed as the Senior Executive Vice President and Chief Communications Officer of The Walt Disney Company, effective March 19, reporting directly to incoming CEO Josh D’Amaro. A 25-year Disney veteran, Roeder will oversee Disney's worldwide communications and public relations strategy. He previously led communications for Disney Entertainment Studios, Direct-to-Consumer, and International, playing a key role in major studio acquisitions and the launch of Disney+.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Laughing Place",
+            "date": "20260312T185204",
+            "title": "Paul Roeder Ascends to Chief Communications Officer of The Walt Disney Company",
+            "summary": "Paul Roeder, a 25-year veteran at Disney, has been appointed as the Senior Executive Vice President and Chief Communications Officer for The Walt Disney Company, effective March 19. He will report directly to incoming CEO Josh D’Amaro, overseeing all global communications and public relations strategies. Roeder's extensive experience includes communications leadership during major acquisitions like Lucasfilm and 21st Century Fox, and overseeing communications for the launch of Disney+ and numerous blockbuster film campaigns.",
+            "text_to_analyze": "Paul Roeder Ascends to Chief Communications Officer of The Walt Disney Company. Paul Roeder, a 25-year veteran at Disney, has been appointed as the Senior Executive Vice President and Chief Communications Officer for The Walt Disney Company, effective March 19. He will report directly to incoming CEO Josh D’Amaro, overseeing all global communications and public relations strategies. Roeder's extensive experience includes communications leadership during major acquisitions like Lucasfilm and 21st Century Fox, and overseeing communications for the launch of Disney+ and numerous blockbuster film campaigns.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "JetBlue",
+            "date": "20260312T175240",
+            "title": "JetBlue and Disneyland® Paris Bring the World of Frozen to the Skies with a Royal Sweepstakes",
+            "summary": "JetBlue has partnered with Disneyland Paris to celebrate the grand opening of the park’s World of Frozen on March 29, 2026. This collaboration includes a sweepstakes offering one group of four a VIP trip to Disneyland Paris, featuring round-trip travel in JetBlue's Mint experience and exclusive park benefits. The partnership also highlights JetBlue’s transatlantic service to Paris and inflight entertainment with Frozen movies.",
+            "text_to_analyze": "JetBlue and Disneyland® Paris Bring the World of Frozen to the Skies with a Royal Sweepstakes. JetBlue has partnered with Disneyland Paris to celebrate the grand opening of the park’s World of Frozen on March 29, 2026. This collaboration includes a sweepstakes offering one group of four a VIP trip to Disneyland Paris, featuring round-trip travel in JetBlue's Mint experience and exclusive park benefits. The partnership also highlights JetBlue’s transatlantic service to Paris and inflight entertainment with Frozen movies.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 0.837737
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260312T175004",
+            "title": "Paul Roeder Named Chief Communications Officer of The Walt Disney Company",
+            "summary": "Paul Roeder has been appointed as the Senior Executive Vice President and Chief Communications Officer of The Walt Disney Company, effective March 19. With 25 years of experience at Disney, Roeder will be responsible for leading the company's global communications strategy, reporting directly to CEO Josh D’Amaro. His role includes overseeing various communications functions, media relations, and corporate social responsibility across Disney’s worldwide operations.",
+            "text_to_analyze": "Paul Roeder Named Chief Communications Officer of The Walt Disney Company. Paul Roeder has been appointed as the Senior Executive Vice President and Chief Communications Officer of The Walt Disney Company, effective March 19. With 25 years of experience at Disney, Roeder will be responsible for leading the company's global communications strategy, reporting directly to CEO Josh D’Amaro. His role includes overseeing various communications functions, media relations, and corporate social responsibility across Disney’s worldwide operations.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Reuters",
+            "date": "20260312T175000",
+            "title": "Disney appoints veteran Paul Roeder as communications chief",
+            "summary": "Walt Disney Co. has appointed Paul Roeder as its new senior executive vice president and chief communications officer, effective March 19. Roeder, a 25-year company veteran, will oversee worldwide communications and serve as Disney's lead spokesperson, reporting to incoming chief executive Josh D'Amaro. This appointment is one of several leadership changes following D'Amaro's recent designation as the new top boss.",
+            "text_to_analyze": "Disney appoints veteran Paul Roeder as communications chief. Walt Disney Co. has appointed Paul Roeder as its new senior executive vice president and chief communications officer, effective March 19. Roeder, a 25-year company veteran, will oversee worldwide communications and serve as Disney's lead spokesperson, reporting to incoming chief executive Josh D'Amaro. This appointment is one of several leadership changes following D'Amaro's recent designation as the new top boss.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Stock Titan",
+            "date": "20260312T174003",
+            "title": "Disney hands global communications reins to 25-year insider",
+            "summary": "The Walt Disney Company has appointed Paul Roeder as its new Senior Executive Vice President and Chief Communications Officer, effective March 19. A 25-year Disney veteran, Roeder will lead the company's worldwide communications and public relations strategy, reporting directly to incoming CEO Josh D’Amaro. He previously oversaw communications for Disney Entertainment Studios, Direct-to-Consumer, and International, playing a key role in major acquisitions and film releases.",
+            "text_to_analyze": "Disney hands global communications reins to 25-year insider. The Walt Disney Company has appointed Paul Roeder as its new Senior Executive Vice President and Chief Communications Officer, effective March 19. A 25-year Disney veteran, Roeder will lead the company's worldwide communications and public relations strategy, reporting directly to incoming CEO Josh D’Amaro. He previously oversaw communications for Disney Entertainment Studios, Direct-to-Consumer, and International, playing a key role in major acquisitions and film releases.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.950997
+        },
+        {
+            "source": "Deadline",
+            "date": "20260312T174003",
+            "title": "Incoming Disney CEO Josh D’Amaro Picks Company Vet Paul Roeder To Lead Corp Comms",
+            "summary": "Incoming Disney CEO Josh D’Amaro has promoted 25-year company veteran Paul Roeder to Senior EVP and Chief Communications Officer. Roeder will lead Disney's global communications and public relations, serving as the company's lead spokesperson, with his promotion effective March 19. He has played a pivotal role in major Disney acquisitions and launches, including the integration of 21st Century Fox and the launch of Disney+.",
+            "text_to_analyze": "Incoming Disney CEO Josh D’Amaro Picks Company Vet Paul Roeder To Lead Corp Comms. Incoming Disney CEO Josh D’Amaro has promoted 25-year company veteran Paul Roeder to Senior EVP and Chief Communications Officer. Roeder will lead Disney's global communications and public relations, serving as the company's lead spokesperson, with his promotion effective March 19. He has played a pivotal role in major Disney acquisitions and launches, including the integration of 21st Century Fox and the launch of Disney+.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "The Walt Disney Company",
+            "date": "20260312T171203",
+            "title": "More ‘Bluey’ Is Coming to Disney+",
+            "summary": "Disney+ is expanding its \"Bluey\" content with new additions in March and May 2026. This includes \"Bluey’s Big Play – The Stage Show,\" a televised version of the popular touring production, and a collection of \"Bluey Minisodes\" previously available only online and in Australia. The global phenomenon \"Bluey\" was the top-streamed program in the U.S. for the second consecutive year in 2025.",
+            "text_to_analyze": "More ‘Bluey’ Is Coming to Disney+. Disney+ is expanding its \"Bluey\" content with new additions in March and May 2026. This includes \"Bluey’s Big Play – The Stage Show,\" a televised version of the popular touring production, and a collection of \"Bluey Minisodes\" previously available only online and in Australia. The global phenomenon \"Bluey\" was the top-streamed program in the U.S. for the second consecutive year in 2025.",
+            "alpha_vantage_sentiment_label": "Bullish",
+            "ticker_relevance_score": 1.0
+        },
+        {
+            "source": "Insider Monkey",
+            "date": "20260312T163000",
+            "title": "The Walt Disney Company (DIS) Sees Strong U.S. Debut from New Pixar Film",
+            "summary": "The Walt Disney Company (DIS) saw a strong U.S. debut for its new Pixar film, \"Hoppers,\" which grossed an estimated $46 million and marks the best launch for new Pixar characters since \"Coco\" in 2017. This success highlights Pixar's continued ability to attract audiences with original stories. Additionally, the article notes the upcoming departure of Kristina Schake, Senior Executive Vice President and Chief Communications Officer, aligning with Bob Iger’s CEO tenure conclusion.",
+            "text_to_analyze": "The Walt Disney Company (DIS) Sees Strong U.S. Debut from New Pixar Film. The Walt Disney Company (DIS) saw a strong U.S. debut for its new Pixar film, \"Hoppers,\" which grossed an estimated $46 million and marks the best launch for new Pixar characters since \"Coco\" in 2017. This success highlights Pixar's continued ability to attract audiences with original stories. Additionally, the article notes the upcoming departure of Kristina Schake, Senior Executive Vice President and Chief Communications Officer, aligning with Bob Iger’s CEO tenure conclusion.",
+            "alpha_vantage_sentiment_label": "Somewhat-Bullish",
+            "ticker_relevance_score": 0.984092
+        }
+    ]
+}
