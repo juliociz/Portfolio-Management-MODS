@@ -46,8 +46,8 @@ stocks = [
 nyse = mcal.get_calendar("NYSE")
 
 trading_days = nyse.schedule(
-    start_date="2026-03-01",
-    end_date="2026-03-31"
+    start_date="2026-02-01",
+    end_date="2026-02-28"
 ).index
 
 print(f"{len(trading_days)} séances détectées.")
@@ -72,9 +72,9 @@ for trading_day in trading_days:
     trading_day = trading_day.to_pydatetime()
     
     # 🛑 Sécurité brute : On ignore les jours strictement inférieurs au 6 mai
-    if trading_day.date() < datetime(2026, 3, 23).date():
-        current_request += len(stocks) # On met à jour le compteur global pour l'affichage
-        continue
+    #if trading_day.date() < datetime(2026, 2, 23).date():
+    #    current_request += len(stocks) # On met à jour le compteur global pour l'affichage
+    #    continue
 
     print(
         f"\n==============================\n"
