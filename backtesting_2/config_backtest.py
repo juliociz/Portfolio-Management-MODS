@@ -15,15 +15,15 @@ from pathlib import Path
 TICKERS = ["NKE", "TGT", "DIS", "SBUX", "TSLA"]
 
 # ── Dates du backtest ─────────────────────────────────────────────────────────
-BACKTEST_START = "2025-05-01"
-BACKTEST_END   = "2025-05-31"
+BACKTEST_START = "2026-01-02"
+BACKTEST_END   = "2026-05-29"
 
 # ── Capital notionnel ─────────────────────────────────────────────────────────
 INITIAL_CAPITAL = 100_000.0
 
 # ── Pondération des signaux ───────────────────────────────────────────────────
-SENTIMENT_WEIGHT = 0.5
-MOMENTUM_WEIGHT = 0.5
+SENTIMENT_WEIGHT = 0.8
+MOMENTUM_WEIGHT = 0.2
 
 # ── Fenêtres de momentum (en mois) ────────────────────────────────────────────
 MOMENTUM_WINDOWS = [1, 3]          # V1 ; ajouter 6 si historique disponible
@@ -32,15 +32,17 @@ TRADING_DAYS_PER_MONTH = 21
 # ── PyPortfolioOpt ────────────────────────────────────────────────────────────
 SIGNAL_STRENGTH = 0.20             # +20 % annualisé par unité de global_score
 RISK_LAMBDA = 0.20                 # facteur d'amplification du risque (V2 optionnelle)
-WEIGHT_BOUNDS = (0.0, 0.40)        # min / max par ticker
-RISK_FREE_RATE = 0.0               # taux sans risque annuel
+WEIGHT_BOUNDS = (0.05, 0.40)       # min 5 % par ticker → diversification forcée, évite l'exclusion totale de TSLA
+RISK_FREE_RATE = 0.0               # conservé pour analyze_results (benchmarks)
+RISK_AVERSION = 1.0                # paramètre δ de max_quadratic_utility : max mu^T w - (δ/2) w^T S w
+                                   # δ=1 est le réglage standard ; augmenter → plus conservateur
 FREQUENCY = 252                    # jours de trading par an
 
 # ── Prix ──────────────────────────────────────────────────────────────────────
 # Pour un backtest sur mai 2026 avec momentum 1m/3m, on prend un historique
 # dès janvier 2026. Si MOMENTUM_WINDOWS contient 6, passer à 2025-10-01 environ.
-PRICE_START = "2025-01-01"
-PRICE_END   = "2025-06-01"
+PRICE_START = "2025-09-01"
+PRICE_END   = "2026-06-03"
 
 # Source de prix :
 # - "yahoo" : recommandé pour un test autonome sans clé API

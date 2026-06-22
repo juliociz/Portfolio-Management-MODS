@@ -69,11 +69,18 @@ def compute_daily_momentum(
     df = pd.DataFrame(rows)
 
     raw = df["momentum_raw"]
-    r_min, r_max = raw.min(), raw.max()
-    if r_max - r_min < 1e-10:
+
+    # Normalisation cross-sectionnelle robuste :
+    # z-score puis tanh pour obtenir un score borné entre -1 et +1
+    # sans forcer mécaniquement un ticker à +1 et un autre à -1.
+    mu_cross = raw.mean()
+    std_cross = raw.std()
+
+    if std_cross < 1e-10:
         df["momentum_score"] = 0.0
     else:
-        df["momentum_score"] = 2.0 * (raw - r_min) / (r_max - r_min) - 1.0
+        z = (raw - mu_cross) / std_cross
+        df["momentum_score"] = np.tanh(z)
 
     df["momentum_score"] = df["momentum_score"].round(6)
     return df.drop(columns=["momentum_raw"])
