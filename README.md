@@ -57,6 +57,9 @@ Portfolio-Management-MODS/
 
 ## Installation
 
+This project was developed and tested with Python 3.11.15.
+Using Python 3.11 is recommended to reproduce the backtesting environment and avoid compatibility issues with machine-learning dependencies.
+
 ### 1. Cloner le repo
 
 ```bash
