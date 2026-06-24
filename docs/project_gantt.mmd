@@ -1,0 +1,34 @@
+gantt
+    title Portfolio-Management-MODS - Project Roadmap
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d %b
+
+    section Definition and setup
+    Project proposal and scope definition           :milestone, m1, 2026-05-19, 0d
+    Repository setup and initial modules            :done, setup, 2026-05-20, 2026-05-21
+
+    section Data collection
+    NewsAPI, Reddit and early data-source tests     :done, data1, 2026-05-20, 2026-06-03
+    Alpha Vantage migration and article filtering   :done, data2, 2026-06-03, 2026-06-10
+    Historical JSON expansion and daily merges      :done, data3, 2026-06-13, 2026-06-22
+
+    section NLP and signals
+    FinBERT integration and sentiment CSV exports   :done, nlp1, 2026-06-03, 2026-06-10
+    Sentiment + momentum allocation pipeline        :done, sig1, 2026-06-09, 2026-06-13
+    Momentum normalization diagnostics              :done, sig2, 2026-06-22, 2026-06-22
+    Walk-forward signal calibration                 :done, sig3, 2026-06-22, 2026-06-22
+
+    section Backtesting and optimization
+    Backtesting module and PyPortfolioOpt pipeline  :done, bt1, 2026-06-10, 2026-06-13
+    Optimizer stabilization                         :done, opt1, 2026-06-13, 2026-06-22
+    Full Jan-May 2026 backtest                      :done, bt2, 2026-06-17, 2026-06-22
+
+    section Strategy extensions
+    Cash overlay strategy                           :done, cash1, 2026-06-22, 2026-06-24
+    Classical PyPortfolioOpt cash comparison        :done, cash2, 2026-06-24, 2026-06-24
+    Black-Litterman absolute views                  :done, bl1, 2026-06-22, 2026-06-24
+    Black-Litterman relative views                  :done, bl2, 2026-06-24, 2026-06-24
+
+    section Reporting and reproducibility
+    Final result exports                            :done, rep1, 2026-06-24, 2026-06-24
+    README, final notebook and statistical tests    :active, future1, 2026-06-24, 2026-06-28
