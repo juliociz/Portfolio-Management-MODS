@@ -1,0 +1,102 @@
+{
+  "params": {
+    "TICKERS": [
+      "NKE",
+      "TGT",
+      "DIS",
+      "SBUX",
+      "TSLA"
+    ],
+    "INITIAL_CAPITAL": 100000.0,
+    "FREQUENCY": 252,
+    "WEIGHT_BOUNDS": [
+      0.05,
+      0.4
+    ],
+    "RISK_AVERSION": 1.0,
+    "BL_PRIOR": "equal",
+    "BL_TAU": 0.05,
+    "BL_REL_VIEW_SCALE": 0.1,
+    "BL_CONFIDENCE_MIN": 0.35,
+    "BL_CONFIDENCE_MAX": 0.8,
+    "N_RELATIVE_VIEWS": 2,
+    "MIN_VIEW_SPREAD": 0.05,
+    "MIN_EQUITY_EXPOSURE": 0.8,
+    "LOW_SIGNAL": -0.1,
+    "HIGH_SIGNAL": 0.05
+  },
+  "best_strategy_by_sharpe": {
+    "strategie": "Signal-adjusted + weighted cash overlay max 20%",
+    "rendement_total": 0.13738982898561702,
+    "rendement_annualise": 0.3787850692282271,
+    "volatilite_annualisee": 0.22051620829963203,
+    "sharpe_ratio": 1.717719854467764,
+    "max_drawdown": -0.07212597105954976,
+    "n_jours": 101
+  },
+  "comparison": [
+    {
+      "strategie": "Signal-adjusted + weighted cash overlay max 20%",
+      "rendement_total": 0.13738982898561702,
+      "rendement_annualise": 0.3787850692282271,
+      "volatilite_annualisee": 0.22051620829963203,
+      "sharpe_ratio": 1.717719854467764,
+      "max_drawdown": -0.07212597105954976,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Signal-adjusted PyPortfolioOpt",
+      "rendement_total": 0.12979752416021006,
+      "rendement_annualise": 0.3559359252135168,
+      "volatilite_annualisee": 0.2267669536656432,
+      "sharpe_ratio": 1.569611089534355,
+      "max_drawdown": -0.07981335984011284,
+      "n_jours": 101
+    },
+    {
+      "strategie": "BL relative + weighted cash overlay max 20%",
+      "rendement_total": 0.10897270425544403,
+      "rendement_annualise": 0.2944335519671144,
+      "volatilite_annualisee": 0.1986678116071424,
+      "sharpe_ratio": 1.4820395391949297,
+      "max_drawdown": -0.0818310174918726,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Classic + weighted cash overlay max 20%",
+      "rendement_total": 0.1094482084638011,
+      "rendement_annualise": 0.2958188130245043,
+      "volatilite_annualisee": 0.21335288895259713,
+      "sharpe_ratio": 1.386523587642769,
+      "max_drawdown": -0.08241186804664835,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Black-Litterman relative views",
+      "rendement_total": 0.09905811405002529,
+      "rendement_annualise": 0.2657518466166269,
+      "volatilite_annualisee": 0.20155229592895169,
+      "sharpe_ratio": 1.318525524066994,
+      "max_drawdown": -0.09076726492362319,
+      "n_jours": 101
+    },
+    {
+      "strategie": "PyPortfolioOpt classique",
+      "rendement_total": 0.10256105344460731,
+      "rendement_annualise": 0.27584144159602686,
+      "volatilite_annualisee": 0.22149966165652624,
+      "sharpe_ratio": 1.2453357243667804,
+      "max_drawdown": -0.09128675946067433,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Equal-weight",
+      "rendement_total": 0.02027012358728597,
+      "rendement_annualise": 0.051343851631707293,
+      "volatilite_annualisee": 0.20190444720387174,
+      "sharpe_ratio": 0.25429777472837517,
+      "max_drawdown": -0.12827239741914964,
+      "n_jours": 101
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+strategie,rendement_total,rendement_annualise,volatilite_annualisee,sharpe_ratio,max_drawdown,n_jours
+Signal-adjusted + cash overlay max 20%,0.1374,0.3788,0.2205,1.627,-0.0721,101
+PyPortfolioOpt classique + cash overlay max 20%,0.1184,0.3221,0.2135,1.4152,-0.077,101
+PyPortfolioOpt classique,0.1113,0.3011,0.2209,1.2725,-0.089,101
+Equal-weight,0.0203,0.0513,0.2019,0.1552,-0.1283,101

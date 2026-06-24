@@ -1,0 +1,8 @@
+strategie,rendement_total,rendement_annualise,volatilite_annualisee,sharpe_ratio,max_drawdown,n_jours
+Signal-adjusted PyPortfolioOpt,0.1298,0.3559,0.2268,1.4814,-0.0798,101
+Signal-adjusted + cash overlay max 20%,0.1256,0.3435,0.2178,1.4851,-0.0708,101
+Black-Litterman FinBERT/Momentum,0.0959,0.2568,0.2049,1.1555,-0.0785,101
+Black-Litterman + cash overlay max 20%,0.0901,0.2401,0.1966,1.1194,-0.0683,101
+PyPortfolioOpt classique,0.1026,0.2758,0.2215,1.155,-0.0913,101
+PyPortfolioOpt classique + cash overlay max 20%,0.0992,0.2662,0.2122,1.1607,-0.082,101
+Equal-weight,0.0203,0.0513,0.2019,0.1552,-0.1283,101

@@ -1,0 +1,82 @@
+{
+  "params": {
+    "BL_PRIOR": "equal",
+    "BL_VIEW_SCALE": 0.2,
+    "BL_CONFIDENCE_MIN": 0.35,
+    "BL_CONFIDENCE_MAX": 0.8,
+    "BL_TAU": 0.05,
+    "MIN_EQUITY_EXPOSURE": 0.8
+  },
+  "classic_weights": {
+    "NKE": 0.05,
+    "TGT": 0.4,
+    "DIS": 0.1,
+    "SBUX": 0.05,
+    "TSLA": 0.4
+  },
+  "metrics": [
+    {
+      "strategie": "Signal-adjusted PyPortfolioOpt",
+      "rendement_total": 0.1298,
+      "rendement_annualise": 0.3559,
+      "volatilite_annualisee": 0.2268,
+      "sharpe_ratio": 1.4814,
+      "max_drawdown": -0.0798,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Signal-adjusted + cash overlay max 20%",
+      "rendement_total": 0.1256,
+      "rendement_annualise": 0.3435,
+      "volatilite_annualisee": 0.2178,
+      "sharpe_ratio": 1.4851,
+      "max_drawdown": -0.0708,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Black-Litterman FinBERT/Momentum",
+      "rendement_total": 0.0959,
+      "rendement_annualise": 0.2568,
+      "volatilite_annualisee": 0.2049,
+      "sharpe_ratio": 1.1555,
+      "max_drawdown": -0.0785,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Black-Litterman + cash overlay max 20%",
+      "rendement_total": 0.0901,
+      "rendement_annualise": 0.2401,
+      "volatilite_annualisee": 0.1966,
+      "sharpe_ratio": 1.1194,
+      "max_drawdown": -0.0683,
+      "n_jours": 101
+    },
+    {
+      "strategie": "PyPortfolioOpt classique",
+      "rendement_total": 0.1026,
+      "rendement_annualise": 0.2758,
+      "volatilite_annualisee": 0.2215,
+      "sharpe_ratio": 1.155,
+      "max_drawdown": -0.0913,
+      "n_jours": 101
+    },
+    {
+      "strategie": "PyPortfolioOpt classique + cash overlay max 20%",
+      "rendement_total": 0.0992,
+      "rendement_annualise": 0.2662,
+      "volatilite_annualisee": 0.2122,
+      "sharpe_ratio": 1.1607,
+      "max_drawdown": -0.082,
+      "n_jours": 101
+    },
+    {
+      "strategie": "Equal-weight",
+      "rendement_total": 0.0203,
+      "rendement_annualise": 0.0513,
+      "volatilite_annualisee": 0.2019,
+      "sharpe_ratio": 0.1552,
+      "max_drawdown": -0.1283,
+      "n_jours": 101
+    }
+  ]
+}
