@@ -1,0 +1,10 @@
+{
+  "capital_initial": 100000.0,
+  "capital_final": 112979.75,
+  "rendement_total": 0.1298,
+  "volatilite_annualisee": 0.2268,
+  "sharpe_ratio": 1.4814,
+  "max_drawdown": -0.0798,
+  "n_jours": 101,
+  "rendement_annualise": 0.3559
+}
