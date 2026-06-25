@@ -111,3 +111,4 @@ The main remaining tasks are:
 - add statistical validation of the Sharpe ratio and signal predictive power;
 - integrate the article relevance filter into the main pipeline;
 - clean duplicated raw data folders.
+
